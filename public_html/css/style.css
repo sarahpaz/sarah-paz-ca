@@ -22,9 +22,9 @@ main {
 
 .wrapper {
   background: #d9d9d9;
-  padding: 1.3em 0;
+  padding: 1em;
   max-width: 500px;
-  margin: auto;
+  margin: 0 1.2em;
   border-radius: 3px;
 }
 
@@ -72,7 +72,7 @@ div.title h2 {
 }
 
 .social-links {
-  padding: 2em 0 1em;
+  padding: 1em;
 }
 
 a.contact {
