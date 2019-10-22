@@ -1,0 +1,1286 @@
+Return-Path: <alert@indeed.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id qLqaEQ5OgF2YVxIAOhTp2Q
+	(envelope-from <alert@indeed.com>)
+	for <hey@sarahpaz.ca>; Mon, 16 Sep 2019 23:07:58 -0400
+Return-path: <alert@indeed.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 16 Sep 2019 23:07:58 -0400
+Received: from mail90.indeed.com ([198.58.75.90]:22908)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <alert@indeed.com>)
+	id 1iA3qO-0053IH-7b
+	for hey@sarahpaz.ca; Mon, 16 Sep 2019 23:07:58 -0400
+Received: from aus-mexec130.indeed.net (aus-smtp1.indeed.net [10.1.3.210])
+	by mail90.indeed.com (Postfix) with ESMTP id 46XShG4CGYzjvHS
+	for <hey@sarahpaz.ca>; Mon, 16 Sep 2019 22:07:10 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1568689630;
+	bh=X3W0I/1noMyspR3jvSE+xvXk1IU9cTcCiYQNXjhaRDo=;
+	h=From:Reply-To:To:Subject:List-Unsubscribe:Date;
+	b=FgoktZpc4EJ//ZLx1dKi6A1uSwNPcdoDO++8uIot7tD/WhkFp87DA1ewKTLoBmzTX
+	 9bgp8d5wLETm1MWmh99etzHjQGXp/ql12aw9+6U3EBXDGZOgRpSTPnygiSAYWU8bBg
+	 nPCgsQUGyW31cjhIj7shFXw9K4xflpHJgd0MepSo=
+From: Indeed <alert@indeed.com>
+Reply-To: Indeed <do-not-reply@indeed.com>
+To: hey@sarahpaz.ca
+Message-ID: <1dkuj02te3hlh800.1568689629931.Railgunner@aus-mexec125.indeed.net>
+Subject: Web Developer at Sunnyfuture Group and 22 more web developer jobs
+ in Toronto, ON for you!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2009160_654260745.1568689630583"
+List-Unsubscribe: <https://subscriptions.indeed.com/alerts/cancel?token=CkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6MuxD87oq2LK-A8mVwhEJi-VPD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUnh7zIF698FvCe&co=CA&hl=en&tmtk=1dkuj02te3hlh800&subId=5cdccb6282303077f759959a&rgtk=1dkuj0aj5nu0v807&from=listunsub>
+X-Indeed-FBL: 5cdccb6282303077f759959a:2:3463f80b94640997ae49477407b994d1
+X-Indeed-Client-App: RailgunnerDaemon
+X-Indeed-Content-Type: JOBALERT
+X-Indeed-TK: 1dkuj0ancnu0v800
+Date: Mon, 16 Sep 2019 22:07:10 -0500 (CDT)
+X-Spam-Status: No, score=-17.7
+X-Spam-Score: -176
+X-Spam-Bar: -----------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Indeed Job Alert 22 new web developer opportunities in Toronto,
+    ON Jobs 1-18 of 22 new jobs See matching results on Indeed: https://ca.indeed.com/jobs?q=web+developer&hl=en&from=ja&l=Toronto%2C+ON&radius=50&alid=5cdccb6282303077f759959a&tmtk=1dkuj02te3hlh800&utm_camp
+    [...] 
+ Content analysis details:   (-17.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 RCVD_IN_MSPIKE_H4      RBL: Very Good reputation (+4)
+                             [198.58.75.90 listed in wl.mailspike.net]
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.90 listed in list.dnswl.org]
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  0.2 KAM_LOTSOFHASH         Emails with lots of hash-like gibberish
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+------=_Part_2009160_654260745.1568689630583
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Indeed Job Alert
+22 new web developer opportunities in Toronto, ON
+
+Jobs 1-18 of 22 new jobs
+See matching results on Indeed: https://ca.indeed.com/jobs?q=3Dweb+develope=
+r&hl=3Den&from=3Dja&l=3DToronto%2C+ON&radius=3D50&alid=3D5cdccb6282303077f7=
+59959a&tmtk=3D1dkuj02te3hlh800&utm_campaign=3Djob_alerts&utm_medium=3Demail=
+&utm_source=3Djobseeker_emails&of=3D1&fr=3Dt
+
+
+Web Designer/Developer
+Viral Nation Inc. - Toronto, ON
+
+Indeed - 6-Sep
+https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0DnZwrQ3XkDYdaVrMV=
+a0K_tKr8NTz1YoqzmaRU1_H12UwgAsZx_WBRuhrheKzvzEIXt5r4JgEtUiLNFOvGDB-3KS0aaOZ=
+hwvLpXdLn8iaP6R7NpHcodji-5yJFO93F7wnNi97ObW12I0Pbg_5zBGJ5tD8yd3n_otef38hL4h=
+VoRZ4Obs4IF-EqA1aCoGbZ2rZRjimTIqENB1uNNFub0oDr_z840pVbFMNrR5N6b4z0Y1pttnqav=
+DWDjH0-MaO3Ba4VkpIAYpNCgMcXU0XJV4idUL07mxFdWLQNs0DmttqU3TcmSuMAJEvwU-IZr_zL=
+Uldx5c3B-KJpVLVB0bniJEvqBIP0RjVu7lmjjeH7r5qkkMK1xXilfpcY2TcYRk43cm0bQ6YIH3M=
+1Aqsl8_B7cKlkD4McLXuuRwSFp43hnllC8lOXpgLNM7MbtvrCSCso2DbJwumZ_UCX75A%3D%3D&=
+p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f75=
+9959a&fvj=3D1&gdfvj=3D1
+Sponsored
+
+Web Developer
+Sunnyfuture Group - Toronto, ON
+Resume match
+Core web technology knowledge, HTML, JS, CSS. The role is responsible for t=
+he maintenance and management of online website presence, both internally a=
+nd...
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Dcc9a80d1838ef6de&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DAbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Front-end Developer
+Toogood Financial Systems - Thornhill, ON
+Develop front-end web interfaces using HTML5, CSS3, SASS/LESS, and Javascri=
+pt. As a front-end developer, you will be part of the development team....
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D9a880380658929d7&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DL7u0FM-Fo2qzA5rLjiqT0V_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Web Designer & Developer
+Hyos Inc - Burlington, ON
+Manage web clients. We are looking for *Web Designer &amp; Developer *to gr=
+ow our web development team. 1 year experience in the Web Industry....
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Df326b89f467aa9ed&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DwRw4VfvjpFhMaapCW_-ezV_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+PHP Developer
+Pentabay - Toronto, ON
+What does a PHP Developer do? We are looking for a PHP Developer who is ded=
+icated to the craft, writes code that they are proud of and can hit the gro=
+und...
+Pentabay - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D2807cf2caf61c0bb&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DXz_BPd8uwD7p5SZJpoZayl_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Unity Mobile Developer
+2020 Armor - Toronto, ON
+We are a high-growth startup looking for a developer who likes both mobile =
+and web development. Create a new web based app on Amazon AWS....
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3De6d8decb0ce86a24&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DS-68c07Poy-gqQdxtJ8OnF_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Web Developer and Project Lead
+RhythmQ Inc. - Mississauga, ON
+Web Development using Classic ASP:. Development with Microsoft ASP, ASP.NET=
+, Javascript, XML, XSL stylesheets and SQL Server....
+Indeed - 15-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D86dfc62b5e726371&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dx5SUCvphgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Angular Developer
+Pentabay - Toronto, ON
+As an Angular Developer, you will implement a complete user interface in th=
+e form of a mobile and desktop web app....
+Pentabay - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Dcb084f6a6dfc75e1&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dgy7MCxDMWln4LWQRywCz51_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Backend Developer
+FITFI Inc - Vaughan, ON
+Amazon Web Services:. Deep knowledge of web technologies. Our company is ba=
+sed in Vaughan, Ontario is looking for a candidate to fill the position of =
+&quot;Backend...
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Df11cbd6d6b2fae35&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Datk-kgV92m6TJ3g-AHTrAV_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Java Developer
+Pentabay - Toronto, ON
+Web programming experience:. JavaScript, XML/JSON, HTTP, REST, Web Services=
+. Java developer roles and responsibilities include managing Java/Java EE a=
+pplication...
+Pentabay - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Df234a63c984047e2&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DY9tUdkd5kw9dqOv55wcEg1_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+ServiceNow Developer
+SuMO IT Solutions - Toronto, ON
+Development experience in ServiceNow application customization and ServiceN=
+ow scripting (using JavaScript, HTML, CSS, XML, SOAP and REST Web services)=
+ is a plus...
+SuMO IT Solutions - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D12dc03afd4210f05&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DUeezPSAQTSji8HGTROw521_MKnaSAFGAsD6kfERFt3g=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Success Agent (Tier 2) - Premier Developer Support
+Salesforce - Toronto, ON
+And Web Architecture Principles. Salesforce.com Certified Developer (DEV401=
+ Certified),. Firewalls, web servers, proxy servers, etc....
+Salesforce - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Dc82f573ab17a9546&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DL5NeVvRBRc8HLE8juhHFmocg8BYJp5iLbf66DZv6x5I=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Programmer Analyst
+Scotiabank - Toronto, ON
+The KX team consists of both Business Analysts and KX developers. Strong un=
+derstanding of SQL programing preferably with Oracle experience....
+Scotiabank - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Db3fd514b25d8faf9&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3D_vrfN62LJy1LYVtwu7-B0AbXCHXgJEVMrHKBS2mW9rM=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+CRO Developer (Front End)
+Stericycle - Oakville, ON
+Responsible for the GTM implementation, Google Analytics set-up and related=
+ Data analysis. As a front-end developer at Stericycle, this role will get =
+the...
+Stericycle - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D452b4642b7eaaeea&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DPLYMYb3NPY-NtO_FVns-E4cg8BYJp5iLbf66DZv6x5I=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Full Stack Developer
+Power Inc. - Markham, ON
+Full Stack Developer*. Expert level of SQL Server knowledge (including admi=
+nistration, development and troubleshooting expertise levels)....
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D6c8db3b46c547208&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DygDGoLTm66_A3NwZ9yDcQQbXCHXgJEVMrHKBS2mW9rM=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Full Stack Developer
+Boast.AI - Toronto, ON
+Web application development:. Knowledge of software engineering best practi=
+ces across the development lifecycle, including agile methodologies, coding=
+ standards...
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Db93f4e8807122cf6&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DqtKc8zzwFCUusoKbqZh6lwbXCHXgJEVMrHKBS2mW9rM=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Intermediate Full Stack Developer
+Dawn InfoTek Inc. - Toronto, ON
+Strong programming skills in modern Web Technology such as *Angular 2*. Bac=
+helor/Master*'s degree in *Computer Science*, *Software Engineering*, or re=
+lated...
+Indeed - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3Dc15be0bac80b77be&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DJ3cGT0mTpjRZ4KRZ0B9kzAbXCHXgJEVMrHKBS2mW9rM=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+PHP=C2=A0Developer
+Vestra Inet - Concord, ON
+3+ years of Object Orientation software coding experience for web applicati=
+ons. 3+ years of PHP design/coding/testing in Open Source environment build=
+ing large...
+Vestra Inet - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D79204e5ca5b1605c&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DPB7Cktu4U76b9CbUjRuPvgsnOLhQXJeGPvQQwS5osgc=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Software Developer Intern
+Geotab - Oakville, ON
+You will write high performance C# code and SQL queries to process and stor=
+e this information in real-time....
+Geotab - 16-Sep
+https://ca.indeed.com/rc/clk/dl?jk=3D1ab4bc884b3553d6&from=3Dja&qd=3DRnZhMy=
+bXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV=
+5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dxe_ZA5EbIC2o4Q49301XSB1nad7mHeJIvvNS1DT4gjQ=
+&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a
+
+Web Developer
+Flow Alkaline Spring Water - Toronto, ON
+
+Indeed - 5-Sep
+https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0DL4EvrpUy4fYcaHoz=
+go6q3ArOHFaGPtaByGtg3QNVAIE6Ydrh6QvNnEomLs-1ZK-5-Bt9d9rAcKElFf8J3e8MOY5_I4n=
+ji1piLHKLuiyzPIL5LcEXnVZiaNppD4RCqgaIZ-1AZLXgJE7g-HiP7xrAFYRLxcBDkDGepdPesW=
+2fJDCI3fBXxEwC8GuERXnl9FfLYsC5pAQZdGWvCqdqbxdFuQbdnz7CIk8jB9ph35FRzUDb62pR3=
+ZK_QX-I6JCLMXwsf0TQiUASU_Dxs3UIfVFEZmmmHJ5OvznYBMpQJOEIqivaeEBh3tOJn71_Y9Sd=
+T-xFRvKm7g_65Alv3_H7TexxpqvDCy8sZa4w9TdbR7rFQFdVLc-ckH12uTfcy3QtYjOl2uLEFM3=
+D0LalqUb9bgn8GlPokiul0xFqn99xMiQpfrB3X0ii7AilRTbQb09U7vG8%3D&p=3D0&jsa=3D98=
+08&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&=
+gdfvj=3D1
+Sponsored
+
+Web Developer
+HOMESHOWOFF INC - Toronto, ON
+
+Indeed - 13-May
+https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0DRgBWd-PJVJZDKAj6=
+E6yyPGLnAiKhudfBAE39JjPdp4WqWG84y2HRwIPHlrc6uhGcMx194pH_GDcFq_HDjSKg37A4s8P=
+umNrGpFXq_znyrDmH2KDicGBSaLkzvOLhwMtTRai-gnDbUtmD8vWpW4sF79k_mLneJGRWszfwkv=
+mcnCL3xfXV7Ubbah2H3keBhOUhBBpKqQF1Ftqa_ZIW3ZftAQqR915Shhz89sYhSSgrwHP32dXhT=
+XJP0jz41zqPwqO1i0gl65vc3GQfp8pjoRU5e0ug4z7IVjp0cuT2evSlHz7hC-W0JJ9jx3PKH90y=
+1xDl-dV_JebR2TRIWzrKPVoP_Q20ufAr25VlNtNbzym1FOr48gld0rClcsi5H_6JMd4wctK0IfB=
+cGDLA_2Kl-r9nvMnzIgzMeqWGLBaKxwCxm8w2oK-jf3zOYf-euAEwkaQywu1k6h48Vcw%3D%3D&=
+p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f75=
+9959a&fvj=3D1&gdfvj=3D1
+Sponsored
+
+WEB FRONT END DEVELOPER
+Jumptools Inc. - Toronto, ON
+
+Indeed - 16-Jul
+https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0AX8K1_iXCIXkcriUZ=
+fvZ7M4SgCdLBHec5N4Agaqfgrkg8Q1hOckDJpnFBGTY7Z560lXwR58ucbmScq82bijC2SBAg-cR=
+XM5RqKifmuHNsPOPptrk_GUfUnt4jhv4i36BU8qBsGSRdQRNKr2rchKKYQCV6vOrqeiF8y3PGMQ=
+8wEZ_v1pupQQ8qbOJ0-5ztUm3r56i9IJwdoIsNKlBOQhO6e3gdBtwvSBB-FXQOikr1AAyhTaDK9=
+glsfxvB360tySAbVHl6zHakknnhRjhPsA-HhXHATmpGlvFfm67y80zP7WhzCPOrsXWIgf6ReY8C=
+TbvD6vJdiVAQgUKDHE-gAPNy1jqjwk6fsGSwVx-OJwQogS1aOAdT4Uh3RzFRIM-JfxfJXcpKFu5=
+SNkgG9lE1lafY048J4buIqKcCeIOlTmlPagbJ8WCn1eogHGzIMT98OzlhUKfhcwD9wtw%3D%3D&=
+p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f75=
+9959a&fvj=3D1&gdfvj=3D1
+Sponsored
+
+
+Salaries estimated if unavailable. When a job posting doesn't include a sal=
+ary, we estimate it by looking at similar jobs. Estimated salaries are not =
+endorsed by the companies offering those positions and may vary from actual=
+ salaries.
+
+Edit this Job Alert: https://subscriptions.indeed.com/update/5cdccb62823030=
+77f759959a?token=3DCkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6MuxD87o=
+q2LK-A8mVwhEJi-VPD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUnh7zIF69=
+8FvCe&co=3DCA&hl=3Den&tmtk=3D1dkuj02te3hlh800&from=3DjaEditAlert
+
+Cancel this Job Alert: https://subscriptions.indeed.com/alerts/cancel?token=
+=3DCkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6MuxD87oq2LK-A8mVwhEJi-V=
+PD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUnh7zIF698FvCe&co=3DCA&hl=
+=3Den&tmtk=3D1dkuj02te3hlh800&subId=3D5cdccb6282303077f759959a&rgtk=3D1dkuj=
+0aj5nu0v807&from=3Dja
+
+MANAGE MY SUBSCRIPTIONS https://subscriptions.indeed.com?token=3DCkBLWfDLWO=
+TwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6MuxD87oq2LK-A8mVwhEJi-VPD6gskJymxJ3O=
+VUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUnh7zIF698FvCe&co=3DCA&hl=3Den&tmtk=3D=
+1dkuj02te3hlh800&from=3Dja
+
+Indeed Ireland Operations Ltd. - one search. all jobs. | Indeed Ireland Ope=
+rations Limited, 124 St. Stephen's Green, Dublin 2, Ireland
+
+------=_Part_2009160_654260745.1568689630583
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html> <html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn=
+:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:off=
+ice"> <head> <title>Indeed Job Alerts Email</title> <meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3Dutf-8" /> <meta name=3D"viewport=
+" content=3D"width=3Ddevice-width, initial-scale=3D1" /> <meta http-equiv=
+=3D"X-UA-Compatible" content=3D"IE=3Dedge" /> <style type=3D"text/css"> /* =
+CLIENT-SPECIFIC STYLES */ body, table, td, a { -webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%;} table, td { mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; } img { -ms-interpolation-mode: bicubic; } /* RESET STYLES =
+*/ img { border: 0; height: auto; line-height: 100%; outline: none; text-de=
+coration: none; } table { border-collapse: collapse !important; } body { he=
+ight: 100% !important; margin: 0 !important; padding: 0 !important; width: =
+100% !important; } .job-title, .job-info, .job-description, .job-tag, .comp=
+any-title, .notice, .footer-text, .view-jobs, .downshift-link { font-family=
+:'Helvetica Neue', Roboto, Arial, sans-serif; } .job a { color:#000000; dis=
+play:block; text-decoration:none; } .job-tag { font-size:10px; line-height:=
+10px; padding:4px 8px; border-radius:2px; display:inline-block; vertical-al=
+ign:middle; text-transform:uppercase; font-weight:500; } .grey-tag { backgr=
+ound:#f4f3f3; border:1px solid #f4f3f3; color:#4B4B4B; } .yellow-tag { back=
+ground:#FFEDBD; border:1px solid #FFEDBD; } .dotted-tag { border:1px dashed=
+ #cccccc; border-radius:2px; color:#4B4B4B; } .content-box { padding:50px !=
+important; } .cta a { width:298px !important; } .br-24 { border-radius:24px=
+; } .width-348 { max-width:348px; } .width-392 { max-width:392px; } .width-=
+410 { max-width:410px; } .width-550 { max-width:550px; } .ja_image_desktop =
+{ max-width:464px; height:auto; } @media only screen and (max-width:530px) =
+{ #responsive_css_ping { background-image: url(https://subscriptions.indeed=
+.com/imgping?aluidhash=3Da5a3a64b14d49bedb7d74f2cc18daa17&alert=3D5cdccb628=
+2303077f759959a&tk=3D1dkuj02te3hlh800&type=3Djaresponsive); } .outer-box { =
+padding:0 8px !important; } .content-box { padding:32px 16px !important; } =
+.has-downshift-content-box { padding:16px 16px 32px !important; } .indeed-l=
+ogo { padding:16px 0 !important; } .sg-heading2 { font-size:20px !important=
+; } .spacer { display:none !important; } .section-header-icon { width:22px =
+!important; } .job-tags table { display:block !important; } .job-tag { whit=
+e-space: nowrap !important; padding:4px !important; margin:0 1px 2px !impor=
+tant; } .job-description { display:none !important; } .cta a, .prominent-pr=
+omo a { width:100% !important; box-sizing:border-box !important; } .footer-=
+address { display:block !important; padding-bottom:4px !important; } .show-=
+when-mobile { display: block!important; max-height:none !important; } .hide=
+-when-mobile { display: none!important; } .prominent-promo-container { padd=
+ing-bottom: 0 !important; } .prominent-promo { display: block !important; w=
+idth: 100% !important; padding: 0 0 16px !important; } .prominent-promo a {=
+ display: block !important; } /* Targeting Gmail/Inbox */ u + #body a { col=
+or: inherit; text-decoration: none; } u + .body .sg-heading2 { font-size:18=
+px !important; line-height:22px !important; } u + .body .yellow-line-break =
+{ height:4px !important; } u + .body .job-tag { font-size:8px !important; l=
+ine-height:8px !important; } u + .body .job-title { font-size:14px !importa=
+nt; padding-bottom:4px !important; } u + .body .company-title, u + .body .b=
+old-text { font-size:16px !important; } u + .body .cta a { font-size:15px !=
+important; line-height:40px !important; } } @media only screen and (max-wid=
+th: 414px) { u ~ div .main { min-width: 100vw; } } </style> <style type=3D"=
+text/css"> @media only screen and (max-width:530px) { .war-star-cta { width=
+: 220px; height: 38px; } } </style> <!--[if gte mso 9]><xml> <o:OfficeDocum=
+entSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:Office=
+DocumentSettings> </xml><![endif]--> </head> <body id=3D"body" class=3D"bod=
+y" style=3D"background-color:#F2F2F2;margin:0; padding:0"> <div style=3D"di=
+splay: none; max-height: 0px; overflow: hidden;"> Scotiabank, Stericycle, a=
+nd Salesforce have new jobs. </div> <div style=3D"display: none; max-height=
+: 0px; overflow: hidden;"> &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj; &nbsp;&zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp; &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&z=
+wnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwn=
+j;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &zwnj;&n=
+bsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp; &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; </div> <div id=
+=3D"responsive_css_ping"></div> <div class=3D"full-wrap" style=3D"font-fami=
+ly:'Helvetica Neue', Helvetica, Roboto, Arial ,sans-serif;direction:ltr"> <=
+img src=3D"https://subscriptions.indeed.com/imgping?type=3Dja&tk=3D1dkuj02t=
+e3hlh800&aluidhash=3D5cdccb6282303077f759959a" height=3D"1" width=3D"1"> <t=
+able class=3D"main" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" bgcolor=3D"#F2F2F2"> <tr> <td class=3D"outer-box" bgcolor=3D"#F2F2=
+F2" align=3D"center" style=3D"padding:0 8px"> <!--[if (gte mso 9)|(IE)]> <t=
+able width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <=
+td> <![endif]--> <table class=3D"width-550" style=3D"max-width:550px" width=
+=3D"100%" bgcolor=3D"#F2F2F2" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"> <tr> <td class=3D"indeed-logo" align=3D"center" style=3D"padding:25px =
+0"> <a href=3Dhttps://ca.indeed.com/?utm_source=3Djobseeker_emails&utm_medi=
+um=3Demail&utm_campaign=3Djob_alerts> <img src=3D"https://subscriptions.ind=
+eed.com/static/images/logos/indeed_retina@2x.png" alt=3D"indeed" width=3D"1=
+00" style=3D"display:block;width:100px;color:#2164F3;font-size:26px;font-we=
+ight:400;font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Helvetica, =
+Roboto, Arial ,sans-serif;letter-spacing:-1px" alt=3D"indeed" border=3D"0" =
+/> </a> </td> </tr> </table> <table class=3D"width-550 br-24" style=3D"max-=
+width:550px;border-radius:24px" width=3D"100%" bgcolor=3D"#FFFFFF" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"content-box " s=
+tyle=3D"padding-bottom:24px !important;"> <table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td> <table class=3D"job-alerts=
+" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td=
+ class=3D"section-header"> <table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"> <tr> <td style=3D"padding-bottom:24px;"> <table wid=
+th=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td clas=
+s=3D"sg-heading2" style=3D"font-family:'Helvetica Neue',Roboto,Arial,sans-s=
+erif;font-size:26px;line-height:32px;color:#000000;font-weight:bold" align=
+=3D"center"> 22 new web developer opportunities in Toronto, ON </td> </tr> =
+</table> </td> </tr> <tr> <td class=3D"yellow-line-break" style=3D"backgrou=
+nd:#FF6C40;height:6px;display:block;font-size:1px">&zwnj;</td> </tr> </tabl=
+e> </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td class=3D"=
+content-box" style=3D"padding-top:0 !important;"> <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td> <table class=3D"jo=
+b-alerts" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> =
+<tr> <td class=3D"job-list"> <table width=3D"100%" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"> <tr> <td class=3D"job" style=3D"padding-bottom:32=
+px;"> <a href=3D"https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0=
+DnZwrQ3XkDYdaVrMVa0K_tKr8NTz1YoqzmaRU1_H12UwgAsZx_WBRuhrheKzvzEIXt5r4JgEtUi=
+LNFOvGDB-3KS0aaOZhwvLpXdLn8iaP6R7NpHcodji-5yJFO93F7wnNi97ObW12I0Pbg_5zBGJ5t=
+D8yd3n_otef38hL4hVoRZ4Obs4IF-EqA1aCoGbZ2rZRjimTIqENB1uNNFub0oDr_z840pVbFMNr=
+R5N6b4z0Y1pttnqavDWDjH0-MaO3Ba4VkpIAYpNCgMcXU0XJV4idUL07mxFdWLQNs0DmttqU3Tc=
+mSuMAJEvwU-IZr_zLUldx5c3B-KJpVLVB0bniJEvqBIP0RjVu7lmjjeH7r5qkkMK1xXilfpcY2T=
+cYRk43cm0bQ6YIH3M1Aqsl8_B7cKlkD4McLXuuRwSFp43hnllC8lOXpgLNM7MbtvrCSCso2DbJw=
+umZ_UCX75A%3D%3D&p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5c=
+dccb6282303077f759959a&fvj=3D1&gdfvj=3D1" style=3D"text-decoration:none"> <=
+table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr>=
+ <td class=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-b=
+ottom:4px;"> <a href=3D"https://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6N=
+YlbfkN0DnZwrQ3XkDYdaVrMVa0K_tKr8NTz1YoqzmaRU1_H12UwgAsZx_WBRuhrheKzvzEIXt5r=
+4JgEtUiLNFOvGDB-3KS0aaOZhwvLpXdLn8iaP6R7NpHcodji-5yJFO93F7wnNi97ObW12I0Pbg_=
+5zBGJ5tD8yd3n_otef38hL4hVoRZ4Obs4IF-EqA1aCoGbZ2rZRjimTIqENB1uNNFub0oDr_z840=
+pVbFMNrR5N6b4z0Y1pttnqavDWDjH0-MaO3Ba4VkpIAYpNCgMcXU0XJV4idUL07mxFdWLQNs0Dm=
+ttqU3TcmSuMAJEvwU-IZr_zLUldx5c3B-KJpVLVB0bniJEvqBIP0RjVu7lmjjeH7r5qkkMK1xXi=
+lfpcY2TcYRk43cm0bQ6YIH3M1Aqsl8_B7cKlkD4McLXuuRwSFp43hnllC8lOXpgLNM7MbtvrCSC=
+so2DbJwumZ_UCX75A%3D%3D&p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&al=
+id=3D5cdccb6282303077f759959a&fvj=3D1&gdfvj=3D1" style=3D"color:#000000;tex=
+t-decoration:underline;font-size:18px;line-height:24px;"> Web Designer/Deve=
+loper </a> </td> </tr> <tr> <td class=3D"job-info" align=3D"left" style=3D"=
+font-size:14px;line-height:20px;font-weight:500;color:#2D2D2D;padding-botto=
+m:4px;"> <span class=3D"job-company-name">Viral Nation Inc.</span> <span cl=
+ass=3D"job-company-location" style=3D"font-weight:400;display:inline !impor=
+tant;color:#767676">- Toronto, ON</span> </td> </tr> <tr> <td class=3D"" al=
+ign=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:400;color=
+:#4B4B4B;padding-bottom:4px;"> Update and maintain existing <b>web</b> page=
+s. Viral Nation is looking for a creative, marketing-focused and experience=
+d <b>web</b> designer/<b>developer</b> to lead the charge with... </td> </t=
+r> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, A=
+rial, sans-serif;color:#E03400;font-size:14px;line-height:20px;padding-bott=
+om:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;font-size:14=
+px;line-height:20px;padding-bottom:4px;"> Sponsored </td> </tr> </table> </=
+a> </td> </tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a hr=
+ef=3D"https://ca.indeed.com/rc/clk/dl?jk=3Dcc9a80d1838ef6de&from=3Dja&qd=3D=
+RnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE=
+9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DAbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kf=
+ERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text=
+-decoration:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-w=
+eight:bold;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl=
+?jk=3Dcc9a80d1838ef6de&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4=
+OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=
+=3DAbLHrm6GRQMtYBMzyEs2L1_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=
+=3D5cdccb6282303077f759959a" style=3D"color:#000000;text-decoration:underli=
+ne;font-size:18px;line-height:24px;"> Web Developer </a> </td> </tr> <tr> <=
+td class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20=
+px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-c=
+ompany-name">Sunnyfuture Group</span> <span class=3D"job-company-location" =
+style=3D"font-weight:400;display:inline !important;color:#767676">- Toronto=
+, ON</span> </td> </tr> <tr> <td> <table width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0"> <tr> <td class=3D"jecl-iwt-container" align=
+=3D"left" style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Libera=
+tion Sans', Roboto, Noto, sans-serif; font-size: 14px; color: #000000; line=
+-height: 20px; font-weight: normal;"> <img class=3D"jecl-iwt-icon" valign=
+=3D"text-top" src=3D"https://subscriptions.indeed.com/static/images/ja/gree=
+n_check_large.png" alt=3D"" width=3D"16" height=3D"16" style=3D"position: r=
+elative; top: 2px" border=3D"0"> <span class=3D"jecl-iwt-text" > Resume mat=
+ch </span> </td> </tr> </table> </td> </tr> <tr> <td class=3D"" align=3D"le=
+ft" style=3D"font-size:14px;line-height:20px;font-weight:400;color:#4B4B4B;=
+padding-bottom:4px;"> Core <b>web</b> technology knowledge, HTML, JS, CSS. =
+The role is responsible for the maintenance and management of online websit=
+e presence, both internally and... </td> </tr> <tr> <td align=3D"left" styl=
+e=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#E03400;=
+font-size:14px;line-height:20px;padding-bottom:4px;"> Easily apply </td> </=
+tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, =
+Arial, sans-serif;color:#767676;font-size:14px;line-height:20px;"> 16-Sep <=
+/td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"job" style=3D"paddin=
+g-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D9a88038065=
+8929d7&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4=
+E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DL7u0FM-Fo2qzA5r=
+LjiqT0V_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f=
+759959a" style=3D"text-decoration:none"> <table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" align=
+=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"https:=
+//ca.indeed.com/rc/clk/dl?jk=3D9a880380658929d7&from=3Dja&qd=3DRnZhMybXSk4M=
+3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M=
+6rvwaVeuFNDyDUlmIbCg&rd=3DL7u0FM-Fo2qzA5rLjiqT0V_MKnaSAFGAsD6kfERFt3g&tk=3D=
+1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"color:#000000;te=
+xt-decoration:underline;font-size:18px;line-height:24px;"> Front-end Develo=
+per </a> </td> </tr> <tr> <td class=3D"job-info" align=3D"left" style=3D"fo=
+nt-size:14px;line-height:20px;font-weight:500;color:#2D2D2D;padding-bottom:=
+4px;"> <span class=3D"job-company-name">Toogood Financial Systems</span> <s=
+pan class=3D"job-company-location" style=3D"font-weight:400;display:inline =
+!important;color:#767676">- Thornhill, ON</span> </td> </tr> <tr> <td class=
+=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:4=
+00;color:#4B4B4B;padding-bottom:4px;"> Develop front-end <b>web</b> interfa=
+ces using HTML5, CSS3, SASS/LESS, and Javascript. As a front-end <b>develop=
+er</b>, you will be part of the development team.... </td> </tr> <tr> <td a=
+lign=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-se=
+rif;color:#E03400;font-size:14px;line-height:20px;padding-bottom:4px;"> Eas=
+ily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helveti=
+ca Neue', Roboto, Arial, sans-serif;color:#767676;font-size:14px;line-heigh=
+t:20px;"> 16-Sep </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"jo=
+b" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/=
+dl?jk=3Df326b89f467aa9ed&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJEl=
+H4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=
+=3DwRw4VfvjpFhMaapCW_-ezV_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=
+=3D5cdccb6282303077f759959a" style=3D"text-decoration:none"> <table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-bottom:4px;=
+"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Df326b89f467aa9ed&from=3D=
+ja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ992=
+6KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DwRw4VfvjpFhMaapCW_-ezV_MKnaSA=
+FGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=
+=3D"color:#000000;text-decoration:underline;font-size:18px;line-height:24px=
+;"> Web Designer & Developer </a> </td> </tr> <tr> <td class=3D"job-info" a=
+lign=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:500;colo=
+r:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">Hyos Inc</=
+span> <span class=3D"job-company-location" style=3D"font-weight:400;display=
+:inline !important;color:#767676">- Burlington, ON</span> </td> </tr> <tr> =
+<td class=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;font=
+-weight:400;color:#4B4B4B;padding-bottom:4px;"> Manage <b>web</b> clients. =
+We are looking for *<b>Web</b> Designer &amp; <b>Developer</b> *to grow our=
+ <b>web</b> development team. 1 year experience in the <b>Web</b> Industry.=
+... </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neu=
+e', Roboto, Arial, sans-serif;color:#E03400;font-size:14px;line-height:20px=
+;padding-bottom:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" sty=
+le=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676=
+;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> =
+</tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"htt=
+ps://ca.indeed.com/rc/clk/dl?jk=3D2807cf2caf61c0bb&from=3Dja&qd=3DRnZhMybXS=
+k4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JN=
+Y_M6rvwaVeuFNDyDUlmIbCg&rd=3DXz_BPd8uwD7p5SZJpoZayl_MKnaSAFGAsD6kfERFt3g&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decorati=
+on:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight:bo=
+ld;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D28=
+07cf2caf61c0bb&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw=
+_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DXz_BPd8=
+uwD7p5SZJpoZayl_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb628=
+2303077f759959a" style=3D"color:#000000;text-decoration:underline;font-size=
+:18px;line-height:24px;"> PHP Developer </a> </td> </tr> <tr> <td class=3D"=
+job-info" align=3D"left" style=3D"font-size:14px;line-height:20px;font-weig=
+ht:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name"=
+>Pentabay</span> <span class=3D"job-company-location" style=3D"font-weight:=
+400;display:inline !important;color:#767676">- Toronto, ON</span> </td> </t=
+r> <tr> <td class=3D"" align=3D"left" style=3D"font-size:14px;line-height:2=
+0px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> What does a PHP <b>=
+Developer</b> do? We are looking for a PHP <b>Developer</b> who is dedicate=
+d to the craft, writes code that they are proud of and can hit the ground..=
+. </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue'=
+, Roboto, Arial, sans-serif;color:#E03400;font-size:14px;line-height:20px;p=
+adding-bottom:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" style=
+=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;f=
+ont-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> </=
+tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"https=
+://ca.indeed.com/rc/clk/dl?jk=3De6d8decb0ce86a24&from=3Dja&qd=3DRnZhMybXSk4=
+M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_=
+M6rvwaVeuFNDyDUlmIbCg&rd=3DS-68c07Poy-gqQdxtJ8OnF_MKnaSAFGAsD6kfERFt3g&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decorati=
+on:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight:bo=
+ld;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3De6=
+d8decb0ce86a24&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw=
+_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DS-68c07=
+Poy-gqQdxtJ8OnF_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb628=
+2303077f759959a" style=3D"color:#000000;text-decoration:underline;font-size=
+:18px;line-height:24px;"> Unity Mobile Developer </a> </td> </tr> <tr> <td =
+class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20px;=
+font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-comp=
+any-name">2020 Armor</span> <span class=3D"job-company-location" style=3D"f=
+ont-weight:400;display:inline !important;color:#767676">- Toronto, ON</span=
+> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:14px;li=
+ne-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> We are a=
+ high-growth startup looking for a <b>developer</b> who likes both mobile a=
+nd <b>web</b> development. Create a new <b>web</b> based app on Amazon AWS.=
+... </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neu=
+e', Roboto, Arial, sans-serif;color:#E03400;font-size:14px;line-height:20px=
+;padding-bottom:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" sty=
+le=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676=
+;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> =
+</tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"htt=
+ps://ca.indeed.com/rc/clk/dl?jk=3D86dfc62b5e726371&from=3Dja&qd=3DRnZhMybXS=
+k4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JN=
+Y_M6rvwaVeuFNDyDUlmIbCg&rd=3Dx5SUCvphgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decorati=
+on:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight:bo=
+ld;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D86=
+dfc62b5e726371&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw=
+_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dx5SUCvp=
+hgkEZUN6bPKxzIl_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb628=
+2303077f759959a" style=3D"color:#000000;text-decoration:underline;font-size=
+:18px;line-height:24px;"> Web Developer and Project Lead </a> </td> </tr> <=
+tr> <td class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-heig=
+ht:20px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"=
+job-company-name">RhythmQ Inc.</span> <span class=3D"job-company-location" =
+style=3D"font-weight:400;display:inline !important;color:#767676">- Mississ=
+auga, ON</span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"fon=
+t-size:14px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4=
+px;"> <b>Web</b> Development using Classic ASP:. Development with Microsoft=
+ ASP, ASP.NET, Javascript, XML, XSL stylesheets and SQL Server.... </td> </=
+tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, =
+Arial, sans-serif;color:#E03400;font-size:14px;line-height:20px;padding-bot=
+tom:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-f=
+amily:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;font-size:1=
+4px;line-height:20px;"> 15-Sep </td> </tr> </table> </a> </td> </tr> <tr> <=
+td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.inde=
+ed.com/rc/clk/dl?jk=3Dcb084f6a6dfc75e1&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWo=
+e0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuF=
+NDyDUlmIbCg&rd=3Dgy7MCxDMWln4LWQRywCz51_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te=
+3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decoration:none"> <t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> =
+<td class=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-bo=
+ttom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Dcb084f6a6dfc75e=
+1&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msS=
+J5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dgy7MCxDMWln4LWQRywCz=
+51_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f75995=
+9a" style=3D"color:#000000;text-decoration:underline;font-size:18px;line-he=
+ight:24px;"> Angular Developer </a> </td> </tr> <tr> <td class=3D"job-info"=
+ align=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:500;co=
+lor:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">Pentabay=
+</span> <span class=3D"job-company-location" style=3D"font-weight:400;displ=
+ay:inline !important;color:#767676">- Toronto, ON</span> </td> </tr> <tr> <=
+td class=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;font-=
+weight:400;color:#4B4B4B;padding-bottom:4px;"> As an Angular <b>Developer</=
+b>, you will implement a complete user interface in the form of a mobile an=
+d desktop <b>web</b> app.... </td> </tr> <tr> <td align=3D"left" style=3D"f=
+ont-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#E03400;font-s=
+ize:14px;line-height:20px;padding-bottom:4px;"> Easily apply </td> </tr> <t=
+r> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial,=
+ sans-serif;color:#767676;font-size:14px;line-height:20px;"> 16-Sep </td> <=
+/tr> </table> </a> </td> </tr> <tr> <td class=3D"job" style=3D"padding-bott=
+om:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Df11cbd6d6b2fae35=
+&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ=
+5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Datk-kgV92m6TJ3g-AHTrA=
+V_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959=
+a" style=3D"text-decoration:none"> <table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" align=3D"left"=
+ style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"https://ca.inde=
+ed.com/rc/clk/dl?jk=3Df11cbd6d6b2fae35&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWo=
+e0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuF=
+NDyDUlmIbCg&rd=3Datk-kgV92m6TJ3g-AHTrAV_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te=
+3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"color:#000000;text-decora=
+tion:underline;font-size:18px;line-height:24px;"> Backend Developer </a> </=
+td> </tr> <tr> <td class=3D"job-info" align=3D"left" style=3D"font-size:14p=
+x;line-height:20px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <spa=
+n class=3D"job-company-name">FITFI Inc</span> <span class=3D"job-company-lo=
+cation" style=3D"font-weight:400;display:inline !important;color:#767676">-=
+ Vaughan, ON</span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D=
+"font-size:14px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bott=
+om:4px;"> Amazon <b>Web</b> Services:. Deep knowledge of <b>web</b> technol=
+ogies. Our company is based in Vaughan, Ontario is looking for a candidate =
+to fill the position of &quot;Backend... </td> </tr> <tr> <td align=3D"left=
+" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#E=
+03400;font-size:14px;line-height:20px;padding-bottom:4px;"> Easily apply </=
+td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Ro=
+boto, Arial, sans-serif;color:#767676;font-size:14px;line-height:20px;"> 16=
+-Sep </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"job" style=3D"=
+padding-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Df234=
+a63c984047e2&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_w=
+SA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DY9tUdkd5k=
+w9dqOv55wcEg1_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb62823=
+03077f759959a" style=3D"text-decoration:none"> <table width=3D"100%" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" al=
+ign=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"htt=
+ps://ca.indeed.com/rc/clk/dl?jk=3Df234a63c984047e2&from=3Dja&qd=3DRnZhMybXS=
+k4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JN=
+Y_M6rvwaVeuFNDyDUlmIbCg&rd=3DY9tUdkd5kw9dqOv55wcEg1_MKnaSAFGAsD6kfERFt3g&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"color:#000000=
+;text-decoration:underline;font-size:18px;line-height:24px;"> Java Develope=
+r </a> </td> </tr> <tr> <td class=3D"job-info" align=3D"left" style=3D"font=
+-size:14px;line-height:20px;font-weight:500;color:#2D2D2D;padding-bottom:4p=
+x;"> <span class=3D"job-company-name">Pentabay</span> <span class=3D"job-co=
+mpany-location" style=3D"font-weight:400;display:inline !important;color:#7=
+67676">- Toronto, ON</span> </td> </tr> <tr> <td class=3D"" align=3D"left" =
+style=3D"font-size:14px;line-height:20px;font-weight:400;color:#4B4B4B;padd=
+ing-bottom:4px;"> <b>Web</b> programming experience:. JavaScript, XML/JSON,=
+ HTTP, REST, <b>Web</b> Services. Java <b>developer</b> roles and responsib=
+ilities include managing Java/Java EE application... </td> </tr> <tr> <td a=
+lign=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-se=
+rif;color:#E03400;font-size:14px;line-height:20px;padding-bottom:4px;"> Eas=
+ily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helveti=
+ca Neue', Roboto, Arial, sans-serif;color:#767676;font-size:14px;line-heigh=
+t:20px;"> 16-Sep </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"jo=
+b" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/=
+dl?jk=3D12dc03afd4210f05&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJEl=
+H4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=
+=3DUeezPSAQTSji8HGTROw521_MKnaSAFGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=
+=3D5cdccb6282303077f759959a" style=3D"text-decoration:none"> <table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=
+=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-bottom:4px;=
+"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D12dc03afd4210f05&from=3D=
+ja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ992=
+6KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DUeezPSAQTSji8HGTROw521_MKnaSA=
+FGAsD6kfERFt3g&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=
+=3D"color:#000000;text-decoration:underline;font-size:18px;line-height:24px=
+;"> ServiceNow Developer </a> </td> </tr> <tr> <td class=3D"job-info" align=
+=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:500;color:#2=
+D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">SuMO IT Soluti=
+ons</span> <span class=3D"job-company-location" style=3D"font-weight:400;di=
+splay:inline !important;color:#767676">- Toronto, ON</span> </td> </tr> <tr=
+> <td class=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;fo=
+nt-weight:400;color:#4B4B4B;padding-bottom:4px;"> Development experience in=
+ ServiceNow application customization and ServiceNow scripting (using JavaS=
+cript, HTML, CSS, XML, SOAP and REST <b>Web</b> services) is a plus... </td=
+> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Robo=
+to, Arial, sans-serif;color:#767676;font-size:14px;line-height:20px;"> 16-S=
+ep </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"job" style=3D"pa=
+dding-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Dc82f57=
+3ab17a9546&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA=
+9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DL5NeVvRBRc8=
+HLE8juhHFmocg8BYJp5iLbf66DZv6x5I&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303=
+077f759959a" style=3D"text-decoration:none"> <table width=3D"100%" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" alig=
+n=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"https=
+://ca.indeed.com/rc/clk/dl?jk=3Dc82f573ab17a9546&from=3Dja&qd=3DRnZhMybXSk4=
+M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_=
+M6rvwaVeuFNDyDUlmIbCg&rd=3DL5NeVvRBRc8HLE8juhHFmocg8BYJp5iLbf66DZv6x5I&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"color:#000000=
+;text-decoration:underline;font-size:18px;line-height:24px;"> Success Agent=
+ (Tier 2) - Premier Developer Support </a> </td> </tr> <tr> <td class=3D"jo=
+b-info" align=3D"left" style=3D"font-size:14px;line-height:20px;font-weight=
+:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">S=
+alesforce</span> <span><img class=3D"job-company-review-stars" src=3D"https=
+://subscriptions.indeed.com/static/images/ja/stars_4.25.png" width=3D"60" b=
+order=3D"0" alt=3D"4.2/5 rating" /></span> <a href=3D"https://ca.indeed.com=
+/cmp/Salesforce/reviews?utm_source=3Djobseeker_emails&utm_medium=3Demail&ut=
+m_campaign=3Djob_alerts" class=3D"job-company-review-count" style=3D"font-w=
+eight:400;display:inline !important;color:#000000;text-decoration:none">&nb=
+sp;&nbsp;522 reviews&nbsp;</a> <span class=3D"job-company-location" style=
+=3D"font-weight:400;display:inline !important;color:#767676">- Toronto, ON<=
+/span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:14=
+px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> And=
+ <b>Web</b> Architecture Principles. Salesforce.com Certified <b>Developer<=
+/b> (DEV401 Certified),. Firewalls, <b>web</b> servers, proxy servers, etc.=
+... </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neu=
+e', Roboto, Arial, sans-serif;color:#767676;font-size:14px;line-height:20px=
+;"> 16-Sep </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"job" sty=
+le=3D"padding-bottom:32px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=
+=3Db3fd514b25d8faf9&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwY=
+L1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3D_v=
+rfN62LJy1LYVtwu7-B0AbXCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02te3hlh800&alid=3D5cdc=
+cb6282303077f759959a" style=3D"text-decoration:none"> <table width=3D"100%"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-ti=
+tle" align=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=
+=3D"https://ca.indeed.com/rc/clk/dl?jk=3Db3fd514b25d8faf9&from=3Dja&qd=3DRn=
+ZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9P=
+dCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3D_vrfN62LJy1LYVtwu7-B0AbXCHXgJEVMrHKBS2m=
+W9rM&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"color:=
+#000000;text-decoration:underline;font-size:18px;line-height:24px;"> Progra=
+mmer Analyst </a> </td> </tr> <tr> <td class=3D"job-info" align=3D"left" st=
+yle=3D"font-size:14px;line-height:20px;font-weight:500;color:#2D2D2D;paddin=
+g-bottom:4px;"> <span class=3D"job-company-name">Scotiabank</span> <span><i=
+mg class=3D"job-company-review-stars" src=3D"https://subscriptions.indeed.c=
+om/static/images/ja/stars_4.00.png" width=3D"60" border=3D"0" alt=3D"4/5 ra=
+ting" /></span> <a href=3D"https://ca.indeed.com/cmp/Scotiabank/reviews?utm=
+_source=3Djobseeker_emails&utm_medium=3Demail&utm_campaign=3Djob_alerts" cl=
+ass=3D"job-company-review-count" style=3D"font-weight:400;display:inline !i=
+mportant;color:#000000;text-decoration:none">&nbsp;&nbsp;3,847 reviews&nbsp=
+;</a> <span class=3D"job-company-location" style=3D"font-weight:400;display=
+:inline !important;color:#767676">- Toronto, ON</span> </td> </tr> <tr> <td=
+ class=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;font-we=
+ight:400;color:#4B4B4B;padding-bottom:4px;"> The KX team consists of both B=
+usiness Analysts and KX <b>developers</b>. Strong understanding of SQL prog=
+raming preferably with Oracle experience.... </td> </tr> <tr> <td align=3D"=
+left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;colo=
+r:#767676;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </=
+a> </td> </tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a hr=
+ef=3D"https://ca.indeed.com/rc/clk/dl?jk=3D452b4642b7eaaeea&from=3Dja&qd=3D=
+RnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE=
+9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DPLYMYb3NPY-NtO_FVns-E4cg8BYJp5iLbf66D=
+Zv6x5I&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text=
+-decoration:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-w=
+eight:bold;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl=
+?jk=3D452b4642b7eaaeea&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4=
+OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=
+=3DPLYMYb3NPY-NtO_FVns-E4cg8BYJp5iLbf66DZv6x5I&tk=3D1dkuj02te3hlh800&alid=
+=3D5cdccb6282303077f759959a" style=3D"color:#000000;text-decoration:underli=
+ne;font-size:18px;line-height:24px;"> CRO Developer (Front End) </a> </td> =
+</tr> <tr> <td class=3D"job-info" align=3D"left" style=3D"font-size:14px;li=
+ne-height:20px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span cl=
+ass=3D"job-company-name">Stericycle</span> <span><img class=3D"job-company-=
+review-stars" src=3D"https://subscriptions.indeed.com/static/images/ja/star=
+s_3.25.png" width=3D"60" border=3D"0" alt=3D"3.2/5 rating" /></span> <a hre=
+f=3D"https://ca.indeed.com/cmp/Stericycle/reviews?utm_source=3Djobseeker_em=
+ails&utm_medium=3Demail&utm_campaign=3Djob_alerts" class=3D"job-company-rev=
+iew-count" style=3D"font-weight:400;display:inline !important;color:#000000=
+;text-decoration:none">&nbsp;&nbsp;1,251 reviews&nbsp;</a> <span class=3D"j=
+ob-company-location" style=3D"font-weight:400;display:inline !important;col=
+or:#767676">- Oakville, ON</span> </td> </tr> <tr> <td class=3D"" align=3D"=
+left" style=3D"font-size:14px;line-height:20px;font-weight:400;color:#4B4B4=
+B;padding-bottom:4px;"> Responsible for the GTM implementation, Google Anal=
+ytics set-up and related Data analysis. As a front-end <b>developer</b> at =
+Stericycle, this role will get the... </td> </tr> <tr> <td align=3D"left" s=
+tyle=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#7676=
+76;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td=
+> </tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"h=
+ttps://ca.indeed.com/rc/clk/dl?jk=3D6c8db3b46c547208&from=3Dja&qd=3DRnZhMyb=
+XSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5=
+JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DygDGoLTm66_A3NwZ9yDcQQbXCHXgJEVMrHKBS2mW9rM&=
+tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decora=
+tion:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight:b=
+old;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D6=
+c8db3b46c547208&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1da=
+w_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DygDGoL=
+Tm66_A3NwZ9yDcQQbXCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02te3hlh800&alid=3D5cdccb62=
+82303077f759959a" style=3D"color:#000000;text-decoration:underline;font-siz=
+e:18px;line-height:24px;"> Full Stack Developer </a> </td> </tr> <tr> <td c=
+lass=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20px;f=
+ont-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-compa=
+ny-name">Power Inc.</span> <span class=3D"job-company-location" style=3D"fo=
+nt-weight:400;display:inline !important;color:#767676">- Markham, ON</span>=
+ </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:14px;lin=
+e-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> Full Stac=
+k <b>Developer</b>*. Expert level of SQL Server knowledge (including admini=
+stration, development and troubleshooting expertise levels).... </td> </tr>=
+ <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Ari=
+al, sans-serif;color:#E03400;font-size:14px;line-height:20px;padding-bottom=
+:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-fami=
+ly:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;font-size:14px=
+;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> </tr> <tr> <td =
+class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.indeed.=
+com/rc/clk/dl?jk=3Db93f4e8807122cf6&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0m=
+y6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDy=
+DUlmIbCg&rd=3DqtKc8zzwFCUusoKbqZh6lwbXCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02te3hl=
+h800&alid=3D5cdccb6282303077f759959a" style=3D"text-decoration:none"> <tabl=
+e width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td=
+ class=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-botto=
+m:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Db93f4e8807122cf6&f=
+rom=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5v=
+PHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DqtKc8zzwFCUusoKbqZh6lwb=
+XCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a"=
+ style=3D"color:#000000;text-decoration:underline;font-size:18px;line-heigh=
+t:24px;"> Full Stack Developer </a> </td> </tr> <tr> <td class=3D"job-info"=
+ align=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:500;co=
+lor:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">Boast.AI=
+</span> <span class=3D"job-company-location" style=3D"font-weight:400;displ=
+ay:inline !important;color:#767676">- Toronto, ON</span> </td> </tr> <tr> <=
+td class=3D"" align=3D"left" style=3D"font-size:14px;line-height:20px;font-=
+weight:400;color:#4B4B4B;padding-bottom:4px;"> <b>Web</b> application devel=
+opment:. Knowledge of software engineering best practices across the develo=
+pment lifecycle, including agile methodologies, coding standards... </td> <=
+/tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto,=
+ Arial, sans-serif;color:#E03400;font-size:14px;line-height:20px;padding-bo=
+ttom:4px;"> Easily apply </td> </tr> <tr> <td align=3D"left" style=3D"font-=
+family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;font-size:=
+14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> </tr> <tr> =
+<td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.ind=
+eed.com/rc/clk/dl?jk=3Dc15be0bac80b77be&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXW=
+oe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeu=
+FNDyDUlmIbCg&rd=3DJ3cGT0mTpjRZ4KRZ0B9kzAbXCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02t=
+e3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decoration:none"> <=
+table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr>=
+ <td class=3D"job-title" align=3D"left" style=3D"font-weight:bold;padding-b=
+ottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3Dc15be0bac80b77=
+be&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4ms=
+SJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DJ3cGT0mTpjRZ4KRZ0B9=
+kzAbXCHXgJEVMrHKBS2mW9rM&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f7599=
+59a" style=3D"color:#000000;text-decoration:underline;font-size:18px;line-h=
+eight:24px;"> Intermediate Full Stack Developer </a> </td> </tr> <tr> <td c=
+lass=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20px;f=
+ont-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-compa=
+ny-name">Dawn InfoTek Inc.</span> <span class=3D"job-company-location" styl=
+e=3D"font-weight:400;display:inline !important;color:#767676">- Toronto, ON=
+</span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:1=
+4px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> St=
+rong programming skills in modern <b>Web</b> Technology such as *Angular 2*=
+. Bachelor/Master*'s degree in *Computer Science*, *Software Engineering*, =
+or related... </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Hel=
+vetica Neue', Roboto, Arial, sans-serif;color:#E03400;font-size:14px;line-h=
+eight:20px;padding-bottom:4px;"> Easily apply </td> </tr> <tr> <td align=3D=
+"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;col=
+or:#767676;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> <=
+/a> </td> </tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a h=
+ref=3D"https://ca.indeed.com/rc/clk/dl?jk=3D79204e5ca5b1605c&from=3Dja&qd=
+=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4Q=
+rhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3DPB7Cktu4U76b9CbUjRuPvgsnOLhQXJeGPv=
+QQwS5osgc&tk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"t=
+ext-decoration:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"f=
+ont-weight:bold;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/c=
+lk/dl?jk=3D79204e5ca5b1605c&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5V=
+JElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg=
+&rd=3DPB7Cktu4U76b9CbUjRuPvgsnOLhQXJeGPvQQwS5osgc&tk=3D1dkuj02te3hlh800&ali=
+d=3D5cdccb6282303077f759959a" style=3D"color:#000000;text-decoration:underl=
+ine;font-size:18px;line-height:24px;"> PHP=C2=A0Developer </a> </td> </tr> =
+<tr> <td class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-hei=
+ght:20px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D=
+"job-company-name">Vestra Inet</span> <span><img class=3D"job-company-revie=
+w-stars" src=3D"https://subscriptions.indeed.com/static/images/ja/stars_4.5=
+0.png" width=3D"60" border=3D"0" alt=3D"4.5/5 rating" /></span> <a href=3D"=
+https://ca.indeed.com/cmp/Vestra-Inet/reviews?utm_source=3Djobseeker_emails=
+&utm_medium=3Demail&utm_campaign=3Djob_alerts" class=3D"job-company-review-=
+count" style=3D"font-weight:400;display:inline !important;color:#000000;tex=
+t-decoration:none">&nbsp;&nbsp;8 reviews&nbsp;</a> <span class=3D"job-compa=
+ny-location" style=3D"font-weight:400;display:inline !important;color:#7676=
+76">- Concord, ON</span> </td> </tr> <tr> <td class=3D"" align=3D"left" sty=
+le=3D"font-size:14px;line-height:20px;font-weight:400;color:#4B4B4B;padding=
+-bottom:4px;"> 3+ years of Object Orientation software coding experience fo=
+r <b>web</b> applications. 3+ years of PHP design/coding/testing in Open So=
+urce environment building large... </td> </tr> <tr> <td align=3D"left" styl=
+e=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#767676;=
+font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td> <=
+/tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"http=
+s://ca.indeed.com/rc/clk/dl?jk=3D1ab4bc884b3553d6&from=3Dja&qd=3DRnZhMybXSk=
+4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY=
+_M6rvwaVeuFNDyDUlmIbCg&rd=3Dxe_ZA5EbIC2o4Q49301XSB1nad7mHeJIvvNS1DT4gjQ&tk=
+=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a" style=3D"text-decorati=
+on:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight:bo=
+ld;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/rc/clk/dl?jk=3D1a=
+b4bc884b3553d6&from=3Dja&qd=3DRnZhMybXSk4M3QtTVGXWoe0my6wfEJ5VJElH4OwYL1daw=
+_wSA9Zx4E4msSJ5vPHJ9926KY4QrhE9PdCvV5JNY_M6rvwaVeuFNDyDUlmIbCg&rd=3Dxe_ZA5E=
+bIC2o4Q49301XSB1nad7mHeJIvvNS1DT4gjQ&tk=3D1dkuj02te3hlh800&alid=3D5cdccb628=
+2303077f759959a" style=3D"color:#000000;text-decoration:underline;font-size=
+:18px;line-height:24px;"> Software Developer Intern </a> </td> </tr> <tr> <=
+td class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20=
+px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-c=
+ompany-name">Geotab</span> <span><img class=3D"job-company-review-stars" sr=
+c=3D"https://subscriptions.indeed.com/static/images/ja/stars_3.75.png" widt=
+h=3D"60" border=3D"0" alt=3D"3.7/5 rating" /></span> <a href=3D"https://ca.=
+indeed.com/cmp/Geotab/reviews?utm_source=3Djobseeker_emails&utm_medium=3Dem=
+ail&utm_campaign=3Djob_alerts" class=3D"job-company-review-count" style=3D"=
+font-weight:400;display:inline !important;color:#000000;text-decoration:non=
+e">&nbsp;&nbsp;14 reviews&nbsp;</a> <span class=3D"job-company-location" st=
+yle=3D"font-weight:400;display:inline !important;color:#767676">- Oakville,=
+ ON</span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-siz=
+e:14px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;">=
+ You will write high performance C# code and SQL queries to process and sto=
+re this information in real-time.... </td> </tr> <tr> <td align=3D"left" st=
+yle=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;color:#76767=
+6;font-size:14px;line-height:20px;"> 16-Sep </td> </tr> </table> </a> </td>=
+ </tr> <tr> <td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"ht=
+tps://ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0DL4EvrpUy4fYcaHozgo=
+6q3ArOHFaGPtaByGtg3QNVAIE6Ydrh6QvNnEomLs-1ZK-5-Bt9d9rAcKElFf8J3e8MOY5_I4nji=
+1piLHKLuiyzPIL5LcEXnVZiaNppD4RCqgaIZ-1AZLXgJE7g-HiP7xrAFYRLxcBDkDGepdPesW2f=
+JDCI3fBXxEwC8GuERXnl9FfLYsC5pAQZdGWvCqdqbxdFuQbdnz7CIk8jB9ph35FRzUDb62pR3ZK=
+_QX-I6JCLMXwsf0TQiUASU_Dxs3UIfVFEZmmmHJ5OvznYBMpQJOEIqivaeEBh3tOJn71_Y9SdT-=
+xFRvKm7g_65Alv3_H7TexxpqvDCy8sZa4w9TdbR7rFQFdVLc-ckH12uTfcy3QtYjOl2uLEFM3D0=
+LalqUb9bgn8GlPokiul0xFqn99xMiQpfrB3X0ii7AilRTbQb09U7vG8%3D&p=3D0&jsa=3D9808=
+&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&gd=
+fvj=3D1" style=3D"text-decoration:none"> <table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" align=
+=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"https:=
+//ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0DL4EvrpUy4fYcaHozgo6q3A=
+rOHFaGPtaByGtg3QNVAIE6Ydrh6QvNnEomLs-1ZK-5-Bt9d9rAcKElFf8J3e8MOY5_I4nji1piL=
+HKLuiyzPIL5LcEXnVZiaNppD4RCqgaIZ-1AZLXgJE7g-HiP7xrAFYRLxcBDkDGepdPesW2fJDCI=
+3fBXxEwC8GuERXnl9FfLYsC5pAQZdGWvCqdqbxdFuQbdnz7CIk8jB9ph35FRzUDb62pR3ZK_QX-=
+I6JCLMXwsf0TQiUASU_Dxs3UIfVFEZmmmHJ5OvznYBMpQJOEIqivaeEBh3tOJn71_Y9SdT-xFRv=
+Km7g_65Alv3_H7TexxpqvDCy8sZa4w9TdbR7rFQFdVLc-ckH12uTfcy3QtYjOl2uLEFM3D0Lalq=
+Ub9bgn8GlPokiul0xFqn99xMiQpfrB3X0ii7AilRTbQb09U7vG8%3D&p=3D0&jsa=3D9808&rjs=
+=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&gdfvj=
+=3D1" style=3D"color:#000000;text-decoration:underline;font-size:18px;line-=
+height:24px;"> Web Developer </a> </td> </tr> <tr> <td class=3D"job-info" a=
+lign=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:500;colo=
+r:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-company-name">Flow Alkal=
+ine Spring Water</span> <span class=3D"job-company-location" style=3D"font-=
+weight:400;display:inline !important;color:#767676">- Toronto, ON</span> </=
+td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:14px;line-h=
+eight:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> Flow Water i=
+s seeking a talented <b>web</b> <b>developer</b> to join our in-house devel=
+opment team. Web-centric development programming skills including, Liquid, =
+JavaScript,... </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'He=
+lvetica Neue', Roboto, Arial, sans-serif;color:#E03400;font-size:14px;line-=
+height:20px;padding-bottom:4px;"> Easily apply </td> </tr> <tr> <td align=
+=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;=
+color:#767676;font-size:14px;line-height:20px;padding-bottom:4px;"> Sponsor=
+ed </td> </tr> </table> </a> </td> </tr> <tr> <td class=3D"job" style=3D"pa=
+dding-bottom:32px;"> <a href=3D"https://ca.indeed.com/pagead/clk/dl?mo=3Dr&=
+ad=3D-6NYlbfkN0DRgBWd-PJVJZDKAj6E6yyPGLnAiKhudfBAE39JjPdp4WqWG84y2HRwIPHlrc=
+6uhGcMx194pH_GDcFq_HDjSKg37A4s8PumNrGpFXq_znyrDmH2KDicGBSaLkzvOLhwMtTRai-gn=
+DbUtmD8vWpW4sF79k_mLneJGRWszfwkvmcnCL3xfXV7Ubbah2H3keBhOUhBBpKqQF1Ftqa_ZIW3=
+ZftAQqR915Shhz89sYhSSgrwHP32dXhTXJP0jz41zqPwqO1i0gl65vc3GQfp8pjoRU5e0ug4z7I=
+Vjp0cuT2evSlHz7hC-W0JJ9jx3PKH90y1xDl-dV_JebR2TRIWzrKPVoP_Q20ufAr25VlNtNbzym=
+1FOr48gld0rClcsi5H_6JMd4wctK0IfBcGDLA_2Kl-r9nvMnzIgzMeqWGLBaKxwCxm8w2oK-jf3=
+zOYf-euAEwkaQywu1k6h48Vcw%3D%3D&p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3h=
+lh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&gdfvj=3D1" style=3D"text-deco=
+ration:none"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"> <tr> <td class=3D"job-title" align=3D"left" style=3D"font-weight=
+:bold;padding-bottom:4px;"> <a href=3D"https://ca.indeed.com/pagead/clk/dl?=
+mo=3Dr&ad=3D-6NYlbfkN0DRgBWd-PJVJZDKAj6E6yyPGLnAiKhudfBAE39JjPdp4WqWG84y2HR=
+wIPHlrc6uhGcMx194pH_GDcFq_HDjSKg37A4s8PumNrGpFXq_znyrDmH2KDicGBSaLkzvOLhwMt=
+TRai-gnDbUtmD8vWpW4sF79k_mLneJGRWszfwkvmcnCL3xfXV7Ubbah2H3keBhOUhBBpKqQF1Ft=
+qa_ZIW3ZftAQqR915Shhz89sYhSSgrwHP32dXhTXJP0jz41zqPwqO1i0gl65vc3GQfp8pjoRU5e=
+0ug4z7IVjp0cuT2evSlHz7hC-W0JJ9jx3PKH90y1xDl-dV_JebR2TRIWzrKPVoP_Q20ufAr25Vl=
+NtNbzym1FOr48gld0rClcsi5H_6JMd4wctK0IfBcGDLA_2Kl-r9nvMnzIgzMeqWGLBaKxwCxm8w=
+2oK-jf3zOYf-euAEwkaQywu1k6h48Vcw%3D%3D&p=3D0&jsa=3D9808&rjs=3D1&tmtk=3D1dku=
+j02te3hlh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&gdfvj=3D1" style=3D"co=
+lor:#000000;text-decoration:underline;font-size:18px;line-height:24px;"> We=
+b Developer </a> </td> </tr> <tr> <td class=3D"job-info" align=3D"left" sty=
+le=3D"font-size:14px;line-height:20px;font-weight:500;color:#2D2D2D;padding=
+-bottom:4px;"> <span class=3D"job-company-name">HOMESHOWOFF INC</span> <spa=
+n class=3D"job-company-location" style=3D"font-weight:400;display:inline !i=
+mportant;color:#767676">- Toronto, ON</span> </td> </tr> <tr> <td class=3D"=
+" align=3D"left" style=3D"font-size:14px;line-height:20px;font-weight:400;c=
+olor:#4B4B4B;padding-bottom:4px;"> Extranet, Intranet, Internet, Servers, W=
+ord processing software, Presentation software, Mail server software, Commu=
+nication software, Image editing software,... </td> </tr> <tr> <td align=3D=
+"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-serif;col=
+or:#E03400;font-size:14px;line-height:20px;padding-bottom:4px;"> Easily app=
+ly </td> </tr> <tr> <td align=3D"left" style=3D"font-family:'Helvetica Neue=
+', Roboto, Arial, sans-serif;color:#767676;font-size:14px;line-height:20px;=
+padding-bottom:4px;"> Sponsored </td> </tr> </table> </a> </td> </tr> <tr> =
+<td class=3D"job" style=3D"padding-bottom:32px;"> <a href=3D"https://ca.ind=
+eed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0AX8K1_iXCIXkcriUZfvZ7M4SgCdLBHe=
+c5N4Agaqfgrkg8Q1hOckDJpnFBGTY7Z560lXwR58ucbmScq82bijC2SBAg-cRXM5RqKifmuHNsP=
+OPptrk_GUfUnt4jhv4i36BU8qBsGSRdQRNKr2rchKKYQCV6vOrqeiF8y3PGMQ8wEZ_v1pupQQ8q=
+bOJ0-5ztUm3r56i9IJwdoIsNKlBOQhO6e3gdBtwvSBB-FXQOikr1AAyhTaDK9glsfxvB360tySA=
+bVHl6zHakknnhRjhPsA-HhXHATmpGlvFfm67y80zP7WhzCPOrsXWIgf6ReY8CTbvD6vJdiVAQgU=
+KDHE-gAPNy1jqjwk6fsGSwVx-OJwQogS1aOAdT4Uh3RzFRIM-JfxfJXcpKFu5SNkgG9lE1lafY0=
+48J4buIqKcCeIOlTmlPagbJ8WCn1eogHGzIMT98OzlhUKfhcwD9wtw%3D%3D&p=3D0&jsa=3D98=
+08&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a&fvj=3D1&=
+gdfvj=3D1" style=3D"text-decoration:none"> <table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td class=3D"job-title" align=
+=3D"left" style=3D"font-weight:bold;padding-bottom:4px;"> <a href=3D"https:=
+//ca.indeed.com/pagead/clk/dl?mo=3Dr&ad=3D-6NYlbfkN0AX8K1_iXCIXkcriUZfvZ7M4=
+SgCdLBHec5N4Agaqfgrkg8Q1hOckDJpnFBGTY7Z560lXwR58ucbmScq82bijC2SBAg-cRXM5RqK=
+ifmuHNsPOPptrk_GUfUnt4jhv4i36BU8qBsGSRdQRNKr2rchKKYQCV6vOrqeiF8y3PGMQ8wEZ_v=
+1pupQQ8qbOJ0-5ztUm3r56i9IJwdoIsNKlBOQhO6e3gdBtwvSBB-FXQOikr1AAyhTaDK9glsfxv=
+B360tySAbVHl6zHakknnhRjhPsA-HhXHATmpGlvFfm67y80zP7WhzCPOrsXWIgf6ReY8CTbvD6v=
+JdiVAQgUKDHE-gAPNy1jqjwk6fsGSwVx-OJwQogS1aOAdT4Uh3RzFRIM-JfxfJXcpKFu5SNkgG9=
+lE1lafY048J4buIqKcCeIOlTmlPagbJ8WCn1eogHGzIMT98OzlhUKfhcwD9wtw%3D%3D&p=3D0&=
+jsa=3D9808&rjs=3D1&tmtk=3D1dkuj02te3hlh800&alid=3D5cdccb6282303077f759959a&=
+fvj=3D1&gdfvj=3D1" style=3D"color:#000000;text-decoration:underline;font-si=
+ze:18px;line-height:24px;"> WEB FRONT END DEVELOPER </a> </td> </tr> <tr> <=
+td class=3D"job-info" align=3D"left" style=3D"font-size:14px;line-height:20=
+px;font-weight:500;color:#2D2D2D;padding-bottom:4px;"> <span class=3D"job-c=
+ompany-name">Jumptools Inc.</span> <span class=3D"job-company-location" sty=
+le=3D"font-weight:400;display:inline !important;color:#767676">- Toronto, O=
+N</span> </td> </tr> <tr> <td class=3D"" align=3D"left" style=3D"font-size:=
+14px;line-height:20px;font-weight:400;color:#4B4B4B;padding-bottom:4px;"> <=
+b>WEB</b> FRONT END <b>DEVELOPER</b>*. Responsive <b>web</b> design / devel=
+opment experience. Front End <b>Developer</b>*, successful candidates will =
+demonstrate/have:.... </td> </tr> <tr> <td align=3D"left" style=3D"font-fam=
+ily:'Helvetica Neue', Roboto, Arial, sans-serif;color:#E03400;font-size:14p=
+x;line-height:20px;padding-bottom:4px;"> Easily apply </td> </tr> <tr> <td =
+align=3D"left" style=3D"font-family:'Helvetica Neue', Roboto, Arial, sans-s=
+erif;color:#767676;font-size:14px;line-height:20px;padding-bottom:4px;"> Sp=
+onsored </td> </tr> </table> </a> </td> </tr> </table> </td> </tr> <tr> <td=
+ class=3D"section-cta"> <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"> <tr> <td style=3D"font-size:13px;padding:0 0 24px;colo=
+r:#000000;font-weight:bold" align=3D"center"> 22 new opportunities </td> </=
+tr> <tr> <td class=3D"cta" align=3D"center"> <div><!--[if mso]> <v:roundrec=
+t xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsof=
+t-com:office:word" href=3D"https://ca.indeed.com/jobs?q=3Dweb+developer&hl=
+=3Den&from=3Dja&l=3DToronto%2C+ON&radius=3D50&alid=3D5cdccb6282303077f75995=
+9a&tmtk=3D1dkuj02te3hlh800&utm_campaign=3Djob_alerts&utm_medium=3Demail&utm=
+_source=3Djobseeker_emails&of=3D1&fr=3Dt" style=3D"height:44px;v-text-ancho=
+r:middle;width:298px;" arcsize=3D"228%" strokecolor=3D"#085FF7" fillcolor=
+=3D"#085FF7"> <w:anchorlock/> <center style=3D"color:#ffffff;font-family:'H=
+elvetica Neue', Helvetica, Arial, Liberation Sans, Roboto, Noto, sans-serif=
+;font-size:16px;font-weight:bold;">View all jobs</center> </v:roundrect> <!=
+[endif]--><a href=3D"https://ca.indeed.com/jobs?q=3Dweb+developer&hl=3Den&f=
+rom=3Dja&l=3DToronto%2C+ON&radius=3D50&alid=3D5cdccb6282303077f759959a&tmtk=
+=3D1dkuj02te3hlh800&utm_campaign=3Djob_alerts&utm_medium=3Demail&utm_source=
+=3Djobseeker_emails&of=3D1&fr=3Dt" style=3D"background-color:#085FF7;border=
+:1px solid #085FF7;border-radius:100px;color:#ffffff;display:inline-block;f=
+ont-family:'Helvetica Neue', Helvetica, Arial, Liberation Sans, Roboto, Not=
+o, sans-serif;font-size:16px;font-weight:bold;line-height:44px;text-align:c=
+enter;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hid=
+e:all;">View all jobs</a> </div> </td> </tr> <tr> <td class=3D"view-jobs" s=
+tyle=3D"font-size:13px;padding:24px 0 0;color:#000000" align=3D"center"> Vi=
+ew jobs: <a href=3D"https://ca.indeed.com/jobs?q=3Dweb+developer&hl=3Den&fr=
+om=3Dja&l=3DToronto%2C+ON&radius=3D50&alid=3D5cdccb6282303077f759959a&tmtk=
+=3D1dkuj02te3hlh800&utm_campaign=3Djob_alerts&utm_medium=3Demail&utm_source=
+=3Djobseeker_emails&of=3D1&fr=3Db&fromage=3D1" style=3D"color:#085FF7;text-=
+decoration:none">since yesterday</a> - <a href=3D"https://ca.indeed.com/job=
+s?q=3Dweb+developer&hl=3Den&from=3Dja&l=3DToronto%2C+ON&radius=3D50&alid=3D=
+5cdccb6282303077f759959a&tmtk=3D1dkuj02te3hlh800&utm_campaign=3Djob_alerts&=
+utm_medium=3Demail&utm_source=3Djobseeker_emails&of=3D1&fr=3Db&fromage=3D7"=
+ style=3D"color:#085FF7;text-decoration:none;">for last 7 days</a> </td> </=
+tr> </table> </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td=
+ class=3D"full-width-break" style=3D"background:#F6F6F6;height:2px"></td> <=
+/tr> <tr> <td class=3D"content-box" style=3D"-webkit-text-size-adjust:100%;=
+-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;padding=
+:50px !important;"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust=
+:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse !i=
+mportant;"> <tr> <td style=3D"-webkit-text-size-adjust:100%;-ms-text-size-a=
+djust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;"> <table width=3D"100=
+%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"presentation" s=
+tyle=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-l=
+space:0pt;mso-table-rspace:0pt;border-collapse:collapse !important;box-sizi=
+ng:border-box !important;"> <tr> <td style=3D"-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;box-si=
+zing:border-box !important; border-bottom: solid 6px #FF5A1F;text-align: ce=
+nter;padding-bottom:24px;"> <h1 style=3D"font-family:'Helvetica Neue', Helv=
+etica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;font-weight:bold;=
+letter-spacing:-0.1px;font-size: 18px;line-height:32px;color:#2A2226;margin=
+:0;"> Would you like to help other job seekers? </h1> </td> </tr> <tr> <td =
+style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-=
+lspace:0pt;mso-table-rspace:0pt;"> <table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" role=3D"presentation" style=3D"-webkit-text-=
+size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-r=
+space:0pt;border-collapse:collapse !important;box-sizing:border-box !import=
+ant;"> <tr> <td height=3D"40" style=3D"-webkit-text-size-adjust:100%;-ms-te=
+xt-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;height: 40px;=
+"></td> </tr> <tr> <td align=3D"center" style=3D"-webkit-text-size-adjust:1=
+00%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;box=
+-sizing:border-box !important;"> <img src=3D" https://subscriptions.indeed.=
+com/static/images/ja/company_placeholder_icon.png " alt=3D"Company Logo" wi=
+dth=3D"60" height=3D"60" style=3D"-ms-interpolation-mode:bicubic;border:0;h=
+eight:auto;line-height:100%;outline:none;text-decoration:none;outline:0;mar=
+gin: 0;"> </td> </tr> <tr> <td height=3D"24" style=3D"-webkit-text-size-adj=
+ust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0p=
+t;">&nbsp;</td> </tr> <tr> <td align=3D"center" style=3D"-webkit-text-size-=
+adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace=
+:0pt;box-sizing:border-box !important;"> <p class=3D"text__rating-your" sty=
+le=3D"font-size:18px;line-height:1.43;font-family:'Helvetica Neue', Helveti=
+ca, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;color:#2A2226;margin=
+:0;margin-bottom: 4px;"> Rate your experience working at </p> <h1 class=3D"=
+company-name" style=3D"color:#000000;text-decoration:none !important;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, =
+sans-serif;font-weight:700;letter-spacing:-0.1px;font-size:23px;line-height=
+:34px;margin:0;"> Builddirect Technologies Inc </h1> </td> </tr> <tr> <td h=
+eight=3D"24" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:10=
+0%;mso-table-lspace:0pt;mso-table-rspace:0pt;">&nbsp;</td> </tr> <tr> <td s=
+tyle=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-l=
+space:0pt;mso-table-rspace:0pt;box-sizing:border-box !important;"> <table w=
+idth=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" role=3D"pres=
+entation" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse !importa=
+nt;box-sizing:border-box !important;"> <tbody> <tr> <td class=3D"horizontal=
+-break" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;ms=
+o-table-lspace:0pt;mso-table-rspace:0pt;box-sizing:border-box !important;pa=
+dding:0;"> <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" role=3D"presentation" style=3D"-webkit-text-size-adjust:100%;-ms-tex=
+t-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-collaps=
+e:collapse !important;box-sizing:border-box !important;"> <tbody> <tr> <td =
+style=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-=
+lspace:0pt;mso-table-rspace:0pt;box-sizing:border-box !important;font-size:=
+0;line-height:0;"> &nbsp; </td> </tr> </tbody> </table> </td> </tr> </tbody=
+> </table> </td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%;-ms-=
+text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;box-sizing:=
+border-box !important;" align=3D"center"> <a href=3D"https://ca.indeed.com/=
+cmp/Builddirect-Technologies-Inc/write-review?campaignid=3Dac1663ja1-1-1" s=
+tyle=3D"-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;box-sizing:=
+border-box !important;color:#2A2226;text-decoration:none;"> <img src=3D"htt=
+ps://subscriptions.indeed.com/static/images/ja/star_rating_group_unselected=
+.png" alt=3D"Write a review" class=3D"war-star-cta" width=3D"300" height=3D=
+"44" style=3D"-ms-interpolation-mode:bicubic;border:0;line-height:100%;outl=
+ine:none;text-decoration:none;outline:0;margin:0 4px;"> </a> </td> </tr> <t=
+r> <td height=3D"40" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-a=
+djust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;box-sizing:border-box =
+!important; border-bottom: solid 2px #f2f2f2;text-align: center;height: 40p=
+x;"> </td> </tr> </table> </td> </tr> <tr> <td height=3D"32" style=3D"-webk=
+it-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso=
+-table-rspace:0pt;">&nbsp;</td> </tr> <tr> <td style=3D"-webkit-text-size-a=
+djust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:=
+0pt;box-sizing:border-box !important; text-align: center;"> <table width=3D=
+"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <tr> <td></td> <td=
+ style=3D"font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans'=
+, Roboto, Noto, sans-serif;font-weight:400;letter-spacing:-0.12px;font-size=
+:14px;line-height:22px;color:#2A2226;text-align: center; width: 370px; marg=
+in: 0 auto"> Your review helps other job seekers determine if this company =
+is the right fit. </td> <td></td> </tr> </table> </td> </tr> </table> </td>=
+ </tr> </table> </td> </tr> </table> <table class=3D"width-550" style=3D"ma=
+x-width:550px" width=3D"100%" bgcolor=3D"#F2F2F2" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0"> <tr> <td class=3D"footer-box" style=3D"padding:24p=
+x 4px"> <table class=3D"bottom-notice" width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"> <tr> <td style=3D"font-size:10px;line-height:1=
+6px;padding:0 0 24px" align=3D"center"> <a style=3D"text-decoration:none;co=
+lor:#0060FF" href=3D"https://subscriptions.indeed.com/update/5cdccb62823030=
+77f759959a?token=3DCkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6MuxD87o=
+q2LK-A8mVwhEJi-VPD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUnh7zIF69=
+8FvCe&co=3DCA&hl=3Den&tmtk=3D1dkuj02te3hlh800&from=3DjaEditAlert">Edit this=
+ job alert</a> </td> </tr> <tr> <td class=3D"notice" style=3D"font-size:10p=
+x;line-height:16px;color:#777777;padding:40px 0 70px;" align=3Dleft> Salari=
+es estimated if unavailable. When a job posting doesn't include a salary, w=
+e estimate it by looking at similar jobs. Estimated salaries are not endors=
+ed by the companies offering those positions and may vary from actual salar=
+ies. </td> </tr> </table> <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"> <tr> <td class=3D"footer-text" style=3D"color:#77777=
+7;font-size:11px;line-height:16px;padding:0 0 4px" align=3D"center"> &#169;=
+ 2019 Indeed Ireland Operations, Ltd. </td> </tr> <tr> <td class=3D"footer-=
+text footer-address" style=3D"color:#777777;font-size:11px;line-height:16px=
+;padding:0 0 4px" align=3D"center"> 124 St. Stephen's Green, Dublin 2, Irel=
+and </td> </tr> <tr> <td class=3D"footer-text footer-links" style=3D"color:=
+#777777;font-size:11px;line-height:16px;padding:0 0 4px" align=3D"center"> =
+<a href=3D"https://ca.indeed.com/legal?hl=3Den#privacy" style=3D"text-decor=
+ation:none;color:#085FF7;">PRIVACY POLICY</a> | <a href=3D"https://ca.indee=
+d.com/legal?hl=3Den" style=3D"text-decoration:none;color:#085FF7;">TERMS</a=
+> | <a href=3D"https://support.indeed.com/hc/en-ca" style=3D"text-decoratio=
+n:none;color:#085FF7;">HELP CENTRE</a> </td> </tr> <tr> <td class=3D"footer=
+-text footer-links" style=3D"color:#777777;font-size:11px;line-height:16px;=
+padding:0 0 4px" align=3D"center"> <a href=3D"https://subscriptions.indeed.=
+com/alerts/cancel?token=3DCkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodIB6=
+MuxD87oq2LK-A8mVwhEJi-VPD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5YUn=
+h7zIF698FvCe&co=3DCA&hl=3Den&tmtk=3D1dkuj02te3hlh800&subId=3D5cdccb62823030=
+77f759959a&rgtk=3D1dkuj0aj5nu0v807&from=3Dja" style=3D"text-decoration:none=
+;color:#085FF7;">UNSUBSCRIBE FROM THIS EMAIL</a> | <a href=3D"https://subsc=
+riptions.indeed.com?token=3DCkBLWfDLWOTwjhSrauF1iEux1p9fDgZ9KZ9he68dkZUYodI=
+B6MuxD87oq2LK-A8mVwhEJi-VPD6gskJymxJ3OVUOEhDwRUmeQ5dwsVtgGkspEdzIGhDvSAkN5Y=
+Unh7zIF698FvCe&co=3DCA&hl=3Den&tmtk=3D1dkuj02te3hlh800&from=3Dja" style=3D"=
+text-decoration:none;color:#085FF7;">MANAGE MY SUBSCRIPTIONS</a> </td> </tr=
+> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </ta=
+ble> <![endif]--> </td> </tr> </table> <img src=3D"https://subscriptions.in=
+deed.com/imgping?type=3Djafull&tk=3D1dkuj02te3hlh800&aluidhash=3D5cdccb6282=
+303077f759959a&clipped=3Dfalse" height=3D"1" width=3D"1"> </div> </body> </=
+html>
+------=_Part_2009160_654260745.1568689630583--

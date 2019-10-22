@@ -1,0 +1,80 @@
+Return-Path: <bounces@sparkpost.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id eANXHtIYHV30PQoAOhTp2Q
+	(envelope-from <bounces@sparkpost.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Wed, 03 Jul 2019 17:06:26 -0400
+Return-path: <bounces@sparkpost.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 03 Jul 2019 17:06:26 -0400
+Received: from mta1b1.sparkpost.ziprecruiter.com ([52.27.255.208]:45225)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces@sparkpost.ziprecruiter.com>)
+	id 1himSP-002pTq-Kv
+	for hey@sarahpaz.ca; Wed, 03 Jul 2019 17:06:26 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=sparkpost.ziprecruiter.com; s=s1015; t=1562187942;
+	i=@sparkpost.ziprecruiter.com;
+	bh=V6tYd4iUx7IehezEmsHkw0mk67X9+OcY0ntnfGfTGXY=;
+	h=Content-Type:To:Message-ID:Date:Subject:From;
+	b=NguMl2SnF1XCwS2npveb2IIMOlxP6OxSS5w5PIEon6bStDX4HxTi6urj1gwAClXSR
+	 FQJEjvcc5vevrd44ptzqRFzN9hjnQIl6ekUWDClKdBGrw37TlHR2z4/UYDE6Wg6JTz
+	 rRScBtB7h3io9t2Q7Q0gODbt6r09//34lytW0ed8=
+X-MSFBL: NIBXKcHZSpgfn4TB2//oGNktevnV8eOFLumz4/T4igc=|eyJtZXNzYWdlX2lkIjo
+	iMDAyM2E2MTgxZDVkYmIxMDI5YjciLCJzdWJhY2NvdW50X2lkIjoiMSIsInIiOiJ
+	oZXlAc2FyYWhwYXouY2EiLCJjdXN0b21lcl9pZCI6IjEiLCJ0ZW5hbnRfaWQiOiJ
+	6aXAifQ==
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+To: hey@sarahpaz.ca
+Message-ID: <92.7B.04283.6A81D1D5@ai.mta2vrest.cc.prd.sparkpost>
+Date: Wed, 03 Jul 2019 21:05:42 +0000
+MIME-Version: 1.0
+Subject: Magic sign-in link for ZipRecruiter
+From: "ZipRecruiter Team" <noreply@ziprecruiter.com>
+List-Unsubscribe: <mailto:unsubscribe@sparkpost.ziprecruiter.com?subject=unsubscribe:JhuhtON8u9L6r7STrsLJNmXo_tKjVBJVHaEPTPZqxbE~|eyAicmNwdF90byI6ICJoZXlAc2FyYWhwYXouY2EiLCAidGVuYW50X2lkIjogInppcCIsICJjdXN0b21lcl9pZCI6ICIxIiwgInN1YmFjY291bnRfaWQiOiAiMSIsICJtZXNzYWdlX2lkIjogIjAwMjNhNjE4MWQ1ZGJiMTAyOWI3IiB9>
+List-Id: <zip.1.1.sparkpostmail.com>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi there! You requested a magic link so that you can easily
+    sign in to your ZipRecruiter account on the ZipRecruiter mobile app. Just
+    tap the link below (or copy/paste into your mobile browser) and you'll be
+    lo [...] 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Hi there!
+
+You requested a magic link so that you can easily sign in to your
+ZipRecruiter account on the ZipRecruiter mobile app. Just tap the link
+below (or copy/paste into your mobile browser) and you'll be logged in.
+
+https://www.ziprecruiter.com/signin-email-token-link?token=c:4a6df941:5d1d34c5:_v3_e50dda7cc60e54201cb2929b5fdd9fe9922581ff9dc93090e923572b1dabaeca
+
+Best,
+
+ZipRecruiter team
+
+P.S. your link will expire in 24 hours and can only be used once!
+
+604 Arizona Ave., Santa Monica, CA 90401
+

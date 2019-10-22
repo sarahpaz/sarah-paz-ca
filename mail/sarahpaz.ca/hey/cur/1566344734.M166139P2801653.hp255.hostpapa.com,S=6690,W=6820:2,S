@@ -1,0 +1,130 @@
+Return-Path: <bounces+3635347-e728-hey=sarahpaz.ca@sendgrid.net>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id uCFtCR6GXF31vyoAOhTp2Q
+	(envelope-from <bounces+3635347-e728-hey=sarahpaz.ca@sendgrid.net>)
+	for <hey@sarahpaz.ca>; Tue, 20 Aug 2019 19:45:34 -0400
+Return-path: <bounces+3635347-e728-hey=sarahpaz.ca@sendgrid.net>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 20 Aug 2019 19:45:34 -0400
+Received: from o3.lv1n.shared.sendgrid.net ([50.31.63.171]:46320)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounces+3635347-e728-hey=sarahpaz.ca@sendgrid.net>)
+	id 1i0Doi-00BlBf-Sr
+	for hey@sarahpaz.ca; Tue, 20 Aug 2019 19:45:34 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=mime-version:subject:from:to:content-type;
+	s=smtpapi; bh=IVh5H/an9/Wy0Py66wOgvRQws+Mf/lzYRlYUfBxeyEo=;
+	b=fu1wmC+N2rR3HZY4R9aE10/PFBWL4V/pAJGJRLeBcS3hCVtIBH0icZ84JxC4YQ6WdGqC
+	4HGp7BkzUo8Yq3YxKna2ouHvQzo8FtcF82KD+czRxg0zY+HIVqCgVYE1ivgzz4pAkIbUfJ
+	5xXCg6zcovcdF4aBnSZTyJLOF8SfxpL7U=
+Received: by filter0018p3iad2.sendgrid.net with SMTP id filter0018p3iad2-16402-5D5C85F3-21
+        2019-08-20 23:44:51.75422928 +0000 UTC m=+428575.864000004
+Received: from [172.31.33.166] (unknown [34.218.241.26])
+	by ismtpd0007p1sjc2.sendgrid.net (SG) with ESMTP id JvtX-7BWRCCk2KCQI1tYlA
+	for <hey@sarahpaz.ca>; Tue, 20 Aug 2019 23:44:51.591 +0000 (UTC)
+MIME-Version: 1.0
+Date: Tue, 20 Aug 2019 23:44:51 +0000 (UTC)
+Message-ID: <5ad43f276c724a02960c3e9a837ed6aa_CAFZQphBAEA96VdBaeYWc_0_p2k=LE9Yn_3EBiF18vs0-5F7kjQ@mail.gmail.com>
+Subject: @heysarahpaz
+From: Chase Dimond <chase@boundlesslabs.io>
+X-SG-EID: 
+ =?us-ascii?Q?FkhOmjwxb0OK1X7SXqzek+bLYM4i9gIukucGNxvhHBLAf2xQUt560V3956jDhL?=
+ =?us-ascii?Q?J5oTEz0oqMYLvLq7vxvgGltRzKbZ0t4jEf0Boy3?=
+ =?us-ascii?Q?FGNxlc9Gn30119KfUS21hRlAYQgmfj3IEf1=2FNLF?=
+ =?us-ascii?Q?lH3KwJWmitTykPt8aGd=2FT39GSMm5kqk744KZK8A?=
+ =?us-ascii?Q?h0A1XWuXgHvB8JcO=2FXlz3jWZG9VUs57ywdbfi+N?=
+ =?us-ascii?Q?igw3brZxCnSqWUhIw=3D?=
+To: hey@sarahpaz.ca
+Content-Type: multipart/alternative; boundary="0000000000002b76d205908f1eb5"
+X-Spam-Status: No, score=1.4
+X-Spam-Score: 14
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hey heysarahpaz, One of my team members just sent me your
+   Instagram profile after coming across your account because we both follow
+   Shopify. I wanted to quickly introduce myself. My name is Chase and I run
+   Boundless Labs where we specialize in email marketing. 
+ Content analysis details:   (1.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.0 HTML_IMAGE_ONLY_16     BODY: HTML: images with 1200-1600 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.2 KAM_TRACKIMAGE         RAW: Message has a remote image explicitly meant
+                             for tracking
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [50.31.63.171 listed in list.dnswl.org]
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--0000000000002b76d205908f1eb5
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hey heysarahpaz,
+
+One of my team members just sent me your Instagram profile after coming 
+across your account because we both follow Shopify.
+
+I wanted to quickly introduce myself. My name is Chase and I run Boundless 
+Labs where we specialize in email marketing.
+
+We currently work with and consult for a ton of brands that use Shopify 
+such as The Chivery, Manhattan Beachwear, Original Grain, and many others 
+(and they're all awesome)!
+
+I'd love to connect with you or someone on your team if you're looking to 
+improve your email channel. Most of our clients are doing anywhere from 
+about 25%-35% of their total revenue from email.
+
+Thanks,
+Chase
+
+P.S. Here is my LinkedIn profile <https://www.linkedin.com/in/chasedimond/> for your 
+reference - I'd love to connect there as well.
+
+--0000000000002b76d205908f1eb5
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hey heysarahpaz,<div><br></div><div><div>One of my team me=
+mbers just sent me your Instagram profile after coming across your account =
+because we both follow Shopify.</div><div><br></div></div><div><div>I wante=
+d to quickly introduce myself. My name is Chase and I run Boundless Labs wh=
+ere we specialize in email marketing.</div><div><br></div><div>We currently=
+ work with and consult for a ton of brands that use Shopify such as The Chi=
+very, Manhattan Beachwear, Original Grain, and many others (and they&#39;re=
+ all awesome)!<br></div><div><br></div><div>I&#39;d love to connect with yo=
+u or someone on your team if you&#39;re looking to improve your email chann=
+el. Most of our clients are doing anywhere from about 25%-35% of their tota=
+l revenue from email.</div><div><br></div><div>Thanks,</div><div>Chase</div=
+><div><br></div><div>P.S. Here is my=A0<a href=3D"http://track.boundlesslab=
+s.io/x/d?c=3D4803037&l=3D1280f596-005f-45c4-a54e-035e6cea730e&r=3D1757d390-=
+dac9-498f-b3e0-51a45a65cee7" target=3D"_blank">LinkedIn profile</a>=A0for=
+=A0your reference - I&#39;d love to connect there as well.</div></div></div=
+>
+<img height=3D"0" width=3D"0" src=3D"http://track.boundlesslabs.io/x/o?u=3D=
+1757d390-dac9-498f-b3e0-51a45a65cee7&amp;c=3D4803037">
+--0000000000002b76d205908f1eb5--
+

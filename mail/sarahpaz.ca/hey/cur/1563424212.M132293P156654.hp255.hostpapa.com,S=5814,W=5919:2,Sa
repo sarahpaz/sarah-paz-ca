@@ -1,0 +1,105 @@
+Return-Path: <pm_bounces@pm-bounces.applytojob.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id EN9eB9T1L13uYwIAOhTp2Q
+	(envelope-from <pm_bounces@pm-bounces.applytojob.com>)
+	for <hey@sarahpaz.ca>; Thu, 18 Jul 2019 00:30:12 -0400
+Return-path: <pm_bounces@pm-bounces.applytojob.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 18 Jul 2019 00:30:12 -0400
+Received: from mta200a-ord.mtasv.net ([104.245.209.200]:52432)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <pm_bounces@pm-bounces.applytojob.com>)
+	id 1hny3V-000eW2-MP
+	for hey@sarahpaz.ca; Thu, 18 Jul 2019 00:30:12 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=20171129120733pm; d=applytojob.com;
+ h=Message-ID:MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Content-Transfer-Encoding; i=recruiting+50903106@applytojob.com;
+ bh=K3IyUN/4cO5uTqewo0haD3nhOAE=;
+ b=HY/TjtcqABBs/t/ZlBibgOphDya3yv6KA7KOaR8TLj55rtGAzVfeba8xoOfcexD8IYPfWffNlyfV
+   pTUrkbkQsFelulglTvISdtYh/zDn6V0x1DDTxO+9e9aVQNvkqKUr5vkDONdcb9O0gbpct1Yo1tzt
+   yZnz+yH2SUCmakB1Yeo=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pm; d=pm.mtasv.net;
+ h=Message-ID:MIME-Version:From:To:Reply-To:Date:Subject:Content-Type:Content-Transfer-Encoding;
+ bh=K3IyUN/4cO5uTqewo0haD3nhOAE=;
+ b=x4eIHu6P31oAAsYu13ZLcC9WMjT/JPUHD7O5FcwQD/oDw27oMTEb4Qept/Q8GiSdZGv/ajVAAZ2Y
+   859rWXeCdW87hWtmr1kzz6EPT2eLQYvP6n7s9g9OkkPOj/SJ46pnKAxnxQU/ysDrhGAl0bksz84o
+   8uiWq9+VAet/71j7uao=
+Received: by mta200a-ord.mtasv.net id h5vqt21jk5kp for <hey@sarahpaz.ca>; Thu, 18 Jul 2019 00:29:28 -0400 (envelope-from <pm_bounces@pm-bounces.applytojob.com>)
+X-PM-IP: 104.245.209.200
+X-IADB-IP: 104.245.209.200
+X-IADB-IP-REVERSE: 200.209.245.104
+Feedback-ID: s3394867-Y3VzdG9tZXJfMjAxNjAxMjkyMDUzMDlfRktJWUQ1WFRaWkNRTElQRg==:s3394867:a144715:postmark
+X-Complaints-To: abuse@postmarkapp.com
+X-PM-Message-Id: f46c66e0-d319-4620-858b-52970c5c0172
+X-PM-Tag: customer_20160129205309_FKIYD5XTZZCQLIPF
+X-PM-RCPT: |bTB8MTQ0NzE1fDMzOTQ4Njd8aGV5QHNhcmFocGF6LmNh|
+Message-ID: <f46c66e0-d319-4620-858b-52970c5c0172@mtasv.net>
+MIME-Version: 1.0
+From: "Monica Sasinouan" <recruiting+50903106@applytojob.com>
+To: "Sarah Paz" <hey@sarahpaz.ca>
+Reply-To: "Monica Sasinouan"
+ <c20190718042928YOH6SFWIPA4IC1RT@mail.applytojob.com>
+Date: 18 Jul 2019 00:29:28 -0400
+Subject: TouchBistro - Full Stack Development Support Intern
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=2.6
+X-Spam-Score: 26
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah, Thank you for applying to TouchBistro. After
+   careful consideration, we have decided not to pursue your candidacy for this
+    position. We would like to extend our sincere thanks for your engagement
+   in th [...] 
+ Content analysis details:   (2.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: applytojob.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at https://www.dnswl.org/,
+                             low trust
+                             [104.245.209.200 listed in list.dnswl.org]
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<p>Hello Sarah,</p><p>Thank you for applying to TouchBistro. Afte=
+r careful consideration, we have decided not to pursue your candi=
+dacy for this position. We would like to extend our sincere thank=
+s for your engagement in the recruitment process to date. Please =
+do keep an eye out on our careers website for future roles that m=
+atch your application. We will retain your resume and if a positi=
+on opens that closely matches your skill set, we will contact you=
+ at that time.</p><p>Thanks again for your interest in employment=
+ at TouchBistro.</p><p>All the best!</p><p>TouchBistro Recruitmen=
+t Team</p><p> </p><img src=3D"http://ea.pstmrk.it/open/djJfMjAxOT=
+A3MThfMTQ0NzE1XzMzOTQ4NjdfY3VzdG9tZXJfXzIwMTYwMTI5MjA1MzA5X19GS0l=
+ZRDVYVFpaQ1FMSVBGX2Y0NmM2NmUwLWQzMTktNDYyMC04NThiLTUyOTcwYzVjMDE3=
+Ml9oZXlAc2FyYWhwYXouY2FfIk1vbmljYSBTYXNpbm91YW4iIDxyZWNydWl0aW5nK=
+zUwOTAzMTA2QGFwcGx5dG9qb2IuY29tPl9Ub3VjaEJpc3RybyAtIEZ1bGwgU3RhY2=
+sgRGV2ZWxvcG1lbnQgU3VwcG9ydCBJbnRlcm4=3D" width=3D"1" height=3D"1=
+" border=3D"0" alt=3D"" />
+

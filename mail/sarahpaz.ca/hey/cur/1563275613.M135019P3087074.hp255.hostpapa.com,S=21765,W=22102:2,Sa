@@ -1,0 +1,337 @@
+Return-Path: <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqrah3503uz7es68fl@bounce.linkedin.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id OEh9B12xLV3iGi8AOhTp2Q
+	(envelope-from <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqrah3503uz7es68fl@bounce.linkedin.com>)
+	for <hey@sarahpaz.ca>; Tue, 16 Jul 2019 07:13:33 -0400
+Return-path: <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqrah3503uz7es68fl@bounce.linkedin.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 16 Jul 2019 07:13:33 -0400
+Received: from maile-ab.linkedin.com ([108.174.3.194]:43380)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqrah3503uz7es68fl@bounce.linkedin.com>)
+	id 1hnLOl-00Cx9f-W8
+	for hey@sarahpaz.ca; Tue, 16 Jul 2019 07:13:33 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1563275556;
+	bh=MpjysI4zmjIoQoacrsSp/M6fqEj1t0WAXLp3gVj3sn4=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=epSmGSft11auleCp6EsZX6ydJRaXIyX5r+93Hj3SNHyLD0vhgGmtZ3pVS8dNIoO36
+	 KKlb2yIYwqXfiqbbc52MNWAK+mKjf6975ygsmmgNjAsLScLQSFPQO+dcOTTBgi8Xvb
+	 ouLLv8WiVFxRomqnzME2eC3irhMnon9uwCLEBNFANoGAfpGLHOaiOWYPU+bZdHZ6vp
+	 4h9dOzb0I60m8MHeo3ATZGRxbCj6llQsDUmaZ/GheGkFIxGnupCyHlFuUJbvsf1JWC
+	 Fbp9nxubD2k4cTbwnQYADetY17OimcPAt5KmitvcgLMtJ6V/0EySIbA1J3YwRxXeHh
+	 065pL+e2+duoA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;
+	s=proddkim1024; t=1563275556;
+	bh=MpjysI4zmjIoQoacrsSp/M6fqEj1t0WAXLp3gVj3sn4=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=pqigdMJXBR/8IjZUUjPTm6LHypGfwupKX5aNqgOajlds80CMHCNSwbunTWxKik3rz
+	 PzIC1rxd+6OoXXjeFTOxuSn3A4TLHFHRFrB1c7LU8fpbspfi2GYDmadKqN+jCT8H0I
+	 Aob3DtaWM4rXxHUOOW2GhrgHSvtsbTT+I48MYXJs=
+From: LinkedIn <news-noreply@linkedin.com>
+Message-ID: <2098473604.1942272.1563275563062.JavaMail.app@lor1-app13050.prod.linkedin.com>
+Subject: News about Jose Quesada
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1942268_1099216108.1563275563059"
+To: Sarah Paz <hey@sarahpaz.ca>
+Date: Tue, 16 Jul 2019 11:12:43 +0000 (UTC)
+X-LinkedIn-Class: LIN-NEWS
+X-LinkedIn-Template: b2_newsle
+X-LinkedIn-fbl: m2-asztjaavdliar0o3wwc1d43tcldjfeafhaijdvhmmlhfryleimvwlvdqfu3zb20kqvgumjglkydv4kmu4v3k4jamj7ymnyrlj9hai0
+X-LinkedIn-Id: fh7ut-jy5pw9fi-41
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=fh7ut-jy5pw9fi-41&t=lun&midToken=AQFL0x-p2e9pXw&ek=b2_newsle&loid=AQGGMVsqkTes_wAAAWv6fAmytYW6-RqRFh7HcLtfZgzZ0Tcd_SoSSHDxwKvw5JRKKh_JRdtdnZHzRn_DLDxTZqJ0p6LLFpE&eid=fh7ut-jy5pw9fi-41>
+Require-Recipient-Valid-Since: hey@sarahpaz.ca; Tue, 14 May 2019 03:26:09 +0000
+X-Spam-Status: No, score=-7.5
+X-Spam-Score: -74
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  News About Your Network Jose Quesada AI Deep Dive chooses
+   Toronto over San Francisco for AI skills course (17 hours ago) https://betakit.com/ai-deep-dive-chooses-toronto-over-san-francisco-for-ai-skills-course/
+    “I want to [...] 
+ Content analysis details:   (-7.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [108.174.3.194 listed in list.dnswl.org]
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: betakit.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+------=_Part_1942268_1099216108.1563275563059
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+News About Your Network
+
+
+Jose Quesada
+AI Deep Dive chooses Toronto over San Francisco for AI skills course (17 ho=
+urs ago)
+https://betakit.com/ai-deep-dive-chooses-toronto-over-san-francisco-for-ai-=
+skills-course/
+=E2=80=9CI want to prove beyond doubt that, literally, anyone can build use=
+ful tools with AI, and that these tools can solve real problems,=E2=80=9D <=
+b>Jose Quesada</b>, founder and CEO of AI Deep Dive, told BetaKit. =E2=80=
+=9CWe are not talking about papers or secret projects inside the walls of a=
+ giant corporation. ...
+
+------------------------
+
+
+
+
+
+
+This is an occasional email to help you get the most out of LinkedIn. Unsub=
+scribe here: https://www.linkedin.com/e/v2?e=3Dfh7ut-jy5pw9fi-41&t=3Dlun&mi=
+dToken=3DAQFL0x-p2e9pXw&tracking=3Deml-newsle-f-unsub&ek=3Db2_newsle&loid=
+=3DAQHAbYiqZLzQ5wAAAWv6fAmFWbiHKFYb8tgHez8A52WaqlmxcuWZUhZ5y65p9zME7jwwmPv2=
+eJ_ggGzdcu_p4xurMD9l-m4&eid=3Dfh7ut-jy5pw9fi-41
+
+=C2=A9 2019 LinkedIn Ireland Unlimited Company. LinkedIn, the LinkedIn logo=
+, and InMail are registered trademarks of LinkedIn Corporation in the Unite=
+d States and/or other countries. All rights reserved.
+
+
+This email was intended for Sarah Paz (Full Stack Web Dev Student + E-Comme=
+rce Specialist).=20
+Learn why we included this: https://www.linkedin.com/e/v2?e=3Dfh7ut-jy5pw9f=
+i-41&lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20dahCqGQDamFrp4H9Uisw%3D%3=
+D&a=3DcustomerServiceUrl&midToken=3DAQFL0x-p2e9pXw&ek=3Db2_newsle&articleId=
+=3D4788
+
+LinkedIn is a registered business name of LinkedIn Ireland Unlimited Compan=
+y.
+Registered in Ireland as a private unlimited company, Company Number 477441
+Registered Office: Wilton Plaza, Wilton Place, Dublin 2, Ireland
+
+
+LinkedIn does not guarantee that news articles are accurate or about the co=
+rrect person.
+------=_Part_1942268_1099216108.1563275563059
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <meta name=3D"viewport" content=3D"width=3Ddevice-=
+width"> <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8"> <style type=3D"text/css">@media only screen and (max-width:532px) { =
+table[id=3Dmain_container], table[id=3Dtop_bar], table[id=3Dfooter_inner] {=
+ width:100% !important; max-width:532px; } td[id=3Dslogan] { display:none; =
+} *[class].img-responsive { width:100% !important; } } @media only screen a=
+nd (max-width:532px) { *[class].responsive-logo, *[class].responsive-articl=
+e, *[class].responsive-footer, *[class].responsive-headline { width:96% !im=
+portant; max-width:532px; text-align:left; } } </style> </head> <body style=
+=3D"padding:0;margin:0;color:#333333;font-size:14px;line-height:20px;font-f=
+amily:Helvetica,Arial,sans-serif;"> <table role=3D"presentation" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"padding:0;margin:0;color:#3=
+33333;font-size:14px;font-family:Helvetica,Arial,sans-serif;line-height:20p=
+x;" width=3D"100%" height=3D"100%" bgcolor=3D"#ffffff"> <tbody> <tr> <td al=
+ign=3D"center" valign=3D"top"> <table role=3D"presentation" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans=
+-serif; " width=3D"100%" height=3D"46" bgcolor=3D"#f2f2f2"> <tbody> <tr> <t=
+d width=3D"100%" align=3D"center" valign=3D"top"> <table width=3D"1" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D=
+"height:11px;font-size:11px;line-height:11px"> &nbsp; </div></td> </tr> </t=
+body> </table> <table role=3D"presentation" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=
+=3D"100%"> <tbody> <tr> <td width=3D"100%" height=3D"9" style=3D"font-size:=
+7px;line-height:9px;"><a href=3D"" style=3D"font-size:7px;-webkit-text-size=
+-adjust:none;color:#f2f2f2;">Your connections are in the news! AI Deep Dive=
+ chooses Toronto over San Francisco for AI skills course</a><img alt=3D"" r=
+ole=3D"presentation" src=3D"http://www.linkedin.com/emimp/ip_Wm1nM2RYUXRhbm=
+sxY0hjNVpta3ROREU9OllqSmZibVYzYzJ4bDo=3D.gif" style=3D"width:1px; height:1p=
+x;"></td> </tr> </tbody> </table> <table id=3D"top_bar" width=3D"532" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"15" style=3D"font-family:Helvetica=
+,Arial,sans-serif;"> <tbody> <tr> <td align=3D"left" style=3D"font-family:H=
+elvetica,Arial,sans-serif;"><a href=3D"https://www.linkedin.com/comm/feed/?=
+midToken=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_news-3-header&amp=
+;trkEmail=3Deml-b2_newsle-network_news-3-header-null-fh7ut%7Ejy5pw9fi%7E41-=
+null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20dahCqG=
+QDamFrp4H9Uisw%3D%3D"><img src=3D"https://static.licdn.com/sc/p/com.linkedi=
+n.email-assets-frontend%3Aemail-assets-frontend-static-content%2B__latest__=
+/f/%2Femail-assets-frontend%2Fimages%2Femail%2Flogos%2Flogo_linkedin_tm_ema=
+il_95x21_v1.png" width=3D"95" height=3D"21" alt=3D"LinkedIn" style=3D"borde=
+r:none;text-decoration:none;"></a> <table width=3D"1" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D"height:15px;fo=
+nt-size:15px;line-height:15px"> &nbsp; </div></td> </tr> </tbody> </table><=
+p style=3D"margin:0px;font-weight:100;font-size:24px;line-height:1.2em;font=
+-family:Helvetica,Arial,sans-serif;">Connections In The News</p> <table wid=
+th=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td=
+> <div style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div>=
+</td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbo=
+dy> </table> <table id=3D"main_container" width=3D"532" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"15"> <tbody> <tr> <td align=3D"left" valign=3D"t=
+op"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <=
+tbody> <tr> <td> <div style=3D"height:25px;font-size:25px;line-height:25px"=
+> &nbsp; </div></td> </tr> </tbody> </table> <table role=3D"presentation" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvet=
+ica,Arial,sans-serif;border-bottom:1px solid #dddddd;" width=3D"100%" bgcol=
+or=3D"#ffffff"> <tbody> <tr> <td valign=3D"top" style=3D"padding-bottom:25p=
+x;"> <table role=3D"presentation" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%"> =
+<tbody> <tr> <td width=3D"100%" style=3D"padding-bottom:17px;"> <table role=
+=3D"presentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"font-family:Helvetica,Arial,sans-serif; " width=3D"auto" align=3D"left"> <=
+tbody> <tr> <td valign=3D"top" style=3D"padding-right:15px;"><a href=3D"htt=
+ps://www.linkedin.com/comm/in/jfquesada?midToken=3DAQFL0x-p2e9pXw&amp;trk=
+=3Deml-b2_newsle-network_news-6-mentionedMemberPhoto&amp;trkEmail=3Deml-b2_=
+newsle-network_news-6-mentionedMemberPhoto-null-fh7ut%7Ejy5pw9fi%7E41-null-=
+neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_new=
+sle%3B20dahCqGQDamFrp4H9Uisw%3D%3D"><img style=3D"border:0;display:block;" =
+src=3D"https://media.licdn.com/dms/image/C4D03AQHovcVe52vd5g/profile-displa=
+yphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3DhU_YF9xdsl2t6B1=
+9qNzdml_0VxNX-5fDHsPtWBsJmA0" width=3D"50" height=3D"50" alt=3D"Jose Quesad=
+a"></a></td> <td valign=3D"top"> <table role=3D"presentation" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sa=
+ns-serif; " width=3D"auto"> <tbody> <tr> <td style=3D"padding:5px 0 0;color=
+:#303030;font-weight:300;font-size:14px;line-height:20px;font-family:Helvet=
+ica,Arial,sans-serif;"><a style=3D"color:#303030;text-decoration:none;" hre=
+f=3D"https://www.linkedin.com/comm/in/jfquesada?midToken=3DAQFL0x-p2e9pXw&a=
+mp;trk=3Deml-b2_newsle-network_news-5-mentionedMemberName&amp;trkEmail=3Dem=
+l-b2_newsle-network_news-5-mentionedMemberName-null-fh7ut%7Ejy5pw9fi%7E41-n=
+ull-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2=
+_newsle%3B20dahCqGQDamFrp4H9Uisw%3D%3D">Jose Quesada</a></td> </tr> <tr> <t=
+d style=3D"font-weight:100;font-size:13px;line-height:19px;font-family:Helv=
+etica,Arial,sans-serif;"><a href=3D"" style=3D"color:#bbbbbb;text-decoratio=
+n:none;">betakit.com =C2=B7 17 hours ago</a></td> </tr> </tbody> </table></=
+td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"font-size:1px;line=
+-height:1px;"></td> </tr> <tr> <td style=3D"padding-bottom:10px;font-size:2=
+1px;line-height:1.2;font-family:Helvetica,Arial,sans-serif;"><a style=3D"fo=
+nt-weight:100;text-decoration:none;color:#0077B5;" href=3D"https://www.link=
+edin.com/comm/feed/update/urn:li:activity:6556593441898287104?highlightedUp=
+dateUrns=3Durn%3Ali%3Aactivity%3A6556593441898287104&amp;highlightedUpdateT=
+ypes=3DMITN&amp;midToken=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_n=
+ews-4-null&amp;trkEmail=3Deml-b2_newsle-network_news-4-null-null-fh7ut%7Ejy=
+5pw9fi%7E41-null-neptune%2Ffeed%2Eupdate&amp;lipi=3Durn%3Ali%3Apage%3Aemail=
+_b2_newsle%3B20dahCqGQDamFrp4H9Uisw%3D%3D&amp;trk=3Deml-b2_newsle-article_h=
+eadline_deeplink">AI Deep Dive chooses Toronto over San Francisco for AI sk=
+ills course</a></td> </tr> <tr> <td style=3D"color:#555555;font-weight:100;=
+font-size:14px;line-height:1.4;font-family:Helvetica,Arial,sans-serif;">=E2=
+=80=9CI want to prove beyond doubt that, literally, anyone can build useful=
+ tools with AI, and that these tools can solve real problems,=E2=80=9D <b>J=
+ose Quesada</b>, founder and CEO of AI Deep Dive, told BetaKit. =E2=80=9CWe=
+ are not talking about papers or secret projects inside the walls of a gian=
+t corporation. ...</td> </tr> <tr> <td style=3D"padding-top:15px;"> <table =
+role=3D"presentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"auto" align=3D"left=
+"> <tbody> <tr> <td style=3D"white-space:nowrap;font-weight:100;font-size:1=
+4px;font-family:Helvetica,Arial,sans-serif;padding-right:11px;"><a href=3D"=
+https://www.linkedin.com/comm/messaging/compose/?connId=3Djfquesada&amp;bod=
+y=3DCongrats+on+the+article&amp;midToken=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_=
+newsle-network_news-9-articleCongratsMsg&amp;trkEmail=3Deml-b2_newsle-netwo=
+rk_news-9-articleCongratsMsg-null-fh7ut%7Ejy5pw9fi%7E41-null-neptune%2Fmess=
+aging%2Ecompose&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20dahCqGQDam=
+Frp4H9Uisw%3D%3D" style=3D"color:#0077B5;text-decoration:none;">Message Jos=
+e</a></td> <td style=3D"color:#999999;font-family:Helvetica,Arial,sans-seri=
+f;padding-right:10px;">=C2=B7</td> <td style=3D"white-space:nowrap;font-wei=
+ght:100;font-size:14px;font-family:Helvetica,Arial,sans-serif;padding-right=
+:10px;"><a href=3D"https://www.linkedin.com/e/v2?e=3Dfh7ut-jy5pw9fi-41&amp;=
+lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20dahCqGQDamFrp4H9Uisw%3D%3D&amp=
+;t=3Dplh&amp;midToken=3DAQFL0x-p2e9pXw&amp;ek=3Db2_newsle&amp;li=3D8&amp;m=
+=3Dnetwork_news&amp;ts=3DarticleShareLinkedin&amp;urlhash=3DG00g&amp;url=3D=
+https%3A%2F%2Fwww%2Elinkedin%2Ecom%2FshareArticle%3Furl%3Dhttps%3A%2F%2Fbet=
+akit%2Ecom%2Fai-deep-dive-chooses-toronto-over-san-francisco-for-ai-skills-=
+course%2F" style=3D"color:#0077B5;text-decoration:none;">Share</a></td> <td=
+ style=3D"color:#999999;font-family:Helvetica,Arial,sans-serif;">=C2=B7</td=
+> <td style=3D"white-space:nowrap;font-weight:100;padding-left:10px;font-si=
+ze:14px;font-family:Helvetica,Arial,sans-serif;"><a href=3D"https://www.lin=
+kedin.com/comm/feed/?articleUrnStr=3Durn%3Ali%3Aarticle%3A84087636051054882=
+94&amp;mentionedEntityStr=3Durn%3Ali%3Amember%3A9939735&amp;midToken=3DAQFL=
+0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_news-7-articleWrongPerson&amp;tr=
+kEmail=3Deml-b2_newsle-network_news-7-articleWrongPerson-null-fh7ut%7Ejy5pw=
+9fi%7E41-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3=
+B20dahCqGQDamFrp4H9Uisw%3D%3D" style=3D"color:#bbbbbb;text-decoration:none;=
+">Wrong Person?</a></td> </tr> </tbody> </table></td> </tr> </tbody> </tabl=
+e></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <table role=3D=
+"presentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"fo=
+nt-family:Helvetica,Arial,sans-serif; " width=3D"100%"> <tbody> <tr> <td wi=
+dth=3D"100%" align=3D"center" valign=3D"top"> <table id=3D"footer_inner" wi=
+dth=3D"532" border=3D"0" cellspacing=3D"0" cellpadding=3D"9" style=3D"color=
+:#999999;font-size:11px;line-height:14px;font-family:Helvetica,Arial,sans-s=
+erif;"> <tbody> <tr> <td align=3D"left" style=3D"color:#999999;font-size:11=
+px;line-height:14px;font-family:Helvetica,Arial,sans-serif;">You are receiv=
+ing Connections in the News emails. <a href=3D"https://www.linkedin.com/e/v=
+2?e=3Dfh7ut-jy5pw9fi-41&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20da=
+hCqGQDamFrp4H9Uisw%3D%3D&amp;t=3Dplh&amp;midToken=3DAQFL0x-p2e9pXw&amp;ek=
+=3Db2_newsle&amp;urlhash=3D-R85&amp;url=3Dhttps%3A%2F%2Fhelp%2Elinkedin%2Ec=
+om%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F50021" style=3D"color:#2e8dd7;text-dec=
+oration:none;">Learn more</a> about this feature. <a href=3D"https://www.li=
+nkedin.com/e/v2?e=3Dfh7ut-jy5pw9fi-41&amp;t=3Dlun&amp;midToken=3DAQFL0x-p2e=
+9pXw&amp;tracking=3Deml-newsle-f-unsub&amp;ek=3Db2_newsle&amp;loid=3DAQGvdq=
+0djrOXCwAAAWv6fAmCD3pphxKQi22_lAB3E0BY_L6sTVd6GCMxtW8mBo8yAMyImiFI-dyrbzu-H=
+d2D-v8wAozEgW4&amp;eid=3Dfh7ut-jy5pw9fi-41" style=3D"color:#2e8dd7;text-dec=
+oration:none;">Unsubscribe</a>. <table role=3D"presentation" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,san=
+s-serif; " width=3D"100%"> <tbody> <tr> <td> <table width=3D"1" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D"heig=
+ht:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr> </tbody>=
+ </table></td> </tr> <tr> <td align=3D"center"> <table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#999999;font-size:11px;font-fam=
+ily:Helvetica,Arial,sans-serif;line-height:14px;" width=3D"100%"> <tbody> <=
+tr> <td align=3D"center" dir=3D"ltr">=C2=A9 2019 LinkedIn Ireland Unlimited=
+ Company. LinkedIn, the LinkedIn logo, and InMail are registered trademarks=
+ of LinkedIn Corporation in the United States and/or other countries. All r=
+ights reserved.</td> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D"height:10px;=
+font-size:10px;line-height:10px"> &nbsp; </div></td> </tr> </tbody> </table=
+></td> </tr> <tr> <td align=3D"center"></td> </tr> <tr> <td align=3D"center=
+">This email was intended for Sarah Paz (Full Stack Web Dev Student + E-Com=
+merce Specialist). <a href=3D"https://www.linkedin.com/e/v2?e=3Dfh7ut-jy5pw=
+9fi-41&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3B20dahCqGQDamFrp4H9Uis=
+w%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQFL0x-p2e9pXw&amp;ek=3Db=
+2_newsle&amp;articleId=3D4788" style=3D"color:#2e8dd7;text-decoration:none;=
+">Learn why we included this.</a></td> </tr> <tr> <td> <table width=3D"1" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div sty=
+le=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr=
+> </tbody> </table></td> </tr> <tr> <td align=3D"center" dir=3D"ltr">Linked=
+In is a registered business name of LinkedIn Ireland Unlimited Company.</td=
+> </tr> <tr> <td align=3D"center" dir=3D"ltr">Registered in Ireland as a pr=
+ivate unlimited company, Company Number 477441</td> </tr> <tr> <td align=3D=
+"center" dir=3D"ltr">Registered Office: Wilton Plaza, Wilton Place, Dublin =
+2, Ireland</td> </tr> </tbody> </table></td> </tr> <tr> <td> <table width=
+=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> =
+<div style=3D"height:20px;font-size:20px;line-height:20px"> &nbsp; </div></=
+td> </tr> </tbody> </table></td> </tr> </tbody> </table><p style=3D"color:#=
+333333;">LinkedIn does not guarantee that news articles are accurate or abo=
+ut the correct person.</p></td> </tr> </tbody> </table></td> </tr> </tbody>=
+ </table></td> </tr> </tbody> </table> </body> </html>
+------=_Part_1942268_1099216108.1563275563059--
+

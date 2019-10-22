@@ -1,0 +1,722 @@
+Return-Path: <smtp@neuvoo.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 6FcbDp7pjl0+dzAAOhTp2Q
+	(envelope-from <smtp@neuvoo.com>)
+	for <hey@sarahpaz.ca>; Sat, 28 Sep 2019 01:03:26 -0400
+Return-path: <smtp@neuvoo.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sat, 28 Sep 2019 01:03:26 -0400
+Received: from ses.neuvoo.com ([142.44.199.253]:44063)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <smtp@neuvoo.com>)
+	id 1iE4t8-00DK3V-8L
+	for hey@sarahpaz.ca; Sat, 28 Sep 2019 01:03:26 -0400
+To: hey@sarahpaz.ca
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=neuvoo.com; s=mail;
+	t=1569646977; bh=L/YPSGSwr0fzoEpPudUhVUIu8MXbOfzwPSuCKuBynL8=;
+	h=Subject:From:MIME-Version:Content-Type:Message-Id:Date:From;
+	b=pX8wlUmjvTDcTiWn5ripLCcdvNNFQ+5G13g7Kg8jEsshUogiaYvGh2NSNVfzOqHXd
+	 Ki2tZXKBsiDZC5bKPWtQY59W/YvjXsYcgaJU7xCM5v94n5ai7Kxwqpm4lpQ4AXXsIU
+	 g1rwByrc3REql12yTifxZANwYWT8bF4pXDvDd2ng=
+Subject: =?utf-8?B?VXNlciBFbmdhZ2VtZW50IFNwZWNpYWxpc3Qgam9icyBpbiBUb3JvbnRvIGFyZSB3YWl0aW5nIGZvciB5b3Uh?=
+From: Neuvoo<job@neuvoo.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Reply-To: no-reply@neuvoo.com
+List-Unsubscribe: <mailto:unsubscribe@delist.neuvoo.com?subject=mailtoTag:8330b528653f-MTA:MTA2-w:6dbefddgcddf6dd7eed3gddg6dd7fed3gddecdb8>
+Feedback-ID: JOBALERT:MTA2:neuvoo
+X-Customer-ID: faa8daab29e76c9gf9adga9f89aefa
+X-Alert-ID: 8330b528653f
+Message-Id: <20190928050257.20738580F7F@ses.neuvoo.com>
+Date: Sat, 28 Sep 2019 05:02:57 +0000 (UTC)
+X-Spam-Status: No, score=0.7
+X-Spam-Score: 7
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Your daily job alert Thank you for registering to email alerts!
+    Below is a sample of what you can expect to receive everyday from now on.
+    If you want to update your preferences, click here. Hi! Newest jobs posted
+    in the last 24h for: User Engagement Specialist, Toronto 
+ Content analysis details:   (0.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at https://www.dnswl.org/,
+                             low trust
+                             [142.44.199.253 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.1 HTML_TAG_BALANCE_BODY  BODY: HTML has unbalanced "body" tags
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+
+    <html>
+    <head>
+    <meta content="telephone=no" name="format-detection">
+    </head>
+    <body>
+   
+    <div style="">
+    <div class="rcmBody " style="font-family: arial,sans-serif;color: #5A5A5A;text-align: center;margin-left: auto;margin-right: auto; margin-top:20px;">
+    <!-- node type 8 -->
+    
+    <table style="margin: 0 auto;padding-top: 10px; padding-bottom: 30px;width: 100%;text-align: left; max-width:650px;table-layout: fixed;">
+    <tbody><tr>
+    <td class="width320" style="border-radius: 12px;overflow: hidden;  box-shadow: 0px 9px 20px 2px #b9b9b9 !important; -webkit-box-shadow: 0px 9px 20px 2px #b9b9b9 !important;-moz-box-shadow: 0px 9px 20px 2px #b9b9b9 !important; background-color:white; ">
+    <table style="width: 101%;height: auto;padding: 10px 20px;background-color: #00b2f3;border-radius: 12px 12px 0px 0px;margin-left: -1px;margin-top: -1px;">
+      <tbody><tr>
+        <td   style="width: 100%;height: auto;padding: 10px 0px;background-color: #00b2f3;"><img src="https://neuvoo.com/V5/img/neuvoo-w.png" alt="neuvoo" style="font-size: 22px;color: white;width: 100%;max-width: 90px;">
+
+          <div style="color: white;text-align: right;float: right;font-size: 15px;font-weight: bold;width: 50%;">Your daily job alert</div></td>
+        
+      </tr>
+    </tbody></table>
+    <div style="width: 100%;background-color: #F8F8F8;"><div style="padding: 15px 15px 25px 20px;text-align: justify; color:#484848;" dir="auto">Thank you for registering to email alerts! Below is a sample of what you can expect to receive everyday from now on. If you want to update your preferences, <a style="" href="https://neuvoo.ca/my/notifications/?e_token=faa8daab29e76c9gf9adga9f89aefa&authToken=2dfe94a96d420cda&lang=en">click here</a>.<div  style="margin-top:3px;"><b><span dir="auto"></span><span dir="auto"></span></b></div></div></div><div style="width: 100%;background-color: #F8F8F8;"><div style="padding: 15px 15px 25px 20px;text-align: justify; color:#484848;" dir="auto">Hi! Newest jobs posted in the last 24h for:<div  style="margin-top:3px;"><b><span dir="auto">User Engagement Specialist, Toronto</span><span dir="auto"></span></b></div></div></div><div style=""><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320p
+ x;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=dd16cd162092&pag=1&pos=1&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Digital Product Marketing Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Moody's </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, ON, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=ac74463a453b&pag=1&pos=2&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">SEM Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">The Creative Group </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=294d0f2dd77f&pag=1&pos=3&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Spécialiste des ventes d'appareils</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">RONA </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Markham, 
+					Ontario, CA</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=407c584a14a7&pag=1&pos=4&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Sales Operations Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">iTMethods </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=1717796d36bb&pag=1&pos=5&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Bilingual System Support Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">CARQUEST Canada </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=fc03260b51d0&pag=1&pos=6&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">E-Commerce Support Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Manpower </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=3f52b3e4f863&pag=1&pos=7&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">DevOps Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">TwoHat </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=cb572a53d559&pag=1&pos=8&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Specialist, Training</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Spin Master </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=98423a4acc27&pag=1&pos=9&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Senior Technical Specialist - AVL</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=74de60a67744&pag=1&pos=10&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Technical Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Eagle Professional Resources Inc.&zwnj; </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=8dd5337b529c&pag=1&pos=11&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Business System Specialist - SAP HCM - Toronto</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">CP </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=1c4e9fdae9cb&pag=1&pos=12&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">IT- Bilingual Client Interactive Specialist (English and French)</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Innomar Strategies Inc.&zwnj; </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Oakville, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=817a0d907560&pag=1&pos=13&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">SEM / Paid Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">The Creative Group </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=3e0fb5029bd3&pag=1&pos=14&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">AML Solutions Specialist, Business Process Focus</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=7c203943f44b&pag=1&pos=15&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Marketing Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Canvass Analytics </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=46fe036214af&pag=1&pos=16&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Bilingual Customer Success Specialist (English/French)</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=470fe589f0e8&pag=1&pos=17&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Talent Acqusition Specialist</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">TALENTCOR </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Vaughan, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=7cc1d14954d7&pag=1&pos=18&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Vice President, Business Development (Reformulary Group)</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">JobLeads </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=c28fae085599&pag=1&pos=19&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Senior Engineering Manager - APIs & SDKs</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Sensibill </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+                   <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+                   <tr>
+                       <td colspan="2" style="text-align: left;overflow: hidden;">
+                        <div  style="text-overflow: ellipsis;overflow: hidden;    max-height: 52px;">
+                            <a href="http://neuvoo.ca/job.php?id=880af38b1ace&pag=1&pos=20&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Account Manager - London or Niagara Region</a>
+                        </div>
+                       </td>
+                   </tr>
+                    <tr>
+                        <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Meridian Credit Union </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                    </tr>
+                    <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+               </tbody>
+            </table><div style="clear:both"></div><div style="clear: both;"></div><div style="width: 100%;background-color: #F8F8F8;"><div style="margin-top:20px;padding: 15px 5px 15px 20px;text-align: justify;color:#484848;" dir="auto">Jobs you may have missed</div></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=7c46022879d0&pag=2&pos=1&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Digital Content Marketing Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">TwoHat </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=eb2ad0d8f88c&pag=2&pos=2&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Senior Bilingual Loss Recovery Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Meridian Credit Union </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=50d491fa06fe&pag=2&pos=3&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Social Media Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">The Creative Group </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Oakville, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=f13b194c1779&pag=2&pos=4&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Digital Marketing Specialist, App Store Optimization</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">CBC/Radio Canada </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=a260ed87fe86&pag=2&pos=5&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Senior Specialist, Enterprise Mobile Solutions (1 year Contract)</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Samsung </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=b84119ae5788&pag=2&pos=6&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Digital Marketing Specialist, Promotions</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">RONA </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Etobicoke - AC, 
+					Ontario, CA</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=67bc587420a6&pag=2&pos=7&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Change Specialist L2</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Eagle Professional Resources Inc. </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=679693043e2e&pag=2&pos=8&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Customer Experience Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Statflo </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=d8d25c7a4b49&pag=2&pos=9&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Cybersecurity Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=575c061b05fb&pag=2&pos=10&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">ETL SAP BODs Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=e9245ab91579&pag=2&pos=11&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Digital Marketing Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">The Creative Group </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Oakville, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=1fc844f2a045&pag=2&pos=12&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">AML/ATF Quality Control Specialist - Full-Time</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Meridian Credit Union </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=c694da1541f1&pag=2&pos=13&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Network Specialist - Full-Time</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Meridian Credit Union </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=a741cf42616b&pag=2&pos=14&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Email Development & Marketing Automation Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=c61ad5c11cfd&pag=2&pos=15&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Data Warehouse Technical Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=358f56939419&pag=2&pos=16&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Procurement Analyst Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">UPS </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Mississauga, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=0e26c2956f54&pag=2&pos=17&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">System Support Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Procom </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=c65226e8d84f&pag=2&pos=18&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Product Marketing Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">loopio </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=86dec5f64fe3&pag=2&pos=19&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Consumer Care Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">Spin Master </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><table cellpadding="0" style="font-size: 15px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;float: left;width: 320px;padding: 0px 15px;">
+               <tbody><tr style="line-height: 7px"><td colspan="2" style="height: 7px">&nbsp;</td></tr>
+               <tr>
+                   <td colspan="2" style="text-align: left;overflow: hidden;">
+                    <div  style="text-overflow: ellipsis;width: 265px;overflow: hidden;    max-height: 52px;">
+                        <a href="http://neuvoo.ca/job.php?id=cd8ba2c3b711&pag=2&pos=20&utm_medium=email&source=neuvoo-email&tl1=s33_v27&tl2=c_default&tl3=ddp_v27&tl5=hourly_limited_5d_daily_budget_v12&tlf=f1_v27&tgroup=MTA2&send_group=medium&current_group=instant_full&email_source=listing&refid=8330b528653f&email_datein=2019-09-28T01%3A02%3A40Z&email_datesent=2019-09-28T01%3A02%3A41Z&utm_source=sarahpaz.ca&email_status=active&wc_email=yes&lang=en" style="color: #0e40b2;font-weight: normal;text-decoration: none; text-shadow: 0px 0px 0px #333;" target="_blank" rel="noreferrer">Software license Specialist</a>
+                    </div>
+                   </td>
+               </tr>
+                <tr>
+                    <td style="width: 80%"><div  style=" display:inline-flex;"> <div style="max-width: 149px;overflow: hidden;text-overflow: ellipsis;color: #D46500;"><span style="color: #D46500;white-space: nowrap;font-size:13px;">TekStaff </span></div> <div style="max-width: 124px;overflow: hidden;text-overflow: ellipsis;color: #808080;"><span style="color: #808080;white-space: nowrap;font-size:13px;">&nbsp;&nbsp;&nbsp;Toronto, Ontario, Canada</span></div></div></td>
+    
+                </tr>
+                <tr style="line-height: 7px"><td colspan="2" style="height: 7px;">&nbsp;</td></tr>
+           </tbody>
+        </table><div style="clear:both"></div><table style="width: 100%;">
+                        <tbody>
+                            <tr>
+                                <td><a href="http://neuvoo.ca/jobs/?k=User+Engagement+Specialist&l=Toronto&by=date&refid=8330b528653f&utm_source=email&utm_medium=sarahpaz.ca" style="display: block;text-decoration: none;background-color: #484848;font-size: 13px;color: white;text-align: center;padding: 10px 10px;border-radius: 4px;width: 260px;margin: auto;margin-top:35px;" target="_blank" rel="noreferrer">View all 1767 matching jobs</a></td><td>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table><div style="margin-top: 45px;margin-bottom: 45px;padding: 15px 0px;width: 90%;text-align: center;font-size: 13px;border: 1px solid #e3e3e3;display: inline-flex;flex-wrap: wrap;margin-left: 5%;">
+                <div style="text-align: left;margin: auto;color: #484848;margin-bottom: 10px;padding: 0px 10px;"><b style="font-size: 12pt;">Improve alert</b><br> <div style="color: #525252;">Change keywords, location and email</div> </div>
+                <a href="https://neuvoo.ca/my/notifications/?e_token=faa8daab29e76c9gf9adga9f89aefa&authToken=2dfe94a96d420cda&lang=en" style="display: block;text-decoration: none;background-color: #484848;font-size: 13px;color: white;text-align: center;padding: 10px 10px;border-radius: 4px;width: 160px;margin: auto;" target="_blank" rel="noreferrer">Manage job alert settings</a>
+                <div style="clear: both;"></div>
+        </div><div style="display: inline-flex;flex-wrap: wrap;width: 100%;margin-bottom: 45px;">
+                <div style="text-align: center;width: 200px;margin: auto;padding: 10px 0px;"><span style="font-weight: bold;color: #484848;white-space: nowrap;">Salary information</span> <a href="http://neuvoo.ca/salary/?source=email-alert" style="display: block;text-decoration: none;background-color: #484848;font-size: 13px;color: white;text-align: center;padding: 10px 10px;border-radius: 4px;width: 160px;margin: auto;margin-top: 20px;">Salary Search</a></div>
+                <div style="text-align: center;width: 200px;margin: auto;padding: 10px 0px;"><span style="font-weight: bold;color: #484848;white-space: nowrap;">Calculate tax on salary</span> <a href="http://neuvoo.ca/tax-calculator/?source=email-alert" style="display: block;text-decoration: none;background-color: #484848;font-size: 13px;color: white;text-align: center;padding: 10px 10px;border-radius: 4px;width: 160px;margin: auto;margin-top: 20px;">Salary Calculator</a></div>
+                <div style="clear: both;"></div>
+            </div></div><div style="font-size: 13px;text-align: justify;width: 100%;background-color: #F8F8F8;" dir="auto">
+    
+                        <div style="text-align: center;padding: 35px 5px 35px 5px;color: #505050;"> You are receiving this email because you have subscribed to neuvoo's job alert system.<br> If you are receiving this by error or want to completely unsubscribe from all alerts.<br>Please click here:<br><br>
+                        <a href="https://neuvoo.ca/my/notifications/?e_token=faa8daab29e76c9gf9adga9f89aefa&authToken=2dfe94a96d420cda&lang=en&unsubscribe=8330b528653f" style="color: #505050;text-decoration: underline;cursor: pointer;" target="_blank" rel="noreferrer">Unsubscribe from Job Alert</a>
+    
+                        </div>
+                        <div style="width: 100%;padding-bottom: 20px;">
+                            <div style="width: 100%;margin: auto;text-align: center;color: #505050;">
+                               <a href="http://neuvoo.ca" style="color: #505050;"> neuvoo.ca</a> &nbsp; &nbsp; | &nbsp; &nbsp; 
+                               <a href="http://neuvoo.ca/contact/?lang=en" style="color: #505050;">Contact us</a> &nbsp; &nbsp; |&nbsp; &nbsp; 
+                               <a href="http://neuvoo.ca/legal/?lang=en" style="color: #505050;">Privacy Terms</a> 
+    
+                            </div>
+                        </div>
+                        <div style="width: 100%;text-align: center;padding-bottom: 50px;"><span style="width: 200px;margin: auto;color: #505050;"> &#169; 2019 neuvoo</span></div>
+                 </table>       
+                </div>
+                </div>
+                <img width="1px" height="1px" alt="" src="https://neuvoo.com/img/logoEmail/3995eeeefad7caaceeee6dd6eeeead98eded4dededegfaaeddabedee6dd8edea2dabddadeaea4eeeeee44eaebaa789997aabge9eede66edee9e7da9bc99deeee4ee4eeee9aa32aac7eaecd96de9e79ad4aafe9ee6adfeae8d9agea9fd996eee24aedeaeffeaeaea4beaef9ad7ad98edeada67edefaa39aabcaacfaa779dbaaa39eae7ed4deaea9dc9ad4bdaf7edeedd6eeaef9adfdadcdad8bd1f9aafdaeada9eeee6ed4eeee59acca94edee4eeeede69edeeaddab911abcfadbaaaaeaef69dbeae4a9ac4eaece94eeee49eceae49dddeedead961ebega9cca.png">

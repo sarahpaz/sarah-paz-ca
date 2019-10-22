@@ -1,0 +1,984 @@
+Return-Path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id KH9lORL/qV0lZQUAOhTp2Q
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 14:06:10 -0400
+Return-path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Fri, 18 Oct 2019 14:06:10 -0400
+Received: from o12.sendgrid.ziprecruiter.com ([167.89.32.19]:16368)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1iLWdd-001W2u-PA
+	for hey@sarahpaz.ca; Fri, 18 Oct 2019 14:06:10 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=sendgrid.ziprecruiter.com; 
+	h=mime-version:content-type:content-transfer-encoding:from:subject:to; 
+	s=smtpapi; bh=O97p087q6bVOMGPLZjYNRgnVnV0=; b=Ob2ZN/fnM19VzF6Ohs
+	c6yQY4zcRreHB5t2wDC5pAUWSM2sNLjy49/Qneq40SoAa43Xh5etzA6hUrbn+pKr
+	oa/pm8oU79yR9xi8OdwNjTMTa1bNZ4jI8xY6WalsJL18GnQ4UREghNH89X/6AW4y
+	l1Z5by6GRL1J5CE/wr15D3jLM=
+Received: by filter0555p1iad2.sendgrid.net with SMTP id filter0555p1iad2-23675-5DA9FEE8-11
+        2019-10-18 18:05:28.183038178 +0000 UTC m=+153130.352477103
+Received: from zipalerts.com (ec2-52-23-117-207.compute-1.amazonaws.com [52.23.117.207])
+	by ismtpd0060p1mdw1.sendgrid.net (SG) with ESMTP id -blrNGu4S12iWjJKFFw50w
+	for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 18:05:28.051 +0000 (UTC)
+Date: Fri, 18 Oct 2019 18:05:28 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="15714219270.c152303FB.39619"
+Content-Transfer-Encoding: 7bit
+From: "Team @ ZipRecruiter" <seekerteam@ziprecruiter.com>
+Subject: Sarah, Your Job Application Was Viewed Again!
+To: "Sarah Paz" <hey@sarahpaz.ca>
+Message-ID: <-blrNGu4S12iWjJKFFw50w@ismtpd0060p1mdw1.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVlvn/jmezrpHTqloc8lqWLArCDHljPtJU3/ux
+ rx9zxQ2fb2OEQcPZeehBFEfEvBkAb7CgMjACuWAiibH5FWwNqVrzuwp+b1IhACcFm9swg2O3uOe5AY
+ QxUD0WOOjsHa+uqRKJ59Qi2JXrJMwW2lF4bNcnyptCsguqVPWllM03bEMZ78AkyimptUN6quqgzAip
+ Ri5ouaz4qUFS58xZOzFZl7
+X-SG-ID: trnf54TTjAb91d6Ywfb3bh3BmeQCHiosUaVWK/fxndCXFMRQ7N9P5zj9ALKMP1eHzDNh3iCp17IaKQ
+ tiXkr2G5TX8yFNClaju0PM6yGPNtgjykmD1emIpe3+1pv19ri6RfYdWqCcUOXbm+48T4nQE9uoX8gE
+ KFnDFMvY3AoBxLRzmnjuhaB300NXgpjqOcsLC1IpQrv//enRA8ao8LRvNaQPWye0MEpEDj3upSTSPO
+ y2/thKvdy/PFmqp3G9zuhHGEqRr8/xg9sw4OBPNgjbJw==
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Your application for Digital Marketing E-Commerce Specialist
+    at Fitness Startup at Crossrope was viewed! View more Digital Marketing E-Commerce
+    Specialist at Fitness Startup job matches in Toronto, ON https://www.ziprecruiter.com/candidate/suggested-jobs?utm_source=email&utm_medium=email&utm_campaign=bh_
+    [...] 
+ Content analysis details:   (1.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+X-Spam-Flag: NO
+
+--15714219270.c152303FB.39619
+Date: Fri, 18 Oct 2019 11:05:27 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Digital Marketing E-Commerce Specialist at Fitness
+Startup at Crossrope was viewed!
+
+View more Digital Marketing E-Commerce Specialist at Fitness Startup
+job matches in Toronto, ON
+https://www.ziprecruiter.com/candidate/suggested-jobs?utm_source=3Demail&ut=
+m_medium=3Demail&utm_campaign=3Dbh_v1
+
+--15714219270.c152303FB.39619
+Date: Fri, 18 Oct 2019 11:05:27 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>
+  <!-- needed for mobile view -->
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1=
+"/>
+  <title>ZipRecruiter</title>
+  <!--general stylesheet-->
+  <style type=3D"text/css">
+    ul, ol {
+      padding:0px;margin:0px;
+    }
+    img {
+      outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; =
+display: block;
+    }
+    a img {
+      border: 0;
+    }
+    .emoji {
+      display: inline-block;
+    }
+    table td {
+      border-collapse:collapse;
+    }
+    a:link {
+      color: #0e75e2;
+    }
+    a:visited {
+      color: #800080;
+    }
+    a:hover {
+      color: #800080;
+    }
+    /* Normalize margins for android 4.4 native mail, and centering to adju=
+st for android 5.1 auto padding */
+    body {
+      margin:0 auto!important;
+    }
+    div[style*=3D"margin: 16px 0"] {
+      margin:0 auto!important; font-size:100% !important;
+    }
+    /* Mobile view */
+          @media screen and (min-device-width: 320px) and (max-device-width=
+: 480px),
+      screen and (-webkit-device-pixel-ratio:.75),
+      screen and (-webkit-device-pixel-ratio:1.5) {
+        body {
+                      background: #fff none;
+                  }
+        table[id=3D"featured"],
+        table[id=3D"backgroundTable"],
+        table[id=3D"containerTable"],
+        table[id=3D"promotedAboveTable"],
+        table[id=3D"promotedBelowTable"],
+        table[id=3D"resultsTable"],
+        table[id=3D"mainContainer"],
+        table[id=3D"line"],
+        table[id=3D"linePromoted"],
+        table[id=3D"editTable"],
+        table[id=3D"welcomeTable"],
+        table[id=3D"mainContent"],
+        table[id=3D"data-table"]{
+                      width: 380px !important;
+                  }
+        table[class=3D"tableFix"],
+        td[class=3D"tableFix"] {
+          width: 380px !important;
+        }
+        td[class=3D"tableFixSmall"],
+        table[class=3D"tableFixSmall"] {
+          width:350px !important;
+        }
+                  table[id=3D"header"] {
+            width: 400px !important;
+          }
+          table[id=3D"headerShort"] {
+            width: 480px !important;
+          }
+                table[id=3D"shadowTable"] {
+          display:none !important;
+        }
+        td[id=3D"bodyPadding"] {
+                    padding: 0px !important;
+                  }
+        td[id=3D"footer"] {
+                      border-top: 1px solid #dee0e1 !important;
+            padding: 10px 0 !important;
+            background: #fff none !important;
+                  }
+        td[class=3D"mainTDPhone"] {
+                      padding-left: 10px !important;
+            padding-right: 10px !important;
+                    line-height: 1.6 !important;
+        }
+        table[class=3D"dNonePhone"],
+        img[class=3D"dNonePhone"],
+        td[class=3D"dNonePhone"],
+        span[class=3D"dNonePhone"] {
+          display:none !important;
+        }
+        td[class=3D"w100pPhone"] {
+          width:100% !important;
+        }
+        td[class=3D"pSide0Phone"] {
+          padding-left:0 !important;
+          padding-right:0 !important;
+        }
+              }
+      </style>
+</head>
+<body style=3D"margin:0px;padding:0px;">
+    <table id=3D"mainContainer" width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"">
+    <tr>
+      <td align=3D"center" style=3D"padding: 25px 0 25px; background: #f6f7=
+f8 none;" id=3D"bodyPadding">
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:collapse;background-color: #ffffff;margin: 0 auto;border:1px =
+solid #d1d4d5;" id=3D"mainContent">
+          <tr>
+            <td style=3D"background-color: #ffffff;padding-top:0px; padding=
+:10px;padding-bottom:20px; ">
+                              <table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"width:100%;border-collapse:collapse;background-color: #=
+ffffff;border-bottom:1px solid #d1d4d5" id=3D"header">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  <tr>
+                    <td valign=3D"middle" align=3D"left" width=3D"50%" styl=
+e=3D"background-color: #ffffff;padding:20px;padding-top:10px;padding-bottom=
+:10px;" id=3D"logo">
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                          <a href=3D"https://www.ziprecruiter.com?mid=3D378=
+35&amp;source=3Djs-remarketing-triggered-jobseeker-asap-candidate-applicati=
+on-viewed-second---&amp;source_board_id=3D37835&amp;auth_token=3D_v3_62dddb=
+820e924ad07abf12c7645e08bce838ef8fce77645e9a268e0919d963e1&amp;contact_id=
+=3D4a6df941&amp;expires=3D1571594727" target=3D"_blank" title=3D"Sign In to=
+ ZipRecruiter"><img src=3D"https://www.ziprecruiter.com/zrs/086d5dd4/img/lo=
+gos/logo-ziprecruiter-280x112.png" style=3D"margin-top:5px;" width=3D"140" =
+height=3D"56" alt=3D"ZipRecruiter" border=3D"0"/></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                          <td valign=3D"middle" align=3D"ri=
+ght" width=3D"50%" style=3D"background-color: #ffffff;padding-top:25px;padd=
+ing-right:20px;padding-bottom:25px;text-align:right;vertical-align:middle;"=
+ id=3D"signin">
+                                                                      </td>
+                                                          </tr>
+                </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+
+
+
+
+
+
+
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:100%=
+;background-color: #ffffff;border-collapse:collapse;max-width: 640px;" id=
+=3D"line">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"background-color: #ffffff;=
+font-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text=
+-align:center;padding: 40px 20px 0px;">
+      <span style=3D"font-size:32px;color: #2f3639;font-weight:700;text-ali=
+gn:center;line-height:20px;">You're Heating Up! </span>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"background-color: #ffffff;fo=
+nt-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text-a=
+lign:left;padding: 25px 20px 20px;">
+      <span style=3D"font-size:16px;color: #2f3639;font-weight:300;text-ali=
+gn:center;line-height:22px;">Your application  for <span style=3D"font-weig=
+ht:700;">Digital Marketing E-Commerce Specialist at Fitness Startup</span> =
+at <span style=3D"font-weight:700;">Crossrope</span> was just viewed for a =
+<span style=3D"text-decoration:underline;font-weight:bold;">second time</sp=
+an>. Typically, only 17% of applications are viewed twice so congrats - you=
+'re standing out! <span class=3D"emoji">&#128077;</span> <Br><br></span>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"background-color: #ffffff;=
+font-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text=
+-align:center;table-layout:fixed;padding: 0px 40px;">
+      <tr>
+                  <td valign=3D"middle" align=3D"left" width=3D"90%" style=
+=3D"padding-left:20px;padding-right:20px;padding-bottom:30px;text-align:lef=
+t;font-family:Arial,sans-serif;font-size:15px;line-height:18px;color: #2f36=
+39;">
+                          Check the status of all of your applications <a h=
+ref=3D"https://www.ziprecruiter.com/candidate/my-jobs?mid=3D37835&amp;sourc=
+e=3Djs-remarketing-triggered-jobseeker-asap-candidate-application-viewed-se=
+cond---&amp;source_board_id=3D37835&amp;auth_token=3D_v3_62dddb820e924ad07a=
+bf12c7645e08bce838ef8fce77645e9a268e0919d963e1&amp;contact_id=3D4a6df941&am=
+p;expires=3D1571594727" style=3D"color: #0e75e2;" target=3D"_blank">here</a=
+> and keep up the momentum by applying to a few more related jobs we've pic=
+ked for you.
+                        <br />
+            <br />
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/brokrete-inc-2f1f824a-mar=
+keting-metrics-kpis-specialist-for-a-tech-startup-687dee26?clk=3DDvPiDHkWHq=
+sTFCKrabuHZUy0owuWKly_4Jmp-bqDJz2r8z4vlO_78iWEQzxacr5CgPly-kuhCAd6nDqqULMep=
+38gBFSj8fFN7dxDzQYEol3otal1hqaoh9-Of2nGbk6jzbHmAkWLkb4WlHeYIwDmxG4V4cbasUI8=
+j8r99H5yX72cbU9OpNcqZWPp6vMh0hU4_9K-PLfeHdTxuGPG_Gv70GbqV_c488tw0406NTNcW66=
+msnx7gXPo4EXpBto_hRnhX2aOGY_fpBtWyrUL47VqkuzMJrqqz1qkhtoC1jfSmGNzHvtVWND4kB=
+thddPk6sUWvge__5J_eomvmYN0cDd067Ox6hwBTBuNhui85kEpnbmNyTzttx9q3mpBQOJzXgnLC=
+W27d5kSGgOss7ZLTkFFr-Wwxwl_wb1GLhF6xUy97wZlACM8p9GJa3Q0ql8Hdi8JH_pQmz-JyAKn=
+EiresWutToDXF0S49tMo-Njty6zMXCC3nP-l4Zbng5uYbrl00b2Su6GLvpSpQqomjVb_JKC8Sav=
+166jgzcdwD6wnmp5nu2qtH9E05WUTsUiZpMK4aTxtKhULigmcen4eCOp4yyFc4NyXIwh14qrj4m=
+5m3qGCpbAOPdVZ-5Rq8kofWJXlEJcKk5q1feIpUACDhRBupFDYe4Tiw--jUWNMWl0CibfvHa0fU=
+zSBexLOEkRfOuHdLN3v5m9ga53ZWAA3IczcJA1KShVaixooz1ZOlXFGL8RUOUgxGu7HFxUej2D3=
+iNXpbfrUEO15NB_Gk4rYQwVC-NzqY_BDE3qmCss9f8bWkYn-NR6r8cPTs-Ldt3NY_fX7HwqKcgd=
+Iw8Zb03Bm0cWTZ3gvLiHqrUg4Hb2KiRs36TKEzDUOj11lD_i7G_wkUh02QRR89wosf7zXh9xcSb=
+ich0hH7cjxyl4B7YrB430GOntUEFOQoitbHV7JMRDXLxBLrkSXoVemmKfyiO7qt3B87BEvKQ.4c=
+d7af13b81d2409ac7c36806c2506df" style=3D"display:block;text-decoration:none=
+;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Marketing, metrics &amp; KPIs Specialist fo=
+r a tech startup">
+          Marketing, metrics &amp; KPIs Specialist for a tech startup<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">Brokrete inc</span><strong sty=
+le=3D"color: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Toronto, ON</span>
+                        <br />
+        <span style=3D"text-decoration:none;color: #2f3639;font-size:13px;l=
+ine-height:17px;font-weight:bold;">
+          CA$55,000 - CA$85,000 annual (CAD)
+        </span>
+                          <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">Digital Marketing Manager Our company B=
+rokrete is an innovative, real-time ready-mix concrete, raw materials and c=
+onstruction commodities delivery marketplace. If you live and breathe digit=
+al marketing, we want to talk to you. We are looking for a Digital Marketin=
+g specialist to develop, implement, track and optimize our digital marketin=
+g campaigns across all digital channels We are looking for a strategist tha=
+t can help us scale and that can analyze rigorously metrics and KPIs You sh=
+ould have a</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/brokrete-inc-2f1f824a-mar=
+keting-metrics-kpis-specialist-for-a-tech-startup-687dee26?clk=3DD0aovoKtby=
+wJXhf1Rjx7RmyIlFPaigrT_o9YL5eLAc_S3Fy36mk7Q95oR-K6apUFx4kwZoRZQ2o1AKeVEeC91=
+7IsbLjrJy1y4mnQ1Td1q7TE0TektwFUolxiFMm33KsiLObT5U3o7RtFKGOYVQETyFbvfLV73i06=
+htjmxeklaE2w8Pe3VsAZbbOmhLwVHVE3IA8wjG4yDjiibFEe7823ER0veCkH7UnO_WMDhFlGWc0=
+tojLjfH-2Elop1tYcjEGLtUA_jkSimlI9qsxvHdJxjvUyj832p6CaLKl5XLf01cep_BMmR14DX5=
+xKthl_ZT0a7nwHAtYAtLQL95ApwWUh8n5Xw5aVowaPiLZNC5F4g8MH4FsiSOnyIZbD08LA9QuSx=
+3G1RvSPAvit8l2XN-XlWKf2dQJ30Hm8UlcbaIx1N6wBunuC4NFew5cHjQ308-SMbaiL5Y5X5Qtr=
+b7njjZVkHfzqsV45E7_xkEmzWnpnTqBbYFzZgB75lP4AmU3IUQNKAVdUUw1Sm-MtKbVUCRUo65U=
+fW9awEFDjWaS5OeYYIJiAmKsoc7sXZgUEpoyVQm9ZbRhvvkUsNw9bsAGjTpnF23xbBVARkM0FX3=
+Pz05szv0EaziV2USsD6RB5L1c9Y1vI82f0Wc2LF8eKgfzytWwusKaJvYcGwrpNdPvTR6gGEuZSj=
+5sD-ELuPQ3EQgoXPm5RJRc0RUOtvTiT3cki8yKqtVY5j3cKq2Km9E1HGTBrsv1RNQV2Hk8j6tRy=
+g9QQNRDWPd4fBueJpV5tjNxIa_0APbkCoRnd7tw7f5kATtR0hNkWXfqjZxlskNlhkMCvWqhZUU6=
+3GLx_RgZdbeIliH5sEkCpQX_zlMTdPP2Zz-695JmUNbV6ZZogDyaqhVgYGpa1FLAl7h61KWc5ac=
+VcUnpTDQ.d4931079dbb9c33c9635404e46ef3adf" style=3D"white-space:nowrap; bor=
+der:none;text-decoration:none;color:#fff;text-align:center;display:block;fo=
+nt-weight:bold;font-family:Arial,sans-serif;padding-left:15px;padding-right=
+:15px;padding-top:2px;padding-bottom:2px;" target=3D"_blank">1-Click Apply<=
+/a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/k1-speed-canada-da33fb75-=
+marketing-and-social-media-driver-6ad8b778?clk=3DWv_XCBHBMYjGL46O74LkckRwBZ=
+AUvT4Dli3a0a_6r2jT_xpcFaRYNXGw1D2wiqGH6VPNGOGh_Vj0HhTEvBDH0H25fGV-SsZ-CPoyK=
+wmHJCZn1ubx_LN71oWCtmhnkbFxpopJivDSrc31KqxINkdvv8I824oBOengT4RxftxILqOdbWuZ=
+zT0yZhdhTAmGUXRnyhHOm57Q3IZ0ncOuE_QLV1wjEb-yWushN0v2S0L5CaBkHlX2WP1dy4p50eC=
+lGEtLmtSROHEFG0Nwy1Z01ZeCRM0paEW2nqUdsophbNIMVU5KMdEkBDRxNpuJkrhOt9hn8i_cvh=
+g3oV3dTDrrApVZDxf9aeNMictCNd4BwLFFcePcHI20YmpeFcIu7VEVI3c0HBnFgLLVTfAqfhtK3=
+4hGJJiAbdLTn3HuEx4o_JaRRADVC1kdxVXh9KTeTH33SbgleJwsgj2aR9hPlnRa66rut5zsoor_=
+-dpHufbWdWGK6NDPaJElx8bmAGIS-6zgoE0ss4j-I6dvw7jEJnWkZUJQaQtr-E_SdwAvZOEKkXm=
+rHBw8zMdqVlDE00JjKTjeXySADlqF6_5BLi5EFFjEYRga8Xxy59w7ey-6vii2eYCVFT7961bOnf=
+q-n5LiodeF0lsPpROb7E3KDTJkvOUL701ZWSiz_GVTwdPsHuUltP9xb6lXWXUlV7SfSFPyMp4DN=
+6XAEfZtudAHt2llN6qsVXtMjubyzqmGzv6mNMafVE1QFFx9eKz6W1nlivoRugFvOMW0760VF0V9=
+csPaRa-7jA-FxVTe_dePVAokZ3_CqB1eX4b20CsJOAxqgG_3rw8Bpl3AC_CtQ8c1OSvnKQayro0=
+oCnlHEut5RU4fsSj7jDh-uqnEo8FnX5ognWhTpM7WfITVI22HYoYMcyAfyiDo8RBeffjNs7oMsA=
+I0buNFLS9Xo52cP_UEG_ztF7XPVlUd8_mw.f87b9d9c95c6ea8e276e1181317bcabd" style=
+=3D"display:block;text-decoration:none;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Marketing and Social Media Driver">
+          Marketing and Social Media Driver<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">K1 Speed Canada</span><strong =
+style=3D"color: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Toronto, ON</span>
+                        <br />
+        <span style=3D"text-decoration:none;color: #2f3639;font-size:13px;l=
+ine-height:17px;font-weight:bold;">
+          CA$40,000 - CA$50,000 annual (CAD)
+        </span>
+                          <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">If you are a motivated and creative ind=
+ividual who is looking to build your career in marketing, we have the right=
+ fit for you! K1 Speed Canada is looking for a Marketing Coordinator to joi=
+n our nationwide company! WHO YOU ARE: You are looking for an opportunity t=
+o engage in the full scope of marketing activities in an organization. Deli=
+vering exceptional work products is something that you take pride in, and y=
+ou accomplish this through your high attention to detail. You are confident=
+ and have a</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/k1-speed-canada-da33fb75-=
+marketing-and-social-media-driver-6ad8b778?clk=3DVcd0Fs1I0cMNrdFLKSs9vSGVrs=
+ihjGQNkXgPyh_be7f464xuABM91YGHJO8JCowFVvZigZ7Xd6s5YpmScG68OsDYw9UEW1xHds5gZ=
+P9pUdq9VglxtM8j8U2kOATideTcUGvFzjyfQMc4PAZDWerRhWwP2WIsHMXSd7lWRuWv4J9dQL_y=
+fqvE2y6JZl4P3E3ggMKes6RDXtjFjBevXREIy_a0yPmyk6t4mOHodQlAyBr__WLRr-XKa4b8wOp=
+nI3KQZp4bQgDLbEV_bKif4ZeuRIgC3Ghs-8TDq62agAQ2UjkDBNL3Bpgj_0baNJVnh5pWGCGgbZ=
+OJQi0urGmzQjmNdbIiPT5u1t6EPOlh6SSnvEjYql88I1juHITfYW9AZ4g3sZHnJ9CE33OMvIKhF=
+LE03TYFjv0IaGxMnVHwva_p7WDSsG_2_it001d2zgqItjooyIyLwqpXEBN5vHyuIqrsi4cieCEQ=
+voMurXNsAkPrOlsWqJrZUoKr6CRRrRzqny-qddJhaT_gh3LbC0JWSP6vRQPgbz1LO4_F2SCFfH8=
+c-TcIPy6H2cvWnfrbaYPhyPFc8_1B6LwrLWGkzPfONf_eUCgegfIlXXgPvC7d2rWjNT9SF_1Knd=
+iwtCSbtwRNCWpKQVCXxxvwYdSORVK0vQaboS1oi1SEvERk1A2UKPlbbvi0ICEgUWOgV0ySSwQ4-=
+fHZYoI9YNtMglnYsyIhh6WraR-8lpUc-HjosE2kFrvheqvahZBcwe44fgCpPjMBabdIq4pqUo7C=
+FHYxZX1YK_I0C5N4SxRdH_igUtr0eU1G4qPM2uYKwMmFGNJve_5UPJZ7_RBjjMlsRgsDyJo4ypM=
+t-dc4VIT-mBaPWOx-FeOPttDdAzQYofNmwKnd2ZmRFkW8_v6yI45a_DkHTIL3260YTQ.da38441=
+ffc5f4e21a4bc1a60c574cd99" style=3D"white-space:nowrap; border:none;text-de=
+coration:none;color:#fff;text-align:center;display:block;font-weight:bold;f=
+ont-family:Arial,sans-serif;padding-left:15px;padding-right:15px;padding-to=
+p:2px;padding-bottom:2px;" target=3D"_blank">1-Click Apply</a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/pure-octane-talent-0d5fd7=
+ac-marketing-engagement-coordinator-54327c3b?clk=3DGKCCsI-u98GuxF1nuqJ8RrbS=
+kqnCSmrBghxf3Tz1zaMUoGChnO0ylkw9LOwlzENr63U7NER8ahjEMq7_llEqaeNLB_fxdvy2Km2=
+V3AI6MoHgXdsn-3YU58qBpGpN32iUv7xe1oDGnF1gw4F5mpMiViQDn9_nJPLjGRQxfXxgsu9Ann=
+KbnJ9y2BkRg0cvZaBiz2QiK8CEO-p2Gq01wV-YKRScf_YPqrD6ma3FxuXbkspSBsNU1sbhn0zPc=
+cbTw27L9s_IkQozWL6shMSfK9g4iV1TXViok1cdfXKNb4JknuWtz42l9DYrL5y7YHeWLBphjZko=
+NjyOIQGG86v5SI2FVphLuHLN9nNHtDSfAyqUhWPx7FKAXVqwUndlxrV6yEItItUPyOaabvl4qdG=
+8wq9u_gKUDRlfQLEgXbBSITizp4yHOyb1vP_ic5c-Anxsh4SYTFdRh9ZLIW1i0PiiuDS4_zhFKs=
+LmGTKwB3sCNRQ22ZatbUdee-V6CHK9JfqZ7QbskLhEC4MX_KmiOjjZxt76YU6nqAR18tnFdhyjt=
+bNd8xGVzFL-zr_GZxi3vEKOgTh3pFjsusTP4ywc_Zqs65hJTjq9keBPUFO5kHyMR9zcjCnXFn99=
+AJsgbzN8xBh9FudX9ZPK1G4CiE632ds4EeGiFsDmRAvb4vKFom_G5GLDzveSspJutzgH9w6Kr1_=
+1NJY6Irrsy20ZvlrTbILhWz890c0KsBIHTisKFLqm5h7dATYyIS7IMcL22BVbQJ8pzNCzCvgvPR=
+7w88L6_qF9CyHdi7D8YUxtAthve5I02zdt45sl3YSZYV14DF73-20tsEh_034SlMgGivjve4I1B=
+uN23v7c5_QoRquMSldJv_aJeraOxnpFWYc9u0zcRTHDzcobQbsZ-BcwobEINpSZmCTXq6AfFpay=
+wLBFKDcvv7VTJu4-VUbwiEvkX9bnXmz3WJBU.cd2a19bf8f9ec7df1afa6d9a6e0aaacf" styl=
+e=3D"display:block;text-decoration:none;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Marketing Engagement Coordinator">
+          Marketing Engagement Coordinator<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">Pure Octane Talent</span><stro=
+ng style=3D"color: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Toronto, ON</span>
+                                  <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">Pure Octane Talent is looking for a res=
+ults-driven, customer centric Marketing Engagement Coordinator to join our =
+team. This individual will play a key role in building strong, lasting bran=
+d relationships with prospects during marketing campaigns happening through=
+out Toronto. This is an entry level marketing role that reports to the Mark=
+eting Manager. This is your opportunity to bring your passion to our dynami=
+c and growing marketing role. This role is for you if you are motivated, re=
+sults-drive</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/pure-octane-talent-0d5fd7=
+ac-marketing-engagement-coordinator-54327c3b?clk=3DK2QCdHk8XgVeWst43pxFPbrl=
+cNrziU-PsKzONDzwybpft30Hf7pEAX8Od_uU03QijgwLiExdY4PmmFR8YmAxMrABvAx9S0fA70r=
+iAaYVCZFs7eq4vKb228QnH_AkmWy1rxXt6VVBfzLYc34Lpy7uciw4ZX9D2yG4hoTYZOJBtVxjyJ=
+xMSMstYh-CYdvM7okdpT-CtbElGWN0M2HtONcr_5jZeKa8S6pM4gkBqjmROSpbpxIcgNnXdvskb=
+qonDHxJEtOO90onYrw9zUfN5OGpuxm2qXX5K5z_tNaHgu1XizG6370f3zx-XLjTz9oiZNcVq_9K=
+YW_dXSKLfeGY8zg_y0vqBefamQKM2Srvtmn_LkPXYzpjxm9pYpO9F-O9pgjsu-fs5OgpVRlKWXN=
+_YduXzkV3oDfpP8MkVhodUdE7pWKOouv34-XEs4YKBZe-B81HKWhVAuk3D1D9PFFeI0pL6gdLqr=
+_LbwBbWCD71qigvscn8PtdEGaWbTFp1DX68ScAI9jiP5PjaYAEXaaabHrTqkiL5F7fDLpOr0YTn=
+d972YzyXlqLe1V-3RDL4xBIW1KM0JoSE40-IHjUooVQEtq6EitVhZ4NSqSjmeYqM0ZIv-6Dyq0p=
+cr_PU2VAJj03K5fhx0HNV-LUQEe-Y2UkZnJpvz0RMaCa6U8FBqDg9anFgNM8qKjpGMEOw55LKMm=
+em0dkP-PIQHDmmT3cm8hRWF-9bNTm9qZERAUdUr-mMOvFYh4G71A5JX6C_jla23XQt85o0BjdCm=
+P0zFFv0uLpENRI04wx2qSuvOHApMXAUSQtFBGt-mURn5GUj0SGBtkIV1pb1QzPLQso_a_1bUF2u=
+pUgsRh3d260X3FizjfzTAVsqWEnhshqgiX7AFwwIZVWBSAXzl6rMTedUGFapvixfLqMjw.cfc68=
+ce6e742b6a9f16a26e79051a912" style=3D"white-space:nowrap; border:none;text-=
+decoration:none;color:#fff;text-align:center;display:block;font-weight:bold=
+;font-family:Arial,sans-serif;padding-left:15px;padding-right:15px;padding-=
+top:2px;padding-bottom:2px;" target=3D"_blank">1-Click Apply</a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/verta-marketing-f69d82a2-=
+digital-advertising-specialist-413a63e7?clk=3Dquxsf30f0T-LjGD6Z9K7xn1FepNr-=
+KcOyXft6A7V8ct81p7ELW1zBEMB0JVInwdJfZAWTOSRuqGUlRBUK-N6twyCLM8e1rc6tJDn12VV=
+8S7LUSYnGCFIeVdSsa3t1nAdjgkESZdOkAZdMJj7qqcfksLCF-sgtNZy8jQuuIQxAYYxCXTcq6K=
+AYn2-PBsTko_WQpjUDeL9I1hocUGQI7JicQYyR6-cW7ci_ZpLDW_pvv4oKwxB0zXqOSBzFAEFgC=
+BSYKklDtdNKVfMVpr3Afizo-gsgfNb-G5apZXawho0YH-jGpGIkX0oRlKuQpZf-N-361wG-Ycg0=
+LNveatYQcFdk2-Hka9QflHQU5fd2Lsgaw6u6RJ0dm3mW5EvE7h54sGfByRDNl-aTSmSqCHGH5ZP=
+tKJbxsJ7jAh9LFyXba3oEhBxm81_qxnF1n_ye5QgGgtqaMLA0w49I9PotZFUhoayZRqZtWkrZsb=
+iG137TQrjG0lptGVAU9GPa0M693W0Kh27P4XtPVe8rbacuKTUpTqSQDX_sGlVYFI5_FNI6EeIbd=
+LbLi6hsBKKhOXLNIeWiA4MtRqbT7ZOHoX-Je8Dv5o0wCbVOicYYpYh7DMtMKycadJXjiB2jV8CG=
+2syVs2afY0Uozo5WqgIvvsJrkr3C6AHBZ1qDTCIkiH6J5nxHVSMq68EwJ0FOD3PhxpDUQeXy-zX=
+kGrcr-l30oR6rE6HWTZjNG2tYAMXwBX13hO5pRrKwWniRpIvaVjl5e6ISznwjktfysEbdpv86gc=
+ZzoG61z1cq1t-YOexraOaG0-ofCUCfO7FJ9r5NvKCs5q5pI5-kDQUhXtUzcVhAgmb-jM8Wzo-1k=
+IxzITbStQ_Cr4Ds6NYTc2unuT689okaXIcd8lB847WbY8NHlZpI3qKzNL_z98JT9HoV0d4KN0t3=
+qQ31OXb3z3iOWGygUdK5dA7WeLlNmQV.79955e23e94481fabd444bddc5f2a995" style=3D"=
+display:block;text-decoration:none;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Digital Advertising Specialist">
+          Digital Advertising Specialist<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">Verta Marketing</span><strong =
+style=3D"color: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Toronto, ON</span>
+                        <br />
+        <span style=3D"text-decoration:none;color: #2f3639;font-size:13px;l=
+ine-height:17px;font-weight:bold;">
+          CA$35,000 - CA$65,000 annual (CAD)
+        </span>
+                          <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">Company Overview Verta Marketing is an =
+independent end-to-end solution marketing and media agency based in Toronto=
+, Ontario. We manage partnerships and clients of all different sizes and sc=
+opes, and from a wide range of industries. Verta primarily operates under t=
+he agency of record model, working with its clients to provide a solution f=
+or both creative and lead generation marketing. Verta Marketing=E2=80=99s h=
+igh standard of excellence is built on a foundation of strong leadership wi=
+th an extraordinary</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/verta-marketing-f69d82a2-=
+digital-advertising-specialist-413a63e7?clk=3DC8A8Q3d6tDcB3imAkMDsFjRktvsGm=
+TV7mP581oFoIdLRWGX0xoYer9UetmR-_19rzSc6fGG9eu3ZHHWrn-gD3sV-JOTk8qE81TdB-grg=
+GeiSNegiLZARruEzmUa1Gl7qDuKGnpVChP77RYQj8ud0kCd94thmyev7HluRI1ERBWhGQ-r9CBs=
+Yi4yDr0dnTvjC1uy_M4IBvvOU0mqDxtVjAQjQ2fKed4ptbG_7hOhG5nmSVO0jd0Wq6U_iiM_yWO=
+b5sxfHO5g1q46BGRnAy-Fr2CbdtDN8uDOB98SRMA2buMiU8eswdxjwGkfwGHF2F0s5d5WWaGkgS=
+k5mANOLih1IzJyyVB8ytpmUMPzFBnpJkZ06b72hkIlVFUu8sqpQq_Wj43y-Dd629O91F4_tGGaE=
+hMvGVQDQaPMPb4Og0HZGAY0C26ySVhal7_kShUUULS1cT3Sg5oYE6Atbh9F1X2GXZdz8LNiNVZj=
+we2iRw0qoluZT8G-uz640SP6lxP6oZ8wPlzoS0FGxlCfSLWZ3Vuxb-7Xa02BEn2F_gI8RXD1VDr=
+RjbqVjfwPeYXeaNAdYMeLk7nJ3OMEMVoKOBdu_-QZeUlrg-k_O6pymd9x9aSvNJbLV0Vwyktmcq=
+w8DhxWHqSD41a2-whEXW42EXtQl64luVw5lOwZLHlo21cqWW63T_K_DYReKvXbvIEPXUE6r2TaQ=
+fUbOpps8wX0-TtOFZ2rczY8IYu7Erpi3gSVvA7BtR4ipOUOCu2zXBDoD08CtjlpzGvzzASKwFuK=
+dym4mYvfljwXKRN_fezV_WyqRzBo_O9gHqPI1DzB21zpuggsaANBL8gSL-S5We90a9NFNAjEaBA=
+ZI_tk5eFM-86H2u6afvVE0_nGNn3s29Ze0EMj_WBGB_a6rrI0jX3KvBTrW4sFVOA.074214ff4e=
+38dcdf195087c5310e03ec" style=3D"white-space:nowrap; border:none;text-decor=
+ation:none;color:#fff;text-align:center;display:block;font-weight:bold;font=
+-family:Arial,sans-serif;padding-left:15px;padding-right:15px;padding-top:2=
+px;padding-bottom:2px;" target=3D"_blank">1-Click Apply</a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/logic-tech-corp-d2dcbb25-=
+social-media-specialist-c393ad2e?clk=3DAct9aPW_L7ZAmKiR7Zoqb_MhGSovrQboxJx-=
+LLA6-3nGaj_gBb_AzjwU_S6q9v-E8vZ0-4yCJsY1pn08vhCs6kImzhlAt_jh7BRMRNjeOFnVg7L=
+xrm2d3t9WaLpUoML5to19alYTGNTtlEVHKVivgnvJ-g5nBAv74CKVOs6bXZPdFqBlA4wnYpdc4x=
+sozms_OJw4KRxFrlg6skRu_i8RRlXCZ1amLdvNHX3NjJyVVBfxd6FeLJvbP3_5BM41XOHMJy2N7=
+Aj50efTp0b040IgnxocBU0pH6cCvrqkiOkY4Q6Z96TUDWnuU5P6Wp54InPvYY9_GUjndDXi6nPP=
+pigUiGmWH-l0ZMLCEFugP2zq2Y4wknVfs1EBXFsJ3aq5h-Kfp3gJtPaogYEW9qtM6ItfBXqeRlg=
+zgMJjnee50USevkK3oSTO7q3Tpez4pZ8ZuiMDveBEoVrEu6AJew8R_DkPscXfaZi-o8jjq5ON4D=
+dg6DkEmgxtzHXBeMkdeN7m-uP3EjUs5ev7lr1nTX3CJNggWDcRtYgjhYBygu6YJ1wQqczFMrOxz=
+TP6WOLw5b8W2oIml4ar_etX_whzWdN1Lbm-2clFwYvhSULNt7FPGIbY_yr6Pi97FGvJJHdQORCq=
+BgIOSzDlAkCE02edeqM_Mr8iXJh059-e8X-PzcfAld9L5rHqu5vFT-cYBUqUI3vNVSVzt_EMEPk=
+_LaGeO4tgISKSqBtjqOBp9KIWnQHuQP3n8MQXZgZW_QFk2UrN9vP_6YX50w_eiMk8qB2yZ8mxR3=
+Te5wH_L4OP85TeiiOkTgrpL8vIxBVYhEnRfm6YBmmy3go1VjyWIH5AQ8ONez_1gghMKC2AXpQy4=
+4gdh6Y0NVreZ_CdTBR87gcy0Bs4GrVdeFR0bQpyy5xAlE6OMhsRUg6zKBRBW7s-wyKymm2w9RHL=
+WeBAwkY7B-FHeQiNtKn9a3x0.c14d413513e673c841ff365eaa669804" style=3D"display=
+:block;text-decoration:none;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Social Media Specialist">
+          Social Media Specialist<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">Logic Tech Corp</span><strong =
+style=3D"color: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Markham, ON</span>
+                        <br />
+        <span style=3D"text-decoration:none;color: #2f3639;font-size:13px;l=
+ine-height:17px;font-weight:bold;">
+          CA$35,000 - CA$40,000 annual (CAD)
+        </span>
+                          <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">MAIN RESPONSIBILITIES Responsible for t=
+he organization, execution and maintenance of other marketing efforts Socia=
+l media management Optimize the current social media strategy, grow social =
+channels and manage engagement Research, develop, write and edit all writte=
+n company content including internal and external content, website, social =
+media post and promotional materials Research industry trends and perform r=
+outine competitive research OTHER RESPONSIBILITIES Other general day to day=
+ office dut</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/logic-tech-corp-d2dcbb25-=
+social-media-specialist-c393ad2e?clk=3DIMySAwPYbGE5PTEYlkG7r-056nRJBbXvNWIy=
+-6qsO_0w8ZQ6vjJUqT6nSXpIADyna7s6Th35hLV2Z7uJFB38e0HDhTouzZV-pkzUdAAx2y4MJdg=
+BcsNZQkbUELqqJr9ldqBe83ECrfrofG5dlwWiWm2hn67h3EXbC6laMw5a8_5ordMVgDeB8xTvBg=
+F9ymI0vO60E5nlolYJo5LjVKxuarBNlM5gE6UccUjhbPKBdtuO_4qr_NHEqIK0jiDlS3qkX1iDx=
+FW3l4YbwWU1_yVIcwgC-BelN28fWOAkniPLUDJUxIVn60cN0FA6QqAb2TIoV5LmZ3rlRShfzuuE=
+NVySqFqWqBLiKXaoKn4enFESFxMpUq39U3CUW1O1wkBsaBEGTN0qVNcKToyoeomUmKVPoZfNAml=
+lyG5AvrQHP__w_TXlTOxj8e10uxsHmGEQHkVnr9Assjl9ipxKJUOsP4KnwtvNJQ6ogMylHI5VPt=
+2aJHCxxKmT7WhRJZ7NVSeLMx8sgUKBqZfQFsH4KNIQu_w3Mw57wxSHYVoPusodPzUlXGpVNqgUa=
+P8AMBCE2srkrwDrYZayQfdu9z8CT_o-CtAZNJq4Y-RZXWmCnmcWPMcar8O37vb3Qb7qAbBYMvTw=
+PIgo7PNGUgB5lBjOOiCtQu6aX-rw-l6dV6KjTv_ru5jNJxVFJISlO3WzxC3i9yHVl267sV-8sdG=
+XFZ1w27bzsZI1PsKiuCBYgzQzlFZ-jaiY53Z8QioV8do91jfwrkmolmW7KlgmiTKW08F9QNEOW_=
+gA2SMfwUOx1Z0KMnMkuNBLjdMHjfu7-Hv-J49nbkTx-QZSlqF05JuA16T92bvj4VA1CQsrWO9iO=
+OoF-9Miar3cqonNNhcp566jiIfVIS_2DP8RSK01zeEu-8QBibAPeXKzHA.70985923547084aa9=
+3ab8bd04c87decd" style=3D"white-space:nowrap; border:none;text-decoration:n=
+one;color:#fff;text-align:center;display:block;font-weight:bold;font-family=
+:Arial,sans-serif;padding-left:15px;padding-right:15px;padding-top:2px;padd=
+ing-bottom:2px;" target=3D"_blank">1-Click Apply</a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+=20=20
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-col=
+lapse:collapse;" width=3D"100%">
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1d4d5=
+;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:15px=
+;line-height:18px;padding-top:20px;padding-bottom:25px;">
+      <a href=3D"https://www.ziprecruiter.com/clk/nbs-032f6851-marketing-au=
+tomation-and-events-specialist-5aae8096?clk=3DCqvEoj2XghKSMzv2eq55xnJwLRmtW=
+u406qjix4419u3Lyd36rbyXHT0HZA_kCdUwRUBdDesTBiryE4kxKD2fxM4u6pa1jqaf0XG0DLGd=
+6mX_4CCN_yDchkRM6N3KLNrWb5JH3aRClT556hqNLL9690Oigjsgih4kT-9aQKkvTsv55W0Wfkj=
+fXY7hR_Tsx-hhINQaY5Gdk4BUeLfzmf0D3ks1XPIABDK-VVo5MqmCWgJE_Hs6gXOHhlGL2bPLUD=
+vplNl6smA7699kiez2VYp_o6Ph4dXbAiSiH6BI1EPbM_aDspxrzQyz-S2Impq3mIN3QuyfLBv_E=
+W0Q3Krk_LnKGTrY9xBSI1qhm1Pj4Xcy2j7gBawtrYzcT_FD0fNxAqWdWB-llKAYT3AHjlnJDQCH=
+5Sae7uOB3pESQNMkzxEF58-vnvD1H-sPOiac3OFhvdkvbKqcGZkSjr2_1ZyAYkVZ4ccOpHISfbE=
+UhNG8lNgpZDXJXL-uMi_Tw3-D6Y2cusOkmaNextgf4gVAw8uOIAwhs9juofts0qhx1_WfkZIhev=
+_hKB9RNHSl1DvrMUndBAGRfesUEdGebwYFPqxbQhbFZYwirfIeCTnIm0UiDZhGrz8_7I9i5IcJq=
+ilNJKaXdFEtMUbZmUZ4xDfKc3ew1PwibiiGAI1SJne4vqsFQN3iuvX_-5DFfA1QcLIEyi0dzAdC=
+CuTWT4k6zxQj83VnuGhLTAqiUtAZCkhFRGsWCYyTFhum39kzrkszdBNJ1tHN5DJaFHYojn1CgNx=
+7UrJ903FnustuIFz5RY-z1HnVeQypG7vnasUpq15rbSpggGQRFJKfBd47l36nla7JxthcBHjXPp=
+5Rq2xm94yy1dnndjCMjdDIt2ApRa6WJ8QaaKNBNbOO3ycnBUFg3bZMFI5kwuJecrHWUwE4mJ291=
+Kaje6oWf7FVzk6QoG69LhkE1-EUHzO8.1ffd65a398e568cc4871d6dc863b103c" style=3D"=
+display:block;text-decoration:none;" target=3D"_blank">
+        <span style=3D"text-decoration:underline;font-size:16px;line-height=
+:24px;color: #0e75e2;" title=3D"Marketing Automation and Events Specialist">
+          Marketing Automation and Events Specialist<br />
+        </span>
+                  <span style=3D"text-decoration:none;color: #2f3639;font-w=
+eight:300;font-size:12px;line-height:24px;;">NBS</span><strong style=3D"col=
+or: #e0e2e3;"> &bull; </strong>
+                          <span style=3D"text-decoration:none;color:#72777c=
+;font-weight:300;font-size:12px;line-height:24px;;">Toronto, ON</span>
+                        <br />
+        <span style=3D"text-decoration:none;color: #2f3639;font-size:13px;l=
+ine-height:17px;font-weight:bold;">
+          CA$60,000 - CA$70,000 annual (CAD)
+        </span>
+                          <br />
+          <span style=3D"text-decoration:none;color: #2f3639;font-weight:30=
+0;font-size:12px;line-height:18px;">We are seeking a Marketing Automation A=
+nd Events Specialist to join our team! You will be responsible for gatherin=
+g and analysing key market information, assisting sales as well as identify=
+ing areas of improvement to increase company revenue and brand. Responsibil=
+ities: Events content production and management Implementation assistance a=
+nd documentation Marketing and social media initiatives CRM and eDM develop=
+ment via Salesforce SEO/SEM, google analytics Production task management Sa=
+les and mar</span>
+                      </a>
+
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bord=
+er-collapse:collapse;" width=3D"100%">
+                <tr>
+          <td valign=3D"top" align=3D"left" style=3D"border-collapse:collap=
+se;padding-top:15px;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"width:200px;width:160px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:160px">
+      <a href=3D"https://www.ziprecruiter.com/clk/nbs-032f6851-marketing-au=
+tomation-and-events-specialist-5aae8096?clk=3DNloCtPQo2xbgbq83ctIuESDyMS3Tn=
+Wrc5ri1qJMwj1bPpSWRgiYEn8Z_doCwPCq-QkDrHioVX4y3vZW6nul5uBnBaywRvI0cFvKLUhKf=
+zzTla-EHRUa3D68r26KkIK1PgOQMXEp5gGt0KsSrYE8APlBYHAV7I1spYAFuD2yrdEYW2fT2uWG=
+I6F_MPPffYAqF5pWu5Pph8Y9IpHdWjCy0tnyVruczOFJIP6lBKnu-sEE49ZZu2WxVxP6XkbYLAK=
+l10ql-e7Dl9d2BJiTaaCzTr2HPb2gvVXh-QenZvtAexvla6qlxKLz5hcrAB-OttIyk1g9UwScx5=
+vKCR4cszIcWkwmr_AhWDp1KAJqM_ZUyOX6dxFXHAdFBno52-XN0URrgCnY8pAwNnlwhs7JYS6O_=
+LZIiZ5vm5hSvrBfLayXTeN0Kvhnw6hkD_W7ueF5qIAHvII9iXxYq9JjntHlqrwI1twd-j8EAX_e=
+E5BldCeJUkahftiCG70pdyDSps8dkrP9EH2fjGHoA2CnY5y4X2IgDvp_boIbsWhgjtCycjkusa4=
+xNG36ymCLgLzPnuZTNJkG1R5br0eLX9liYKl4ZFu-mTm8duGvdmHxf6jUJJM5ouJ2NO0n5BxAz7=
+gDZtWrOmAioQLnky4yjtzgP2LXg_UlY-kaocW5jyeHc-IwrjO5Clbsh7jCJ1FJ69ONOKlNo0l6S=
+h_io7yP7PpWoNYsz8Pdb4iCKs2gwdyqn4RDdECHULIJduzie7u9Ftm2sSxwEoJppWFJ2GGg9iZT=
+-R6_phONN_AGzjXuV1VnF4b0CXcdgC5phJr1uHnbVOvHboSlt7PpDRemZUpqJQyopKiLlXLve0y=
+Uw1BPJdgqJ2a9B70Sb30WRLbyqOTA_smMFdYCmeYo7f5sJYbIY1h4tEWgMDs82CQ.c9444079c4=
+4232e261023d0e2da03be7" style=3D"white-space:nowrap; border:none;text-decor=
+ation:none;color:#fff;text-align:center;display:block;font-weight:bold;font=
+-family:Arial,sans-serif;padding-left:15px;padding-right:15px;padding-top:2=
+px;padding-bottom:2px;" target=3D"_blank">1-Click Apply</a>
+    </td>
+  </tr>
+</table>
+                      </td>
+        </tr>
+      </table>
+
+                </td>
+  </tr>
+</table>
+
+
+=20=20
+
+            <br /><br />
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" style=3D"width:200px;">
+  <tr>
+    <td style=3D"color: #2f3639;font-family:Arial,sans-serif;font-size:15px=
+;text-align:center;padding:5px;width:200px;background:#f6f7f8;border-radius=
+:2em;min-height:28px;border:1px solid #d3d5d8;">
+      <a href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?sour=
+ce=3Djs-remarketing-triggered-jobseeker-asap-candidate-application-viewed-s=
+econd---&amp;auth_token=3D_v3_62dddb820e924ad07abf12c7645e08bce838ef8fce776=
+45e9a268e0919d963e1&amp;contact_id=3D4a6df941&amp;expires=3D1571594727" sty=
+le=3D"white-space:nowrap;border:none;text-decoration:none;text-align:center=
+;display:block;color: #2f3639;font-family:Arial,sans-serif;padding-left:15p=
+x;padding-right:15px;padding-top:2px;padding-bottom:2px;"  target=3D"_blank=
+">
+        More Suggested Jobs      </a>
+    </td>
+  </tr>
+</table>
+                </td>
+      </tr>
+    </td>
+  </tr>
+</table>
+
+
+
+
+            </td>
+          </tr>
+        </table> <!-- /End main content -->
+      </td>
+    </tr>
+=20=20=20=20=20=20=20=20=20=20
+<tr>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;padding-bot=
+tom:7px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;f=
+ont-size:13px;color: #2f3639;line-height:1.4em;background:#f6f7f8">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse;margin-right:auto;margin-left:auto;width:280px">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;pad=
+ding-right:5px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dtransactional&amp;mid=3D37835&amp;source_board_id=3D37835" title=3D"Down=
+load the ZipRecruiter Mobile App for iOS" target=3D"_blank"><img src=3D"htt=
+ps://www.ziprecruiter.com/zrs/04e16c0f/img/Download_on_the_App_Store_Badge_=
+US-UK_135x40.png" alt=3D"Download in the App Store" style=3D"margin: 0 auto=
+;display: block;max-width: 135px; height: auto;" border=3D"0" width=3D"135"=
+ height=3D"auto" /></a>
+        </td>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dtransactional&amp;mid=3D37835&amp;source_board_id=3D37835" title=3D"Down=
+load the ZipRecruiter Mobile App for Android" target=3D"_blank"><img src=3D=
+"https://www.ziprecruiter.com/zrs/18bdbfc6/img/en_generic_rgb_wo_45.png" al=
+t=3D"Download in the Play Store" style=3D"margin: 0 auto;display: block;max=
+-width: 115px; height: auto;" border=3D"0" width=3D"115" height=3D"auto" />=
+</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sans=
+-serif;font-size:13px;color: #2f3639;line-height:1.6;background:#f6f7f8;pad=
+ding-top:10px;">
+          Got hired? <a href=3D"https://www.ziprecruiter.com/candidate/hire=
+d-survey?mid=3D37835&amp;source=3Djs-remarketing-triggered-jobseeker-asap-c=
+andidate-application-viewed-second---&amp;source_board_id=3D37835&amp;auth_=
+token=3D_v3_62dddb820e924ad07abf12c7645e08bce838ef8fce77645e9a268e0919d963e=
+1&amp;contact_id=3D4a6df941&amp;expires=3D1571594727" style=3D"color: #2f36=
+39;" target=3D"_blank">Let us know.</a>
+        </td>
+      </tr>
+              <tr>
+          <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sa=
+ns-serif;font-size:13px;color: #2f3639;line-height:1.6;background:#f6f7f8;">
+            <a href=3D"https://www.ziprecruiter.com/candidate/notification-=
+unsubscribe-confirm/4a6df941/ede255ac/_v3u_5195144b259f5bf590e3a6631262b200=
+0c102d6574d9c266c8004c532b49d95d/1574100327?mid=3D37835&amp;source=3Djs-rem=
+arketing-triggered-jobseeker-asap-candidate-application-viewed-second---&am=
+p;source_board_id=3D37835" style=3D"color: #2f3639;text-decoration: underli=
+ne;" target=3D"_blank">Unsubscribe</a> from this email and others like it.
+          </td>
+        </tr>
+=20=20=20=20=20=20
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding: 0 10px 35px;b=
+ackground: #f6f7f8 none;font-family:Arial,sans-serif;font-size:15px;line-he=
+ight: 1.6;color: #2f3639;font-size:13px;" id=3D"footer">
+                      ZipRecruiter, Inc. &copy; All Rights Reserved Worldwi=
+de<br />604 Arizona Ave., Santa Monica, CA 90401
+
+      	    <br />
+            <a href=3D"https://www.ziprecruiter.com/privacy?mid=3D37835&amp=
+;source=3Djs-remarketing-triggered-jobseeker-asap-candidate-application-vie=
+wed-second---&amp;source_board_id=3D37835" style=3D"color: #2f3639;" target=
+=3D"_blank">Privacy Policy</a>
+                  </td>
+      </tr>
+                </table>
+=20=20=20=20
+<img src=3D"https://www.ziprecruiter.com/pxl/407i2hAUVO0kE-t4EE7FtBfPMenY-y=
+rFfP5VJbNEDHLOcRfglUMxb4Sak1ePP9QJFXVVksATemI0sLdS2LwHYhyxCiN9xKV06Gg1O-0xY=
+Oh673npff0VV7LaVHtkea4--1lQsETsOTh2ZEzY3xSsNBDFFfP606U-WilwxTCKWtiYwzJWDi5v=
+IV0-5sAc67aTqPyQeb2jDTzg-OhOrcfR678Kj0lkuGEJegQ7Q0-CM1NZr91Qx7tDJV1Pz5yOWv9=
+BufdLbgtVz1UnC58Qc4DCaXDYiawOFCXCPhNOeLPf9R6RX7Se5l1JXdHkXtww7ktQTEK51B9t2o=
+IcS1QpYUZlekoRUQzGcvQNxRmbE2BezvOhZnZ7Bc1TI83tp-vWv8wiYOpCWG4gn6orQM_02vnti=
+3EfzfYePaMz2GlpxKDhFMZ8x7jtQSOa5CGLAlA-_wM5g0gy5L19oiSdOkdM233MTQ.0d4f5ba7a=
+53361fff444e4b55cfba563" width=3D"1" height=3D"1" alt=3D"" />
+</body>
+</html>
+
+
+--15714219270.c152303FB.39619--

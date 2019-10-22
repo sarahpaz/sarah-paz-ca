@@ -1,0 +1,1121 @@
+Return-Path: <linkedin@e.linkedin.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id gMudFjeib125LgoAOhTp2Q
+	(envelope-from <linkedin@e.linkedin.com>)
+	for <hey@sarahpaz.ca>; Wed, 04 Sep 2019 07:38:31 -0400
+Return-path: <linkedin@e.linkedin.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 04 Sep 2019 07:38:31 -0400
+Received: from omp.e.linkedin.com ([199.7.202.92]:41097)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <linkedin@e.linkedin.com>)
+	id 1i5TcL-002u6H-VC
+	for hey@sarahpaz.ca; Wed, 04 Sep 2019 07:38:31 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=linkedin; d=e.linkedin.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:
+ Message-ID; i=linkedin@e.linkedin.com;
+ bh=3jkdPR4rkkckCAZrTpaeDRpIM0DKSMKTNQZl9mTcoLI=;
+ b=r82IJ/lHuOHodDm3VaQZfhOv8It3ngnukHKz/ZdAzH4cViD/UvmbjwLmbRcg02Vq5CMK8FKklmo8
+   B0un9Tn1idlj2SqSBCVivl4b7CLstwWtCQFZ3qHxGflbztTIGNwOPI4Cyxd7hO4wuNyz2O8YjuLp
+   HXhxBWSJvbqoCk93Wo4=
+Received: by omp.e.linkedin.com id hduh0q2h0coe for <hey@sarahpaz.ca>; Wed, 4 Sep 2019 04:37:49 -0700 (envelope-from <linkedin@e.linkedin.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_ZqiSre5FlD"
+Date: Wed, 4 Sep 2019 04:37:49 -0700
+To: hey@sarahpaz.ca
+From: =?UTF-8?B?TGlua2VkSW4=?= <linkedin@e.linkedin.com>
+Reply-To: =?UTF-8?B?TGlua2VkSW4=?= <donotreply@e.linkedin.com>
+Subject: Sarah, thanks for being an active member
+Feedback-ID: 50563:14470135:oraclersys
+List-Unsubscribe: <https://e.linkedin.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJ&_ei_=EolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLrpHT_jQVOt9erPXBXmtGBdTtJpag>, <mailto:unsubscribe-YQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJ@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: oLPxkHjHoiHFQJH
+X-rext: 5.interact5.EmbjChXmvon9PKPWzdrbsJszUc7Qb_JoEMfehoRZem1-7v38dMNc
+X-cid: linkedin.11739935
+X-ei: Enm72xXa-IFvpIbhXff6ts8PXjzV-kA
+X-CSA-Complaints: whitelist-complaints@eco.de
+Message-ID: <0.1.102.683.1D563152DC00D1A.0@omp.e.linkedin.com>
+X-Spam-Status: No, score=-4.1
+X-Spam-Score: -40
+X-Spam-Bar: ----
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Please view this email in a browser: https://e.linkedin.com/pub/sf/FormLink?_ri_=X0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXMtX%3DYQpglLjHJlYQGtispTmp0FYzbPHhdNHDUz
+    [...] 
+ Content analysis details:   (-4.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [199.7.202.92 listed in list.dnswl.org]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.2 KAM_HUGEIMGSRC         Message contains many image tags with huge http
+                             urls
+  0.8 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------msg_border_ZqiSre5FlD
+Date: Wed, 4 Sep 2019 04:37:49 -0700
+Content-Type: multipart/alternative; boundary="----alt_border_XHTLHja0NV_1"
+
+
+
+------alt_border_XHTLHja0NV_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please view this email in a browser:=20
+https://e=2Elinkedin=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuI=
+r8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXMtX%3DYQpglLjHJlYQGti=
+spTmp0FYzbPHhdNHDUzeJ8KakIM66XgRSpzbszad6Jzae7MdCzcWXX7&_ei_=3DEin99i3i2E8t=
+gytFQQJ02uBGqRkhcfwWjTRGR-TRtezT_ExPSaaaO0=2EJg%3D%3D
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhg=
+Dydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCWSUY&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLrpHT_jQVOt9erPXBXmtGBdTtJpag=2EJg%3D%3=
+D=20
+
+This is an occasional email to help you get the most out of LinkedIn=2E Uns=
+ubscribe:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhg=
+Dydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRWDY&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLNSiFxKGbh2Bq7q2scxr3KM59FxUI6Sf3XRbnfq=
+r0HY8aqLL92WXNSIIoH3JpH-I-7Stuqfsj0jUVTpDFrtSVsRFNqhS5_nRk7MNmMng-4fWjEeZK0=
+OoCcWzOjXLqBiPzMSAOd9I=2EJg%3D%3D
+
+This email was intended for Sarah=2E Learn why we include this: http://help=
+=2Elinkedin=2Ecom/app/answers/global/id/4788/ft/eng
+
+Copyright 2019, LinkedIn Corporation=2E All rights reserved=2E LinkedIn Cor=
+p=2E 1000 West Maude Avenue, Sunnyvale CA 94085
+=2E
+
+------alt_border_XHTLHja0NV_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Strict//EN=22 =22http://=
+www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-strict=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:v=3D=22urn:schem=
+as-microsoft-com:vml=22 xmlns:o=3D=22urn:schemas-microsoft-com:office:offic=
+e=22>
+=20
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Dutf=
+-8=22 />
+<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22 />
+<=21--=5Bif =21mso=5D><=21-- -->
+<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22 />
+<=21--<=21=5Bendif=5D-->
+<meta content=3D=22width=3Ddevice-width; initial-scale=3D1=2E0; maximum-sca=
+le=3D1=2E0; user-scalable=3Dno;=22 name=3D=22viewport=22 />
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22 />
+<META NAME=3D=22ROBOTS=22 CONTENT=3D=22NOINDEX, NOFOLLOW=22 />
+
+<title>LinkedIn</title>
+<=21--Leave Spaces 1019 characters for iOS Buffering-->
+                                                                           =
+                                =20
+                                                                           =
+                                  =20
+                                                                           =
+         =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+            =20
+                                                                           =
+              =20
+<=21--Leave Spaces 1019 characters for iOS Buffering-->
+<style type=3D=22text/css=22>
+=2EExternalClass =7B width:100%; =7D
+=2EExternalClass, =2EExternalClass p, =2EExternalClass span, =2EExternalCla=
+ss font, =2EExternalClass td, =2EExternalClass div =7B line-height: 100%; =
+=7D
+table td =7B border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; =7D=20
+h1, h2, h3, h4, h5, h6 =7B font-size: inherit; padding: 0; margin: 0; color=
+: black; line-height: 100%; =7D=20
+
+=2Eapplelinks a =7B text-decoration: none; color: inherit =21important; =7D
+a =7B color: black; text-decoration: none; =7D
+a, a:link, a:visited =7B color: inherit; text-decoration: none; =7D
+
+=2Egmailfix =7B display: none; display: none =21important; =7D
+
+body =7B
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+	margin: 0;
+	padding: 0;
+	=7D
+
+
+=40media only screen and (max-width: 480px) =7B
+=2Ew100m, =2Ecolumn50, =2Ecolumn33, =2Ecolumn25, =2Ecolumn75, =2Ecolumn66 =
+=7B width: 100% =21important;=7D
+=2Ew90m =7B width: 90% =21important;=7D
+=2Ew85m =7B width: 85% =21important;=7D
+=2Eexpandm =7B width: 100% =21important; display: block =21important; =7D
+=2Eresizem =7B width: 100% =21important; height: auto =21important; =7D
+=2Ehidem =7B display: none =21important; =7D
+=2Eh1m =7B font-size: 20px =21important;=7D
+=2Eh2m =7B font-size: 14px =21important;=7D
+=2Ecenterm =7B text-align: center =21important; =7D
+=2Eleftm =7B text-align: left =21important; =7D
+
+=2Epadt0m =7B padding-top: 0px =21important; =7D
+=2Epadt5m =7B padding-top: 5px =21important; =7D
+=2Epadt10m =7B padding-top: 10px =21important; =7D
+=2Epadt20m =7B padding-top: 20px =21important; =7D
+=2Epadt30m =7B padding-top: 30px =21important; =7D
+=2Epadb5m =7B padding-bottom: 5px =21important;=7D
+=2Epadb10m =7B padding-bottom: 10px =21important;=7D
+=2Epadb20m =7B padding-bottom: 20px =21important;=7D
+=2Epadb30m =7B padding-bottom: 30px =21important;=7D
+=2Ewidth320 =7B width: 320px =21important;=7D
+=2Ecell12x15 =7B width: 12px; height: 15px =21important;=7D
+=2Ewidth296 =7B width: 296px =21important;=7D
+=2Ewidth12 =7B width: 12px =21important;=7D
+=7D
+
+
+=40media only screen and (max-width: 512px) =7B
+=2Ew100 =7B width: 100% =21important;=7D
+=2Ew90 =7B width: 90% =21important;=7D
+=2Ew85 =7B width: 85% =21important; =7D
+=2Eminwidth =7B min-width: 100% =21important;=7D
+=2Ehide =7B display: none =21important; =7D
+=2Eresize =7B width: 100% =21important; height: auto =21important; =7D
+=2Eresize img =7B width: 100% =21important; height: auto =21important; =7D
+=2Eexpand =7B width: 100% =21important; display: block =21important; =7D
+=2Eheight0 =7B height: 0 =21important; =7D
+=2Ecolumn50 =7B width: 50%; =7D
+=2Ecolumn33 =7B width: 33=2E33%; =7D
+=2Ecolumn25 =7B width: 25%; =7D
+=2Ecolumn75 =7B width: 75%; =7D
+=2Ecolumn66 =7B width: 66%; =7D
+
+=2Ecenter =7B text-align: center =21important; =7D
+=2Eborderr0 =7B border-right: 0px =21important; =7D
+
+=2Epadt0 =7B padding-top: 0px =21important; =7D
+=2Epadt5 =7B padding-top: 5px =21important; =7D
+=2Epadt10 =7B padding-top: 10px =21important; =7D
+=2Epadt20 =7B padding-top: 20px =21important; =7D
+=2Epadt30 =7B padding-top: 30px =21important; =7D
+=2Epadb0 =7B padding-bottom: 0px =21important;=7D
+=2Epadb5 =7B padding-bottom: 5px =21important;=7D
+=2Epadb10 =7B padding-bottom: 10px =21important;=7D
+=2Epadb20 =7B padding-bottom: 20px =21important;=7D
+=2Epadb30 =7B padding-bottom: 30px =21important;=7D
+=7D</style>
+
+<=21--=5Bif mso=5D>
+<style type=3D=22text/css=22>
+body =7B
+	margin: 0 =21important;
+    padding: 0 =21important;
+    font-family: Arial, sans-serif =21important;
+    =7D
+   =20
+table, td, div, p =7B
+	font-family: Arial, sans-serif =21important;
+    line-height: normal;
+    =7D   =20
+</style>
+<=21=5Bendif=5D-->
+
+<=21--=5Bif gte mso 9=5D>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml>
+<=21=5Bendif=5D-->
+
+</head>
+
+<body style=3D=22-webkit-text-size-adjust: none;-ms-text-size-adjust: none;=
+ margin: 0; padding: 0; width: 100%; background-color: =23f3f3f3;=22>
+
+<=21-- HIDDEN PREHEADER START -->
+<=21--=5Bif =21mso=5D><=21-- -->
+<div style=3D=22display: none; font-size: 0; max-height: 0;width: 0; mso-hi=
+de: all; overflow: hidden; visibility: hidden;=22><span style=3D=22display:=
+ none; font-size: 0; max-height: 0;width: 0; mso-hide: all; overflow: hidde=
+n; visibility: hidden;=22>Enjoy your free trial=2E</span></div>
+<=21--<=21=5Bendif=5D-->
+<=21-- HIDDEN PREHEADER END -->
+
+<=21-- LITMUS PREVIEW TEXT TRICK START -->
+<div style=3D=22display: none; max-height: 0px; overflow: hidden;=22>
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+<=21-- LITMUS PREVIEW TEXT TRICK END -->
+
+<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddin=
+g=3D=220=22>
+    <tr>
+      <td class=3D=22minwidth=22 align=3D=22center=22 style=3D=22min-width:=
+ 512px; background-color: =23f3f3f3;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td>
+ <=21-- TABLES START -->=20
+    =20
+     =20
+     =20
+<=21-- =7C=7C=7C MAIN BODY TABLE START =7C=7C=7C -->      =20
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+      	<table class=3D=22w100=22 align=3D=22center=22 width=3D=22512=22 bor=
+der=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+<=21-- ADD ROW(S) HERE START -->
+       =20
+    <=21-- /// 1 UNIVERSAL HEADER ROW START /// -->   =20
+    <tr>
+      <td class=3D=22padt10m padb10m=22 align=3D=22center=22 style=3D=22bac=
+kground-color: white; padding-top: 15px; padding-bottom: 15px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * LOGO START * -->
+      <td width=3D=2236=22 align=3D=22left=22><a href=3D=22https://e=2Elink=
+edin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JB=
+zaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRWSY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8cs=
+kMFWwEGqDJshwYRYjQeosilhmQIXTrMvVCSlRioXFxBTAs1Kr83dGOTHVG63yKnfF9iOF_p7iun=
+PIaRKOSeI=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/res=
+ponsysimages/linkedin/contentlibrary/jeangrey/iconography/jean-grey-linkedi=
+n-logo=2Epng=22 width=3D=2241=22 alt=3D=22LinkedIn=22 style=3D=22display: b=
+lock; border: 0; font-size: 20px; font-weight: bold; font-family: sans-seri=
+f; color: =230D0D0D;=22 class=3D=22resizem=22></a></td>
+      	<=21-- * LOGO END * -->
+     =20
+      <td style=3D=22padding-left: 20px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- * NAME START * -->
+      <td class=3D=22h3m=22 style=3D=22padding-right: 10px; font-family: He=
+lvetica Neue, Arial, sans-serif; font-size: 14px; text-align: right; color:=
+ =23737373;=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtp=
+KX%3DSBBCRWUY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8cskMFWwEGqDJshwYRYjQeosilhmQIXTrM=
+vVCSlRioXFxBTAs1Kr83dGOTHVG63yKnfF9iOF_p7iunPIaRKOSeI=2E=22 style=3D=22colo=
+r:=237e7e7e; text-decoration:none;=22>Sarah Paz</a></td>
+      	<=21-- * NAME END * -->
+     =20
+      <td width=3D=2236=22 align=3D=22center=22>
+      	<table border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+    <tr>
+   =20
+ <=21-- * IMAGE START * -->
+
+<td align=3D=22center=22 style=3D=22-webkit-border-radius: 50%; -moz-border=
+-radius: 50%; border-radius: 50%; overflow: hidden;=22><a href=3D=22https:/=
+/e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FK=
+jIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRWUY&_ei_=3DEr3-ieaLVlTpzK=
+pfE3Gl8cskMFWwEGqDJshwYRYjQeosilhmQIXTrMvVCSlRioXFxBTAs1Kr83dGOTHVG63yKnfF9=
+iOF_p7iunPIaRKOSeI=2E=22><img src=3D=22https://media=2Elicdn=2Ecom/dms/imag=
+e/C4E03AQGwVOiwsdwCvg/profile-displayphoto-shrink_400_400/0?e=3D1572480000&=
+v=3Dbeta&t=3D8KiYOIvmpTMmP_XTVa7oqoSbgCbcYM4FPL8mOcEFtVM=22 width=3D=2236=
+=22 style=3D=22display: block; border: 0; background-color: =230077B5;=22 c=
+lass=3D=22resizem=22/></a></td>
+
+<=21-- * IMAGE END * -->
+
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+  <=21-- /// 1 UNIVERSAL HEADER ROW END /// -->
+		=09
+		=09
+  <=21-- /// 70 SECTION DIVIDER START /// -->
+  <tr>
+    	<td align=3D=22center=22 style=3D=22background-color: =23ffffff;=22>
+        	<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 ce=
+llpadding=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td style=3D=22border-top: 1px solid =23eeeeee;=22></td>
+    </tr>
+</table>
+        </td>
+    </tr>
+  <=21-- /// 70 SECTION DIVIDER END /// -->   =20
+
+
+<=21-- ADD ROW(S) HERE START --> =20
+  =20
+            <=21-- /// 4 EMAIL LOCKUPS HIGHTLIGHT ROW START /// -->
+            <tr>
+                <td style=3D=22=22>
+                    <table width=3D=22100%=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22>
+                        <tr>
+                            <=21-- ** PADDING OF MODULE ** -->
+                            <td align=3D=22center=22 style=3D=22background-=
+color: =23ffffff;=22>
+                                <table width=3D=22100%=22 border=3D=220=22 =
+align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                   =20
+                                    <=21-- / HEADLINE ROW START / -->   =20
+                                    <tr>
+                                        <td style=3D=22padding-top: 10px; p=
+adding-bottom: 12px;=22>
+                                            <table width=3D=22100%=22 borde=
+r=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+                                                <tr>
+                                                   =20
+                                                    <=21-- * HEADLINE START=
+ * -->
+                                                    <td class=3D=22h2m=22 s=
+tyle=3D=22font-size: 14px; font-family: Helvetica Neue, Arial, sans-serif; =
+color: =23262626; text-align: center;=22><strong>LinkedIn</strong> <span st=
+yle=3D=22letter-spacing: 2px;=22>PREMIUM</span></td>
+                                                    <=21-- * HEADLINE END *=
+ -->
+                                                   =20
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <=21-- / HEADLINE ROW END / -->
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <=21-- /// 4 EMAIL LOCKUPS HIGHTLIGHT ROW END /// -->
+
+<=21-- /// 15 BANNER RIGHT BUTTON PRIMARY START /// -->
+  <tr>
+   =20
+    	<=21-- 522x175 BACKGROUND-IMAGE - Note: Apply link to both TD and MSO =
+code and measure height for MSO code -->
+      <td class=3D=22resizem=22 background=3D=22https://static=2Ecdn=2Eresp=
+onsys=2Enet/i5/responsysimages/content/linkedin/Premium-Banner-Orange=2Epng=
+=22 align=3D=22center=22 style=3D=22background-size: cover; background-posi=
+tion: right center; background-repeat: no-repeat; background-color: =23ffff=
+ff; width: 100%;=22>
+      <=21--=5Bif gte mso 9=5D>
+  <v:rect xmlns:v=3D=22urn:schemas-microsoft-com:vml=22 fill=3D=22true=22 s=
+troke=3D=22false=22 style=3D=22width: 512px; height: 110px; float: center;=
+=22>
+    <v:fill type=3D=22frame=22 src=3D=22https://static=2Ecdn=2Eresponsys=2E=
+net/i5/responsysimages/content/linkedin/Premium-Banner-Orange=2Epng=22 colo=
+r=3D=22=23094b7c=22 />
+    <v:textbox inset=3D=220,0,0,0=22>
+  <=21=5Bendif=5D-->
+	<div>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+
+    <=21-- /// 52 BASIC CARD RESOURCE BUTTON SECONDARY START /// -->
+            <tr>
+                <td class=3D=22padt0=22 align=3D=22center=22 style=3D=22pad=
+ding-top: 25px; padding-bottom: 35px;=22>
+                    <table class=3D=22w100=22 width=3D=2285%=22 border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                            <td>
+                               =20
+                                <table class=3D=22w100=22 width=3D=22100%=
+=22 border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+                                    <tr>
+                                        <td class=3D=22expandm=22 align=3D=
+=22center=22 width=3D=2270%=22 style=3D=22padding-top:10px;=22>
+                                            <table class=3D=22w85=22 width=
+=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>   =20
+                                                <tr>
+                                                   =20
+                                                    <=21-- HEADLINE START -=
+->
+                                                    <td class=3D=22center p=
+adt20m=22 style=3D=22font-size: 24px; font-family: Helvetica Neue, Arial, s=
+ans-serif; color: =234d4d4d; text-align: left;=22>
+                                                        We love your ambiti=
+on
+                                                    </td>
+                                                    <=21-- HEADLINE END -->
+                                                   =20
+                                                </tr>
+                                                <tr>
+                                                   =20
+                                                    <=21-- COPY START -->
+                                                    <td class=3D=22center=
+=22 style=3D=22font-size: 14px; font-family: Helvetica Neue, Arial, sans-se=
+rif; color: =234d4d4d; text-align: left;=22>
+                                                        Here's one month of=
+ LinkedIn Premium for&nbsp;free=2E
+                                                    </td>
+                                                    <=21-- COPY END -->
+                                                   =20
+                                                </tr>                      =
+                         =20
+                                            </table>
+                                        </td>
+
+                                        <td class=3D=22expandm=22 align=3D=
+=22center=22>
+                                            <table class=3D=22w85=22 width=
+=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>   =20
+                                                <tr>
+                                                    <td align=3D=22center=
+=22>
+                                                        <table class=3D=22w=
+100=22 border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22>
+                                                           =20
+                                                        <=21-- / BLUE BUTTO=
+N START / -->
+                                                        <tr>
+                                                          <td style=3D=22pa=
+dding-top: 20px;=22 align=3D=22center=22>
+                                                          	<table border=3D=
+=220=22 align=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                                                                <tr>
+                                                                  <td style=
+=3D=22background-color: =230084BF; -webkit-border-radius: 2px; -moz-border-=
+radius: 2px; border-radius: 2px; overflow: hidden;=22>
+                                                                  	<table w=
+idth=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=
+=22>
+                                                                    <tr>
+   =20
+                                                                	<=21-- COP=
+Y START -->
+                                                                      <td c=
+lass=3D=22height0=22 height=3D=2225=22 style=3D=22padding-left: 16px; paddi=
+ng-right: 16px; font-family: Helvetica Neue, Arial, sans-serif; font-size: =
+14px; text-align: center; color: white; font-weight: bold;=22>
+                                                                          <=
+a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlY=
+QGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBDSRUY&_=
+ei_=3DEr3-ieaLVlTpzKpfE3Gl8cu036chg9n95dGAz5BnpxwfBj6RoE5PgBOdDHQu-3Ch8o7Nh=
+wkgMSBv-8fdkeMShMj8ObSEsWC0xO5E2c5EIxiIQpk2f20o29jiQOuTl_zsjUYXM2wJ-rY-=2E=
+=22 style=3D=22text-decoration: none;=22><span style=3D=22display: block; w=
+idth: 100%; padding-top: 7px; padding-bottom: 7px; color: =23ffffff;=22>Try=
+&nbsp;for&nbsp;free</span></a>
+                                                                      </td>
+                                                                  	<=21-- C=
+OPY END -->
+       =20
+                                                                    </tr>
+                                                                    </table>
+                                                                  </td>
+                                                                </tr>
+                                                            </table>
+                                                          </td>
+                                                        </tr>
+                                                        <=21-- / BLUE BUTTO=
+N END / -->
+                                                                           =
+            =20
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+    <=21-- /// 52 BASIC CARD RESOURCE BUTTON SECONDARY END /// -->         =
+  =20
+        </table>
+	</div>
+<=21--=5Bif gte mso 9=5D>
+    </v:textbox>
+  </v:rect>
+  <=21=5Bendif=5D-->
+      </td>
+    </tr>
+  <=21-- /// 15 BANNER RIGHT BUTTON PRIMARY END /// -->
+
+    <=21-- /// 31 BODY LEFT TEXT BUTTON TERTIARY START /// -->
+            <tr>
+                <td align=3D=22center=22 style=3D=22background-color: white=
+; padding-top: 25px; padding-bottom: 15px;=22>
+                    <table width=3D=2285%=22 border=3D=220=22 align=3D=22ce=
+nter=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                        <tr>
+                           =20
+                            <=21-- COPY START -->
+                            <td class=3D=22h2m=22 style=3D=22font-size: 15p=
+x; font-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-a=
+lign: left; line-height: 1=2E4em;=22>
+                                Hi Sarah,<br><br>
+                                Thanks for being an active member of Linked=
+In=2E To show our appreciation, we'd like to give you a special offer: one =
+free month of <a href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtp=
+KX%3DSBBDSRUY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8cu036chg9n95dGAz5BnpxwfBj6RoE5PgB=
+OdDHQu-3Ch8o7NhwkgMSBv-8fdkeMShMj8ObSEsWC0xO5E2c5EIxiIQpk2f20o29jiQOuTl_zsj=
+UYXM2wJ-rY-=2E=22 style=3D=22color: =23008CC9; text-decoration: none;=22>Li=
+nkedIn&nbsp;Premium</a>=2E<br><br>
+                                What's so great about Premium?
+                            </td>
+                            <=21-- COPY END -->
+                           =20
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+    <=21-- /// 31 BODY LEFT TEXT BUTTON TERTIARY END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:10px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-medal=2Epng=22 widt=
+h=3D=2235=22 alt=3D=22Insights=22 style=3D=22display: block; border: 0; ver=
+tical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Competitive Insights</strong><br>
+          See how you rank against other applicants=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-profile-cards=2Epng=
+=22 alt=3D=22LinkedIn Profile=22 width=3D=2235=22 style=3D=22display: block=
+; border: 0; vertical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Who's Viewed Your Profile</strong><br>
+          Know who's looked at your profile in the last 90&nbsp;days=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-inmail=2Epng=22 alt=
+=3D=22InMails=22 width=3D=2235=22 style=3D=22display: block; border: 0; ver=
+tical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>Contact hiring managers directly</strong><br>
+          Make more connections with 3 InMail&nbsp;credits=2E
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->           =20
+
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP START /// -->
+    <tr>
+     <td align=3D=22center=22 style=3D=22background-color: =23ffffff; paddi=
+ng-top:15px; padding-bottom: 10px;=22 valign=3D=22top=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px solid =23=
+eeeeee;=22>
+
+    <tr>
+      <td valign=3D=22top=22 width=3D=2244=22 style=3D=22padding-right: 10p=
+x; padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22left=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+    <tr>
+   =20
+    	<=21-- ICON START -->
+      <td align=3D=22center=22 valign=3D=22top=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin//contentlibrary/jea=
+ngrey/premium/iconography/jean-grey-premium-iconography-browser-play=2Epng=
+=22 alt=3D=22Learn=22 width=3D=2235=22 style=3D=22display: block; border: 0=
+; vertical-align: top;=22 class=3D=22resize=22></td>
+		<=21-- ICON END -->
+
+    </tr>
+</table>
+      </td>
+      <td style=3D=22padding-top: 10px;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22font-size: 15px; font-family: Helvet=
+ica Neue, Arial, sans-serif; color: =234D4D4D; text-align: left; line-heigh=
+t: 1=2E4em;=22>
+          <strong>LinkedIn Learning</strong><br>
+          Hone your skills with over 10,000 expert-led courses=2E=20
+      </td>
+      	<=21-- COPY END -->
+     =20
+    </tr>   =20
+   =20
+</table>
+      </td>
+    </tr>
+           =20
+</table>
+      </td>
+    </tr>
+<=21-- /// 80 BASIC LIST LEFT VALUE PROP END /// -->           =20
+           =20
+<=21-- /// 29 BODY LEFT BUTTON PRIMARY START /// -->
+  <tr>
+  	<td align=3D=22center=22 style=3D=22background-color: =23ffffff; padding=
+-top: 10px; padding-bottom: 35px;=22>
+      	<table width=3D=2285%=22 border=3D=220=22 align=3D=22center=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>  =20
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22h2m=22 style=3D=22padding-top: 5px; font-size: 15px; f=
+ont-family: Helvetica Neue, Arial, sans-serif; color: =234D4D4D; text-align=
+: center; line-height: 1=2E4em;=22>Get your free month=2E Cancel&nbsp;anyti=
+me=2E</td>
+      	<=21-- COPY END -->
+     =20
+    </tr>
+   =20
+   =20
+    <=21-- / BLUE BUTTON START / -->
+    <tr>
+      <td align=3D=22center=22 style=3D=22padding-top: 15px;=22>
+      	<table border=3D=220=22 align=3D=22center=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22 style=3D=22background-color: =230084BF; -web=
+kit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; overfl=
+ow: hidden;=22>
+      	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22>
+    <tr>
+   =20
+    	<=21-- COPY START -->
+      <td class=3D=22height0=22 height=3D=2225=22 style=3D=22padding-left: =
+16px; padding-right: 16px; font-family: Helvetica Neue, Arial, sans-serif; =
+font-size: 14px; text-align: center; color: white; font-weight: bold;=22><a=
+ href=3D=22https://e=2Elinkedin=2Ecom/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBDSRUY&_e=
+i_=3DEr3-ieaLVlTpzKpfE3Gl8cu036chg9n95dGAz5BnpxwfBj6RoE5PgBOdDHQu-3Ch8o7Nhw=
+kgMSBv-8fdkeMShMj8ObSEsWC0xO5E2c5EIxiIQpk2f20o29jiQOuTl_zsjUYXM2wJ-rY-=2E=
+=22 style=3D=22text-decoration: none;=22><span style=3D=22display: block; w=
+idth: 100%; padding-top: 7px; padding-bottom: 7px; color: =23ffffff;=22>Try=
+&nbsp;for&nbsp;free</span></a></td>
+      	<=21-- COPY END -->
+       =20
+    </tr>
+</table>
+      </td>
+    </tr>
+</table>
+      </td>
+    </tr>
+    <=21-- / BLUE BUTTON END / -->
+   =20
+</table>
+      </td>
+  </tr>
+<=21-- /// 29 BODY LEFT BUTTON PRIMARY END /// -->=20
+           =20
+<=21-- ADD ROW(S) HERE END -->   =20
+</table>
+      </td>
+  </tr>
+</table>
+<=21-- =7C=7C=7C MAIN BODY TABLE END =7C=7C=7C -->=20
+
+<=21-- =7C=7C=7C FOOTER TABLE START =7C=7C=7C -->
+<table width=3D=22100%=22 border=3D=220=22 align=3D=22center=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+    <tr>
+      <td align=3D=22center=22>
+<=21-- Footer -->
+<table class=3D=22width320=22 width=3D=22512=22 border=3D=220=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22backgro=
+und-color:=23f2f2f2;=22>
+<tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22left=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22backgrou=
+nd-color:=23f2f2f2;=22>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+=20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22>
+    After your promotional period, you automatically will be charged for a =
+subscription on a monthly or annual basis (at your choice) unless you  canc=
+el=2E This promotion ends on September 12 2019=2E  <a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjI=
+kckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRWBY&_ei_=3DEolaGGF4SNMvxFF7=
+KucKuWNh54ymMVokn5XCDqKATHqLrpHT_jQVOt9erPXBXmtGBdTtJpag=2E=22 style=3D=22c=
+olor:=23008cc9; text-decoration:none;=22>Learn more=2E</a> =20
+
+<br><br>
+
+For Who's Viewed Your Profile, first & last name may not be listed for prof=
+ile viewers who have chosen to remain semi- or fully-anonymous via their pr=
+ivacy settings=2E=20
+
+</td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22><a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8o=
+zcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRWDY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLNSiFxKGbh2Bq7q2scxr3KM59FxUI6Sf3=
+XRbnfqr0HY8aqLL92WXNSIIoH3JpH-I-7Stuqfsj0jUVTpDFrtSVsRFNqhS5_nRk7MNmMng-4fW=
+jEeZK0OoCcWzOjXLqBiPzMSAOd9I=2E=22 style=3D=22color:=23737373; text-decorat=
+ion:underline;=22>Unsubscribe</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a =
+href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGu=
+Ir8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRYSY&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLrpHT_jQVOt9erPXBXmtGBdTtJpag=
+=2E=22 style=3D=22color:=23737373; text-decoration:underline;=22>Help</a></=
+td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+ =20
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22464=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+       =20
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>
+          This is an occasional email to help you get the most out of Linke=
+dIn=2E
+         <br><br>=20
+          This email was intended for  Sarah Paz (Full Stack Web Dev Studen=
+t &=23x2b; E-Commerce Specialist)=2E <a href=3D=22https://e=2Elinkedin=2Eco=
+m/pub/acc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGf=
+MLoh0zdLuSqBNUCKfvJVXtpKX%3DSBBCRYUY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8cskMFWwEGq=
+DJshwYRYjQeosilhmQIXTrMvVCSlRioXFxBTAs1Kr83dGOTHVG63yKnfF9iOF_p7iunPIaRKOSe=
+I=2E=22 style=3D=22color:=23008cc9; text-decoration:none;=22>Learn why we i=
+ncluded this</a>=2E</td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22center=22 valign=3D=22top=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0z=
+dLuSqBNUCKfvJVXtpKX%3DSBBCRWSY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8cskMFWwEGqDJshwY=
+RYjQeosilhmQIXTrMvVCSlRioXFxBTAs1Kr83dGOTHVG63yKnfF9iOF_p7iunPIaRKOSeI=2E=
+=22 rilt=3D=22LOGO=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/linkedin/contentlibrary/oldcontent/cm_footer_and_text/fo=
+oter_phoenix_english=2Eimages/logo=2Epng=22 alt=3D=22LinkedIn Logo=22 borde=
+r=3D=220=22 style=3D=22display:block; border:none;=22  /></a></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22450=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>&=23169; 2019, LinkedIn Ireland Ltd=2E Al=
+l rights reserved=2E LinkedIn Ireland Unlimited Company&=2344; Gardner Hous=
+e&=2344; Wilton Plaza&=2344; Wilton Place&=2344; Dublin 2&=2344; Ireland </=
+td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+</td>
+  </tr></table></td>
+    </tr>
+</table>
+<=21-- =7C=7C=7C FOOTER TABLE END =7C=7C=7C -->=20
+     =20
+<=21-- TABLES END -->     =20
+      </td>
+    </tr>
+</table>
+      </td>
+  </tr>
+</table>
+
+
+
+
+<div class=3D=22gmailfix=22 style=3D=22white-space:nowrap; font:15px courie=
+r; line-height:0;=22>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;=20
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Elinkedin=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGuIr8ozcuNhgDydy4FKjIkckF3JBzaIXchGfMLoh0zdLuSqBNUCKfvJVXHkMX%3Dw&_ei=
+_=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqLrpHT_jQVOt9erPXBXmtGBdTtJpa=
+g=2E=22></img>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+------alt_border_XHTLHja0NV_1--
+
+------msg_border_ZqiSre5FlD--
+

@@ -1,0 +1,251 @@
+Return-Path: <jaclyn@hatchways.io>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id AJkkFVkRQ1125DkAOhTp2Q
+	(envelope-from <jaclyn@hatchways.io>)
+	for <hey@sarahpaz.ca>; Thu, 01 Aug 2019 12:20:41 -0400
+Return-path: <jaclyn@hatchways.io>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 01 Aug 2019 12:20:41 -0400
+Received: from mail-ed1-f50.google.com ([209.85.208.50]:36641)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <jaclyn@hatchways.io>)
+	id 1htDoi-00GJMT-DT
+	for hey@sarahpaz.ca; Thu, 01 Aug 2019 12:20:41 -0400
+Received: by mail-ed1-f50.google.com with SMTP id k21so69747988edq.3
+        for <hey@sarahpaz.ca>; Thu, 01 Aug 2019 09:20:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hatchways-io.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=nNLk/gKbhi4L4+i5sKHFWXUNshauEcFR/NzlVfJPeOA=;
+        b=xe7yhUUPHqLGMlnuixvQgARMC+fsJ0FH1MGVwI1zWVah/5Pxw4ZA/Qx3u8+7nHlbf8
+         BWH/s9DaZHot17JZZPvV5lfbniJccG6rypvHTpVssjuIitlotkA2TRU3KTX4kMlyWXvi
+         xeCsz/2wQaJvkhvJf4jh5krd8XBV6G1zeRwXw79bedmKwWhqlvEKJsCAepV1j14EeRtp
+         abUxONxPaBVSBQ8lYOpfpTrBi5Qknb5sRCnKF7P4bLj4zHz2t5GBT20I4+4QgaiatoTA
+         yGhqWQ+sojock1SxA81A98OlH1IYja7dcxIJqXyoVgQLBIud8Gw9IpBkGQfMhG6L+ue7
+         Z5lw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=nNLk/gKbhi4L4+i5sKHFWXUNshauEcFR/NzlVfJPeOA=;
+        b=UVjEaF8PW27UC/wDrKI6XcciEO9RVWPnWlQnMYVyxeaGVOnx5OOP7kca0uyEKnJBu9
+         gmGRDMbnLsmOYdFfCfJl58WYOJv6PpdVX+pkC8FFCZoonM1E4YQUFuUmUa2YNQbvkYaj
+         zpY+r+jv5GFRmHWYyxjWH0N9lpdMyHmmoe6wh8Q1dc1qrqDVI5CvuxhkqXg/6YR9BCM6
+         +ZSDQCTcB4z55P0luxEloeGgSzyF/GeMbLO/Muybhea2eivGo7cwafrqkQA8LYKE0nBx
+         xR0HzlNKRMUjGWqRs7+l7v+mk597zFduKBYSp9xj/vUe9zrohQRVPl3mBqoSxg7AgdsQ
+         D1Ww==
+X-Gm-Message-State: APjAAAXTkH6BdBkkp4r/gnSHSJsCa11mRhPVmdAv8iAMJsciohtkMEQC
+	LilJxsEpkNFenGg0XLgXFJJ4RineNgmudzS/sQxekBWL
+X-Google-Smtp-Source: APXvYqzb/k5GPRXcMpaQG5Lt9c0p/5q3waAv0SrSEXS+PDl8Sw0nKHurAlfOK63rPUH59+/A5i91Opl4vnhorhaN+/w=
+X-Received: by 2002:a17:906:2510:: with SMTP id i16mr32818718ejb.130.1564676394658;
+ Thu, 01 Aug 2019 09:19:54 -0700 (PDT)
+MIME-Version: 1.0
+References: <7pep9n6i1j2y91iiyl5f7ck33-0@mailer.nylas.com> <f4e1u01hnwgqgxndphrj2mbq4-0@mailer.nylas.com>
+ <6ABE1C56-D5DF-42EB-9134-AD2A9A8E973F@sarahpaz.ca>
+In-Reply-To: <6ABE1C56-D5DF-42EB-9134-AD2A9A8E973F@sarahpaz.ca>
+From: Jaclyn Ling <jaclyn@hatchways.io>
+Date: Thu, 1 Aug 2019 09:19:43 -0700
+Message-ID: <CABYLOWYcMq2sEGPHjrHK_fvObp5P_S8SaDhaiXPE_ddB1DAaiw@mail.gmail.com>
+Subject: Re: Part-time course- admission
+To: Sarah Paz <hey@sarahpaz.ca>
+Content-Type: multipart/alternative; boundary="000000000000b144f3058f109c4e"
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hey there Sarah, No worries, totally understand! What date
+    would be a better time frame for you? I can keep you in the loop once we
+   open up a future slots! Jaclyn 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.208.50 listed in list.dnswl.org]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.208.50 listed in wl.mailspike.net]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sarahpaz.ca]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 HTTPS_HTTP_MISMATCH    BODY: No description available.
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--000000000000b144f3058f109c4e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey there Sarah,
+
+No worries, totally understand! What date would be a better time frame for
+you? I can keep you in the loop once we open up a future slots!
+
+Jaclyn
+
+On Thu, Aug 1, 2019 at 8:19 AM Sarah Paz <hey@sarahpaz.ca> wrote:
+
+> Hi Jaclyn,
+>
+> As much as I=E2=80=99d love to take on this course, after further conside=
+ration I
+> do not think I have the capacity right now add this to my plate. I will
+> keep my eye out, and would love to register for a later date.
+>
+> Thank you,
+> Sarah
+>
+> On Jul 30, 2019, at 6:01 PM, Jaclyn Ling <jaclyn@hatchways.io> wrote:
+>
+> Hi Sarah,
+>
+> We just wanted to send a quick update note as multiple people requested a
+> delayed start date given people are wrapping up courses or work for the
+> summer. So we've decided to delay the start date of our course to August
+> 8th! Hopefully this can accommodate more people.
+>
+> You can confirm your participation or find more details here:
+> https://hatchways.io/#/course/signup
+>
+> If you have any questions feel free to reach out!
+>
+> Jaclyn
+>
+> -----Original Message-----
+> From: Jaclyn Ling
+> To: hey@sarahpaz.ca
+> Subject: Part-time course- admission
+>
+> Hi Sarah,
+>
+> Great news! We've taken a look at your profile and what you'd like to get
+> out of Hatchways Part-Time
+> <http://infinite-stream-5194.herokuapp.com/redirect/?mmm=3Dmmm_gQo1kK&url=
+=3DaHR0cHM6Ly9oYXRjaHdheXMtYXBwLXN0YWdpbmcuYXBwc3BvdC5jb20vIy93YWl0bGlzdA%3=
+D%3D>
+> course and we think you are a great fit.
+>
+> We've admitted you to participate in one of our up-coming part-time
+> courses where you will build large scale projects with a team that we wil=
+l
+> assemble you in. The objective of this course is for you to gain new skil=
+ls
+> with modern technologies, and build a project that can be showcased to
+> employers. Examples of past projects teams have built are of similar
+> complexity to Instagram, Airbnb and Pinterest.
+>
+> In order to confirm your participation please upload a signed contract an=
+d
+> payment details here: https://hatchways.io/#/course/signup
+> <http://infinite-stream-5194.herokuapp.com/redirect/?mmm=3Dmmm_gQo1kK&url=
+=3DaHR0cHM6Ly9oYXRjaHdheXMuaW8vIy9jb3Vyc2Uvc2lnbnVw>
+>
+> There are only 12 spots per cohort. The *deadline to enroll* is 48 hours
+> before the start date of the course. Soon after you enroll, you'll receiv=
+e
+> a starter package and be invited to our Kickoff session on August 1st at
+> 5:30 PM EST.
+>
+> If you have any questions please feel free to send me an email and I will
+> get back to you shortly!
+>
+> All the best,
+> Jaclyn
+>
+>
+>
+
+--=20
+All the best,
+
+Jaclyn Ling
+Co-founder, Hatchways
+www.hatchways.io
+Read our latest stories here <https://hatchways.io/#/blog>.
+
+--000000000000b144f3058f109c4e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hey there Sarah,<div><br></div><div>No worries, totally un=
+derstand! What date would be a better time frame for you? I can keep you in=
+ the loop once we open up a future slots!</div><div><br></div><div>Jaclyn</=
+div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_at=
+tr">On Thu, Aug 1, 2019 at 8:19 AM Sarah Paz &lt;<a href=3D"mailto:hey@sara=
+hpaz.ca">hey@sarahpaz.ca</a>&gt; wrote:<br></div><blockquote class=3D"gmail=
+_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204=
+,204);padding-left:1ex"><div style=3D"overflow-wrap: break-word;">Hi Jaclyn=
+,<div><br></div><div>As much as I=E2=80=99d love to take on this course, af=
+ter further consideration I do not think I have the capacity right now add =
+this to my plate. I will keep my eye out, and would love to register for a =
+later date.=C2=A0</div><div><br></div><div>Thank you,</div><div>Sarah<br><d=
+iv><br><blockquote type=3D"cite"><div>On Jul 30, 2019, at 6:01 PM, Jaclyn L=
+ing &lt;<a href=3D"mailto:jaclyn@hatchways.io" target=3D"_blank">jaclyn@hat=
+chways.io</a>&gt; wrote:</div><br class=3D"gmail-m_-1533979027442493161Appl=
+e-interchange-newline"><div>Hi=C2=A0Sarah,<br>
+<br>
+We just wanted to send a quick update note as multiple people requested a d=
+elayed start date given people are wrapping up courses or work for the summ=
+er. So we&#39;ve decided to delay the start date of our course to August 8t=
+h! Hopefully this can accommodate more people.<br>
+<br>
+You can confirm your participation or find more details here:=C2=A0<a href=
+=3D"https://hatchways.io/#/course/signup" target=3D"_blank">https://hatchwa=
+ys.io/#/course/signup</a><br>
+<br>
+If you have any questions feel free to reach out!=C2=A0<br>
+<br>
+Jaclyn<br><br><div style=3D"margin-left:10px">-----Original Message-----<br=
+>From: Jaclyn Ling<br>To: <a href=3D"mailto:hey@sarahpaz.ca" target=3D"_bla=
+nk">hey@sarahpaz.ca</a><br>Subject: Part-time course- admission<br><br>Hi=
+=C2=A0Sarah,<br>
+<br>
+Great news! We&#39;ve taken a look at your profile and what you&#39;d like =
+to get out of <a href=3D"http://infinite-stream-5194.herokuapp.com/redirect=
+/?mmm=3Dmmm_gQo1kK&amp;url=3DaHR0cHM6Ly9oYXRjaHdheXMtYXBwLXN0YWdpbmcuYXBwc3=
+BvdC5jb20vIy93YWl0bGlzdA%3D%3D" target=3D"_blank">Hatchways Part-Time</a> c=
+ourse and we think you are a great fit.=C2=A0<br>
+<br>
+We&#39;ve admitted you to participate in one of our up-coming part-time cou=
+rses where you will build large scale projects with a team that we will ass=
+emble you in. The objective of this course is for you to gain new skills wi=
+th modern technologies, and build a project that can be showcased to employ=
+ers. Examples of past projects teams have built are of similar complexity t=
+o Instagram, Airbnb and Pinterest.<br>
+<br>
+In order to confirm your participation please upload a signed contract and =
+payment details here: <a href=3D"http://infinite-stream-5194.herokuapp.com/=
+redirect/?mmm=3Dmmm_gQo1kK&amp;url=3DaHR0cHM6Ly9oYXRjaHdheXMuaW8vIy9jb3Vyc2=
+Uvc2lnbnVw" target=3D"_blank">https://hatchways.io/#/course/signup</a><br>
+<br>
+There are only 12 spots per cohort. The <strong>deadline to enroll</strong>=
+ is 48 hours before the start date of the course. Soon after you enroll, yo=
+u&#39;ll receive a starter package and be invited to our Kickoff session on=
+ August 1st at 5:30 PM EST.<br>
+<br>
+If you have any questions please feel free to send me an email and I will g=
+et back to you shortly!<br>
+<br>
+All the best,<br>
+Jaclyn=C2=A0=C2=A0<br><br>
+</div><img alt=3D"" width=3D"1" height=3D"1" src=3D"http://infinite-stream-=
+5194.herokuapp.com/pixel/mmm_gQo1kK.gif"></div></blockquote></div><br></div=
+></div></blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=
+=3D"ltr" class=3D"gmail_signature"><div dir=3D"ltr">All the best,<div><br><=
+/div><div>Jaclyn Ling</div><div>Co-founder, Hatchways</div><div><a href=3D"=
+http://www.hatchways.io" target=3D"_blank">www.hatchways.io</a><br>Read our=
+ latest stories <a href=3D"https://hatchways.io/#/blog" target=3D"_blank">h=
+ere</a>.</div></div></div>
+
+--000000000000b144f3058f109c4e--

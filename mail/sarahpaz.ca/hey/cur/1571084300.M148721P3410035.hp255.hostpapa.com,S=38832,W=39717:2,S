@@ -1,0 +1,885 @@
+Return-Path: <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id +NdFCAzYpF1zCDQAOhTp2Q
+	(envelope-from <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	for <hey@sarahpaz.ca>; Mon, 14 Oct 2019 16:18:20 -0400
+Return-path: <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 14 Oct 2019 16:18:20 -0400
+Received: from o4.mail8.glassdoor.com ([50.31.56.142]:62189)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	id 1iK6nJ-00EO3t-GN
+	for hey@sarahpaz.ca; Mon, 14 Oct 2019 16:18:20 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=glassdoor.com; 
+	h=content-type:from:mime-version:to:subject; s=s1; 
+	bh=YO+Asc42KW4TSRH5D3xm9/WaOsc=; b=kBEweAxsqQmgCsQszbkQ5x5MN6ECm
+	wJVLDOutj6mMIvmVJSXqdqoaRcfy1E60W6cG9TzSPmx7weld6Vi6NMmd2Ry/imAj
+	ut/2sG+4fWJIRse5/f39aZ9MXFSRiTFq30tsLvXeh94UF2NdKtGYfG+cmSEABLcO
+	fydF8CLJSI2g+0=
+Received: by filter1981p1mdw1.sendgrid.net with SMTP id filter1981p1mdw1-8879-5DA4D7E0-28
+        2019-10-14 20:17:36.713073888 +0000 UTC m=+332761.080697300
+Received: from MzYxMjU1 (ec2-52-204-227-179.compute-1.amazonaws.com [52.204.227.179])
+	by ismtpd0071p1mdw1.sendgrid.net (SG) with HTTP id lphMjzxUR_O2j4pcPIxePQ
+	Mon, 14 Oct 2019 20:17:36.722 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=aae64396b164e2cc65294c5d4a19824fbc689cbd41c2ec075d21645a041f
+Date: Mon, 14 Oct 2019 20:17:36 +0000 (UTC)
+From: "Glassdoor" <noreply@glassdoor.com>
+Mime-Version: 1.0
+To: hey@sarahpaz.ca
+Message-ID: <lphMjzxUR_O2j4pcPIxePQ@ismtpd0071p1mdw1.sendgrid.net>
+Subject: Canopy Growth Corporation: What You Need to Know
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVk6nXpKgWdHpjhcqIckPhQ0CmSIBc0fhAMxWQ
+ LcN9JG/TxlG5IhNpPVsfd4ZMPhRi9KIk1/0zr8J6B7cSVf4deoS2B5OxMCBE58HEbC5eivheRcW+nM
+ wAojaaOZd5yKfzKfOnGUqSUICua4adywtjDAjgIHIsFbREbO/Z5P5gaKbA==
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7PYAaJGAzyXIp3SZha+j8pKWB/pOSiI+TrK9SBcwD+trLn2qr4Xx29yFjg
+ H79mpTZZ+bQrYSRryFYTcr66ytOEb/E3LMfJLP0VVL3Jp8LWnE6WOk05tfZAdm/8TrdtvoAOCEy8FT
+ SkQhrMNSYT48ikplQlvjpdMA0NcDoc6OmO7coNUIcOwPbCv0P1xQMW7WZQ==
+X-Spam-Status: No, score=2.4
+X-Spam-Score: 24
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  See Salaries, Interviews, and Benefits at Canopy Growth Corporation
+    Canopy Growth Corporation: What You Need to Know Get prepared. Learn more
+    about the companies you applied to. Email Implementation Specialist at Canopy
+    Growth Corporation Toronto, ON 
+ Content analysis details:   (2.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [50.31.56.142 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.7 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+X-Spam-Flag: NO
+
+--aae64396b164e2cc65294c5d4a19824fbc689cbd41c2ec075d21645a041f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See Salaries, Interviews, and Benefits at Canopy Growth Corporation
+
+--aae64396b164e2cc65294c5d4a19824fbc689cbd41c2ec075d21645a041f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"format-detection" content=3D"address=3Dno">
+<title>
+Canopy Growth Corporation: What You Need to Know</title>
+<link href=3D"https://fonts.googleapis.com/css?family=3DLato" rel=3D"styles=
+heet" type=3D"text/css">
+<style type=3D"text/css">
+@media screen and (min-width:500px) {
+[class=3D"vertPadding"] {
+padding-bottom: 10px;
+}
+[class=3D"horzPadding"] {
+padding-left: 10px;
+}
+}
+#GDEmail td { font-family: Lato, Arial, Helvetica, sans-serif; }
+</style>
+</head>
+<body bgcolor=3D"#f3f3f3" id=3D"GDEmail" yahoofix class=3D"yahoofix">
+<div id=3D"GDEmailWrapper" style=3D"margin: 0; padding: 0; font-size: 16px;=
+ font-family: Lato, Arial, Helvetica, sans-serif">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" bgcolor=3D"#f3f3f3" style=3D"min-width: 100%;">
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+<tr>
+<td class=3D"horzPadding"></td>
+<td align=3D"center" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"500" bgcolor=3D"#ffffff"
+style=3D"border-top: 1px solid #C2C2C2; border-bottom: 1px solid #C2C2C2; b=
+order-left: 1px solid #C2C2C2; border-right: 1px solid #C2C2C2;">
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"75" style=3D"padding-left:=
+ 8.5%; padding-right: 8.5%; padding-top: 10px">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhVid7lDgKXFDG6GhcDOy7AYIMVQN6ZGTC24UHq6A-2F364LsvBrjv5o=
+Om2WhSc99edGjFnZPVKoTBf6XQjROFTGJWLlKGkR-2BQYHjH-2BN7XfGfRsw7iyKKeFLV5PSLo5=
+04ms6A-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoD=
+uQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGG=
+uiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVl039KqA7h=
+rzt1b4NkaMUAosSlex8-2BY1-2BCa7Y415XPVMY64pFwrsZdbLiijUjkG-2FFsmtgmwcIxZkzLx=
+BtWGPOpIHQ3AsMz2TCshLt1ciAXRM5LY8W5w-2FXVfuCE6Qlp-2FkX1jbeOJC0XlxuiaI4EHl4V=
+UuNXTCGhq2owbl4PJA8kIkNQbirX2ezDtT50d5RnHu36BmW5nsX8QHla9oj2cHnsMsS1YGYHAom=
+-2FCZVIXzmfj0-3D" target=3D"_blank" style=3D"text-decoration: none">
+<img src=3D"https://www.glassdoor.com/crs/mail/logos/gdlogoHw_2x.png" id=3D=
+"Logo"
+alt=3D"Glassdoor" title=3D"Glassdoor" height=3D"30" width=3D"142"
+style=3D"border: none">
+</a>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-bottom: 20px;=
+">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding-bottom: 10px; font-siz=
+e: 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+Get prepared. Learn more about the companies you applied to.
+</span>
+</td>
+</tr>
+</table>
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"margin-top: 30px; margin-bottom: 21px; min-width: 100%;">
+<tr style=3D"min-width: 100%;">
+<td class=3D"squareLogo" align=3D"left" style=3D"padding-right: 15px; verti=
+cal-align:top; min-width:75px; max-width: 75px; width:75px;" valign=3D"top">
+<img class=3D"ecxfbCompanyLogo" style=3D"width:75px; height:75px;" width=3D=
+"75" height=3D"75" src=3D"http://media.glassdoor.com/sqlm/1311239/canopy-gr=
+owth-corporation-squarelogo-1526585247350.png" alt=3D"[Canopy Growth Corpor=
+ationlogo]" title=3D"[Canopy Growth Corporation logo]">
+</td>
+<td valign=3D"top">
+<a style=3D"display: block; margin-bottom: 4px; color: #1861BF; font-size: =
+22px; text-decoration: none; line-height: 1;" href=3D"https://mail8.glassdo=
+or.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQRyrQzHvTTdVBTCoHQhXklB57bF9Vg=
+gAScxwouBXYs3sAdzQtfFvGZn40b9Cnf9ZlEUJmmu1rLSlJk-2BlwqtzSU-2FAttJuBvuIH6PVp=
+-2BZwAQY2kGD4Z8CRdIoYxvw8Iyd8Cl72lwdnFiQXznfN0B7zv5yr1p4pYLMi2SLyjHqs92xCBm=
+Q3jsHLZiZ40yInn3V4-2BS43UsjrxgAkDbaw0vBK2iicijHBPt4-2B-2FOQdA3-2FTDKzx-2Fsq=
+Qc0QtYnaP49DzfDIXhfxmd8iSbiXTNMhImxiOOoal914IWr3q7fa209sVB_jQhle9vCs52fJYPh=
+4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6L=
+CPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2=
+F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVOJMVey1G02b-2BsLDlRcCH-2Fots9YC5Q9Z=
+FNatGmPROABEUkJyJ6KPcBToGPdssyRB6q5V087FyAi1-2FsyHxHob9P6GJsTEjMdGaVKLw07E7=
+MOOntOMVueOFx6bPB1yDsBeVZSMeyadvvg3UF7JArSq3R9fRel4b8EHAsMCNd4nXolzByNxG3-2=
+BC5mcR-2FpyyVLlFof-2BknBOri-2BLLPH0Z2N9HK-2BUChwhETMvhbO7VgfxrWdSM-3D">
+<span style=3D"display: block; margin-bottom: 3px; font-size: 22px">Email I=
+mplementation Specialist</span>
+</a>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"height: 10=
+px; line-height: 10px; margin-top: 3px;">
+<tr>
+<td>
+<span style=3D"display: block; color: #0D0D0D; font-size: 18px; line-height=
+: 1;">at Canopy Growth Corporation</span>
+</td>
+</tr>
+</table>
+<span style=3D"display: block; margin-top: 4px; color: #404040; font-size: =
+14px;">Toronto, ON</span>
+</td>
+</tr>
+</table>
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-bottom: 10px; font-size:=
+ 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+Check out Email Implementation Specialist salaries near Toronto, ON
+</span>
+</td>
+</tr>
+</table>
+<p style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin-bo=
+ttom: 7px !important;line-height: 18px;">Senior Implementation Specialist i=
+n Toronto, ON
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhV0ZJSI0DsUwy-2FNwx7-2FOGqqgjmC3x-2F7UJaimtgm-2BRUAq3e8JvG=
+-2BQrhlyTok4-2FxrpMWYgWjWShtIq1TdSeSgggzMEab9xtqQaTl1cKSTP8MKeFkhyvlk2VdLZY=
+jeFuSBztpQLly0f5-2Byd8VDgA4lXs-2Bmg9n4J6krdGzPbrOKjftzZXnspXSVKi-2FpWxuspDp=
+IAUfx-2FfXRgEtzEw5eKQXrASjQLuUdGdfMWw3y3OUKMEhOT6-2Fg9LHNmkuRwJ1bwoZO4n0-3D=
+_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe=
+4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLY=
+crLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQV7I1jjHwuwBw-2BlTRM=
+8SQR8fkKRn-2B1oQCkBP-2Bzixz857Jik-2BQYF59DpX-2BtwSBmq9PugHt7rVY8BCG-2BGXsfr=
+J4BOwNLt2JxfbLDviKbJSk6ILFU-2B01DtLuYTf-2BwY0vqmg2q478KWgruy6IKAL6iglOrc-2F=
+-2B3JgF89MNXpD2KKSyCXEdsQSlUdX63JVNn1woNa-2BrTUsjsglhVRqnBmLVkXx1FOcwdKk08P=
+BzUv-2F2MfMHrFg0-3D" universal=3D'true'>...See Salary</a>
+</p>
+<p style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin-bo=
+ttom: 7px !important;line-height: 18px;">Implementation Consultant in Toron=
+to, ON
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhWBhanuKBy5fcoNNIjib6znbfraGrM1uDFaRdZhK-2BU6EDwWJHyAf9N-2=
+BUbsO6qYxbchOzEyfFBF4gL33o6v-2FCJ8guLX-2BXCS4-2BQQZD9755tDS-2FLwOaRaoWI-2B4=
+W9or8mbPUaoqw5oqsghIsBlNnWogfwz0YD-2BkDDUwsFv8NiM4S2jBYYNWxuN-2Fr-2BeYhcT47=
+yZcBBKESzrWnulWUSmWOA5U5F8TQn6oZ-2FUJS2p3geVlAOnsUA-3D-3D_jQhle9vCs52fJYPh4=
+-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LC=
+PngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F=
+4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVsy3odjbvvmnuiG0jo87FdnEj9OijBH3oZZfL=
+F4cEBwSiUUaKjhTIALCmQOcwghX4Usixb52l-2BQsesMbfhoxPGM7oj4nduISpDdaKky0QA2r66=
+QtKJQ8IlnrenyrVAfAPtzcb85b671N6wAU-2FNNgKBRNQQr4v2ckAjsu3k14Wu49ltOmpDUzMtQ=
+BTSfL0ynO3ur3Rw5SUhstYLLSPHxtDIT-2FLS7-2BtFvamRjcQDiWeT2E-3D" universal=3D'=
+true'>...See Salary</a>
+</p>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<a rel=3D"nofollow" target=3D"_blank" href=3D"https://mail8.glassdoor.com/w=
+f/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQRyrQzHvTTdVBTCoHQhX-2Fb6-2FxWoeAiHDZ2=
+d1X5zYOlsnLBIbj-2FTSAnmavFu-2BXMSzCmNOKNtkFtSiPHDPVvYhJUzlW8v6ID2NRzBJJ-2Fn=
+t2TlveN8L69Qd3arHUffIemTQCm1ZRLeRlu8fg0EUcBCO0PDApSkvzUcEBFBK0jHh4lsA-2F-2F=
+QiMyWsWSmxtaLDz1zLPUue0OBPlmPcdHKng92nt4yOo6HhAin6z0VPnLTWx1vesgN27YwtxF-2F=
+cf3NEiWg-3D-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2F=
+plYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2=
+FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVBfG8=
+A1x9G3w3IjoeRzYmoluffnWGjrxw6-2BnoD5cROvehQ7-2BCzhoWoLIutls4HiaIVZt137E64zP=
+U1mS-2B9KS1nePRdfSRZ6z3oEO6mqsB04vZBndLA7r3N3IQ2rOZxxFmBVFPUQ37k7pOIKj1OH3t=
+K-2BmZwaST-2FDUCUilp7e67IpcQV2OMDUp2eYWb97CQhzpSWMTiI2fYqbkAaoAmOwA-2BDn7qj=
+24x-2B8IfqeFEbVaeByE-3D"
+style=3D"text-decoration: none;">
+<table cellpadding=3D15 cellspacing=3D"0" align=3D"center" bgcolor=3D"#1861=
+BF" width=3D"280"
+style=3D"min-width: 280px; border-radius: 3px; border: none">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 18px; color: #ff=
+ffff;">
+See all Salaries
+</td>
+</tr>
+</table>
+</a>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-bottom: 10px; font-size:=
+ 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+Research Email Implementation Specialist Interview Questions
+</span>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"min-widt=
+h: 100%; padding-top:32px">
+<tr>
+<td class=3D"squareLogo" align=3D"left" style=3D"padding-right: 15px; verti=
+cal-align:top; min-width:75px; max-width: 75px; width:75px;" valign=3D"top">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhUoWzc-2FMMRIeZURFX5rGaKx6RP49Ca-2Bd2MGZCGAodWfbOUcVAaO=
+Ei45fY5Txlf1Ep427fDU8pWD3MaRPtux51OCwQWdKwjrbimCckPi9-2BkHCmPT5w7npCPTWU-2F=
+ZK-2FN17qlRPaxxzfUba-2FkyMkqCLRhqZgoYVm4Rb5iHJY-2BVUdlVaVM2YT-2F3az-2Boq6Ve=
+AJnKOpJs9rwFwDoJ6ZG-2FH2T384Lq_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZ=
+gPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSD=
+tj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3=
+ZtRtYVeVDUQV-2BAWkVtv-2FR19Z1AvT-2FTfwjh52qab4Cls4pf4xzLMBjA0j8BPCCLkjMnxRa=
+KJy8oIWrvzYx0IZb-2BjnjIwC16vN9nV-2FielqSZ7TZe006D-2FuuKxFiX3dVa588xFF8Lm-2B=
+LkXATH3upzJ6EK0ElUGqcNTYJWvD8J78UMSy8GATauuqczCgcyN4i0FkW4Bdsj4dpV-2BPdvJxL=
+cvNxb-2Bi3tYegoZLQ1cFGTVC-2BnK7FqNlZ0kpwh8-3D">
+<img class=3D"ecxfbCompanyLogo" style=3D"width:64px; height:64px;" width=3D=
+"64" height=3D"64" src=3D"https://media.glassdoor.com/sqlm/1011314/format-c=
+om-squarelogo-1520282549118.png" alt=3D"[Format.comlogo]" title=3D"[Format.=
+com logo]">
+</a>
+</td>
+<td style=3D"vertical-align:top; width:383px; height:100px" valign=3D"top">
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.43em;font-size:14px!important;color:=
+#404040; font-style:italic; -webkit-margin-before:1em;-webkit-margin-after:=
+1em;-webkit-margin-start:0px;-webkit-margin-end:0px">
+"Why do you want to work here?"
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhUoWzc-2FMMRIeZURFX5rGaKx6RP49Ca-2Bd2MGZCGAodWfbOUcVAaOEi4=
+5fY5Txlf1Ep427fDU8pWD3MaRPtux51OCwQWdKwjrbimCckPi9-2BkHCmPT5w7npCPTWU-2FZK-=
+2FN17qlRPaxxzfUba-2FkyMkqCLRhqZgoYVm4Rb5iHJY-2BVUdlVaVM2YT-2F3az-2Boq6VeAJn=
+KOpJs9rwFwDoJ6ZG-2FH2T384Lq_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPT=
+WUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0=
+Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtR=
+tYVeVDUQVVsIG9dKWF2zTUQeDCmg1aXTP73N5gzG9UXUp9fKsgi0M2kRhZQSsjFA-2FyYyrCMxu=
+KtY5ByDY-2Bo4f4ZlVGcJeQoCBpGpzTJIanyl0lMDZz0M729TWbnTwURaeDSsaUbX74nR2MkHcH=
+HNcm-2BmjtauFZ-2BZFfJGq1ru1yPrHEhYFHnI9RJl-2FakQ72HcxEQo8uaBvJj4Y9qh4Fx3-2B=
+4S3Z7iMdG9Xs-2Blg3F4E9UT9WH-2FH-2Bhg8-3D" universal=3D'true'>
+...Read More
+</a>
+</span>
+<br>
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.4em;font-size:14px!important;color:#=
+404040; -webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-s=
+tart:0px;-webkit-margin-end:0px">
+As human resources specialist, has the mojor duties to manage fully utiliza=
+tion of human resource( t
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhUoWzc-2FMMRIeZURFX5rGaKx6RP49Ca-2Bd2MGZCGAodWfbOUcVAaOEi4=
+5fY5Txlf1Ep427fDU8pWD3MaRPtux51OCwQWdKwjrbimCckPi9-2BkHCmPT5w7npCPTWU-2FZK-=
+2FN17qlRPaxxzfUba-2FkyMkqCLRhqZgoYVm4Rb5iHJY-2BVUdlVaVM2YT-2F3az-2Boq6VeAJn=
+KOpJs9rwFwDoJ6ZG-2FH2T384Lq_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPT=
+WUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0=
+Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtR=
+tYVeVDUQVkD7pKfn6RuX6BKpVxB7WGl4BpGkjEKOlxDIjeQniic5cXhuYIfHxeWX7bRV-2B-2FW=
+meYKd3TYoiLinQLoPh3BBe63mpXiaPbo0hLlbLsW7-2Bs0ZQB7HJuyFNACR0BKm-2F-2Bka6V-2=
+FLuzCoRXrmDkBLdA-2FeY5vrTrtOS-2BF1oSCLXkUvoRT9K9KG7TI9Rb8aU1F3bWGvkkN0mHgsJ=
+ET6SWc6HZCVW8A-2FyU5fhvr-2FDZfwwPq1HY1w-3D" universal=3D'true'>
+...Read More
+</a>
+</span>
+</a>
+<br>
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.4em;font-size:14px!important;color:#=
+a7a7a7; -webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-s=
+tart:0px;-webkit-margin-end:0px">
+from: HR Specialist at Format.com
+</span>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"min-widt=
+h: 100%; padding-top:32px">
+<tr>
+<td class=3D"squareLogo" align=3D"left" style=3D"padding-right: 15px; verti=
+cal-align:top; min-width:75px; max-width: 75px; width:75px;" valign=3D"top">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhVb7Gzed2WrODRdXzIKIaqxtnTNPwyODWeA-2Bz68xPj1VUfmCpR3bo=
+oW9Nw5ZMQ4dpFVRiickNt2Nt0a-2FIF5PI-2BxAtCCRg8JWa-2FoTYV12g-2BQbf-2Fd1CNYDZm=
+MnoLLvK-2BFwYJF-2FFrS4RxM89c-2BNfoXB5DFdHO5MuXtL10xHDum27AV77yPWwa30k8FjjE-=
+2FTLTvbci7oExUx367fFRnWsICV0iMIzPcMODeefWnNdtXDwIWMNT8FZT-2BlsDi9W0i8ow-2BJ=
+3M-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFa=
+DQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiIS=
+aBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVB3ondA2p2kQB6=
+WYoaMxzAs9Hb1J4BbDcrU-2FaDyfUfwbsWZmpK8HxTiXRXHpzhCdNMgGF0w-2FfiY3ccOJy8dTz=
+zvNlJ1MzIs40hYeTRC13Wm1BJUFpAZ8sFrIMju3VhokTROkMzpbh2jiKwttzv1Qqi2-2BFQ8vU-=
+2FkfJMh8QzSZ59ok-2FRJ9vyMTQwf7RCHr-2BqoUuBULTbuj8jNRwEoRcgM1IaovNaqxnNLuO3Z=
+BpIGmqkQM-3D">
+<img class=3D"ecxfbCompanyLogo" style=3D"width:64px; height:64px;" width=3D=
+"64" height=3D"64" src=3D"https://media.glassdoor.com/sqlm/9414/crowe-squar=
+elogo-1528125970311.png" alt=3D"[Crowelogo]" title=3D"[Crowe logo]">
+</a>
+</td>
+<td style=3D"vertical-align:top; width:383px; height:100px" valign=3D"top">
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.43em;font-size:14px!important;color:=
+#404040; font-style:italic; -webkit-margin-before:1em;-webkit-margin-after:=
+1em;-webkit-margin-start:0px;-webkit-margin-end:0px">
+"What is the most important thing you seek from your co-workers?"
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhVb7Gzed2WrODRdXzIKIaqxtnTNPwyODWeA-2Bz68xPj1VUfmCpR3booW9=
+Nw5ZMQ4dpFVRiickNt2Nt0a-2FIF5PI-2BxAtCCRg8JWa-2FoTYV12g-2BQbf-2Fd1CNYDZmMno=
+LLvK-2BFwYJF-2FFrS4RxM89c-2BNfoXB5DFdHO5MuXtL10xHDum27AV77yPWwa30k8FjjE-2FT=
+LTvbci7oExUx367fFRnWsICV0iMIzPcMODeefWnNdtXDwIWMNT8FZT-2BlsDi9W0i8ow-2BJ3M-=
+3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQH=
+Ie4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBn=
+LYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVRH-2BIsIHI6VaN1k=
+2HTB4Uxo4v1tFBhq5PXoWgiukEljdcG4Bja9Z8RmZiRqZOCTfBLZOwc9JprzBVZW5SfN-2BGjtq=
+X5qh5gNMeoYCGkFI1JTRyT5-2FCiDqxyI2qmF-2FpCKsgdJVgSWqGnVK56BohyC6sOmKiNb7fk4=
+z784JG5fSSHD3daa1agSLpNFqhhMUWedcy9c5d6i2JKchztScdXsV5nfL2VA8UYItohWkhuXvRG=
+ns-3D" universal=3D'true'>
+...Read More
+</a>
+</span>
+<br>
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.4em;font-size:14px!important;color:#=
+404040; -webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-s=
+tart:0px;-webkit-margin-end:0px">
+Approach-ability, communication, and creativity in tackling problems.
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhVb7Gzed2WrODRdXzIKIaqxtnTNPwyODWeA-2Bz68xPj1VUfmCpR3booW9=
+Nw5ZMQ4dpFVRiickNt2Nt0a-2FIF5PI-2BxAtCCRg8JWa-2FoTYV12g-2BQbf-2Fd1CNYDZmMno=
+LLvK-2BFwYJF-2FFrS4RxM89c-2BNfoXB5DFdHO5MuXtL10xHDum27AV77yPWwa30k8FjjE-2FT=
+LTvbci7oExUx367fFRnWsICV0iMIzPcMODeefWnNdtXDwIWMNT8FZT-2BlsDi9W0i8ow-2BJ3M-=
+3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQH=
+Ie4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBn=
+LYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVWDc39jMBqJizZH-2=
+FuZTj6ejXfwrHcK9wGnoE7GLjJGZK77MGuJ0bZboXUFs3jDPKNCs5sQ1ygsTIRMtndMn6cekgeJ=
+ZbSnGJwhMhMGBH9xExfbqjp6mNvMVeFYS-2Bo-2FN66ddR62bAC-2FUupCQZSQxvX1sQ7bcpZg6=
+Ca43enHE09tC1eqVsnv3yLw-2BfCkGwl3xAoZTYUz32NYzvkkTk-2BWl4wyBGMMR19OnyL0Y4K2=
+Kr8pcs-3D" universal=3D'true'>
+...Read More
+</a>
+</span>
+</a>
+<br>
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.4em;font-size:14px!important;color:#=
+a7a7a7; -webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-s=
+tart:0px;-webkit-margin-end:0px">
+from: Human Resources Specialist at Crowe
+</span>
+</td>
+</tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"min-widt=
+h: 100%; padding-top:32px">
+<tr>
+<td class=3D"squareLogo" align=3D"left" style=3D"padding-right: 15px; verti=
+cal-align:top; min-width:75px; max-width: 75px; width:75px;" valign=3D"top">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhXvolvUraVXf8HB9PRlK-2F4uZrrOptG7xmoNHeDdxG4NGHCjNl4mmU=
+xhsxnJB8XWP8Ioob-2FWENqeayiL8i446tZe4Qd26qd-2Fn14bfXVEoWo-2F8pwldwt5u-2Fm0t=
+2eMlwgdMBCJlpBy3183XPI0zfyJHTZg-2FNx-2BE8zaoOVCLq-2F8aggsJ-2FCF0RMcLYD8HAXD=
+LQqezmYdKXyAKf9p-2F0kVkA17kh2bUc93R8eToW2RDcDvSOZKK04Ow7WBYiKzY0ZiLe9tnZRGa=
+RLqX4-2FdJrSMhH5pyQEb_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9C=
+q5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2=
+F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVD=
+UQV2eqrEUvxK-2FTW-2BGcf9KLyhPKRlARlA22h6M3pGQQR7ga7i0pSdMGM0tGKJ-2FeJOJS3rQ=
+8CMLyOIM9Wh6-2BvPp15D7HuumjGUooTLnxYnJSO1Hwo-2F1fDITKSx3IH0SvRJuzHIVgZLF7gm=
+PdTMpm60u4dRq2PPEh3TOPgzY9VFfK01OBym-2Fpihy9yu4-2FoEvkuK2MR6dFM-2B7EIWqhVEL=
+b7PxOZrWtzN5HBGriqR-2Bu0Qkt9eIk-3D">
+<img class=3D"ecxfbCompanyLogo" style=3D"width:64px; height:64px;" width=3D=
+"64" height=3D"64" src=3D"https://media.glassdoor.com/sqlm/40211/entertainm=
+ent-one-squarelogo-1441796950004.png" alt=3D"[Entertainment Onelogo]" title=
+=3D"[Entertainment One logo]">
+</a>
+</td>
+<td style=3D"vertical-align:top; width:383px; height:100px" valign=3D"top">
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.43em;font-size:14px!important;color:=
+#404040; font-style:italic; -webkit-margin-before:1em;-webkit-margin-after:=
+1em;-webkit-margin-start:0px;-webkit-margin-end:0px">
+"They asked me why i chose eOne and what I would bring to the organization"
+<a style=3D"color: #1861BF; font-size: 14px; text-decoration: none;" href=
+=3D"https://mail8.glassdoor.com/uni/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQ=
+RyrQzHvTTdVBTCoHQhXvolvUraVXf8HB9PRlK-2F4uZrrOptG7xmoNHeDdxG4NGHCjNl4mmUxhs=
+xnJB8XWP8Ioob-2FWENqeayiL8i446tZe4Qd26qd-2Fn14bfXVEoWo-2F8pwldwt5u-2Fm0t2eM=
+lwgdMBCJlpBy3183XPI0zfyJHTZg-2FNx-2BE8zaoOVCLq-2F8aggsJ-2FCF0RMcLYD8HAXDLQq=
+ezmYdKXyAKf9p-2F0kVkA17kh2bUc93R8eToW2RDcDvSOZKK04Ow7WBYiKzY0ZiLe9tnZRGaRLq=
+X4-2FdJrSMhH5pyQEb_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5O=
+z-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1e=
+g5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQV=
+-2Fb1qdCzXSWmR8sTvXNvNGt-2B8mNltFPQC8f7EcmUcJ9EkmifhN9X-2FlMGBhFkXeutWV7gG6=
+4KASThVSWDP8iC1s9-2Frmk6Vj0mYwitcYZ4MMBAfV2CIqvL-2B0qgDL3S9leZuXoP2xSwP5HgD=
+Ci1YukN3dvPi5BWiCfpnkUajtO6mm3GJFUCCeHhftzXAGpa2l2-2B7WnABwYUlcH8j0BYYqPsNZ=
+3SlnOTIR9WodAieJiSw0vM-3D" universal=3D'true'>
+...Read More
+</a>
+</span>
+</a>
+<br>
+<span style=3D"margin-bottom: 21px; color: #666666; font-size: 14px; margin=
+-bottom: 10px !important;line-height:1.4em;font-size:14px!important;color:#=
+a7a7a7; -webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-s=
+tart:0px;-webkit-margin-end:0px">
+from: Human Resources Specialist at Entertainment One
+</span>
+</td>
+</tr>
+</table>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<a rel=3D"nofollow" target=3D"_blank" href=3D"https://mail8.glassdoor.com/w=
+f/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQRyrQzHvTTdVBTCoHQhXUMqqPVvu4FpiVL9kBn=
+I0rfaorpC0dWKQUk7l-2BiynqxH-2Fy00Uujtny8UW7A5qHRBbK9JLBKyiLhyZXBeioSbLU2EiJ=
+DMCXfsWVAU2CCCx1yJDdhQoDqI4l8QINySLRP5XTB0bjqUYwIS50Gcle57i7dCDNotEV2Cpm-2F=
+WE4KhLUDqF9leQbNTY8P8MVcfdg9kSHg-2B6deh-2FqchRLW1ViXbLBw3iOjTLFRoCQ9KiFy-2B=
+c-2BogtnsQi-2Fv8KRQbydvVoCvLs-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeG=
+QZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGk=
+SDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sU=
+Q3ZtRtYVeVDUQV-2BpDMIKU4WWkx-2BafU947XFRaPaQCqsLdb3d44lUPubZd2ajArti16UWDhs=
+DrAFtNz5-2Fz7MQfbw4dd0fo2MvPnc8AJbFMjm9l7af-2BLjOhcbZCb-2Br3LajmhCxtUPGpPHI=
+kVRPwex5ONFAREpMR68Q7Wfz6NsCACCW3aw58IhDarblAALNGh4ZSdoUODtXeKy34l4V0UnVtw9=
+b-2BuIuz4mEqgAN8gj9uzLaEK5y3wJM1yqIY-3D"
+style=3D"text-decoration: none;">
+<table cellpadding=3D15 cellspacing=3D"0" align=3D"center" bgcolor=3D"#1861=
+BF" width=3D"280"
+style=3D"min-width: 280px; border-radius: 3px; border: none">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 18px; color: #ff=
+ffff;">
+See all Interviews
+</td>
+</tr>
+</table>
+</a>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"">
+<hr style=3D"height: 1px; background-color: #7F7F7F; border: none; margin: =
+0;"/>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-top: 20px; pa=
+dding-bottom: 20px; ">
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"15"><td height=3D"15" width=3D'0'></td></tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding-bottom: 10px; font-siz=
+e: 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+Keep Applying!
+</span>
+<br/>
+<span style=3D"font-size: 18px;">
+Check out these jobs
+</span>
+</td>
+</tr>
+</table>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"min-widt=
+h: 100%;" border=3D"0px">
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhVeLGfjR9VmbDdXbp6tGCKK4Ol7Og7e-2BE71pIWIo11r6MpiPjlzRr=
+DgueaWeOvgHRzlhLyJB6vG8UKhsX4chivgc06ZDXP5tZHc0Sbazs5MNR7iV5-2BnOG6NEMvUoxi=
+X7AuU2-2BYOPkzIcNTcbgqej99zzGG5MsvhAORUPSpjKBc5uHYjavJaXVaTwCoUlFRXg7xwgRDv=
+os8HywRdwQxxi0gcm4KNePVxHZZTeuf-2FY9CzLXPFlQa46Rdnw0anTBVMFFfnCXWMHP0copciN=
+XiQhifB4LjOadKKerFK9wF9YnGZaLpsqUZ7NLLmc8FyDcxYRSmsSePN-2BRF-2BSYdrkfFsFpEN=
+mQkxTCRL6W430bZa-2BQCeYbQUOosffL3dJbp7n9mU2BNz2awTKmKLLN7QS6DGYtLrCWiHQRJP9=
+fa1wQGj3lT622-2FmZoxG8anESw5-2FlCveq-2BI-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCa=
+np-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7=
+VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatG=
+PCB5ZwPM5sUQ3ZtRtYVeVDUQVMl1n1KIlSXmmW6bOTov2aQsbdLnaRoDjfF0I52xiJtRsgE3cSA=
+3bbFcpmNLPUDEexfdDNEPJyQyfjnZ7MjYWKmtr5h-2B-2BeXp-2FyQksYW0BhXueXa9OqthFGWp=
+bHnfMsVQOA0dU3w0PauqGVk3I1KWXxNxJxyZrTIMQk32pCpeB9n2T3UoTS7an7Q72NpIjarw6mr=
+VKUhkULf5EByBErBqc66YdaBV5m9KAvKJkTrf0wOc-3D" style=3D"line-height: 0; font=
+-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/522=
+181/tweed-squarelogo-1541069805019.png"
+alt=3D"Tweed" title=3D"Tweed"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a style=3D"color: #404040; font-size: 16px; line-height: 1.3; text-decorat=
+ion: none;" href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6Ofs=
+dYwiA4ne3woQRyrQzHvTTdVBTCoHQhVeLGfjR9VmbDdXbp6tGCKK4Ol7Og7e-2BE71pIWIo11r6=
+MpiPjlzRrDgueaWeOvgHRzlhLyJB6vG8UKhsX4chivgc06ZDXP5tZHc0Sbazs5MNR7iV5-2BnOG=
+6NEMvUoxiX7AuU2-2BYOPkzIcNTcbgqej99zzGG5MsvhAORUPSpjKBc5uHYjavJaXVaTwCoUlFR=
+Xg7xwgRDvos8HywRdwQxxi0gcm4KNePVxHZZTeuf-2FY9CzLXPFlQa46Rdnw0anTBVMFFfnCXWM=
+HP0copciNXiQhifB4LjOadKKerFK9wF9YnGZaLpsqUZ7NLLmc8FyDcxYRSmsSePN-2BRF-2BSYd=
+rkfFsFpENmQkxTCRL6W430bZa-2BQCeYbQUOosffL3dJbp7n9mU2BNz2awTKmKLLN7QS6DGYtLr=
+CWiHQRJP9fa1wQGj3lT622-2FmZoxG8anESw5-2FlCveq-2BI-3D_jQhle9vCs52fJYPh4-2Ffw=
+t2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY=
+-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQ=
+NJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQV26II-2BxxhMi34IBeP8S5QGJy387-2BzulR8NxUIK=
+4cuk669XtdRzoQsi2OQ3jZ7APLYrtwMGzpNlqW8-2BsdqaWGtBlyDqGI8Gs69XA-2FdWVhWjEJT=
+zMzO4G4ZR1R9KyGTXCGdsuAIsCpy-2FEbtZiYePWWR0c3xAZkSEF38ZzGMiuoFTFZx3QNf3cRlW=
+UxyiseodtZuMHLly7QhTs21EExAs9DJqmjAHMZh1NjXV1EHyhG1mbQ-3D">
+<span style=3D"font-size: 18px; color: #1861BF">Email Implementation Specia=
+list</span>
+<br/>
+Tweed
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+</table>
+<div style=3D"padding-top: 30px;padding-bottom:30px;">
+<a rel=3D"nofollow" target=3D"_blank" href=3D"https://mail8.glassdoor.com/w=
+f/click?upn=3DT16u07fZ6OfsdYwiA4ne3woQRyrQzHvTTdVBTCoHQhUZMrSBzJ-2FOrPtqnHH=
+KwQEToLyLzou8q5yVuLKZVaxS-2F7L5DsWV3LxZbcR2UDZlNigAcYMQUzoWuyrY45zichRJpJYP=
+SQziispMC9pwq59aUMCuXq7WGQAXSW-2FythJc5sHyiYjJxyEUBONp6yPmg9LgvTkoee-2BFlR1=
+OWys7c5fQcBvG9z4yg6srxd-2FTrQ459zLdf-2FeMpfBc7DNT4gCEXDNxYob2UBzh-2FAsxErkw=
+RnwrbA7rrGnZ-2FZEMVkMVwA-2B-2B7MA-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4q=
+UfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTf=
+KsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwP=
+M5sUQ3ZtRtYVeVDUQVkl5Q1XhOpz8oXgQn2GH7s-2BlK3fO7wEHr-2BKHBDhn-2B6mdjplkg1h-=
+2B5bb6bYz7AapxAhitCb6bAXofhmp9V5Vc-2FeWIaO0dgJNkz4iWmvjSUvHpwjKK54dNIDFpF4N=
+N7-2BcmMbYBrkGAXvysXuRvL8fctoVzi3b-2B9KsyxCCWsC3T-2BnhAMUHsOPgAEanqE2e1WzUk=
+ZaSFYQs9A2z02Xrp-2BGgMLaSXA7cXu7PP0xu7m02tDymU-3D"
+style=3D"text-decoration: none;">
+<table cellpadding=3D15 cellspacing=3D"0" align=3D"center" bgcolor=3D"#1861=
+BF" width=3D"280"
+style=3D"min-width: 280px; border-radius: 3px; border: none">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 18px; color: #ff=
+ffff;">
+See All Jobs
+</td>
+</tr>
+</table>
+</a>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: #404040; padding-top: 25px; padding-bottom: =
+25px; padding-left: 8.5%; padding-right: 8.5%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" style=3D"min-width: 100%;">
+<tr>
+<td style=3D"font-family: Lato, Arial, Helvetica, sans-serif; font-size: 10=
+px; color: #FFFFFF; line-height: 18px; margin: 0; margin-top: 0px; margin-b=
+ottom: 0px;; text-align: center;">
+<span style=3D"color: #FFFFFF">
+This message was sent to <a href=3D"mailto:hey@sarahpaz.ca" style=3D"color:=
+#FFFFFF;">hey@sarahpaz.ca</a>.
+</span>
+<br>
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhWSufCP7QzSL38kDb4A-2Bzfxof3mGGSETFChE5FM3zw0Qya45DF39t=
+5gS8vXfXdcXE3LtKBHWDnA6etN2Omb7lt9voNgvxJCeIbr0NpjdQhUF1DceRg7aiHfTV4WwBB49=
+3LNLh0GHtNmQYKgM-2FB0kc4f-2BLGTaEBupavmYOkG89GoFw-3D-3D_jQhle9vCs52fJYPh4-2=
+Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPn=
+gcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4m=
+EnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVvJAnaVi-2BS0pL3FpnSbla81k-2FcOXB27R0sL=
+PDhnNRclMjDSRh7CtvDh4CWeJ-2BrlMgUZqADLvFE-2FEoNPXYIzOGQe-2Bpb-2BxYsekYySywV=
+dMznC6nL31ELjrMoqByPXeuQtNBh9xUS9UlNADWiHV1MiqCcGSBvClTv-2BeDNwHrf4ZHWn4izm=
+ro6EDONC-2B6xQmyN0qVvBWdc47T0M85y3cYfH8I26wjT4AKXQLzL36EnD-2BM3iE-3D" style=
+=3D"color: #FFFFFF;">Privacy Policy</a>
+<span style=3D"color: #FFFFFF;">&nbsp;|&nbsp;</span>
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhWNV7HQolukyFDy4Mq56ozDoPUYvRSQjegwmvnzleJOPci5dMYoQ-2B=
+ZLqYonHaer71rlqJi-2FLN0IgVfuA7J-2F-2FQwm-2BxkAiQrGaj1uhSyGdaGm2TZf43yRikpZI=
+lty4NZ1Qn99GpAUFHOSS2Fj95HV-2BSa8FyFSRopvRMnaaYgCD-2B9UnEtGqA97VAi-2Fl4cfb8=
+21vZ4-3D_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDu=
+QFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGu=
+iISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVW3aD5FD-2B=
+V7-2BnzTCgioEOFDuySqVeMqx-2BIqhW3I8Y4WsCOqRfTgcCbI1Fnfr2nVWo-2Bio6Ixv8Ffv8N=
+NF-2FdX1JrXpay9bTKUlk4v5us3x9Jd4imfhJ7fyarhugHD7Sbw8ENnYTcVphIC4stvxMqNqLqZ=
+BJEMKL-2BJa-2Bb61fqIaWPC2JhX5LJ9ixefvYvKrlWC7SANjHKxYlxzS43x4LbfB-2BUCbBIyY=
+qpte8hOuljjK1k-2BI-3D" style=3D"color: #FFFFFF;">
+Manage Settings
+</a>
+<span style=3D"color: #FFFFFF;">&nbsp;|&nbsp;</span>
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhWoBCZeom0NZJVKeZW0LP-2BfCVKkJnMNurbKGX-2FKkm-2FAOhAl0o=
+dPDoYP45Ru-2FvKI0vJ8sJyDbewnKzG-2F77Rgyp6RUtVzNgWtO8Y9Ko4wLR8LvqypvYnxyD4YD=
+ctOCpvoOmYCHsMM1g-2Fx-2Bj9YVd1DFk0wUXx6Kn1B4wKA-2FcaJRZXiNVnBX6ACbK4hXVBOxL=
+G8VQuId-2BYc-2FgBNgJXe1u6XooYZZf7fRNU0K8LtBply9w-2FJMbqCoYnnspllzrHfZttbh1X=
+mhZrnpiTmjq9BCrlmnE9s_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9C=
+q5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngcY-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2=
+F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEnQNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVD=
+UQV0u5TFo-2FZk0Cy93XktJ-2FtQXOps83aS3wlrp4VePOZy9ra-2F1hLLCE3vMvucZXVnS4b7E=
+vBJ-2BDy0cnzSVFyuz8otaGk3D8Kp8yXkt1lNGKKuIkj6dgauEGOp1vWak7U-2BIjCh-2FvUK72=
+yHXThy6Eb91e4E-2FhYmZPMjdJWnctRrJiNS7asfV2DrypfzCTp51vktDjQSFS-2BBh3-2FsILk=
+SPi5TZQ7gtt0pLOgyp2Cti3cDeMATHI-3D" style=3D"color: #FFFFFF;">Unsubscribe</=
+a>
+<br>
+<span style=3D"color: #FFFFFF;">
+<a href=3D"www.glassdoor.ca" target=3D"_blank" style=3D"color: #FFFFFF">Gla=
+ssdoor</a> &nbsp;|&nbsp; 100 Shoreline Highway - Building A, Mill Valley, C=
+A 94941
+</span>
+<br>
+<span style=3D"color: #FFFFFF;">
+Copyright =C2=A9 2008-2019, Glassdoor, Inc. "Glassdoor" and logo are propri=
+etary trademarks of Glassdoor, Inc.
+</span>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D'horzPadding'></td>
+</tr>
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+</table>
+</div>
+
+<img src=3D"https://mail8.glassdoor.com/wf/open?upn=3DjQhle9vCs52fJYPh4-2Ff=
+wt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDQHIe4jORqKGScnC6BkO6LCPngc=
+Y-2BNW6jx7VMwIZTfKsGkSDtj0Gmnf-2F1eg5-2FVlGGuiISaBnLYcrLNhSQ83a62zQx-2F4mEn=
+QNJ8UIbatGPCB5ZwPM5sUQ3ZtRtYVeVDUQVzzWw-2BFF8xwPiOa-2FU1kTmwVS4ZKgckR15-2Bj=
+5ZjCGVY4HBq9PGTzdUB1XzjrFrxQgzS-2FZxSaIAH-2BW0VUpYMzIDiOJBGL49PuC55J5zybJDQ=
+7kjIJ44Y1-2BfSSUk0uTcwXgR3EB-2FRYnkxF9D66YTvoUgFmiH3Mt0rw1iK3-2BtEx53Lk0f3j=
+hCjC7MaOrDuhau7qcgnOxBwJ1kudJWdE-2FcolcNtPFMVTIL-2FWV3JpQHbFkyJH4-3D" alt=
+=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;"/>
+</body>
+</html>
+
+--aae64396b164e2cc65294c5d4a19824fbc689cbd41c2ec075d21645a041f--

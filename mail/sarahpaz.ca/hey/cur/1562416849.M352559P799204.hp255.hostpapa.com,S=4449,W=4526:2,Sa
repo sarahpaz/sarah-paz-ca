@@ -1,0 +1,77 @@
+Return-Path: <no-reply@silkroad.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id eyVpFNGWIF3kMQwAOhTp2Q
+	(envelope-from <no-reply@silkroad.com>)
+	for <hey@sarahpaz.ca>; Sat, 06 Jul 2019 08:40:49 -0400
+Return-path: <no-reply@silkroad.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sat, 06 Jul 2019 08:40:49 -0400
+Received: from srpmail-outbound.silkroad.com ([209.90.188.65]:53160 helo=relay-ca1.silkroad.com)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <no-reply@silkroad.com>)
+	id 1hjjzh-003Ldc-5W
+	for hey@sarahpaz.ca; Sat, 06 Jul 2019 08:40:49 -0400
+Received: from srpohweb102c.TheLifeSuite.local ([10.31.192.1])
+	by relay-ca1.silkroad.com (8.14.4/8.14.4) with ESMTP id x66Cdv20021686
+	for <hey@sarahpaz.ca>; Sat, 6 Jul 2019 08:40:02 -0400
+DKIM-Filter: OpenDKIM Filter v2.11.0 relay-ca1.silkroad.com x66Cdv20021686
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=silkroad.com; s=CA1;
+	t=1562416802; bh=0F0jdOlVKYjX7fm5GgLsJIZbh/TVMtq5m7EEKjoa1Vs=;
+	h=Date:From:Reply-To:To:Subject:From;
+	b=LOlPk2j7hNJxy1Ad3pm1+wrE0PDLac5t5k8uNvRWjKjDfot2I0skYlHHtZVMlLDwj
+	 if1dDKGCmW7S3WvAy4hZBDO8t/qyTPMYP0sB0grqk5v4u79A4NVs1I/b1Db36p3YcN
+	 zUddLZ1kTWGULdDFaYR+JKtq7siHgxsqP6rNUvAE=
+Date: Sat, 6 Jul 2019 08:40:03 -0400 (EDT)
+From: Worldgroup Careers MWT <no-reply@silkroad.com>
+Reply-To: no-reply@silkroad.com
+To: hey@sarahpaz.ca
+Message-ID: <1341572573.30486.1562416803974.JavaMail.ohcfadmin@relay-ca1.silkroad.com>
+Subject: =?utf-8?Q?Online_r=C3=A9sum=C3=A9/CV_Submission_for_J?=
+ =?utf-8?Q?unior_Front_End_Developer_7682-094?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion 10 Application Server
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Thank you for sharing your resume (curriculum vitae) with
+   us. We will consider your background among all candidates for current opportunities.
+    If you are not contacted for an interview this time, plea [...] 
+ Content analysis details:   (1.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: silkroad.com]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.90.188.65 listed in list.dnswl.org]
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<p><p>Thank you for sharing your resume (curriculum vitae) with us.&nbsp; We will consider your background among all candidates for current opportunities.&nbsp; If you are not contacted for an interview this time, please know that we will retain your information for future consideration as new opportunities arise.</p>
+<p>McCann Worldgroup agencies are equal opportunity employers in accordance with local laws and regulations.&nbsp; All information you provide is collected and retained in accordance with these regulations.</p>
+<p>The McCann Worldgroup Careers Team</p></p> 

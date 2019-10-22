@@ -1,0 +1,207 @@
+Return-Path: <jaclyn@hatchways.io>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id NmKgCqQwOF13jicAOhTp2Q
+	(envelope-from <jaclyn@hatchways.io>)
+	for <hey@sarahpaz.ca>; Wed, 24 Jul 2019 06:19:16 -0400
+Return-path: <jaclyn@hatchways.io>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 24 Jul 2019 06:19:16 -0400
+Received: from mail-pl1-f194.google.com ([209.85.214.194]:38914)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <jaclyn@hatchways.io>)
+	id 1hqEMd-00As7g-1G
+	for hey@sarahpaz.ca; Wed, 24 Jul 2019 06:19:16 -0400
+Received: by mail-pl1-f194.google.com with SMTP id b7so21862554pls.6
+        for <hey@sarahpaz.ca>; Wed, 24 Jul 2019 03:18:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hatchways-io.20150623.gappssmtp.com; s=20150623;
+        h=from:date:user-agent:message-id:to:subject:mime-version;
+        bh=36Y5CDb9zJEtjDTrO5qA20as6Y7EHFeSPuL6+mThXIo=;
+        b=oEb+2ruPZwr8AkbjbO22wq1UB1IH9xpPy5fyKCFsLGD1JZ8W2vNkxeVNRB3xsWIyhp
+         ApOcuDckPbzxPZoV7f8a50csPJ/9c2HRxn7Ce8bfcwYSuOXxfsXP+TgMTvyd/wqQ7Zyw
+         ISkCCtiH4m6BBDaBlUjn56BsdByIZ8O3hhYmgu8QfOx5E5X1hTiF3pclmqU1hbFlELD/
+         0hbcmzXvZw/Lrlzibj/y2Q9OptyYPBqjd3u84XHAeuzJiK+fwVKL4EzlW/XVue666pjW
+         nPfnllu3OsAISpgJLwDLzrg7MBGzxu7+qMR7wNXl6Txwa/P2DoOm0S8TITlTlmVzXFWK
+         QoQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:date:user-agent:message-id:to:subject
+         :mime-version;
+        bh=36Y5CDb9zJEtjDTrO5qA20as6Y7EHFeSPuL6+mThXIo=;
+        b=cPE3ZBQKZy8Y9EwPJvX9FZjc1aeVnc692BLFvrEA6HfOydGhlJGKbpZ3LsWPT20pBH
+         tK39z9qvZzU7zkMzoPlIjQ1urdclFBLsL7+tvHgK9k0bf104i3PBIlXl6h/HHZY4jTuz
+         4vSY943n6IdcY+8zV4tx3RAAPGXnT2RCIKNSi6BODeW4SUAEYoJnVJ2M8GViSZstjNZU
+         QjGOjkAq0/xmeBkp31GJd0V9LRvUEgrI93ovBGj+xZTPJa4CR0/IsIDNJNOyXnFmETFu
+         HcZg0BYTOGwN07N1tmEWpxEkFq/qCIEv523vz9Ejf0kCsD9HVXLZdNKDJRunHrZOh+PL
+         emOA==
+X-Gm-Message-State: APjAAAXeMem6Dtoh/sjPx0ZgylnHP2CpwsYaI8CbxMafLiW353YKmNx+
+	UtA4VDxFUSCnY6nQmUZjdt92L+HiIi4=
+X-Google-Smtp-Source: APXvYqyjdOHVoxl0lVphy8Q+8J+iO5oxcOVNjDNB85waBom83dKY6hTKVT//OhoX0lm1Q3JPxvU9MQ==
+X-Received: by 2002:a17:902:2be6:: with SMTP id l93mr85741354plb.0.1563963513591;
+        Wed, 24 Jul 2019 03:18:33 -0700 (PDT)
+Received: from mail.nylas.com (mail.nylas.com. [54.149.110.158])
+        by smtp.gmail.com with ESMTPSA id 195sm78544229pfu.75.2019.07.24.03.18.32
+        for <hey@sarahpaz.ca>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 24 Jul 2019 03:18:32 -0700 (PDT)
+From: Jaclyn Ling <jaclyn@hatchways.io>
+X-Google-Original-From: Jaclyn Ling <jaclyn@gethatchways.com>
+Date: Wed, 24 Jul 2019 10:18:32 +0000
+User-Agent: NylasMailer/18.0.0
+Message-Id: <ew4rik3czkgunlixvglqf4yaw-0@mailer.nylas.com>
+X-Inbox-Id: ew4rik3czkgunlixvglqf4yaw-0
+To: hey@sarahpaz.ca
+Subject: Get practical programming skills for jobs (for students)
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="8c31fcaeed5a4f2db32a24d3102b6771"
+X-Spam-Status: No, score=1.9
+X-Spam-Score: 19
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah, We’re reaching out because we are launching
+    a new program to help students studying computer science/engineering gain
+    practical skills! Hatchways has now assessed over 1000 projects on our platform
+    and have met hundreds in person to review their skills and portfolios. We’ve
+    seen a lot of new grads with degrees in computer science th [...] 
+ Content analysis details:   (1.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.214.194 listed in wl.mailspike.net]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.214.194 listed in list.dnswl.org]
+  0.5 URI_NOVOWEL            URI: URI hostname has long non-vowel sequence
+  0.1 HTTPS_HTTP_MISMATCH    BODY: No description available.
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of
+                             words
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--8c31fcaeed5a4f2db32a24d3102b6771
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Hello=C2=A0Sarah, =20
+ =20
+We=E2=80=99re reaching out because we are launching a new program to help s=
+tudents
+studying computer science/engineering gain practical skills! =20
+ =20
+Hatchways has now assessed over 1000 projects on our platform and have met
+hundreds in person to review their skills and portfolios. We=E2=80=99ve see=
+n a lot of
+new grads with degrees in computer science that have strong fundamentals, b=
+ut
+**don=E2=80=99t have side projects to show to employers** in an interview. =
+=20
+ =20
+Today, employers are looking for projects beyond what=E2=80=99s built in th=
+e classroom
+to evaluate practical skills. And in some cases, employers will use project=
+-
+work as a close substitute for professional experience! =20
+ =20
+Hatchways wants to help you build skills and a portfolio that will help you
+get your next job. We are offering a part-time project-based course where y=
+ou
+will work in an agile development team environment building out a large-sca=
+le
+project. =20
+ =20
+Below are some details:
+
+  * Over the span of 8 weeks you will build a large scale project with a te=
+am of 2-3 (estimated time commitment: 15 hours/week)
+  * You will have a 30-minute sprint planning meeting with a team lead once=
+ a week
+  * You will have a bi-weekly 1 hour demo day where you will showcase your =
+progress to other teams in the cohort
+  * The start of the class will be=C2=A0 **Aug 1st** (evening) **,** and th=
+e deadline to apply is=C2=A0 **July 27th**.=C2=A0
+
+If you are interested in joining the waitlist, please fill out this form he=
+re:
+[https://forms.gle/5rYRdzDfMvADipYj8](http://infinite-
+stream-5194.herokuapp.com/redirect/?mmm=3Dmmm_dmyo7k&url=3DaHR0cHM6Ly9mb3Jt=
+cy5nbGUvNXJZUmR6RGZNdkFEaXBZajg%3D).
+We will run this twice a month, so if you are interested but cannot make th=
+is
+cohort, please put the next available date you can start in the form above.=
+ =20
+ =20
+If you have any feedback on this course, feel free to let us know by
+responding back to this email! =20
+ =20
+Looking forward to hearing from you, =20
+ =20
+Jaclyn Ling =20
+CEO, Co-founder of Hatchways![](http://infinite-
+stream-5194.herokuapp.com/pixel/mmm_dmyo7k.gif)
+
+--8c31fcaeed5a4f2db32a24d3102b6771
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Mime-Version: 1.0
+
+Hello=C2=A0Sarah,<br>
+<br>
+We=E2=80=99re reaching out because we are launching a new program to help s=
+tudents studying computer science/engineering gain practical skills!<br>
+<br>
+Hatchways has now assessed over 1000 projects on our platform and have met =
+hundreds in person to review their skills and portfolios. We=E2=80=99ve see=
+n a lot of new grads with degrees in computer science that have strong fund=
+amentals, but <strong>don=E2=80=99t have side projects to show to employers=
+ </strong>in an interview.<br>
+<br>
+Today, employers are looking for projects beyond what=E2=80=99s built in th=
+e classroom to evaluate practical skills. And in some cases, employers will=
+ use project-work as a close substitute for professional experience!<br>
+<br>
+Hatchways wants to help you build skills and a portfolio that will help you=
+ get your next job. We are offering a part-time project-based course where =
+you will work in an agile development team environment building out a large=
+-scale project.<br>
+<br>
+Below are some details:
+<ul>
+	<li>Over the span of 8 weeks you will build a large scale project with a t=
+eam of 2-3 (estimated time commitment: 15 hours/week)</li>
+	<li>You will have a 30-minute sprint planning meeting with a team lead onc=
+e a week</li>
+	<li>You will have a bi-weekly 1 hour demo day where you will showcase your=
+ progress to other teams in the cohort</li>
+	<li>The start of the class will be=C2=A0<strong>Aug 1st </strong>(evening)=
+<strong>,</strong> and the deadline to apply is=C2=A0<strong>July 27th</str=
+ong>.=C2=A0</li>
+</ul>
+If you are interested in joining the waitlist, please fill out this form he=
+re: <a href=3D"http://infinite-stream-5194.herokuapp.com/redirect/?mmm=3Dmm=
+m_dmyo7k&amp;url=3DaHR0cHM6Ly9mb3Jtcy5nbGUvNXJZUmR6RGZNdkFEaXBZajg%3D">http=
+s://forms.gle/5rYRdzDfMvADipYj8</a>. We will run this twice a month, so if =
+you are interested but cannot make this cohort, please put the next availab=
+le date you can start in the form above.=C2=A0<br>
+<br>
+If you have any feedback on this course, feel free to let us know by respon=
+ding back to this email!<br>
+<br>
+Looking forward to hearing from you,<br>
+<br>
+Jaclyn Ling<br>
+CEO, Co-founder of Hatchways<img alt=3D"" width=3D"1" height=3D"1" src=3D"h=
+ttp://infinite-stream-5194.herokuapp.com/pixel/mmm_dmyo7k.gif">
+--8c31fcaeed5a4f2db32a24d3102b6771--

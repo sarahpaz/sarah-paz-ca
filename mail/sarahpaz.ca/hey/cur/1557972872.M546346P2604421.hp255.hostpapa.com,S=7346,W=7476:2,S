@@ -1,0 +1,130 @@
+Return-Path: <do-not-reply@indeed.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 4BgUIIjH3FyFvScAOhTp2Q
+	(envelope-from <do-not-reply@indeed.com>)
+	for <hey@sarahpaz.ca>; Wed, 15 May 2019 22:14:32 -0400
+Return-path: <do-not-reply@indeed.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 15 May 2019 22:14:32 -0400
+Received: from mail65.indeed.com ([198.58.75.65]:31405)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <do-not-reply@indeed.com>)
+	id 1hR5uh-00AxX6-Aw
+	for hey@sarahpaz.ca; Wed, 15 May 2019 22:14:32 -0400
+Received: from aus-mexec49.indeed.net (unknown [10.1.3.211])
+	by mail65.indeed.com (Postfix) with ESMTP id 454FMy5Wyzz7QnCn
+	for <hey@sarahpaz.ca>; Wed, 15 May 2019 21:13:50 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1557972830;
+	bh=FzpF8VHUOcMJo5MAZyWnxeBJhfTyLDnQIHaG7uv9IR0=;
+	h=From:Reply-To:To:Subject:Date;
+	b=BCpKjVR6ffUPy7IkJeyyV9qq2/4CmEQwzOK5sFi93zVyVlhokQyjvZ1jBYBT+gVA7
+	 X5VWdyiV8tWwF5gO/Up/g8YpKAjb10JKUFroUaTtfxbmPKHCXlc9PPSAvGp6JU69zW
+	 ehnjZC7c9JwmzVHtmUvtVNXTQsr4vt9yJkaE48Ag=
+From: Indeed <do-not-reply@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: hey@sarahpaz.ca
+Message-ID: <623509877.3704779.1557972830699.JavaMail.notifications@aus-mexec49.indeed.net>
+Subject: Confirm your new email address on Indeed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3704777_1879481858.1557972830698"
+Precedence: list
+Auto-Submitted: auto-generated
+X-Indeed-FBL: :2:3463f80b94640997ae49477407b994d1
+X-Indeed-Client-App: passport
+X-Indeed-Content-Type: changeEmail
+X-Indeed-TK: 1dav6lide5gq7800
+Date: Wed, 15 May 2019 21:13:50 -0500 (CDT)
+X-Spam-Status: No, score=-16.7
+X-Spam-Score: -166
+X-Spam-Bar: ----------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  We have received a request to change the email address for
+    your sarah.paz@icloud.com account to: hey@sarahpaz.ca To verify your new
+   e-mail address, please click on the following link: https://secure.indeed.com/account/verify?v=lTFfIdBv10OxKodd&e=changeEmail&hl=en_CA&co=CA&service=my&continue=https%3A%2F%2Fca.indeed.com%2F%3Ffrom%3Dconfirm&tmpl=auto&form_tk=1dav6lid95gq7800
+    
+ 
+ Content analysis details:   (-16.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.65 listed in list.dnswl.org]
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of
+                             words
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+X-Spam-Flag: NO
+
+------=_Part_3704777_1879481858.1557972830698
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+We have received a request to change the email address for your sarah.paz@icloud.com account to:
+hey@sarahpaz.ca
+
+To verify your new e-mail address, please click on the following link:
+
+https://secure.indeed.com/account/verify?v=lTFfIdBv10OxKodd&e=changeEmail&hl=en_CA&co=CA&service=my&continue=https%3A%2F%2Fca.indeed.com%2F%3Ffrom%3Dconfirm&tmpl=auto&form_tk=1dav6lid95gq7800
+
+If clicking on the link does not work, copy and paste the link into your web browser.
+
+If you need further assistance, please visit
+https://ca.indeed.com/support
+
+&copy; 2019 Indeed Ireland Operations, Ltd. | Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland
+
+PRIVACY POLICY: https://ca.indeed.com/legal#privacy | TERMS: https://ca.indeed.com/legal#tos | HELP: https://indeed.zendesk.com/hc/en-ca
+------=_Part_3704777_1879481858.1557972830698
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<body dir="ltr"><img src="https://subscriptions.indeed.com/imgping?tk=1dav6lide5gq7800&type=postOpen&contentType=changeEmail&token=CkABEFtWyD86ykYFJmcSUNXa1LwQj56u3UjswayFYQHAIdMOQjrW0PSeVPSlHwx6OirtPLBqeenak2NJTgbTFO--EhBpY0dNlJrfXSYjXG3krvDSGhCE85pZ-eEvlzOp3kOkrqqy" height="1" width="1">
+<table>
+    <tr>
+        <td style="font-family:Arial,sans-serif">
+            We have received a request to change the email address for your sarah.paz@icloud.com account to:<br>hey@sarahpaz.ca<br/><br/>
+            Please <a href="https://secure.indeed.com/account/verify?v=lTFfIdBv10OxKodd&e=changeEmail&hl=en_CA&co=CA&service=my&continue=https%3A%2F%2Fca.indeed.com%2F%3Ffrom%3Dconfirm&tmpl=auto&form_tk=1dav6lid95gq7800"><b>Confirm your new email address</b></a><br/><br/>
+            Or copy and paste the following into your browser:<br/>
+            https://secure.indeed.com/account/verify?v=lTFfIdBv10OxKodd&e=changeEmail&hl=en_CA&co=CA&service=my&continue=https%3A%2F%2Fca.indeed.com%2F%3Ffrom%3Dconfirm&tmpl=auto&form_tk=1dav6lid95gq7800<br/><br/>
+            If you need further assistance, please <a href="https://ca.indeed.com/support">contact us</a>.<br/><br/>
+            <div style="text-align:center;">
+                <p style="padding-top:1em;" dir="ltr">&copy; 2019 Indeed Ireland Operations, Ltd.<br>
+                Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland</p>
+                <p style="text-decoration:none;"><a href="https://ca.indeed.com/legal#privacy" style="text-decoration:none;">PRIVACY POLICY</a> | <a href="https://ca.indeed.com/legal#tos" style="text-decoration:none;">TERMS</a> | <a href="https://indeed.zendesk.com/hc/en-ca" style="text-decoration:none;">HELP</a></p>
+            </div>
+        </td>
+    </tr>
+</table>
+<img src="https://subscriptions.indeed.com/imgping?type=changeemail&tk=1dav6lide5gq7800" height="1" width="1"><img src="https://subscriptions.indeed.com/imgping?tk=1dav6lide5gq7800&type=changeEmail" height="1" width="1"></body>
+</html>
+------=_Part_3704777_1879481858.1557972830698--

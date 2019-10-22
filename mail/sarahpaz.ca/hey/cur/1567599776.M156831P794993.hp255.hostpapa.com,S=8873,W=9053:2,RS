@@ -1,0 +1,180 @@
+Return-Path: <connor.lafarga@instacart.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id kK07CaCsb11xIQwAOhTp2Q
+	(envelope-from <connor.lafarga@instacart.com>)
+	for <hey@sarahpaz.ca>; Wed, 04 Sep 2019 08:22:56 -0400
+Return-path: <connor.lafarga@instacart.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 04 Sep 2019 08:22:56 -0400
+Received: from mail-oi1-f176.google.com ([209.85.167.176]:35624)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <connor.lafarga@instacart.com>)
+	id 1i5UJL-003N4b-2d
+	for hey@sarahpaz.ca; Wed, 04 Sep 2019 08:22:56 -0400
+Received: by mail-oi1-f176.google.com with SMTP id a127so15662661oii.2
+        for <hey@sarahpaz.ca>; Wed, 04 Sep 2019 05:22:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=instacart.com; s=google;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=K/PYhZ8CWaVeATSQ/XLPSkho+ItmH2kkuXrRcsYZz94=;
+        b=JUJekrrzZE/7g4mEEs5UaMM4jScssLdH9TdG1q4ejQcEHohTrR923dZa234XPaLyFT
+         Tkusajtt65/0r2T8OglLOtEJ6a7OoPCAU3ci3iZFgxm96lW2obsoZTC/McDuzvDOyggU
+         Dc8nPGeTY7y11a6tzl8cfDMJhCAYOENa/I7+Q=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=K/PYhZ8CWaVeATSQ/XLPSkho+ItmH2kkuXrRcsYZz94=;
+        b=HSel268k8oOpHLhOqZEyH9JHVYtXqgrqxelZIw+c1guRU+tfZUV0NC0X3N6cCE/ulV
+         9fCi2PeP7Z4Bs2AxXBtEvyTJkVPu6iIe3/6OtbUpbgKNgxDFQG6SO70x6Mp+kS9hAtUw
+         KdvuuKPUxl/7Ir7lvWmxp5nbfsAvWvMLZFpwy6jLXKbnOyHNvYoTvChiaIbyS68ufvTd
+         5aYmjuHDIdnZ12rQBHjRCBOJ6dzGe5qlcOl/+DGVjBsQRoIEx/GZ6JoJIJnpSImkZOz5
+         Z9gUgdLQz5XVxQ85JrxuaryTYM5yoAbEE0GFKbo83lVQ0HjDvwVgLdC1U9uUcflT/nnc
+         qs6Q==
+X-Gm-Message-State: APjAAAWAESyBM3AlBrEU3MLpdKd74qf7RJiFh9xIBwWRqwElZyoQc3dB
+	eHEJEtY7TmrBvstd9/liq9kH3kFc5jFF5XMLQL5pk6/R
+X-Google-Smtp-Source: APXvYqz+FIe/QyLQam8l6c/voSl1OYeXBjnomg8KQIF0GOp/wBxI+NMdaAUBT9aAvz8FjIyANnyA/iuI0wsMyGxgQsc=
+X-Received: by 2002:aca:bb42:: with SMTP id l63mr3099383oif.85.1567599733887;
+ Wed, 04 Sep 2019 05:22:13 -0700 (PDT)
+MIME-Version: 1.0
+References: <41EB8135-F6F4-4FB5-91AB-6D60A41F8891@sarahpaz.ca>
+In-Reply-To: <41EB8135-F6F4-4FB5-91AB-6D60A41F8891@sarahpaz.ca>
+From: Connor Lafarga <connor.lafarga@instacart.com>
+Date: Wed, 4 Sep 2019 08:22:03 -0400
+Message-ID: <CA+_hQzmsC5f1GZt7+FbHUYNZTyXohKUF=pNxM5H1L20Meyhd4g@mail.gmail.com>
+Subject: Re: Thank you!
+To: Sarah Paz <hey@sarahpaz.ca>
+Content-Type: multipart/alternative; boundary="00000000000049eca30591b941df"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, Thanks so much for the lovely note! It was a pleasure
+    hosting you yesterday, and I'm so glad you found the interview insightful.
+    If you give Emmy a call sometime after 2pm today, she'll have feedback from
+    the team about your interview, and so that'll be a good time to discuss next
+    steps. 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.167.176 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of
+                             words
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--00000000000049eca30591b941df
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Sarah,
+
+Thanks so much for the lovely note! It was a pleasure hosting you
+yesterday, and I'm so glad you found the interview insightful.
+
+If you give Emmy a call sometime after 2pm today, she'll have feedback from
+the team about your interview, and so that'll be a good time to discuss
+next steps.
+
+All the best,
+
+-Connor.
+
+On Wed, Sep 4, 2019 at 8:18 AM Sarah Paz <hey@sarahpaz.ca> wrote:
+
+> Hi Connor,
+>
+> Good morning, and happy Wednesday!  I just wanted to reach out and thank
+> you for taking the time to show me around the office yesterday during my
+> onsite for the Implementation Specialist role. I really enjoyed my time
+> there, learning more about the position, the company culture and the
+> potential team I would have the opportunity to work with. Instacart
+> definitely strikes me as a company who really supports the growth and
+> development of their employees, and that is something truly important to
+> me.
+>
+> Thank you again, and if you have any questions please do not hesitate to
+> reach out.
+>
+> Have a great day!
+>
+> Best Regards,
+> Sarah Paz
+> 647-824-8354
+> hey@sarahpaz.ca
+>
+>
+>
+>
+
+-- 
+
+*Connor Lafarga*
+
+*Recruiting Coordinator, Toronto Office*
+
+Pronouns: he/him
+
+Item always in my cart: Blueberries
+
+--00000000000049eca30591b941df
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Sarah,<div><br></div><div>Thanks so much for the lovely=
+ note! It was a pleasure hosting you yesterday, and I&#39;m so glad you fou=
+nd the interview insightful.</div><div><br></div><div>If you give Emmy a ca=
+ll sometime after 2pm today, she&#39;ll have feedback from the team about y=
+our interview, and so that&#39;ll be a good time to discuss next steps.</di=
+v><div><br></div><div>All the best,</div><div><br></div><div>-Connor.</div>=
+</div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">=
+On Wed, Sep 4, 2019 at 8:18 AM Sarah Paz &lt;<a href=3D"mailto:hey@sarahpaz=
+.ca">hey@sarahpaz.ca</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204=
+);padding-left:1ex"><div style=3D"overflow-wrap: break-word;">Hi Connor,<di=
+v><br></div><div>Good morning, and happy Wednesday!=C2=A0 I just wanted to =
+reach out and thank you for taking the time to show me around the office ye=
+sterday during my onsite for the Implementation Specialist role. I really e=
+njoyed my time there, learning more about the position, the company culture=
+ and the potential team I would have the opportunity to work with. Instacar=
+t definitely strikes me as a company who really supports the growth and dev=
+elopment of their employees, and that is something truly important to me.=
+=C2=A0</div><div><br></div><div>Thank you again, and if you have any questi=
+ons please do not hesitate to reach out.</div><div><br></div><div>Have a gr=
+eat day!</div><div><br></div><div>Best Regards,</div><div>Sarah Paz</div><d=
+iv>647-824-8354</div><div><a href=3D"mailto:hey@sarahpaz.ca" target=3D"_bla=
+nk">hey@sarahpaz.ca</a></div><div><br></div><div><br></div><div><br></div><=
+/div></blockquote></div><br clear=3D"all"><div><br></div>-- <br><div dir=3D=
+"ltr" class=3D"gmail_signature"><div dir=3D"ltr"><p style=3D"color:rgb(136,=
+136,136);margin:0px;padding:0px;border:0px;line-height:1.31"><font color=3D=
+"#000000" face=3D"arial, helvetica, sans-serif"><b>Connor Lafarga</b></font=
+></p><p style=3D"color:rgb(136,136,136);margin:0px;padding:0px;border:0px;l=
+ine-height:1.31"><font color=3D"#ff9900" face=3D"arial, helvetica, sans-ser=
+if"><b><i>Recruiting Coordinator, Toronto Office</i></b></font></p><p style=
+=3D"color:rgb(136,136,136);margin:0px;padding:0px;border:0px;line-height:1.=
+31"><font face=3D"arial, helvetica, sans-serif"><img src=3D"https://docs.go=
+ogle.com/uc?export=3Ddownload&amp;id=3D0B0U4Vt5cdKOAZl9NaU9nbWVvYjQ&amp;rev=
+id=3D0B0U4Vt5cdKOAaGNYTzU5VTNrc1VhUWxnZ1ZzdzEzQmF3NGNJPQ" width=3D"96" heig=
+ht=3D"18" style=3D"border: 0px;"></font></p><p style=3D"color:rgb(136,136,1=
+36);margin:0px;padding:0px;border:0px;line-height:1.31"><font face=3D"arial=
+, helvetica, sans-serif">Pronouns: he/him</font></p><p style=3D"color:rgb(1=
+36,136,136);margin:0px;padding:0px;border:0px;line-height:1.31">Item always=
+ in my cart: Blueberries=C2=A0</p></div></div>
+
+--00000000000049eca30591b941df--

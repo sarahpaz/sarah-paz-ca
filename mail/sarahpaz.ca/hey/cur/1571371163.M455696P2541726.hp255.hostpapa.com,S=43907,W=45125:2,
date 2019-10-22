@@ -1,0 +1,1218 @@
+Return-Path: <bounces+361267-4190-hey=sarahpaz.ca@mail9.glassdoor.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 8HurGps4qV2eyCYAOhTp2Q
+	(envelope-from <bounces+361267-4190-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	for <hey@sarahpaz.ca>; Thu, 17 Oct 2019 23:59:23 -0400
+Return-path: <bounces+361267-4190-hey=sarahpaz.ca@mail9.glassdoor.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 17 Oct 2019 23:59:23 -0400
+Received: from o8.mail8.glassdoor.com ([50.31.60.111]:34153)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+361267-4190-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	id 1iLJQ9-00Afgs-Jl
+	for hey@sarahpaz.ca; Thu, 17 Oct 2019 23:59:23 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=glassdoor.com; 
+	h=content-type:from:mime-version:to:subject; s=s1; 
+	bh=uBX0sXz+vknyyjqEog2HbDZIdps=; b=LtQB5H4SFKcozWyS3hKF78J2Nu+sa
+	3EjouAPq8jVwoHMMziRhOVurCeLdKSBH2HxTpCNJGzBjT1fcJDYb7OZKtpzAv7rz
+	ySseebMA3KxkO0EYfFzaqX7rMjqnXj4DKX4y6Sq331Gx0T2VCMdR4sxcJlKNI9K1
+	wUOS1fUTdz7LCM=
+Received: by filter0688p1iad2.sendgrid.net with SMTP id filter0688p1iad2-12984-5DA840CA-1
+        2019-10-17 10:22:02.105809833 +0000 UTC m=+38415.848119815
+Received: from MzYxMjY3 (ec2-52-204-227-179.compute-1.amazonaws.com [52.204.227.179])
+	by ismtpd0063p1mdw1.sendgrid.net (SG) with HTTP id CrTKmrSUS26oQsNZnBknHA
+	Thu, 17 Oct 2019 10:22:02.115 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=a338af4047d11831dd7329037b77264529111b8399c5575277a51d71616b
+Date: Fri, 18 Oct 2019 03:58:40 +0000 (UTC)
+From: "Glassdoor Jobs" <noreply@glassdoor.com>
+Mime-Version: 1.0
+To: hey@sarahpaz.ca
+Message-ID: <CrTKmrSUS26oQsNZnBknHA@ismtpd0063p1mdw1.sendgrid.net>
+Subject: Ceridian is hiring for Front-End Developer Team Lead. Apply Now.
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVnJYOc6atrzqXZ9rgTlHZUXeqsYmoa7H7DkQ6
+ pkaUvz/a11y4/0MPsso7xrplN1joT4tj3itbcE3AKXHNwD3qmJZEzglwdTTtFZBamwHxmMspZVL9R/
+ rrK2ClA+y4TJnV6v16/tokQwPIrTSq8dVHdrjdLFUFamkXKv/pZEHpxCFbJ3rjURBpiuZcxXaTkK+t
+ A=
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7PozE93Y0+JdP1SapSjJoVxtUpaPHYgCkJzE6JcTR+idR4xWQMbPkMq1AS
+ qCkutH1P77KGSv5bpPWgrs3RlV0t1Gmpzg+IMjmCuby8gtQ+la9GzrvAvcHL0ERonpaOvj+5uVWTyF
+ 1SKLn/UxnC8nQRiXp9ws9IgpUW2Fijw1pSeMofqpf6CGbp9FrtzF4lrcOblHhnU+SzPmF+u9y2MAHi
+ D0Zzu+k4RF/NIJJNKUanIZ
+X-Spam-Status: No, score=1.7
+X-Spam-Score: 17
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hiring now: Ceridian, PagerDuty, eBay, Konrad Group, Planet4IT,
+    Seequent, SAPSOL TECHNOLOIGES INC, S2 Consulting, Ada. Ceridian is hiring
+    for Front-End Developer Team Lead. Apply Now. Hiring now: Ceridian, PagerDuty,
+    eBay, Konrad Group, Planet4IT, Seequent, SAPSOL TECHNOLOIGES INC, S2 Consulting,
+    Ada. 
+ Content analysis details:   (1.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [50.31.60.111 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.7 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+X-Spam-Flag: NO
+
+--a338af4047d11831dd7329037b77264529111b8399c5575277a51d71616b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hiring now: Ceridian, PagerDuty, eBay, Konrad Group, Planet4IT, Seequent, S=
+APSOL TECHNOLOIGES INC, S2 Consulting, Ada.=
+
+--a338af4047d11831dd7329037b77264529111b8399c5575277a51d71616b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"format-detection" content=3D"address=3Dno">
+<title>
+Ceridian is hiring for Front-End Developer Team Lead. Apply Now.</title>
+<link href=3D"https://fonts.googleapis.com/css?family=3DLato" rel=3D"styles=
+heet" type=3D"text/css">
+<style type=3D"text/css">
+@media screen and (min-width:500px) {
+[class=3D"vertPadding"] {
+padding-bottom: 10px;
+}
+[class=3D"horzPadding"] {
+padding-left: 10px;
+}
+}
+#GDEmail td { font-family: Lato, Arial, Helvetica, sans-serif; }
+</style>
+</head>
+<body bgcolor=3D"#f3f3f3" id=3D"GDEmail" yahoofix class=3D"yahoofix">
+<div style=3D"display:none;font-size:1px;color:#333333;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">Hiring now: Ceridian, =
+PagerDuty, eBay, Konrad Group, Planet4IT, Seequent, SAPSOL TECHNOLOIGES INC=
+, S2 Consulting, Ada.</div>
+<div id=3D"GDEmailWrapper" style=3D"margin: 0; padding: 0; font-size: 16px;=
+ font-family: Lato, Arial, Helvetica, sans-serif">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" bgcolor=3D"#f3f3f3" style=3D"min-width: 100%;">
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+<tr>
+<td class=3D"horzPadding"></td>
+<td align=3D"center" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"500" bgcolor=3D"#ffffff"
+style=3D"border-top: 1px solid #C2C2C2; border-bottom: 1px solid #C2C2C2; b=
+order-left: 1px solid #C2C2C2; border-right: 1px solid #C2C2C2;">
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"75" style=3D"padding-left:=
+ 8.5%; padding-right: 8.5%; padding-top: 10px">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/index.htm?utm_medium=
+=3Demail&utm_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dj=
+a-logo&utm_term=3D" target=3D"_blank" style=3D"text-decoration: none">
+<img src=3D"https://www.glassdoor.com/crs/mail/logos/gdlogoHw_2x.png" id=3D=
+"Logo"
+alt=3D"Glassdoor" title=3D"Glassdoor" height=3D"30" width=3D"142"
+style=3D"border: none">
+</a>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-bottom: 20px;=
+">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding-bottom: 10px; font-siz=
+e: 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+New jobs for Web Developer Internship
+</span>
+<br/>
+<span style=3D"font-size: 18px;">
+Toronto, ON
+</span>
+</td>
+</tr>
+</table>
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"min-widt=
+h: 100%;" border=3D"0px">
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" colspan=3D"4" style=3D"width:100%; paddin=
+g-bottom: 7px; font-size: 0; text-align: left;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" co=
+lor=3D"#0CAA41"
+style=3D"display: inline-block; margin-right: 5px; margin-bottom: 5px"; pad=
+ding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px;=
+ border-radius: 3px;">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 12px; color: #0C=
+AA41; line-height: 12px;">
+BEST PLACE to WORK
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D101&ao=3D241937&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_c0b72636&cb=3D=
+1571307722023&jobListingId=3D3236880479&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/179=
+/ceridian-squarelogo-1517509220013.png"
+alt=3D"Ceridian" title=3D"Ceridian"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+4.2&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D101&ao=3D241937&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_c0b7=
+2636&cb=3D1571307722023&jobListingId=3D3236880479&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Front-End Developer Team Le=
+ad</span>
+<br/>
+Ceridian
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D102&ao=3D652882&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_f4bf1dc0&cb=3D=
+1571307722023&jobListingId=3D3380632479&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/704=
+466/pagerduty-squarelogo-1568120454827.png"
+alt=3D"PagerDuty" title=3D"PagerDuty"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+4.5&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D102&ao=3D652882&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_f4bf=
+1dc0&cb=3D1571307722023&jobListingId=3D3380632479&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Infrastructure Software Dev=
+eloper Intern - Winter 2020</span>
+<br/>
+PagerDuty
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"0"><td height=3D"0" width=3D'0'></td></tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"padding-top: "8px"; padding-left=
+: 20px; padding-right: 20px;">
+<span style=3D"color: #777777; font-size:14px; font-weight: normal">Highly =
+Rated:</span>
+<span style=3D"color: #777777; font-size:14px; font-style: italic">Career O=
+pportunity, Compensation & Benefits, Work/Life Balance</span>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D103&ao=3D652882&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_21bcf0b8&cb=3D=
+1571307722023&jobListingId=3D3344933004&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/704=
+466/pagerduty-squarelogo-1568120454827.png"
+alt=3D"PagerDuty" title=3D"PagerDuty"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+4.5&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D103&ao=3D652882&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_21bc=
+f0b8&cb=3D1571307722023&jobListingId=3D3344933004&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Mobile Software Developer I=
+ntern - Winter 2020</span>
+<br/>
+PagerDuty
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"spacerTable " cellspacing=3D"0" cellpadding=3D"0">
+<tr height=3D"0"><td height=3D"0" width=3D'0'></td></tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"padding-top: "8px"; padding-left=
+: 20px; padding-right: 20px;">
+<span style=3D"color: #777777; font-size:14px; font-weight: normal">Highly =
+Rated:</span>
+<span style=3D"color: #777777; font-size:14px; font-style: italic">Career O=
+pportunity, Compensation & Benefits, Work/Life Balance</span>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D104&ao=3D588957&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_54a75862&cb=3D=
+1571307722024&jobListingId=3D3247326409&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/785=
+3/ebay-squarelogo-1535144327296.png"
+alt=3D"eBay" title=3D"eBay"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+3.6&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D104&ao=3D588957&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_54a7=
+5862&cb=3D1571307722024&jobListingId=3D3247326409&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Team Lead- Front End Develo=
+per</span>
+<br/>
+eBay
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D105&ao=3D659559&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=3D1_8650f8a=
+e&cb=3D1571307722024&jobListingId=3D3273154011&utm_medium=3Demail&utm_sourc=
+e=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_ter=
+m=3D" style=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/791=
+297/konrad-group-squarelogo-1517246326245.png"
+alt=3D"Konrad Group" title=3D"Konrad Group"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+3.6&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D105&ao=3D659559&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=
+=3D1_8650f8ae&cb=3D1571307722024&jobListingId=3D3273154011&utm_medium=3Dema=
+il&utm_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobt=
+itle&utm_term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Software Developer Intern</=
+span>
+<br/>
+Konrad Group
+- <span style=3D"color: #808080;">Toronto</span>
+<br/>
+<span style=3D"color: #0CAA41; font-size: 14px;">Easy Apply</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D106&ao=3D763255&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_2ffb7726&cb=3D=
+1571307722024&jobListingId=3D3381261065&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/337=
+952/planet4it-squarelogo-1528890639230.png"
+alt=3D"Planet4IT" title=3D"Planet4IT"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+4.5&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D106&ao=3D763255&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_2ffb=
+7726&cb=3D1571307722024&jobListingId=3D3381261065&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Java Web Developer</span>
+<br/>
+Planet4IT
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D107&ao=3D14295&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&src=
+=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D10101030=
+5&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=3D1_75592b27=
+&cb=3D1571307722024&jobListingId=3D3279180133&utm_medium=3Demail&utm_source=
+=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=
+=3D" style=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/243=
+1103/seequent-squarelogo-1566968700024.png"
+alt=3D"Seequent" title=3D"Seequent"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+2.4&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D107&ao=3D14295&s=3D224&guid=3D0000016dd93d13fb887c03dccee=
+30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=
+=3D1_75592b27&cb=3D1571307722024&jobListingId=3D3279180133&utm_medium=3Dema=
+il&utm_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobt=
+itle&utm_term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Web Developer</span>
+<br/>
+Seequent
+- <span style=3D"color: #808080;">Toronto</span>
+<br/>
+<span style=3D"color: #0CAA41; font-size: 14px;">Easy Apply</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D108&ao=3D763255&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_c89c728c&cb=3D=
+1571307722025&jobListingId=3D3383536434&utm_medium=3Demail&utm_source=3Djob=
+alert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=3D" s=
+tyle=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"http://www.glassdoor.com/crs/mail/ic=
+ons/building_60x60.png"
+alt=3D"SAPSOL TECHNOLOIGES INC" title=3D"SAPSOL TECHNOLOIGES INC"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D108&ao=3D763255&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&cs=3D1_c89c=
+728c&cb=3D1571307722025&jobListingId=3D3383536434&utm_medium=3Demail&utm_so=
+urce=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_=
+term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Front End Developer</span>
+<br/>
+SAPSOL TECHNOLOIGES INC
+- <span style=3D"color: #808080;">Toronto</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" colspan=3D"4" style=3D"width:100%; paddin=
+g-bottom: 7px; font-size: 0; text-align: left;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" co=
+lor=3D"#0CAA41"
+style=3D"display: inline-block; margin-right: 5px; margin-bottom: 5px"; pad=
+ding-left: 0px; padding-right: 10px; padding-top: 0px; padding-bottom: 0px;=
+ border-radius: 3px;">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 12px; color: #0C=
+AA41; line-height: 12px;">
+We're hiring
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D109&ao=3D756404&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&sr=
+c=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D1010103=
+05&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=3D1_592e962=
+8&cb=3D1571307722025&jobListingId=3D3376589717&utm_medium=3Demail&utm_sourc=
+e=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_ter=
+m=3D" style=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/169=
+3392/s2-consulting-squarelogo-1528897672237.png"
+alt=3D"S2 Consulting" title=3D"S2 Consulting"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+3.1&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D109&ao=3D756404&s=3D224&guid=3D0000016dd93d13fb887c03dcce=
+e30b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=
+=3D101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=
+=3D1_592e9628&cb=3D1571307722025&jobListingId=3D3376589717&utm_medium=3Dema=
+il&utm_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobt=
+itle&utm_term=3D">
+<span style=3D"font-weight: bold; font-size: 18px; color: #1861BF">Web Desi=
+gner/ Web Developer ( Must Speak Chinese )</span>
+<br/>
+S2 Consulting
+- <span style=3D"color: #808080;">Markham</span>
+<br/>
+<span style=3D"color: #0CAA41; font-size: 14px;">Easy Apply</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 20px;"/>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"padding-right:0px; padding-left:=
+0px; width:10%; max-width:10%; min-width:10%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"50" style=
+=3D"min-width: 50px; max-width: 50px; ">
+<tr>
+<td align=3D"center" valign=3D"bottom" style=3D"line-height: 0; font-size: =
+0;" width=3D"50" height=3D"50">
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/partner/jobListing.h=
+tm?pos=3D110&ao=3D8095&s=3D224&guid=3D0000016dd93d13fb887c03dccee30b87&src=
+=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D10101030=
+5&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=3D1_72850caa=
+&cb=3D1571307722025&jobListingId=3D3172432072&utm_medium=3Demail&utm_source=
+=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&utm_term=
+=3D" style=3D"line-height: 0; font-size: 0;">
+<img width=3D"48" height=3D"48" src=3D"https://media.glassdoor.com/sqlm/239=
+6829/ada-squarelogo-1546442534323.png"
+alt=3D"Ada" title=3D"Ada"
+style=3D"border: 1px solid #C2C2C2;">
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle" height=3D"20" width=3D"50"
+style=3D"font-size: 14px; border-left: 1px solid #0CAA41; border-bottom: 1p=
+x solid #0CAA41; border-right: 1px solid #0CAA41; border-radius: 2px; color=
+: #0CAA41; white-space: nowrap;">
+4.9&nbsp;&#x2605;
+</td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" style=3D"width:90%; max-width:90%; min-wi=
+dth:90%; padding-right:0px; padding-left:20px;">
+<a universal=3D'true' style=3D"color: #404040; font-size: 16px; line-height=
+: 1.3; text-decoration: none;" href=3D"https://www.glassdoor.ca/partner/job=
+Listing.htm?pos=3D110&ao=3D8095&s=3D224&guid=3D0000016dd93d13fb887c03dccee3=
+0b87&src=3DGD_JOB_AD&t=3DJA&extid=3D13&exst=3DL&ist=3D&ast=3DL&vt=3De&ja=3D=
+101010305&uido=3D3E9FAC91B8C4CC938DD1878A3D3A4A38&slr=3Dtrue&ea=3D1&cs=3D1_=
+72850caa&cb=3D1571307722025&jobListingId=3D3172432072&utm_medium=3Demail&ut=
+m_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-jobtitle&=
+utm_term=3D">
+<span style=3D"font-size: 18px; color: #1861BF">Front End Developer</span>
+<br/>
+Ada
+- <span style=3D"color: #808080;">Toronto</span>
+<br/>
+<span style=3D"color: #0CAA41; font-size: 14px;">Easy Apply</span>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"4">
+</td>
+</tr>
+</table>
+<hr style=3D"height: 1px; background-color: #c2c2c2; border: none; margin-t=
+op: 20px; margin-bottom: 10px;"/>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%;">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"padding-top: 10px; padding-=
+bottom: 0px">
+<a universal=3D'true' rel=3D"nofollow" target=3D"_blank" href=3D"https://ww=
+w.glassdoor.ca/Job/jobs.htm?typedKeyword=3D&sc.keyword=3DWeb Developer Inte=
+rnship&locT=3DC&locId=3D2281069&ja=3D101010305&utm_medium=3Demail&utm_sourc=
+e=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-alljobs-JACTABOT=
+TOM&utm_term=3D"
+style=3D"text-decoration: none;">
+<table cellpadding=3D15 cellspacing=3D"0" align=3D"center" bgcolor=3D"#0CAA=
+41" width=3D"280"
+style=3D"min-width: 280px; border-radius: 3px; border: none">
+<tr>
+<td align=3D"center" valign=3D"middle" style=3D"font-size: 18px; color: #ff=
+ffff;">
+See All Jobs
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"">
+<hr style=3D"height: 1px; background-color: #7F7F7F; border: none; margin: =
+0;"/>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-top: 20px; pa=
+dding-bottom: 20px; ">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; padding-bottom: 10px;">
+<tr>
+<td align=3D"center"
+style=3D"padding-top: 10px; font-size: 20px; font-weight: bold; color: #0D0=
+D0D; line-height: 1.3;">
+Email Settings
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding-top: 30px;">
+<span style=3D"font-size: 16px; color: #0D0D0D;">Web Developer Internship</=
+span>
+<br/>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/profile/editJobAlert=
+_input.htm?JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA3NzIyMDI1LTEwMTAxMD=
+MwNQ=3D=3D&amp;key=3Dcpabmno:Sc13xUEIXFNaLKnckIvEg&utm_medium=3Demail&utm_s=
+ource=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-editalert-ke=
+y&utm_term=3D" style=3D"text-decoration: none; font-size: 18px; color: #186=
+1BF;">
+Change keywords
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding-top: 30px;">
+<span style=3D"font-size: 16px; color: #0D0D0D;">Toronto, ON</span>
+<br/>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/profile/editJobAlert=
+_input.htm?JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA3NzIyMDI1LTEwMTAxMD=
+MwNQ=3D=3D&amp;key=3Dcpabmno:Sc13xUEIXFNaLKnckIvEg&utm_medium=3Demail&utm_s=
+ource=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-editalert-lo=
+c&utm_term=3D" style=3D"text-decoration: none; font-size: 18px; color: #186=
+1BF;">
+Change location
+</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding-top: 30px;">
+<span style=3D"font-size: 16px; color: #0D0D0D;">Sent Daily</span>
+<br/>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/profile/editJobAlert=
+_input.htm?JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA3NzIyMDI1LTEwMTAxMD=
+MwNQ=3D=3D&amp;key=3Dcpabmno:Sc13xUEIXFNaLKnckIvEg&utm_medium=3Demail&utm_s=
+ource=3Djobalert&utm_campaign=3DjobAlertAlert&utm_content=3Dja-editalert-fr=
+eq&utm_term=3D&freq=3D7" style=3D"text-decoration: none; font-size: 18px; c=
+olor: #1861BF;">
+Change to weekly
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"">
+<hr style=3D"height: 1px; background-color: #7F7F7F; border: none; margin: =
+0;"/>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-top: 20px; pa=
+dding-bottom: 20px; ">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%; ">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"padding-bottom: 10px; font-siz=
+e: 20px; line-height: 1.3;">
+<span style=3D"color: #0D0D0D; font-size: 20px; font-weight: bold;">
+Applying on mobile is easy when you upload your CV
+</span>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%;">
+<tr>
+<td align=3D"center" width=3D"46%" style=3D"padding-right: 4%;">
+<a href=3D"https://www.glassdoor.ca/profile/uploadResume_input.htm?resumeOr=
+iginHook=3DEMAIL_JOBALERT&amp;JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA=
+3NzIyMDI1LTEwMTAxMDMwNQ=3D=3D&utm_medium=3Demail&utm_source=3Djobalert&utm_=
+campaign=3DjobAlertAlert&utm_content=3Dja-upload-resume&utm_term=3D&amp;cli=
+ckedOption=3Ddropbox" style=3D"text-decoration: none;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%;">
+<tr>
+<td align=3D"center" valign=3D"middle"
+style=3D"padding: 20px;">
+<img src=3D"https://www.glassdoor.com/crs/mail/logos/dropbox-2016@2x.png" a=
+lt=3D"Dropbox" width=3D"40" height=3D"40" />
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1861BF" align=3D"center" valign=3D"middle"
+style=3D"padding: 20px; border-radius: 3px; min-width: 100%; color: #FFFFFF=
+;">
+Dropbox
+</td>
+</tr>
+</table>
+</a>
+</td>
+<td align=3D"center" width=3D"46%" style=3D"padding-left: 4%;">
+<a href=3D"https://www.glassdoor.ca/profile/uploadResume_input.htm?resumeOr=
+iginHook=3DEMAIL_JOBALERT&amp;JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA=
+3NzIyMDI1LTEwMTAxMDMwNQ=3D=3D&utm_medium=3Demail&utm_source=3Djobalert&utm_=
+campaign=3DjobAlertAlert&utm_content=3Dja-upload-resume&utm_term=3D&amp;cli=
+ckedOption=3Dgoogle-drive" style=3D"text-decoration: none;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" alig=
+n=3D"center" style=3D"min-width: 100%;">
+<tr>
+<td align=3D"center" valign=3D"middle"
+style=3D"padding: 20px;">
+<img src=3D"https://www.glassdoor.com/crs/mail/logos/google-drive-2016@2x.p=
+ng" alt=3D"Google Drive" width=3D"40" height=3D"40" />
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1861BF" align=3D"center" valign=3D"middle"
+style=3D"padding: 20px; border-radius: 3px; min-width: 100%; color: #FFFFFF=
+;">
+Google Drive
+</td>
+</tr>
+</table>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"padding-bottom: 50px;"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"">
+<hr style=3D"height: 1px; background-color: #7F7F7F; border: none; margin: =
+0;"/>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-top: 20px; pa=
+dding-bottom: 20px; ">
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: #404040; padding-top: 25px; padding-bottom: =
+25px; padding-left: 8.5%; padding-right: 8.5%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" style=3D"min-width: 100%;">
+<tr>
+<td style=3D"font-family: Lato, Arial, Helvetica, sans-serif; font-size: 10=
+px; color: #FFFFFF; line-height: 18px; margin: 0; margin-top: 0px; margin-b=
+ottom: 0px;; text-align: center;">
+<span style=3D"color: #FFFFFF">
+This message was sent to <a universal=3D'true' href=3D"mailto:hey@sarahpaz.=
+ca" style=3D"color:#FFFFFF;">hey@sarahpaz.ca</a>.
+</span>
+<br>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/about/privacy.htm?ut=
+m_medium=3Demail&utm_source=3Djobalert&utm_campaign=3DjobAlertAlert&utm_con=
+tent=3Dja-footer-privacy&utm_term=3D" style=3D"color: #FFFFFF;">Privacy Pol=
+icy</a>
+<span style=3D"color: #FFFFFF;">&nbsp;|&nbsp;</span>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/member/account/email=
+Settings_input.htm?utm_medium=3Demail&utm_source=3Djobalert&utm_campaign=3D=
+jobAlertAlert&utm_content=3Dja-emailpreference&utm_term=3D" style=3D"color:=
+ #FFFFFF;">
+Manage Settings
+</a>
+<span style=3D"color: #FFFFFF;">&nbsp;|&nbsp;</span>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/profile/unsubscribeE=
+mail.htm?JAK=3DQWxsIExpZmUgaXMgZXhwZXJpbWVudC0xNTcxMzA3NzIyMDI1LTEwMTAxMDMw=
+NQ=3D=3D&key=3DobnPimO:nwMRp2SEzr6yMc01lQbtaQ&emailType=3DJOB_ALERT&emailCa=
+tegory=3DJOB_ALERT&utm_medium=3Demail&utm_source=3Djobalert&utm_campaign=3D=
+jobAlertAlert&utm_content=3Dja-unsubscribe&utm_term=3D" style=3D"color: #FF=
+FFFF;">Unsubscribe</a>
+<span style=3D"color: #FFFFFF;">&nbsp;|&nbsp;</span>
+<a universal=3D'true' href=3D"https://www.glassdoor.ca/profile/emailFeedbac=
+k_input.htm?key=3DobnPimO:nwMRp2SEzr6yMc01lQbtaQ&emailType=3DJOB_ALERT&emai=
+lCategory=3DJOB_ALERT&uvk=3DobnPimO:nwMRp2SEzr6yMc01lQbtaQ&JAK=3DQWxsIExpZm=
+UgaXMgZXhwZXJpbWVudC0xNTcxMzA3NzIyMDI1LTEwMTAxMDMwNQ=3D=3D" style=3D"color:=
+ #FFFFFF;">Provide Feedback</a>
+<br>
+<span style=3D"color: #FFFFFF;">
+<a universal=3D'true' href=3D"www.glassdoor.ca" target=3D"_blank" style=3D"=
+color: #FFFFFF">Glassdoor</a> &nbsp;|&nbsp; 100 Shoreline Highway - Buildin=
+g A, Mill Valley, CA 94941
+</span>
+<br>
+<span style=3D"color: #FFFFFF;">
+Copyright =C2=A9 2008-2019, Glassdoor, Inc. "Glassdoor" and logo are propri=
+etary trademarks of Glassdoor, Inc.
+</span>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D'horzPadding'></td>
+</tr>
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+</table>
+</div>
+
+<img src=3D"https://mail8.glassdoor.com/wf/open?upn=3DjQhle9vCs52fJYPh4-2Ff=
+wt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDiqOcIGeYbu4-2FYfm3KoKh7gvW=
+t-2F4X3iPKpHTHaHlR0152Xv-2F06-2FQ1gLwWtx71NEL8t4Hr-2BlyrOEDOOrg39t0prbFoYxp=
+xKcS66ncras1D2VxXUZrCqAMMKb5eDGOby4wGBdkgH0HirauumpT-2BzEK8AHCke9DQPaLnd4-2=
+Bm9LjNc01RYOhRdQO5wZ-2B3MY3pNtG7y7eI6SNi9rtofQcxSksRr-2B-2F6idy-2FhInZ9w9z0=
+Hux90eWDKWGUmo0vfDrHobCK-2FchXEiHpTkUeIEN8NzEay9bjyaqS4aI8CZ3fMahcVPOTy-2FM=
+M6t-2FCBvBlz3wBqI7mArvMMqDgZ04dCgX-2B5UviEkZ0YG8DQDpm7y8VTeLYqvKhFLl8mKPNKh=
+3kGQXa8aJMeoiqF6gH5p0JzG3Q7xoQE-2FL6w-3D-3D" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"height:1px !important;width:1px !important;border=
+-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;marg=
+in-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !importa=
+nt;"/>
+</body>
+</html>
+
+--a338af4047d11831dd7329037b77264529111b8399c5575277a51d71616b--

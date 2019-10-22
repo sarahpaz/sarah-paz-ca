@@ -1,0 +1,187 @@
+Return-Path: <security@mail.instagram.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id eDKTK2eL5Fz7KAkAOhTp2Q
+	(envelope-from <security@mail.instagram.com>)
+	for <hey@sarahpaz.ca>; Tue, 21 May 2019 19:36:07 -0400
+Return-path: <security@mail.instagram.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 21 May 2019 19:36:07 -0400
+Received: from 69-171-232-138.mail-mail.facebook.com ([69.171.232.138]:45569 helo=mx-out.facebook.com)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <security@mail.instagram.com>)
+	id 1hTEIh-002bXL-9M
+	for hey@sarahpaz.ca; Tue, 21 May 2019 19:36:07 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1558481726;
+	bh=8JB/oSZ13anKHq+vb+pvRvjGj3r54sm/Jjza3t+I62I=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=Rb2J57LDDVb56m2JEVEalMQyMKhvwXqHLvge8F5eF9w/BqrWPCqzcRqLOHgb0Mnsd
+	 CbjZtcEPlSHtCNLlOmslKwyxeV31UOWT2HlXVw/GxIaUMpHzaTUozBnzsbmcxXBSI0
+	 iMJa8EremwwIvv5SmPpCQk9foz9fP8AOiSzqlCK8=
+Received: from facebook.com (sHXJOlr/jOqZJc4ajxwthYuOc8On5Ebu+JX2a6P9dF88jaPW26XdSkAg15G84w0z 2401:db00:2040:90da:face:0000:002b:0000)
+ by facebook.com with Thrift id 1c80dcda7c2111e9bca5000af7a9734e-3833a540;
+ Tue, 21 May 2019 16:35:26 -0700
+X-Facebook: from 2401:db00:2080:3076:face:0:2e:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Tue, 21 May 2019 16:35:26 -0700
+To: hey@sarahpaz.ca
+Subject: Email Changed on Instagram
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram" <security@mail.instagram.com>
+Reply-to: Instagram <security@mail.instagram.com>
+Errors-To: security@mail.instagram.com
+X-Facebook-Notify: ig_contact_point_changed; mailid=5896e041ca1b8G24bc2cdc84523aG5896e4db2a48bG826
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS0PY5-aSN3ppCQ5&e=hey%40sarahpaz.ca&mid=5896e041ca1b8G24bc2cdc84523aG5896e4db2a48bG826>
+Feedback-ID: 9999:ig_contact_point_changed:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Message-ID: <adce7f8139dbf63e8f8b4a7bcfc6c17e@3e723b591bdb95ce8f5c9b7032dc572ca97351d0da5efc73459c1fbaf438e43b>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+X-Spam-Status: No, score=-13.0
+X-Spam-Score: -129
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Facebook Hi heysarahpaz, The email on your Instagram account
+    was changed from hey@sarahpaz.ca at 16:35 (PDT) on Tuesday, May 21 2019. 
+ 
+ Content analysis details:   (-13.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [69.171.232.138 listed in list.dnswl.org]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+  1.5 KAM_MXURI              URI: URI begins with a mail exchange prefix, i.e.
+                             mx.[...]
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [69.171.232.138 listed in wl.mailspike.net]
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  0.0 UNPARSEABLE_RELAY      Informational: message has unparseable relay
+                             lines
+X-Spam-Flag: NO
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block !important}}.d_mb_show{display=
+:none}.d_mb_show_center{display:table;margin:auto}.d_mb_flex{display:flex}=
+@media only screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+id=3D"email_table" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"></td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;border:solid 1px =
+white;margin:0 auto 5px auto;padding:3px =
+0;text-align:center;html_width:100%;width:430px;"><tr><td width=3D"15px" =
+style=3D"width:15px;"></td><td =
+style=3D"line-height:0px;width:400px;padding:0 0 15px 0;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"width:100%;text-align:left;height:33px;"><img height=3D"33" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/QTa-gpOyYBa.png" =
+style=3D"border:0;" /></td></tr></table></td><td width=3D"15px" =
+style=3D"width:15px;"></td></tr><tr><td width=3D"15px" =
+style=3D"width:15px;"></td><td style=3D"border-top:solid 1px =
+#DBDBDB;"></td><td width=3D"15px" =
+style=3D"width:15px;"></td></tr></table></td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"430" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;"><tr><td style=3D""><table border=3D"0" width=3D"430px" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:430px;"><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><tr =
+style=3D""><td style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"20" =
+style=3D"display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><p =
+style=3D"margin:10px 0 10px 0;color:#565a5c;font-size:18px;">Hi =
+heysarahpaz,</p><p style=3D"margin:10px 0 10px =
+0;color:#565a5c;font-size:18px;"><span>The email on your Instagram account =
+was changed from <span style=3D"color:#2b5a83;" =
+id=3D"body_email">hey&#064;sarahpaz.ca</span> at 16:35 (PDT) on Tuesday, =
+May 21 2019.</span></p><p style=3D"margin:10px 0 10px =
+0;color:#565a5c;font-size:18px;">Your new email is <span =
+style=3D"color:#2b5a83;" =
+id=3D"body_email">sarah.paz&#064;gmail.com</span>. If you didn&#039;t =
+change your email address, you can <a href=3D"https://instagram.com/accoun=
+ts/disavow/fdjcq/zgKQ5wtn/?re=3DaGV5QHNhcmFocGF6LmNh&amp;ce=3DZW1haWxfY2hh=
+bmdlZA&amp;ndid=3D5896e041ca1b8G24bc2cdc84523aG5896e4db2a48bG826" =
+style=3D"color:#3b5998;text-decoration:none;">secure your account =
+here</a>.</p></td></tr></table></td><td width=3D"20" style=3D"display:bloc=
+k;width:20px;">&nbsp;&nbsp;&nbsp;</td></tr></table></td></tr></table></td>=
+</tr></table></td></tr></table></td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"430px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:430px;"><tr =
+style=3D""><td height=3D"5" style=3D"line-height:5px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td width=3D"20" =
+style=3D"display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><div></div><div style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025<br =
+/></div><div style=3D"color:#abadae;font-size:11px;margin:0 auto 5px =
+auto;">This message was sent to <a style=3D"color:#abadae;text-decoration:=
+underline;">hey&#064;sarahpaz.ca</a> and intended for heysarahpaz. <br =
+/></div></td><td width=3D"20" style=3D"display:block;width:20px;">&nbsp;&n=
+bsp;&nbsp;</td></tr></table></td></tr><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr></table><span =
+style=3D""><img src=3D"https://www.facebook.com/email_open_log_pic.php?mid=
+=3D5896e041ca1b8G24bc2cdc84523aG5896e4db2a48bG826" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+

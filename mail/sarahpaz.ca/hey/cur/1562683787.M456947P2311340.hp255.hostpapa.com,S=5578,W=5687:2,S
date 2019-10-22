@@ -1,0 +1,109 @@
+Return-Path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id WB6cGoupJF2sRCMAOhTp2Q
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	for <hey@sarahpaz.ca>; Tue, 09 Jul 2019 10:49:47 -0400
+Return-path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 09 Jul 2019 10:49:47 -0400
+Received: from mail-151.40.greenhouse.io ([209.61.151.40]:41137)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	id 1hkrRA-009h7O-IJ
+	for hey@sarahpaz.ca; Tue, 09 Jul 2019 10:49:47 -0400
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=greenhouse.io; q=dns/txt;
+ s=smtp; t=1562683764; h=Content-Type: Mime-Version: Subject: From: To:
+ Message-Id: Sender: Date;
+ bh=TCPrLn/OF3QXZ5MDNWtePMqRTDfBiQ7684hDojiimng=; b=T9GZTjfl5eedZ2+6X7g3XaSTSQh0OZJWms/owGWOVMQZdlp5QX4jIhUgcjVdsr6U87ImYyak
+ XTP45dOCwyIregl0kBLjI+oSbDzPtU6bpHqAEQuBiOLf/8U6o8fiHVAWq+m9gldPhq5zcFpx
+ 9e6Wsje1QSqIzOHy/WuHVmXMsa8=
+X-Mailgun-Sending-Ip: 209.61.151.40
+X-Mailgun-Sid: WyIwMzBmMyIsICJoZXlAc2FyYWhwYXouY2EiLCAiZTVjMDQiXQ==
+Received: by luna.mailgun.net with HTTP; Tue, 09 Jul 2019 14:49:03 +0000
+Date: Tue, 09 Jul 2019 14:49:03 +0000
+Sender: no-reply@greenhouse.io
+Message-Id: <20190709144903.1.DC7EDB2BD046B125@greenhouse.io>
+X-Mailgun-Tag: ScheduledCandidateEmail
+To: hey@sarahpaz.ca
+From: no-reply@greenhouse.io
+Subject: Your application to FreshBooks for 
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="c02d9024b9ac4b8bbcfd38189ff81088"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, Thank you for applying to the career opportunity
+    on our team. We’re writing you today to let you know that we've decided
+    to pursue other candidates whose skills and experiences were felt to be more
+    [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.61.151.40 listed in list.dnswl.org]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: greenhouse.io]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+--c02d9024b9ac4b8bbcfd38189ff81088
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Hi Sarah,
+
+Thank you for applying to the career opportunity on our team. We=E2=80=99re=
+ writing you today to let you know that we've decided to pursue other candi=
+dates whose skills and experiences were felt to be more closely aligned wit=
+h our current hiring requirements.
+
+We will hold onto your application and if a new career opportunity emerges =
+that closely matches your skills and experiences, you may hear from us dire=
+ctly. Please follow up with us if you spot a suitable career opportunity on=
+ our website or social feeds that interests you:
+
+* Facebook ( https://www.facebook.com/FreshBooks/ )
+* Twitter ( https://twitter.com/freshbooks )
+* Our Careers Page ( https://www.freshbooks.com/careers#available )
+
+Wishing you the best of future success!
+Best regards,
+
+FreshBooks Recruitment Team
+--c02d9024b9ac4b8bbcfd38189ff81088
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+
+<p>Hi&nbsp;Sarah,</p>
+<p>Thank you for applying to the  career opportunity on our team. We&rsquo;re writing you today to let you know that we've decided&nbsp;to pursue other candidates whose skills and experiences were felt to be more closely aligned with our current hiring requirements.</p>
+<p>We will hold onto your application and if a new career opportunity emerges that closely matches your skills and experiences, you may hear from us directly. Please follow up with us if you spot a suitable career opportunity on our website or social feeds that interests you:</p>
+<ul>
+<li><a href="https://www.facebook.com/FreshBooks/">Facebook</a></li>
+<li><a href="https://twitter.com/freshbooks">Twitter</a></li>
+<li><a href="https://www.freshbooks.com/careers#available">Our Careers Page</a>&nbsp;</li>
+</ul>
+Wishing you the best of future success!
+<p>Best regards,<br /><br />FreshBooks Recruitment Team</p>
+--c02d9024b9ac4b8bbcfd38189ff81088--

@@ -1,0 +1,95 @@
+Return-Path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id QNOkMyXafF2c5xgAOhTp2Q
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	for <hey@sarahpaz.ca>; Sat, 14 Sep 2019 08:16:37 -0400
+Return-path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sat, 14 Sep 2019 08:16:37 -0400
+Received: from mail-218.215.greenhouse.io ([50.23.218.215]:20839)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	id 1i96yi-006wrr-Tv
+	for hey@sarahpaz.ca; Sat, 14 Sep 2019 08:16:37 -0400
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=greenhouse.io; q=dns/txt;
+ s=smtp; t=1568463372; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: From: Date: Sender;
+ bh=xVTwpYiyzd/G/J9Tih1TVjneHTnQ7AbgW2ECADGcvLU=; b=L61SJMHM9tCCfQZBz9uCzSJ5up2GNSHxjkfuuZTO7RToI6AiV8SA2fudmfxf1M8wONcjm7rN
+ hNW8XbsMUkrTcyV1WhCTExh+24lpgOuBLg/sxgPUfXTUjlszqktiak5XcCxS7r8hOY84pM8+
+ TgpciiYT3WFUDWF8UIJLgt4tK2U=
+X-Mailgun-Sending-Ip: 50.23.218.215
+X-Mailgun-Sid: WyIwMzBmMyIsICJoZXlAc2FyYWhwYXouY2EiLCAiZTVjMDQiXQ==
+Sender: no-reply@greenhouse.io
+Received: from uat.greenhouse.io (ec2-52-70-216-197.compute-1.amazonaws.com [52.70.216.197])
+ by mxa.mailgun.org with ESMTP id 5d7cd9f6.7fc605868c38-smtp-out-n03;
+ Sat, 14 Sep 2019 12:15:50 -0000 (UTC)
+Date: Sat, 14 Sep 2019 12:15:49 +0000
+From: Greenhouse <no-reply@greenhouse.io>
+To: hey@sarahpaz.ca
+Message-ID: <5d7cd9f5e8202_163fef2252e0bc7940f9@prod-greenhouse-canary-sidekiq-mailer-worker-5dc9696bcd-bbrf5.mail>
+Subject: We want to know what you think
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah Paz, Instacart takes care to ensure that its recruiting
+    process is well run and candidates have a great experience. We're sending
+    you this survey to gather some honest, anonymous feedback about your recent
+    interview. No personal information about you will be seen by Instacart -
+   all survey results are anonymized. 
+ Content analysis details:   (0.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [50.23.218.215 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<p>
+  Hi Sarah Paz,
+</p>
+
+<p>
+  Instacart takes care to ensure that its recruiting process is well run and candidates have a great experience.
+</p>
+
+<p>
+  We're sending you this survey to gather some honest, anonymous feedback about your recent interview. No personal
+  information about you will be seen by Instacart - all survey results are anonymized.
+</p>
+
+<p>
+  Please take a moment to give us your feedback and tell us what you think could be improved about the process.
+</p>
+
+<p>
+  <a href="https://app.greenhouse.io/candidate_surveys/624c8458">Candidate Survey</a>
+</p>
+
+<p>
+  Sincerely, <br/>
+  Greenhouse
+</p>

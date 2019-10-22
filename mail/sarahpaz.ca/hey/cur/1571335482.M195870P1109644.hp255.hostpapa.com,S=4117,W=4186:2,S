@@ -1,0 +1,69 @@
+Return-Path: <bounce+cd70d3.0445-hey=sarahpaz.ca@hire.lever.co>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 6POQCzqtqF2M7hAAOhTp2Q
+	(envelope-from <bounce+cd70d3.0445-hey=sarahpaz.ca@hire.lever.co>)
+	for <hey@sarahpaz.ca>; Thu, 17 Oct 2019 14:04:42 -0400
+Return-path: <bounce+cd70d3.0445-hey=sarahpaz.ca@hire.lever.co>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 17 Oct 2019 14:04:42 -0400
+Received: from rs41.hire.lever.co ([209.61.151.41]:34205)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounce+cd70d3.0445-hey=sarahpaz.ca@hire.lever.co>)
+	id 1iLA8f-004n23-5q
+	for hey@sarahpaz.ca; Thu, 17 Oct 2019 14:04:42 -0400
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=hire.lever.co; q=dns/txt;
+ s=mx; t=1571335462; h=Mime-Version: Content-Type: Subject: From: To:
+ Message-Id: Sender: Date: Content-Transfer-Encoding;
+ bh=jOb3RMNlaA4gcz+rRlMnqyWedtG8omO+8OnQJSPOcao=; b=isbWdfkH1XI1u4F4tNEqUtS4H8eYlo7SJzK1GI7vEfLN/dm2hzomufWi9oQISWFkTsjxlP0q
+ OmihwfmF9nlMakUrO11VX1V0GucjUSAcC4L4aBZ4t7f9F4kJgmR30sOPNPaAmEjhR6/BTf3a
+ /p8TdNjDXr6UEircO+C/AIJsTlQ=
+X-Mailgun-Sending-Ip: 209.61.151.41
+X-Mailgun-Sid: WyI4NGY0ZCIsICJoZXlAc2FyYWhwYXouY2EiLCAiMDQ0NSJd
+Content-Transfer-Encoding: 7bit
+Received: by luna.mailgun.net with HTTP; Thu, 17 Oct 2019 18:03:56 +0000
+Date: Thu, 17 Oct 2019 18:03:56 +0000
+Sender: no-reply@hire.lever.co
+Message-Id: <20191017180356.1.F27C9A090BFB5172@hire.lever.co>
+To: hey@sarahpaz.ca
+From: Opencare <no-reply@hire.lever.co>
+Subject: Thank you for your application to Opencare
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, Thank you for your interest in Opencare! We wanted
+    to let you know we received your application for our Front End Developer
+   position, and we are delighted that you would consider joining our team. 
+ Content analysis details:   (0.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: lever.co]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.61.151.41 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<div>Hi Sarah,</div><div><br></div><div>Thank you for your interest in Opencare! We wanted to let you know we received your application for our Front End Developer position, and we are delighted that you would consider joining our team.</div><div><br></div><div>Our team will review your application and will be in touch if your qualifications match our needs for the role. If you are not selected for this position, keep an eye on our jobs page as we're growing and adding openings.</div><div><br></div><div>Best,</div><div>The Opencare Team</div>

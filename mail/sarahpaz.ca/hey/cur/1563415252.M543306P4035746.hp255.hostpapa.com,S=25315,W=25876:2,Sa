@@ -1,0 +1,561 @@
+Return-Path: <v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id OAfdH9TSL12ilD0AOhTp2Q
+	(envelope-from <v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com>)
+	for <hey@sarahpaz.ca>; Wed, 17 Jul 2019 22:00:52 -0400
+Return-path: <v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 17 Jul 2019 22:00:52 -0400
+Received: from mail8325.mooprint.mkt8924.com ([129.33.243.219]:39345)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com>)
+	id 1hnvj1-00GySs-MP
+	for hey@sarahpaz.ca; Wed, 17 Jul 2019 22:00:52 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=crm.moo.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=info@crm.moo.com;
+ bh=TR2G1eiKR2IAX6bomfmpGvxpEyo=;
+ b=GS/KZb9nL+jyzYJbyVhoMS/7xzTCsXYNbcc0QEHAfUs70EW+BfrQPFVbYOR5lu/Le2cTnyD7Qq4Z
+   zFQyXXXLgTo921nG/zlGfbtCGXfr9y11ZppW73cYylsNvTUnz7llUt/FhK7D+NCexyTvslRq5sUL
+   SpdR5VG/AAR3t0cIBtQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=crm.moo.com;
+ b=ewllIvLV+ubq45mK21ejaDb9wSucXE8dRTx8eeNPsVUqjQc6N0DMIaAZxsnLA5wGJcgBJgcktuVo
+   ITMkFlnA6E8NNWTf7EUYkYUObf4rVwdYsjXGZdyH//UK/Aot0EPG+h2ST5i0Oc3sRevaRK8EgjPS
+   Xwhb13DVRLV+Cxp+LmI=;
+Received: by mail8325.mooprint.mkt8924.com id h5v9d619if4o for <hey@sarahpaz.ca>; Thu, 18 Jul 2019 02:00:11 +0000 (envelope-from <v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com>)
+Date: Thu, 18 Jul 2019 02:00:11 +0000 (GMT)
+From: MOO <info@crm.moo.com>
+Reply-To: info@crm.moo.com
+To: hey@sarahpaz.ca
+Message-ID: <768471361.92604621563415211145.JavaMail.app@tor01is-engage-pod8-rbg82.adm01.com>
+Subject: =?utf-8?Q?=E2=9C=8B__High_five!_=E2=9C=8B?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26605_1641762961.1563415210022"
+x-mid: 3395932
+X-CSA-Complaints: whitelist-complaints@eco.de
+x-rpcampaign: sp3395932
+Feedback-ID: pod8_12324_3395932_820686307:pod8_12324:ibmsilverpop
+x-job: 3395932
+x-orgId: 12324
+List-Unsubscribe: <mailto:v-ddnbfm_cjchlhajlk_daokkocn_daokknod_a@bounce.mooprint.mkt8924.com?subject=Unsubscribe>
+X-Spam-Status: No, score=-4.1
+X-Spam-Score: -40
+X-Spam-Bar: ----
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  MOO Congrats on your first order! Now some inspiration is
+   in order...   
+ Content analysis details:   (-4.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [129.33.243.219 listed in list.dnswl.org]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: moo.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME
+                             parts
+X-Spam-Flag: NO
+
+------=_Part_26605_1641762961.1563415210022
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>
+=09<title>MOO</title>
+=09<meta charset=3D"utf-8"><meta http-equiv=3D"X-UA-Compatible" content=3D"=
+IE=3Dedge">
+=09<style type=3D"text/css">table.primary-copy table.primary-button :hover{=
+background:#F3F3F3;box-shadow:0 2px 4px 0 rgba(75,79,84,0.30);border-radius=
+:3px;transition:background 200ms}
+        table.primary-copy table.primary-button-alt :hover{background:#F3F3=
+F3;box-shadow:0 2px 4px 0 rgba(75,79,84,0.30);border-radius:3px;transition:=
+background 200ms}
+        table.two-columns table.button :hover{background: rgba(48,55,59,0.8=
+0); border-radius:3px; transition:background 200ms}
+        table.two-columns table.button td:hover a{color:#FFFFFF !important;=
+ transition:color 200ms}
+        table.two-columns table.button-alt :hover{background: rgba(48,55,59=
+,0.80); border-radius:3px; transition:background 200ms}
+        table.two-columns table.button-alt td:hover a{color:#FFFFFF !import=
+ant; transition:color 200ms}
+=09</style>
+=09<style type=3D"text/css">@font-face {
+        font-family: 'Bryant MOO Pro';
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProRegular.eot?q=3Da7b25614973421c3730b3dfe73191a77)=
+;
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProRegular.eot?q=3Da7b25614973421c3730b3dfe73191a77#=
+iefix) format('embedded-opentype'), url(http://www.moo.com/us/bower_compone=
+nts/moo-toolkit/dist/fonts/bryant/BryantMooWebProRegular.woff?q=3Da7b256149=
+73421c3730b3dfe73191a77) format('woff');
+        font-weight: 700;
+        font-style: normal;
+        font-variant: normal;
+        }
+        @font-face {
+        font-family: 'Bryant MOO Pro Medium';
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProMedium.eot?q=3Da7b25614973421c3730b3dfe73191a77);
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProMedium.eot?q=3Da7b25614973421c3730b3dfe73191a77#i=
+efix) format('embedded-opentype'), url(http://www.moo.com/us/bower_componen=
+ts/moo-toolkit/dist/fonts/bryant/BryantMooWebProMedium.woff?q=3Da7b25614973=
+421c3730b3dfe73191a77) format('woff');
+        font-weight: 700;
+        font-style: normal;
+        font-variant: normal;
+        }
+a{text-decoration:none;}
+        @media all and (max-width: 650px) {
+        table.frame {
+        min-width: auto !important;
+        width: 100% !important;
+        }
+        table.secondary-frame {
+        min-width: auto !important;
+        width: 100% !important;
+        }
+        td.hide {
+        display: none !important;
+        }
+        table.nav {
+        width: 90% !important;
+        }
+        table.nav td {
+        width: 33.33333% !important;
+        padding-left:0px !important;
+        padding-right:0px !important;
+        white-space: nowrap;
+        }
+        table.alert {
+        width: 90% !important;
+        }
+        table.divider {
+        width: 90% !important;
+        }
+        table.secondary-divider {
+        width: 90% !important;
+        }
+        table.two-columns {
+        width: 90% !important;
+        }
+        table.two-columns th.top {
+        display: block;
+        width: 100% !important;
+        text-align: center;
+        }
+        table.two-columns th.middle {
+        display: none !important;
+        }
+        table.two-columns th.bottom {
+        display: block;
+        width: 100% !important;
+        padding-top: 25px !important;
+        }
+        table.two-columns img {
+        width: 100% !important;
+        max-width: 100% !important;
+        }
+        table.promise {
+        width: 100% !important;
+        }
+        table.promise table {
+        width: 90% !important;
+        }
+        table.promise img,
+        table.promise p {
+        vertical-align: middle;
+        }
+        table.footer-divider {
+        width: 90% !important;
+        }
+        table.footer-links {
+        width: 90% !important;
+        }
+        table.terms {
+        width: 90% !important;
+        }
+        table.social {
+        width: 90% !important;
+        }
+        }
+=09</style>
+</head>
+<body><!--[if gte mso 9]>
+        <style>
+        h1,h2,h3, .button, .primary-button, h1 a, .primary-button td a, td =
+a{
+        font-family: 'Trebuchet MS', Trebuchet, 'Liberation Sans', sans-ser=
+if !important;
+        }
+        </style>
+        <![endif]-->
+<div class=3D"supersubject" style=3D"display:none;font-size:1px;line-height=
+:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;fo=
+nt-family: sans-serif;">Congrats on your first order! Now some inspiration =
+is in order...</div>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"frame" role=3D"presentation" style=3D"width:650px;max-width:100%;mar=
+gin:0 auto;text-align:center;background-color:#308D7A;">
+=09
+=09=09<tr>
+=09=09=09<td align=3D"center">
+=09=09=09<div class=3D"spacer" style=3D"line-height:30px;height:30px;">&ems=
+p;</div>
+=09=09=09<!-- logo --><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=
+=3D13&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=
+=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com" style=3D"text-decorat=
+ion:none;" ><img class=3D"logo"  height=3D"35"   src=3D'http://contentz.mkt=
+8924.com/ra/2019/12324/05/3395932/logox2.png' style=3D"display:block;border=
+:none;" width=3D"112"  /> </a>
+
+=09=09=09<div class=3D"spacer" style=3D"line-height:40px;height:40px;">&ems=
+p;</div>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"nav" role=3D"presentation" style=3D"width:650px;max-width:100%;margi=
+n:0 auto;text-align:center;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D89&=
+ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=
+=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_products_html" style=3D"font-=
+family: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;ma=
+rgin:0;font-weight:400;text-decoration:none;" >Products </a></td>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D190=
+&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&r=
+j=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_inspiration" style=3D"font-f=
+amily: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;mar=
+gin:0;font-weight:400;text-decoration:none;" >Inspiration </a></td>
+=09=09=09<td class=3D"hide" style=3D"padding-left:24px;padding-right:24px;f=
+ont-size:14px;line-height:20px;"><a href=3D"http://links.mooprint.mkt8924.c=
+om/ctt?kn=3D54&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2M=
+zgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_business_servi=
+ces_" style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;" >10+&nbsp=
+;Employees? </a></td>
+=09=09=09<td class=3D"hide" style=3D"padding-left:24px;padding-right:24px;f=
+ont-size:14px;line-height:20px;"><a href=3D"http://links.mooprint.mkt8924.c=
+om/ctt?kn=3D137&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2=
+MzgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"support_moo_com" style=3D=
+"font-family: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#fff=
+fff;margin:0;font-weight:400;text-decoration:none;" >Help&nbsp;&amp;&nbsp;F=
+AQ </a></td>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D74&=
+ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=
+=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_account" style=3D"font-family=
+: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;margin:0=
+;font-weight:400;text-decoration:none;" >Account </a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!-- divider with space -->
+
+<div class=3D"spacerx05" style=3D"line-height:12px;height:12px;">&emsp;</di=
+v>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"divider" r=
+ole=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 auto;text=
+-align:center;border-top:1px solid;border-color:rgb(255,255,255);border-col=
+or:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>&emsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+   <!-- primary image -->
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"secondary-frame" role=3D"presentation" style=3D"margin:0 auto;text-a=
+lign:center;background-color:#308D7A;width:650px;max-width:100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"primary-copy" role=3D"presentation" style=3D"margin:0 auto;=
+text-align:center;width:88%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09=09<td align=3D"center" style=3D"overflow: visible;" width=
+=3D"500"><!-- heading -->
+=09=09=09=09=09=09<h1 style=3D"margin:0;font-size:48px;line-height:50px;ove=
+rflow: visible;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D72&m=
+s=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=
+=3DODIwNjg2MzA3S0&rt=3D0" name=3D"headline" style=3D"font-family:'Bryant MO=
+O Pro', 'Trebuchet MS', Trebuchet, 'Liberation Sans', sans-serif;color:#fff=
+fff;font-weight: normal;margin:0;text-decoration:none;" target=3D"_blank" >=
+Yay! Your first order.</a></h1>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"secondary-frame" role=3D"presentation" style=3D"margin:0 auto;text-a=
+lign:center;background-color:#308D7A;width:650px;max-width:100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<div class=3D"spacer" style=3D"line-height:15px;height:15px;">&ems=
+p;</div>
+
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"primary-copy" role=3D"presentation" style=3D"margin:0 auto;=
+text-align:center;width:88%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09=09<td align=3D"center" style=3D"overflow: visible;" width=
+=3D"500">
+=09=09=09=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, =
+Geneva, sans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:n=
+one;font-size:18px;line-height:24px;">Thank you for placing your very first=
+ order with us.<br />
+=09=09=09=09=09=09Exciting times!<br />
+=09=09=09=09=09=09<br />
+=09=09=09=09=09=09But hey, why stop there? Put your best foot forward with =
+everything you do (or send) with our always-premium range of printed goodie=
+s.</p>
+
+=09=09=09=09=09=09<div class=3D"spacer" style=3D"line-height:25px;height:25=
+px;">&emsp;</div>
+=09=09=09=09=09=09<!-- primary button -->
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"primary-button" role=3D"presentation" style=3D"wid=
+th:650px;margin:0 auto;text-align:center;width:auto;max-width:90%;font-size=
+:16px;line-height:21px;background:#FFFFFF;box-shadow:0 2px 2px 0 rgb(48,55,=
+59);box-shadow:0 2px 2px 0 rgba(48,55,59,0.25);border-radius:3px;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px;"><a href=3D"http=
+://links.mooprint.mkt8924.com/ctt?kn=3D124&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OT=
+Y2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=
+=3D"cta" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet MS', Treb=
+uchet, 'Liberation Sans', sans-serif;color:#30373B;margin:0;font-weight:400=
+;text-decoration:none; box-shadow: none;" target=3D"_blank" >Shop now</a></=
+td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D52&ms=3DMzM5NTkzMgS2&=
+r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&=
+rt=3D0" name=3D"image" style=3D"text-decoration:none;" target=3D"_blank" ><=
+img class=3D"primary-image"    src=3D'http://contentz.mkt8924.com/ra/2019/1=
+2324/05/3395932/CRB-4936-CRM-Email-Onboarding-First-Time-650px-308D7A.jpg_1=
+0.jpe' style=3D"display: block; border: none; max-width: 650px;" width=3D"1=
+00%"  /> </a></td>
+=09=09</tr>
+=09
+</table>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"frame" role=3D"presentation" style=3D"margin:0 auto;text-align:cente=
+r;width:650px;max-width:100%;">
+=09
+=09=09<tr>
+=09=09=09<td align=3D"center">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"social" style=3D"margin:0 auto;text-align:center;width:385px;max-wid=
+th:90%;">
+=09<tbody>
+<div class=3D"spacer" style=3D"line-height:25px;height:25px;">&emsp;</div>
+=09=09<tr>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D20&ms=3D=
+MzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=3DOD=
+IwNjg2MzA3S0&rt=3D0" name=3D"www_twitter_com_moo" style=3D"text-decoration:=
+none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt8924.com/r=
+a/2019/12324/05/3395932/twitter.png_3.png' style=3D"display:block;border:no=
+ne;margin:0;vertical-align:top;display:inline-block !important;" width=3D"3=
+7"  /> </a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D56&ms=3D=
+MzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=3DOD=
+IwNjg2MzA3S0&rt=3D0" name=3D"www_instagram_com_moo" style=3D"text-decoratio=
+n:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt8924.com=
+/ra/2019/12324/05/3395932/instagram.png_3.png' style=3D"display:block;borde=
+r:none;margin:0;vertical-align:top;display:inline-block !important;" width=
+=3D"37"  /></a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D191&ms=
+=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=
+=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_pinterest_com_moo" style=3D"text-deco=
+ration:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt892=
+4.com/ra/2019/12324/05/3395932/pinterest.png_3.png' style=3D"display:block;=
+border:none;margin:0;vertical-align:top;display:inline-block !important;" w=
+idth=3D"37"  /></a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D55&ms=3D=
+MzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=3DOD=
+IwNjg2MzA3S0&rt=3D0" name=3D"www_facebook_com_moo" style=3D"text-decoration=
+:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt8924.com/=
+ra/2019/12324/05/3395932/facebook.png_3.png' style=3D"display:block;border:=
+none;margin:0;vertical-align:top;display:inline-block !important;" width=3D=
+"37"  /> </a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D177&ms=
+=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS0&mt=3D2&rj=
+=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_linkedin_com_company_moo_c" style=3D"=
+text-decoration:none;" ><img alt=3D""  height=3D"37"   src=3D'http://conten=
+tz.mkt8924.com/ra/2019/12324/05/3395932/linkedin.png_3.png' style=3D"displa=
+y:block;border:none;margin:0;vertical-align:top;display:inline-block !impor=
+tant;" width=3D"37"  /></a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:26px;height:26px;">&=
+emsp;</div>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"footer-links" style=3D"margin:0 auto;text-align:center; width:590px;=
+max-width:90%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:21px;color:#757578;"><a href=3D"https://www.moo.com/u=
+nsubscribe.php?q=3D796e280a-27a2-4d73-925c-b0b8b731d963" name=3D"unsubscrib=
+e" style=3D"text-decoration:none;color:#017449;" target=3D"_blank" >Unsubsc=
+ribe</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt8924.=
+com/servlet/MailView?ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&j=3DODIwNjg2M=
+zgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"view_online" style=3D"text=
+-decoration:none;color:#017449;" target=3D"_blank" xt=3D"SPCLICKTOVIEW">Vie=
+w online</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt=
+8924.com/ctt?kn=3D86&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODI=
+wNjg2MzgxS0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_about_pr=
+ivacy_poli" style=3D"text-decoration:none;color:#017449;" >Privacy policy</=
+a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt8924.com/ct=
+t?kn=3D196&ms=3DMzM5NTkzMgS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODIwNjg2MzgxS=
+0&mt=3D2&rj=3DODIwNjg2MzA3S0&rt=3D0" name=3D"www_moo_com_refer_html" style=
+=3D"text-decoration:none;color:#017449;" >Refer&nbsp;a&nbsp;friend</a></p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+ <!-- divider with space -->=20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"terms" style=3D"margin:0 auto;text-align:center; width:590px;max-wid=
+th:90%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:18px;color:#757578;">*Enter code at checkout. Valid f=
+or 90 days.</p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:26px;height:26px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"f=
+ooter-divider" role=3D"presentation" style=3D"max-width:100%;margin:0 auto;=
+text-align:center;border-top:1px solid #f1f1f1;width:590px;height: 10px;">
+=09=09=09=09
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09</table>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"address" style=3D"margin:0 auto;text-align:center;max-width:90%;vert=
+ical-align:middle !important;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"vertical-align: top;"><img alt=3D""  height=3D"21"   =
+src=3D'http://contentz.mkt8924.com/ra/2019/12324/05/3395932/logo_moo_mark3.=
+png' style=3D"display:block;border:none;" width=3D"14"  /></td>
+=09=09=09<td width=3D"10">&emsp;</td>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:21px;color:#757578;text-align:center;">&copy; MOO Inc=
+. 14 Blackstone Valley Place, Lincoln, RI 02865, USA</p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</td>
+=09=09</tr>
+=09
+</table>
+
+
+<img alt=3D"" src=3D"https://t.myvisualiq.net/impression_pixel?r=3D20190718=
+&et=3Di&ago=3D212&ao=3D835&aca=3D-11&si=3D-11&ci=3D-11&pi=3D-11&ad=3D-11&ad=
+vt=3D-11&chnl=3D-11&vndr=3D1371&sz=3D6145&u=3Dutm_source=3Dibm&#124;utm_med=
+ium=3Demail&#124;utm_campaign=3Dlifecycle-ongoing-first_time_buyer-wave1-so=
+ho-none-all-all&#124;utm_content=3D%%LINK_NAME%%&pt=3Di" /><img src=3D"http=
+s://t.myvisualiq.net/impression_pixel?r=3D20190718&et=3Di&ago=3D212&ao=3D83=
+5&aca=3D-19&si=3D-19&ci=3D-19&pi=3D-19&ad=3D-19&advt=3D-19&chnl=3D-19&vndr=
+=3D1446&sz=3D6055&u=3DEid_796e280a-27a2-4d73-925c-b0b8b731d963&pt=3Di">
+
+
+
+<div class=3D"spacerx05" style=3D"line-height:12px;height:12px;">&emsp;</di=
+v>
+<IMG src=3D"http://links.mooprint.mkt8924.com/open/log/3395932/MTc2NzU5OTY2=
+MTM4S0/0/ODIwNjg2MzgxS0/2/ODIwNjg2MzA3S0/0" style=3D"display: none"></body>
+</html>
+
+
+
+------=_Part_26605_1641762961.1563415210022--
+

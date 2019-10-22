@@ -1,0 +1,92 @@
+Return-Path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 4CdJNiFu21zx0wYAOhTp2Q
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	for <hey@sarahpaz.ca>; Tue, 14 May 2019 21:40:49 -0400
+Return-path: <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 14 May 2019 21:40:49 -0400
+Received: from mail-158-85.greenhouse.io ([192.237.158.85]:60688)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounce+5713ac.e5c04-hey=sarahpaz.ca@greenhouse.io>)
+	id 1hQiuX-001uJZ-1F
+	for hey@sarahpaz.ca; Tue, 14 May 2019 21:40:49 -0400
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=greenhouse.io; q=dns/txt;
+ s=smtp; t=1557884428; h=Content-Type: Mime-Version: Subject: From: To:
+ Message-Id: Sender: Date;
+ bh=czUzFce5qiJWW3JSMdMAsjZ/xaZX3NWVqjN5XQ6AWfM=; b=JSni/KlNsdD9v0y07C7KiJcm+oKVmgDuVVuLnF8Ovy6q23XYYXoZGxqRFSCgnUUtIG/4JgiR
+ GlTjbt8WMoLVhH0y1i24zQ17P0dZyjljS1O37AyRUh4DXD3tShZ64dptHuOT4coCtnl+ZE3g
+ 9/b3nnP6O48aJHfLtCsHBZ4zHjQ=
+X-Mailgun-Sending-Ip: 192.237.158.85
+X-Mailgun-Sid: WyIwMzBmMyIsICJoZXlAc2FyYWhwYXouY2EiLCAiZTVjMDQiXQ==
+Received: by luna.mailgun.net with HTTP; Wed, 15 May 2019 01:40:07 +0000
+Date: Wed, 15 May 2019 01:40:07 +0000
+Sender: no-reply@greenhouse.io
+Message-Id: <20190515014007.1.1A9444C35F10833F@greenhouse.io>
+X-Mailgun-Tag: CandidateAutoReply
+To: hey@sarahpaz.ca
+From: no-reply@greenhouse.io
+Subject: Thank you for applying to Flipp
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="2a8e2fb386924f5492c0d46413e008ab"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Sarah, Thanks for your interest in joining Flipp. Your application
+    has been received and will be reviewed. If your profile seems like a potential
+    fit for the position we will contact you to discuss further over the phone.
+    
+ 
+ Content analysis details:   (-0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [192.237.158.85 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--2a8e2fb386924f5492c0d46413e008ab
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="ascii"
+Mime-Version: 1.0
+
+Sarah,
+
+Thanks for your interest in joining Flipp. Your application has been received and will be reviewed.
+
+If your profile seems like a potential fit for the position we will contact you to discuss further over the phone.
+
+Regards,
+Flipp
+
+** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.
+--2a8e2fb386924f5492c0d46413e008ab
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+
+<p>Sarah,</p>
+<p>Thanks for your interest in joining Flipp. Your application has been received and will be reviewed.</p>
+<p>If your profile seems like a potential fit for the position we will contact you to discuss further over the phone.&nbsp;</p>
+<p>Regards,<br /> Flipp</p>
+<p>** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.</p>
+--2a8e2fb386924f5492c0d46413e008ab--

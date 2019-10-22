@@ -1,0 +1,231 @@
+Return-Path: <bounces@sparkpost.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id WJOGEFCupl3juAAAOhTp2Q
+	(envelope-from <bounces@sparkpost.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Wed, 16 Oct 2019 01:44:48 -0400
+Return-path: <bounces@sparkpost.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 16 Oct 2019 01:44:48 -0400
+Received: from mta1a2.sparkpost.ziprecruiter.com ([52.11.191.234]:38779)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces@sparkpost.ziprecruiter.com>)
+	id 1iKc75-000C4H-Kg
+	for hey@sarahpaz.ca; Wed, 16 Oct 2019 01:44:48 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=sparkpost.ziprecruiter.com; s=s1015; t=1571204626;
+	i=@sparkpost.ziprecruiter.com;
+	bh=XRtGM5dbM7mbbOwfD4fIlVRJCekwGAkFtN+H9H2Hi1o=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=N+act2wi8v0FSLoSZk59plXNWX3IvkKDWgETlz2ILCW7gNeEr2Sx32AhskKrIxsOM
+	 JlT5/QbCxb2G+1bfYeVZYcAGgclXc4DsyekDU+LaMXsDdqlaPc3nxFsYRb0XpBWW9h
+	 UFofVAgG8lgOgnIZFMBiobxspuv9yFBHjhlcek/4=
+X-MSFBL: qWI6HzcRlzRXuXrxbcDHVZ+ijMl1qcbM/1YST8uTYhk=|eyJ0ZW5hbnRfaWQiOiJ
+	6aXAiLCJtZXNzYWdlX2lkIjoiMDAyNzEyYWVhNjVkZmYzMTMxNTYiLCJyIjoiaGV
+	5QHNhcmFocGF6LmNhIiwic3ViYWNjb3VudF9pZCI6IjEiLCJjdXN0b21lcl9pZCI
+	6IjEifQ==
+To: hey@sarahpaz.ca
+Message-ID: <13.65.12799.21EA6AD5@am.mta2vrest.cc.prd.sparkpost>
+Date: Wed, 16 Oct 2019 05:43:46 +0000
+Content-Type: multipart/alternative; boundary="_----TDtfz/GcVe1XhENiOZ7GxQ===_F2/65-12799-21EA6AD5"
+MIME-Version: 1.0
+Subject: Reset your ZipRecruiter password
+From: ZipRecruiter <support@ziprecruiter.com>
+List-Unsubscribe: <mailto:unsubscribe@sparkpost.ziprecruiter.com?subject=unsubscribe:v8l40F5AxQSsDHeKQsL61fIgczkYJ6ZFtogtfGJez2k~|eyAicmNwdF90byI6ICJoZXlAc2FyYWhwYXouY2EiLCAidGVuYW50X2lkIjogInppcCIsICJjdXN0b21lcl9pZCI6ICIxIiwgIm1lc3NhZ2VfaWQiOiAiMDAyNzEyYWVhNjVkZmYzMTMxNTYiLCAic3ViYWNjb3VudF9pZCI6ICIxIiB9>
+List-Id: <zip.1.1.sparkpostmail.com>
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ============================================== ZipRecruiter
+    - Job Distribution and Recruiting Tools ==============================================
+    You requested a password reset for your ZipRecruiter service. 
+ Content analysis details:   (1.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or
+                             Formatted Colors in HTML
+  0.2 KAM_TRACKIMAGE         RAW: Message has a remote image explicitly meant
+                             for tracking
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--_----TDtfz/GcVe1XhENiOZ7GxQ===_F2/65-12799-21EA6AD5
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+
+==============================================
+ZipRecruiter - Job Distribution and Recruiting Tools
+==============================================
+
+You requested a password reset for your ZipRecruiter service.
+
+To reset your password, just click this link and enter a new password:
+
+https://www.ziprecruiter.com/coi/confirm/eyJ6aXAiOiJERUYiLCJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiMSJ9.c-H7upbm5ptQ8HxxOWmzzHES3g9g8U4Upng2hwi_33n60clwVz5w7w.7JAvHxn4QvIgLvlEVOkzzg.aVa6l6iJBRR2kwwsyxdq08zY03SCvz_tg6bDhcTEh0qd_O0cMzZMiVyG9WboGk2FIyo0XxzcBeHWI3T2WEguH0uaCjSusxr69tut3e9ytArrSP8dSQ7H5dl342smZcdG7FM8FRdzX8XH_BlbAIuifQefnjdrwyb4OvNbaE8JzIbUd85f5nCGQp0Cn2xkFcKymcGuFGvBiqrveT6c-KlKJsIFAuoH8MVtzzZoXslBej8ItOEL_Gnb845J1OkOMbXs5YTsJZPkjRRWoMcXh6S0ZwGNKVqQtjbnuG_roimdW5Dmi4_y4pdpjWIAc9uxUK4Dx5-XTi5_YFFLxLygIHUuTBP5xBFsMW-xZlyGClTU_zn1qphPcGrbhPCN9i_TkNl3I_qVxLqd4y8ex9OhS_bcIBqXB4k1GTsS2AVbV7vHbcs.7xEppnr2gL-dZyMVDpmTjQ?source=js-remarketing-triggered-jobseeker-candidate-coi-password-reset
+
+Thanks,
+
+The ZipRecruiter Team
+--_----TDtfz/GcVe1XhENiOZ7GxQ===_F2/65-12799-21EA6AD5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D=0A<html xmlns=3D"http://w=
+ww.w3.org/1999/xhtml">=0D=0A<head>=0D=0A  <meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8" />=0D=0A  <!-- needed for mobile vi=
+ew -->=0D=0A  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initi=
+al-scale=3D1"/>=0D=0A  <title>ZipRecruiter</title>=0D=0A  <!--general style=
+sheet-->=0D=0A  <style type=3D"text/css">=0D=0A    ul, ol {=0D=0A      padd=
+ing:0px;margin:0px;=0D=0A    }=0D=0A    img {=0D=0A      outline:none; text=
+-decoration:none; -ms-interpolation-mode: bicubic; display: block;=0D=0A   =
+ }=0D=0A    a img {=0D=0A      border: 0;=0D=0A    }=0D=0A    .emoji {=0D=
+=0A      display: inline-block;=0D=0A    }=0D=0A    table td {=0D=0A      b=
+order-collapse:collapse;=0D=0A    }=0D=0A    a:link {=0D=0A      color: #0e=
+75e2;=0D=0A    }=0D=0A    a:visited {=0D=0A      color: #800080;=0D=0A    }=
+=0D=0A    a:hover {=0D=0A      color: #800080;=0D=0A    }=0D=0A    /* Norma=
+lize margins for android 4.4 native mail, and centering to adjust for andro=
+id 5.1 auto padding */=0D=0A    body {=0D=0A      margin:0 auto!important;=
+=0D=0A    }=0D=0A    div[style*=3D"margin: 16px 0"] {=0D=0A      margin:0 a=
+uto!important; font-size:100% !important;=0D=0A    }=0D=0A    /* Mobile vie=
+w */=0D=0A          @media screen and (min-device-width: 320px) and (max-de=
+vice-width: 480px),=0D=0A      screen and (-webkit-device-pixel-ratio:.75),=
+=0D=0A      screen and (-webkit-device-pixel-ratio:1.5) {=0D=0A        body=
+ {=0D=0A                      background: #fff none;=0D=0A                 =
+ }=0D=0A        table[id=3D"featured"],=0D=0A        table[id=3D"background=
+Table"],=0D=0A        table[id=3D"containerTable"],=0D=0A        table[id=
+=3D"promotedAboveTable"],=0D=0A        table[id=3D"promotedBelowTable"],=0D=
+=0A        table[id=3D"resultsTable"],=0D=0A        table[id=3D"mainContain=
+er"],=0D=0A        table[id=3D"line"],=0D=0A        table[id=3D"linePromote=
+d"],=0D=0A        table[id=3D"editTable"],=0D=0A        table[id=3D"welcome=
+Table"],=0D=0A        table[id=3D"mainContent"],=0D=0A        table[id=3D"d=
+ata-table"]{=0D=0A                      width: 380px !important;=0D=0A     =
+             }=0D=0A        table[class=3D"tableFix"],=0D=0A        td[clas=
+s=3D"tableFix"] {=0D=0A          width: 380px !important;=0D=0A        }=0D=
+=0A        td[class=3D"tableFixSmall"],=0D=0A        table[class=3D"tableFi=
+xSmall"] {=0D=0A          width:350px !important;=0D=0A        }=0D=0A     =
+             table[id=3D"header"] {=0D=0A            width: 400px !importan=
+t;=0D=0A          }=0D=0A          table[id=3D"headerShort"] {=0D=0A       =
+     width: 480px !important;=0D=0A          }=0D=0A                table[i=
+d=3D"shadowTable"] {=0D=0A          display:none !important;=0D=0A        }=
+=0D=0A        td[id=3D"bodyPadding"] {=0D=0A                    padding: 0p=
+x !important;=0D=0A                  }=0D=0A        td[id=3D"footer"] {=0D=
+=0A                      border-top: 1px solid #dee0e1 !important;=0D=0A   =
+         padding: 10px 0 !important;=0D=0A            background: #fff none=
+ !important;=0D=0A                  }=0D=0A        td[class=3D"mainTDPhone"=
+] {=0D=0A                      padding-left: 10px !important;=0D=0A        =
+    padding-right: 10px !important;=0D=0A                    line-height: 1=
+=2E6 !important;=0D=0A        }=0D=0A        table[class=3D"dNonePhone"],=
+=0D=0A        img[class=3D"dNonePhone"],=0D=0A        td[class=3D"dNonePhon=
+e"],=0D=0A        span[class=3D"dNonePhone"] {=0D=0A          display:none =
+!important;=0D=0A        }=0D=0A        td[class=3D"w100pPhone"] {=0D=0A   =
+       width:100% !important;=0D=0A        }=0D=0A        td[class=3D"pSide=
+0Phone"] {=0D=0A          padding-left:0 !important;=0D=0A          padding=
+-right:0 !important;=0D=0A        }=0D=0A              }=0D=0A      </style=
+>=0D=0A</head>=0D=0A<body style=3D"margin:0px;padding:0px;">=0D=0A    <tabl=
+e id=3D"mainContainer" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"">=0D=0A    <tr>=0D=0A      <td align=3D"center" style=
+=3D"padding: 25px 0 25px; background: #f6f7f8 none;" id=3D"bodyPadding">=0D=
+=0A        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"border-collapse:collapse;background-color: #ffffff;margin: 0 auto;border:1=
+px solid #d1d4d5;" id=3D"mainContent">=0D=0A          <tr>=0D=0A           =
+ <td style=3D"background-color: #ffffff;padding-top:0px; padding:10px;paddi=
+ng-bottom:20px; ">=0D=0A                              <table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse;background-color: #ffffff;border-bottom:1px solid #d1d4d5" id=3D"heade=
+r">=0D=0A                  =0D=0A=0D=0A                  =0D=0A            =
+      <tr>=0D=0A                    <td valign=3D"middle" align=3D"left" wi=
+dth=3D"50%" style=3D"background-color: #ffffff;padding:20px;padding-top:10p=
+x;padding-bottom:10px;" id=3D"logo">=0D=0A=0D=0A=0D=0A                     =
+                         =0D=0A                          <a href=3D"https:/=
+/www.ziprecruiter.com=3Fmid=3D4763&source=3D" target=3D"_blank" title=3D"Si=
+gn In to ZipRecruiter"><img src=3D"https://www.ziprecruiter.com/zrs/086d5dd=
+4/img/logos/logo-ziprecruiter-280x112.png" style=3D"margin-top:5px;" width=
+=3D"140" height=3D"56" alt=3D"ZipRecruiter" border=3D"0"/></a>=0D=0A       =
+                 =0D=0A                      =0D=0A                    </td=
+>=0D=0A                    =0D=0A                    =0D=0A                =
+                          <td valign=3D"middle" align=3D"right" width=3D"50=
+%" style=3D"background-color: #ffffff;padding-top:25px;padding-right:20px;p=
+adding-bottom:25px;text-align:right;vertical-align:middle;" id=3D"signin">=
+=0D=0A                                                                     =
+ </td>=0D=0A                                                          </tr>=
+=0D=0A                </table>=0D=0A              =0D=0A              =0D=
+=0A<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:6=
+40px;background-color: #ffffff;border-collapse:collapse;" id=3D"line">=0D=
+=0A  <tr>=0D=0A    <td width=3D"100%" valign=3D"top" align=3D"left" style=
+=3D"background-color: #ffffff;padding:30px;font-family:Arial,sans-serif;fon=
+t-size:15px;line-height:1.4;margin-bottom:25px;">=0D=0A      <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collaps=
+e;font-family:Arial,sans-serif;font-size:15px;line-height:1.4;font-size:13p=
+x;color:color: #2f3639;">=0D=0A        <tr>=0D=0A          <td style=3D"fon=
+t-family:Arial,sans-serif;font-size:15px;line-height:1.4;text-align:center;=
+">=0D=0A            <span style=3D"font-weight:300;line-height:24px;">=0D=
+=0A              =0D=0A                You requested a password reset for y=
+our ZipRecruiter account.=0D=0A              =0D=0A=0D=0A                To=
+ reset your password, just click the button below and enter a new password.=
+=0D=0A            <br><br>=0D=0A            <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center" style=3D"width:200px;margin-right=
+:auto;margin-left:auto;width:250px">=0D=0A  <tr>=0D=0A    <td style=3D"colo=
+r:#fff;font-family:Arial,sans-serif;font-size:15px;text-align:center;paddin=
+g:5px;width:200px;background:#57b228;border-radius:2em;min-height:28px;bord=
+er:1px solid #57b228;width:250px">=0D=0A      <a href=3D"https://www.ziprec=
+ruiter.com/clk/ypHssJ4CcaAfGzLRM7_8JpzdOIAzGyVUIGbumYkWMr-6P8H4dtvmkYr7qdDB=
+-dePf5vA8jn6-RzeOn5IF-mB1IWr3iya9JLVTP1JkkwodoOcm1KVduGld0TEKg4j6ai657kH-5v=
+gGGBJAkPKCN8OFnjDJWzCRYNOwqQ7cYyv31rNbC96OrRx6hKuuT1Hf-6a9j7c6VpG-Z05IbVwET=
+uI1q173-CsyW9xj9nWWnLcxZoIovitDst9eK-XvbSWnaikLQV3bI7V9Vv-tSz6Kmte6oA9HoSzv=
+4Se7ieIwtH1ZfsAlLdq7pUJ9_uS1hsV2Oxhwt8Cqm7vzhL_toONsbhYspHUB4IM7vkyVGqnHcAo=
+9B36XKxf6fmBiRQH77hOaITxe1qBuXDoli984jbPONkTn74ISm9iC9G5F-XG2fFPvWJzor9YIca=
+YdR1do6jBh3eL6tXqyEBO5XH4qr8g-R_k8336cXpeQ6uqwxu3Z_q8PXg5GwpraDPfhNMAYBPyl3=
+Uqoiff5AGuM2PS1mCjghSoHiX6WBSxLTA3-8WAn9zPV44YXCFSrMONT26hydipzsLI_y2mZtMBq=
+TO84AtpkmMsfzLTJenZ8DRIID7nUPlarjISPEfgHNK41fvkKOdGNzJI9vg7GXW03S77BUnQRI64=
+5xI1SPZbdGAt1HNXGycZl3DoI-YolfAErxyAyqM175XW9UEetm0Bn3cCeo4sZm6MqoK1FerXP-3=
+c3tzh5gbX1xnYVRXFavVMOjGz-xgqrN9Uu0xs_vYWR0HERnX8eLIlZVkWLtw7FCUN32wAcxMf9s=
+DEngp3Qiw1fe8aCMFQ9d8A4uch9G64eQZYAnkhln_vfBljfzwayNWIS6bio0Svo8vOjbTvNp7lL=
+5C98a4FlG2Dra02U0KC_AhzHEjNSQueRH_ugJSsNEd-HYTZtXttV9WHe9O6pJGBKKnzWgWHKvvI=
+fJfKK5_rENTCwVn-hj3CtsS4gJvdVU83OyLd_PsYqh_feX0gLwsUWXsL7WqddhNtg17J2n9BPbZ=
+O89nCLQa8bA.c8c759c2ac8521359688933c96eb070d" style=3D"white-space:nowrap; =
+border:none;text-decoration:none;color:#fff;text-align:center;display:block=
+;font-weight:bold;font-family:Arial,sans-serif;padding-left:15px;padding-ri=
+ght:15px;padding-top:2px;padding-bottom:2px;" target=3D"_blank">Reset Passw=
+ord</a>=0D=0A    </td>=0D=0A  </tr>=0D=0A</table>=0D=0A            <br>=0D=
+=0A            This is a one-time only link that will expire in 24 hours.=
+=0D=0A            </span>=0D=0A          </td>=0D=0A        </tr>=0D=0A    =
+  </table>=0D=0A    </td>=0D=0A  </tr>=0D=0A</table>=0D=0A=0D=0A           =
+ </td>=0D=0A          </tr>=0D=0A        </table> <!-- /End main content --=
+>=0D=0A      </td>=0D=0A    </tr>=0D=0A                      <tr>=0D=0A    =
+      <td valign=3D"top" align=3D"center" style=3D"padding: 5px 10px 45px;b=
+ackground: #f6f7f8 none;font-family:Arial,sans-serif;font-size:15px;line-he=
+ight: 1.6;color: #2f3639;font-size:13px;" id=3D"footer">=0D=0A        =0D=
+=0A<center>=0D=0A=0D=0A604 Arizona Ave., Santa Monica, CA 90401=0D=0A<br />=
+=0D=0A<a href=3D"https://www.ziprecruiter.com/privacy=3Fmid=3D4763&source=
+=3Dcandidate-coi-password-reset" style=3D"color: #2f3639;" target=3D"_blank=
+">Privacy Policy</a>=0D=0A</center>=0D=0A          </td>=0D=0A        </tr>=
+=0D=0A        </table>=0D=0A    =0D=0A<img src=3D"https://www.ziprecruiter.=
+com/pxl/NqeeXAEc9pEoi6YIT476UZ6GpD-VNHc4YvGYdgQdJWxRIfI5tct0D7nZlvIE_c17_8w=
+ow2RrlFqbkE7-E2da5vaylO_qY9yKoqYmt_6FmJjiXI167zt5jGkuOLvHb_sNgrq8RObHusy4wP=
+M9bpSkL1uMCkz38Q1v-Jz2nlLIPeX4xo178HVzUmFdt3WcXbhQwHkB4cMerY1Gwy3216kRExyEJ=
+3mSF5ggtNrmofxps2PnBfOyZGeD2ldzVTdiFPeDS5AIsH-ln2uOsVid_9H6JNM-grIg5FPjla0y=
+yd69UGNw-g1OsStAblpVMViBWsaSHIpTLhYH2aAlBc8p_0T7ouyWqy-SmzFRbQwfuVxgESsUDi1=
+SFACMGd9xoKozjY2LxWXgJThW6ztiplt4G3sIh3-RDMfqs1tLaNGueWfrl2kFUp_akV3z1r90XT=
+cRaRwZwjypB5miZ9GN01ovlqKVnA.a26109cb535ee36e99502ae4344fae83" width=3D"1" =
+height=3D"1" alt=3D"" />=0D=0A=0D=0A<img border=3D"0" width=3D"1" height=3D=
+"1" alt=3D"" src=3D"http://track.sparkpost.ziprecruiter.com/q/SRLxjWGJD4eIo=
+tE5HLLALw~~/AAAAAQA~/RgRfiTMSPlcDemlwQgoAJxKupl3_MTFWUg9oZXlAc2FyYWhwYXouY2=
+FYBAAAAAE~">=0D=0A</body>=0D=0A</html>
+--_----TDtfz/GcVe1XhENiOZ7GxQ===_F2/65-12799-21EA6AD5--
+

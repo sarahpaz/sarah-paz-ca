@@ -1,0 +1,395 @@
+Return-Path: <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id cimdAUEBpF0PvBAAOhTp2Q
+	(envelope-from <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	for <hey@sarahpaz.ca>; Mon, 14 Oct 2019 01:01:53 -0400
+Return-path: <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 14 Oct 2019 01:01:53 -0400
+Received: from o4.mail8.glassdoor.com ([50.31.56.142]:32105)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+361255-e388-hey=sarahpaz.ca@mail9.glassdoor.com>)
+	id 1iJsUP-004b2I-DI
+	for hey@sarahpaz.ca; Mon, 14 Oct 2019 01:01:52 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=glassdoor.com; 
+	h=content-type:from:mime-version:subject:to; s=s1; 
+	bh=ga3SSMKlNcBVkWF3AN0O5pNJDRs=; b=m6slUwlVf4RYAs/XWbvDDQVkyhkRY
+	z3nd7k+vRzUopYUewiqDU3KZFqmSbZQYYXKQKSuHGjTS0s3jsU/5OIbsuj6LVJRU
+	gQEyefZF0/wseQPsHA9VS7sMCYSd3FKNL0Dk4wSZ74+zD8TGjbbCmp/Ea6IkNKpw
+	2GANxIz7sgDX5I=
+Received: by filter1344p1mdw1.sendgrid.net with SMTP id filter1344p1mdw1-31819-5DA40114-F
+        2019-10-14 05:01:08.701512335 +0000 UTC m=+277598.460970433
+Received: from MzYxMjU1 (ec2-52-204-227-179.compute-1.amazonaws.com [52.204.227.179])
+	by ismtpd0065p1iad2.sendgrid.net (SG) with HTTP id Jyzq7bI3ROSNwDCKm-hVwA
+	for <hey@sarahpaz.ca>; Mon, 14 Oct 2019 05:01:08.642 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=1b4bddab87e2389cbe8bd870d248266439b9873b863a5b4c1b44ef95148f
+Date: Mon, 14 Oct 2019 05:01:08 +0000 (UTC)
+From: "Glassdoor" <noreply@glassdoor.com>
+Mime-Version: 1.0
+Subject: Confirm your Glassdoor email change request
+To: hey@sarahpaz.ca
+Message-ID: <Jyzq7bI3ROSNwDCKm-hVwA@ismtpd0065p1iad2.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVnG53vKTDYV9Ln26vIj9rQkTqiIcPTPz7F3YE
+ Q6cvuvwDbvCO45kbDpYa0Fy89+RlZwFXO/r4vOxs3z36gCHOnvclBmvj7T7j1CwE3WXZz9mOdibRGW
+ ESReq19TKk/ZlsVzvNUvMp61dMJfJrrDZUEs9JiwSYH5PPPX855mInu7Fg==
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7BnAx33CpPQodR18GwZHItWtjyCdin6E/fu0SpaHnkljJ2mikZDKCSuqIM
+ fQnAsFPbOQ07Z34WIkCxlmLgGgxWt/FBtqWS49Bw8j86jMzFkoFmbeVxbATZj721D7vzOB0azPCu03
+ eS36japfrYkCOigwyLai4Pmaj9F5rdYGi0KrbEk3Rq7xrFLBzgpUO537Tw==
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Confirm your Glassdoor email change request Please follow
+   the link to complete your email change request: https://www.glassdoor.ca/profile/changeEmail/confirmEmailChange.htm?changeKey=n87IndXEr2zMQqEg
+    [...] 
+ Content analysis details:   (1.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [50.31.56.142 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or
+                             Formatted Colors in HTML
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.7 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+X-Spam-Flag: NO
+
+--1b4bddab87e2389cbe8bd870d248266439b9873b863a5b4c1b44ef95148f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confirm your Glassdoor email change request
+Please follow the link to complete your email change request:
+https://www.glassdoor.ca/profile/changeEmail/confirmEmailChange.htm?changeK=
+ey=3Dn87IndXEr2zMQqEgcCnKVQ:m2rvokyQaWb9kNxHE2NpIUQvavwIu0dgZnCOIW3wzBoYkGA=
+R8L2O3EHbkRUt9DQoXBYdGKtmR8qqU8KiW0NtVlqJuBp062cbqCL0NQlwI2YG8GQo844_Mg9aOV=
+34zrflDn-ybB0pPfcXNez8u7Cn2TE9RQ2L-FEihZ5KAqD0fX42SCCzDwlIbs8f3YnyYO2ZzaVGU=
+x9StKC2ZGBXE2d6-mLBu0U3VMXKspD-3Ut38qxJkUIYTKVl9bhqaqEJSRD7:f-AjyiJJ-poCC11=
+hOETtqmDHQ9hsw42dczzk5_axgWI
+This link will expire on Sunday, October 20, 2019, 22:01 PDT
+
+--1b4bddab87e2389cbe8bd870d248266439b9873b863a5b4c1b44ef95148f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<meta name=3D"format-detection" content=3D"address=3Dno">
+<title>Confirm your Glassdoor email change request</title>
+<link href=3D"https://fonts.googleapis.com/css?family=3DLato" rel=3D"styles=
+heet" type=3D"text/css">
+<style type=3D"text/css">
+@media screen and (min-width:500px) {
+[class=3D"vertPadding"] {
+padding-bottom: 10px;
+}
+[class=3D"horzPadding"] {
+padding-left: 10px;
+}
+}
+#GDEmail td { font-family: Lato, Arial, Helvetica, sans-serif; }
+</style>
+</head>
+<body bgcolor=3D"#f3f3f3" id=3D"GDEmail" yahoofix class=3D"yahoofix">
+<div id=3D"GDEmailWrapper" style=3D"margin: 0; padding: 0; font-size: 16px;=
+ font-family: Lato, Arial, Helvetica, sans-serif">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" bgcolor=3D"#f3f3f3" style=3D"min-width: 100%;">
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+<tr>
+<td class=3D"horzPadding"></td>
+<td align=3D"center" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"500" bgcolor=3D"#ffffff"
+style=3D"border-top: 1px solid #C2C2C2; border-bottom: 1px solid #C2C2C2; b=
+order-left: 1px solid #C2C2C2; border-right: 1px solid #C2C2C2;">
+<tr>
+<td align=3D"left" valign=3D"middle" height=3D"75" style=3D"padding-left: 8=
+.5%; padding-right: 8.5%; padding-top: 10px">
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhVid7lDgKXFDG6GhcDOy7AYIMVQN6ZGTC24UHq6A-2F364Lxu6wcvJu=
+T-2BpA1ePRA1Gcu2MYvob2g00j1PjoV7FEplJD9-2BcN8mUnWhiUNR6k4lwdoUFPVAYxE2nflpE=
+td0NVridKthHe3QWES44Fu3kLtDL081EobG-2BdAmyVW8pHVQHaHBBYWyPS5igsLlADmLeR-2Bb=
+GD7eNg-2B0YF7uW-2B0tsYw8Ic3nJ0enUtiGjelfxB3mhRVawu8r8c2Okdqgjr0WKI7CanGuST-=
+2Fk0S8qcU5XfbpS_jQhle9vCs52fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2=
+FplYoDuQFaDs7gaznbmw2WC7K-2B98maMBrxkZVNgJTC30rcb9f60kiGEIbhacrgrvLubr1GHtI=
+LDZlarV-2B7WzagyzNlzssIBwVEwXP1dhYcod6CiMPB7g52QReAijFQkLDbDsTjWRgJaY5oXpZR=
+dcfso7NuRLSvC4BaIa2Gpy-2Bde5tzRU4xGwtrN5cGUAFozUDg1Cr4zB3XsVgOemDqFvO-2BMtc=
+cJxvxHlv3NiTmj6zlO7aLW7t5oWfHLlRvj8yJvC8TViL80n-2F5aH2wHM5FOJRs-2FsT6d0hXMt=
+7t68U5ez-2BwfypIRfhzRgGgUSEKWS1bxDkH8pofvdskTLG-2Fy4UITntRxIHKDizGnGB6EG8aC=
+HU697PFsCzLjwjI-3D" target=3D"_blank" style=3D"text-decoration: none">
+<img src=3D"https://www.glassdoor.com/crs/mail/logos/gdlogoHw_2x.png" id=3D=
+"Logo"
+alt=3D"Glassdoor" title=3D"Glassdoor" height=3D"30" width=3D"142"
+style=3D"border: none">
+</a>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td style=3D"padding-left: 8.5%; padding-right: 8.5%; padding-bottom: 20px;=
+">
+<h1 class=3D"heading " style=3D"line-height:18px; font-family: Arial, sans-=
+serif; font-weight: normal; font-size: 18px; color: #007700; margin: 0 0 0p=
+x; margin-bottom: 8px; margin-left:0px; padding: 0 0 0 0;">
+Confirm your Glassdoor email change request
+</h1>
+<style>
+h1.ecxheading {margin-bottom: 0;}
+</style>
+<div style=3D"margin-bottom: 1em; font-family: Arial, sans-serif;">
+Please follow the link to complete your email change request:
+<br><br>
+<a href=3D'https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhUkTIDtdlXvEt-2FLQ5djJ2U96uEQRD87FUJjbuN-2BeWG4Fj8gDSLf=
+bABvXT55V-2BcQ9Zdv9AZEMPL0SpynT2gD8zCxO-2B5ZYcbNGxWLxK7sEXAHsxyB9r5y5A5xGId=
+rdA8mBzhEOjua3CdOZfGTmJPZKYA7xfgZ-2B3Na4plzDZUojvSzDJjF6dZ7vF4WX5ghHfsiDffo=
+A1xugGlQIIwD5OB0Z7MCEA-2BDTk5FY90P1dKWvzC1boXH0-2B5RQ-2BkWb4bNc-2FYgf6DZG1p=
+b-2Fe9qGvquMo3VCsOv-2BrfFwPLaA0v74Dbg8YxbRZeh3VPKZnNCmYYDw4I7Twnqvh8dmRj0Nf=
+yZT-2FVMb18OoiyuihMeCgOEND97aC5S4Hq3ghztiKp0aV5MsaYH6Ecsyb-2FfzhCasp8obkRxb=
+dhiyRAWcuwroQeh6jwcXxg-2BP6fa9tBDRV6gXsl-2F0FnBpQCNOo-2FHFRnL-2FUQiB5-2BY6a=
+EwfpqbQ7BPSiEEeueiflyfrAqU6FDcjlEc3wyj1HP4O5w-3D_jQhle9vCs52fJYPh4-2Ffwt2vK=
+vadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDs7gaznbmw2WC7K-2B98maMBrxkZVNgJ=
+TC30rcb9f60kiGEIbhacrgrvLubr1GHtILDZlarV-2B7WzagyzNlzssIBwVEwXP1dhYcod6CiMP=
+B7g50fo3EQJEdzs5nQ-2FbSCg0L5oQFkqRLZldWiCR0ZTPXXcdnAPSaB0WwR8U50EByS3AS-2F-=
+2F07I8DiVYYqcs9ZbzR2j0fn5jnhgUymkhKUrTrUh36ZblANoSfIoi-2BDMAXNeQmEfen-2BPI9=
+7FJBUqmi4lGQIZC0q1C1cJuVIcxJ-2Fz-2BkTUx801KvgW7s1L-2B9MFkCixzpSsDDSGlrfUBfU=
+g8-2FX4DmnMQBX9dEUqC-2FD6xJyt5qcQnbX8NQwRCln6P7nyCRulGOQ-3D' style=3D"text-=
+decoration: none; font-family: Arial, sans-serif; color: #0066cc">
+Click here to confirm your email change</a>
+<br><br>
+<p class=3D"y" style=3D"font-size: 13px; margin:0px; margin-bottom:10px; li=
+ne-height:15px; font-family: Arial, sans-serif; ">This link will expire on =
+Sunday, October 20, 2019, 22:01 PDT</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: transparent; padding-top: 25px; padding-bott=
+om: 25px; padding-left: 8.5%; padding-right: 8.5%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wid=
+th=3D"100%" style=3D"min-width: 100%;">
+<tr>
+<td style=3D"font-family: Arial, sans-serif; font-size: 10px; color: #7F7F7=
+F; line-height: 18px; margin: 0; margin-top: 0px; margin-bottom: 0px;; text=
+-align: center;">
+<span style=3D"color: #7F7F7F">
+This message was sent to <a href=3D"mailto:hey@sarahpaz.ca" style=3D"color:=
+#1861BF;">hey@sarahpaz.ca</a>.
+</span>
+<br>
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhWSufCP7QzSL38kDb4A-2Bzfxof3mGGSETFChE5FM3zw0Q5GVBWpKVd=
+xlgUg7r2sjQf32PyteIew8pApXlyU-2BUOOmvjcRa-2FD6EAtFZtzdotrqgCbVlFWDndUMELy7c=
+P3oVOiamJ-2F01AxszNW-2BXnnplfu5dGSz3DOd8TYz3akyma-2FxowfdfvN-2BZAu0YZJ1Ed-2=
+Byko-2BbzkMkF0UBgxTHRj-2BbWqo-2FvbhQwsXeuPBiD4z24-2Bh7DkTeamRpNXLjSlEpCLr9K=
+0wF61uZmUayXOwHIm-2B0t5RJ566NhIKgVXSQc-2BLsPi-2FbFw-3D-3D_jQhle9vCs52fJYPh4=
+-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDs7gaznbmw2WC7K-2B98maM=
+BrxkZVNgJTC30rcb9f60kiGEIbhacrgrvLubr1GHtILDZlarV-2B7WzagyzNlzssIBwVEwXP1dh=
+Ycod6CiMPB7g52NTxoQehlEF7qfGZzAVmdKsNi-2Bcyd2JzPG7gNqG-2BhwoZCKcetCZYSjAuXt=
+cggxFu7zQ1a0u3UNBTHIGVJKhw3OUy-2F8qlAbz4FiJZwPZ8Yto2qMC6aB7plQx3kzKGYFuJZRA=
+ewuNm3uZpKXPBsTO2Qi95pkL3ODPqN3yaQcfafo9B7Ne7pkhhCGVp-2FrKuKY78nh9Zo2YeFSJb=
+cKsfd3XxKG3VxC1RurstMPXaKaxYOsBh3u2lec-2BN1dwA1EgSbxAiQ-3D" style=3D"color:=
+ #1861BF;">Privacy Policy</a>
+<span style=3D"color: #7F7F7F;">&nbsp;|&nbsp;</span>
+<a href=3D"https://mail8.glassdoor.com/wf/click?upn=3DT16u07fZ6OfsdYwiA4ne3=
+woQRyrQzHvTTdVBTCoHQhWNV7HQolukyFDy4Mq56ozDoPUYvRSQjegwmvnzleJOPci5dMYoQ-2B=
+ZLqYonHaer71rlqJi-2FLN0IgVfuA7J-2F-2FQwmdAEwJy5MITg-2BHwX-2BD-2BUtyTE7qHgXY=
+dLPxqbe3qBseKlBMAPpqI43ojebX90O9SG4wBRiOgcIdDC7XRXCKdbHHXQuoPUMWTJlbIL6MxJx=
+fsYXwb92Zl6LlEWncp9jWZ7Jmjw95XiAMQi8xljy-2FgqztGNARSmkK9ka2Dq6lsyv1YcIpkFBL=
+0mg30nhGQPwX6V5gfHnkHSuzUFLR2vUYi7kWoAN1mrzW20-2BKmJXsKsXjLY-3D_jQhle9vCs52=
+fJYPh4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDs7gaznbmw2WC7K-2=
+B98maMBrxkZVNgJTC30rcb9f60kiGEIbhacrgrvLubr1GHtILDZlarV-2B7WzagyzNlzssIBwVE=
+wXP1dhYcod6CiMPB7g52eZRvPufG7uaQuVtoQNV7EBWEN7u-2FH97HFUN-2BhzV8DJKoBIO17hg=
+f6Ad9BN28nymTJ1wvGGMblZuCo-2BPvF-2F86AYx9TYZHKcERMI9IzMIAxiHZTXf3wVHzdC-2BI=
+rNw1pueJSACWO-2BFniywgd-2BHwuCl1VeCzazKEqR4QSX3yZWXdR-2BnyL6GGH28etcqDhGN-2=
+FTW5YnhbpkAjuntUKbrsIQTmRWeyiYFWTQcyEFN3sZhHoX0BOt3anE7eIQkvXWHt1MZUQ-3D" s=
+tyle=3D"color: #1861BF;">
+Manage Settings
+</a>
+<br>
+<span style=3D"color: #7F7F7F;">
+<a href=3D"www.glassdoor.ca" target=3D"_blank" style=3D"color: #1861BF">Gla=
+ssdoor</a> &nbsp;|&nbsp; 100 Shoreline Highway - Building A, Mill Valley, C=
+A 94941
+</span>
+<br>
+<span style=3D"color: #7F7F7F;">
+Copyright =C2=A9 2008-2019, Glassdoor, Inc. "Glassdoor" and logo are propri=
+etary trademarks of Glassdoor, Inc.
+</span>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D'horzPadding'></td>
+</tr>
+<tr>
+<td class=3D'vertPadding'></td>
+</tr>
+</table>
+</div>
+
+<img src=3D"https://mail8.glassdoor.com/wf/open?upn=3DjQhle9vCs52fJYPh4-2Ff=
+wt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDs7gaznbmw2WC7K-2B98maMBrxk=
+ZVNgJTC30rcb9f60kiGEIbhacrgrvLubr1GHtILDZlarV-2B7WzagyzNlzssIBwVEwXP1dhYcod=
+6CiMPB7g53f-2FF-2FFczriCloIJdTHeL9OzQBaYfvh1bl-2FgtCM5eAtl4a6fvbizGBSz2x1Wd=
+m82pwpoYm8mC3sM5N9HM7zyfJ-2Fx6KBYzSw-2Fvrt7FOm-2Fegx-2FVx55nrPPgV6Ff0V15HjL=
+C7Alyws0nH6KsNjqMWcFq-2BTGl2SQs8nnVxgVpwn-2B9mj-2FHHa-2F-2BZ04oL-2FM9xskt1M=
+D7oSw345kUE2FRZr7VMO4eEMrGEq-2BwT31ctnJg8PRAxKrTC01epwjqVU-2FLXZWTqXbZc-3D"=
+ alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;"/>
+</body>
+</html>
+
+--1b4bddab87e2389cbe8bd870d248266439b9873b863a5b4c1b44ef95148f--

@@ -1,0 +1,318 @@
+Return-Path: <indeedapply@indeed.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id EAM/NafprV0WrhoAOhTp2Q
+	(envelope-from <indeedapply@indeed.com>)
+	for <hey@sarahpaz.ca>; Mon, 21 Oct 2019 13:23:51 -0400
+Return-path: <indeedapply@indeed.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 21 Oct 2019 13:23:51 -0400
+Received: from mail64.indeed.com ([198.58.75.64]:56759)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <indeedapply@indeed.com>)
+	id 1iMbPK-007S7P-Mt
+	for hey@sarahpaz.ca; Mon, 21 Oct 2019 13:23:51 -0400
+Received: from aus-mexec34.indeed.net (aus-smtp1.indeed.net [10.1.3.210])
+	by mail64.indeed.com (Postfix) with ESMTP id 46xk4F6qJbz8qjZ7
+	for <hey@sarahpaz.ca>; Mon, 21 Oct 2019 12:23:09 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1571678590;
+	bh=s6X6LUh/DJF/pJvZzmZsl1UrcXHrUujhUL6+0NK6nYQ=;
+	h=From:Reply-To:To:Subject:Date;
+	b=eWNAziessbLOkcKPFvUmkh0znjU2LgIVypBuqIkpcYar4EHjieG3ETOqJKyOW1KMr
+	 ECOXJu8OxCEEHS8UZXOGYBUm+4mF4kuZgJJcwUT+ZZDO7a+saCod0iscbfJGGh0KMN
+	 U7ymRhjkbCZ8DtUoGNrm8ytw5VhnqhYmGy6afvrs=
+From: Indeed Apply <indeedapply@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: hey@sarahpaz.ca
+Message-ID: <1382492427.40717960.1571678589957.JavaMail.notifications@aus-mexec34.indeed.net>
+Subject: Update: Go Online Marketing Inc. Viewed Your Application
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_40717959_1950767815.1571678589957"
+X-Indeed-FBL: :3:3463f80b94640997ae49477407b994d1
+X-Indeed-Client-App: myjobs notifications
+X-Indeed-Content-Type: MYJOBS_APPVIEWED
+X-Indeed-TK: 1dnnlg4v30d89001
+Date: Mon, 21 Oct 2019 12:23:09 -0500 (CDT)
+X-Spam-Status: No, score=-18.0
+X-Spam-Score: -179
+X-Spam-Bar: ------------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Congratulations, your application has been viewed by Go Online
+    Marketing Inc.! This email is to confirm that the employer has viewed your
+    application for the Project Manager (Web) position. To manage your job applications
+    on Indeed, click the following link: 
+ Content analysis details:   (-18.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.64 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+X-Spam-Flag: NO
+
+------=_Part_40717959_1950767815.1571678589957
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+    Congratulations, your application has been viewed by Go Online Marketin=
+g Inc.!
+
+This email is to confirm that the employer has viewed your application for =
+the Project Manager (Web) position.
+
+To manage your job applications on Indeed, click the following link:
+
+http://ca.indeed.com/myjobs/redirect/email?parentTk=3D1dnnlg4uu0d89001&cont=
+entType=3DAPPVIEWED
+
+------
+
+=C2=A9 2019 Indeed Ireland Operations, Ltd.
+124 St. Stephen's Green, Dublin 2, Ireland
+PRIVACY POLICY - http://ca.indeed.com/myjobs/redirect/email?contentType=3DA=
+PPVIEWED&parentTk=3D1dnnlg4uu0d89001&action=3DPRIVACY_POLICY&continue=3Dhtt=
+p%3A%2F%2Fca.indeed.com%2Flegal%23privacy
+TERMS - http://ca.indeed.com/myjobs/redirect/email?contentType=3DAPPVIEWED&=
+parentTk=3D1dnnlg4uu0d89001&action=3DTERMS_OF_USE&continue=3Dhttp%3A%2F%2Fc=
+a.indeed.com%2Flegal
+HELP - http://ca.indeed.com/myjobs/redirect/email?contentType=3DAPPVIEWED&p=
+arentTk=3D1dnnlg4uu0d89001&action=3DHELP_CENTER&continue=3Dhttp%3A%2F%2Fsup=
+port.indeed.com%2Fhc%2Fen-ca
+UNSUBSCRIBE - http://subscriptions.indeed.com/optout?co=3DCA&hl=3Den&tk=3D1=
+dnnlg4uu0d89001&ctt=3DCiCxcauo43plYT40FIiLwRDnINZldS_qu-iIIQCy-vQBYhIgJ9yT7=
+7jUwU9m27yGEUQwi9GnFZlU-HUnUxx0Lx8tNSkaEMA8_0kkaUAWlBq18CQsjpc%3D&token=3DC=
+kC6G6EMyV4OWu9puaxr_V-wRmCO_EpqGWa8EwEhr_lWJp1ubaxJzdqD4jXUel2lnjmtD9bInnna=
+WCTm_QmN2JWMEhA18BDP7kWMULkGajychykhGhCwtmZLe5jgaofHZJjsTE18
+
+------=_Part_40717959_1950767815.1571678589957
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>IndeedApp_email</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style type="text/css">
+.content-direction-specifier {
+}
+			* {
+				-ms-text-size-adjust:100%;
+				-webkit-text-size-adjust:none;
+				-webkit-text-resize:100%;
+				text-resize:100%;
+			}
+			a{
+				outline:none;
+				color:#0000cc;
+				text-decoration:none;
+			}
+			a:hover{text-decoration:underline !important;}
+			a[x-apple-data-detectors]{
+				color:inherit !important;
+				text-decoration:none !important;
+			}
+			.active:hover{opacity:0.8;}
+			.active{
+				-webkit-transition:all 0.3s ease;
+				   -moz-transition:all 0.3s ease;
+					-ms-transition:all 0.3s ease;
+						transition:all 0.3s ease;
+			}
+			.active a:hover{text-decoration: none !important;}
+			table td {border-collapse: collapse !important;}
+body, table, td{font-family:"Avenir Next", HelveticaNeue, Helvetica, Arial, sans-serif;}
+			.ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b, .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inherit;}
+			@media only screen and (max-width:500px) {
+				/* default style */
+				.flexible{width:100% !important;}
+				.hide{
+					display:none !important;
+					width:0 !important;
+					height:0 !important;
+					padding:0 !important;
+					font-size:0 !important;
+					line-height:0 !important;
+				}
+				.img-flex img{
+					width:100% !important;
+					height:auto !important;
+				}
+				/* custom style */
+				.logo img{
+					width: 165px !important;
+					height: 43px !important;
+				}
+				.logo{
+					padding: 20px 0 30px !important;
+				}
+				.text-01{
+					font-size: 22px !important;
+					line-height: 26px !important;
+					padding: 0 0 4px !important;
+				}
+				.text-02{
+					font-size: 18px !important;
+					line-height: 24px !important;
+					padding: 0 0 35px !important;
+				}
+				.block-01{
+					padding: 35px 13px 40px !important;
+				}
+				.block-02{
+					padding: 0 0 40px !important;
+				}
+				.img-block{
+					padding: 0 0 23px !important;
+				}
+				.btn td{
+					font-size: 18px !important;
+					line-height: 22px !important;
+				}
+				.btn a{
+					padding: 18px 20px !important;
+				}
+			}
+		</style>
+	</head>
+	<body style="margin:0; padding:0;" bgcolor="#f3f3f3"><img src="https://subscriptions.indeed.com/imgping?tk=1dnnlg4v30d89001&type=postOpen&contentType=MYJOBS_APPVIEWED&token=CkChY7-vsI5D9aypaJd5NBM4MTHP6bQQ4XGTUmqlUyKZI1T3Id32OTTzRWw2GrDv-InTYl2--Kcui0nicOHFWjP8EhDqGdJUmqdVh0SIY-TayUmgGhCj2tMTSISnS-MnwF1pXQPN" height="1" width="1">
+    	<div class="content-direction-specifier">
+			<div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+					Your application for Project Manager (Web) at Go Online Marketing Inc. was viewed by the employer.
+			</div>
+			<table style="min-width:320px;" width="100%" cellspacing="0" cellpadding="0" bgcolor="#f3f3f3">
+				<tr>
+					<td style="padding: 0 20px;">
+						<table class="flexible" width="565" align="center" style="margin:0 auto;" cellpadding="0" cellspacing="0">
+							<!-- fix for gmail -->
+							<tr>
+								<td class="hide">
+									<table width="565" cellpadding="0" cellspacing="0" style="width:565px !important;">
+										<tr>
+											<td style="min-width:565px; font-size:0; line-height:0;">&nbsp;</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<!-- header -->
+							<tr>
+								<td class="logo" align="center" style="padding: 25px 0 24px;">
+									<a href="http://ca.indeed.com" target="_blank" style="text-decoration:none; color:#3899d4;">
+										<img src="https://d3hbwax96mbv6t.cloudfront.net/jsnrcs/s/0679735/indeed_alpha.png" border="0" height="32" width="124" alt="indeed" style="vertical-align: top; font-weight:bold; font-size:26px; line-height:32px; color:#2164f3; height:32px; width:124px;" />
+									</a>
+								</td>
+							</tr>
+							<!-- content -->
+							<tr>
+								<td class="block-01" bgcolor="#ffffff" style="padding: 40px 20px 45px;">
+									<table cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td>
+												<table cellpadding="0" cellspacing="0" width="100%">
+													<tr>
+														<td class="img-block" align="center" style="padding: 0 0 22px;">
+															<img src="https://d3hbwax96mbv6t.cloudfront.net/jsnrcs/s/e916466/check.png" height="66" width="66" alt="" style="vertical-align: top; height:66px; width:66px;" />
+														</td>
+													</tr>
+													<tr>
+														<td class="text-01" align="center" style="font-size:24px; line-height:30px; color:#ed6522;">
+															Here's an update on your recent application:
+														</td>
+													</tr>
+													<tr>
+														<td class="text-02" align="center" style="font-size:18px; line-height:26px; color:#484848; padding: 0 0 35px;">
+																Your application for <b>Project Manager (Web)</b> at <b>Go Online Marketing Inc.</b> was viewed by the employer.
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td class="block-02" style="padding: 0 0 40px;">
+												<table cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
+													<tr>
+														<td height="1" width="470" bgcolor="#c9c9c9" style="font-size:0; line-height:0;">&nbsp;</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table cellpadding="0" cellspacing="0" width="100%">
+													<tr>
+														<td class="text-02" align="center" style="font-size:18px; line-height:26px; color:#484848; padding: 0 0 49px;">
+															Ready to apply to more jobs? Sign in to manage all of your applications in one place.
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
+													<tr class="btn">
+														<td class="active" align="center" bgcolor="#1236ed" background="https://d3hbwax96mbv6t.cloudfront.net/jsnrcs/s/60e413f/appviewed_email_btn_bg.png" style="font-weight:bold; font-size:20px; line-height:24px; color:#fff; mso-padding-alt:16px 44px; border-radius:5px; background-repeat: repeat-x;">
+															<a href="http://ca.indeed.com/myjobs/redirect/email?parentTk=1dnnlg4uu0d89001&contentType=APPVIEWED" target="_blank" style="text-decoration:none; color:#fff; display:block; padding: 16px 44px;">Manage your applications</a>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+<tr>
+    <td align="center" style="padding:15px 20px 0;line-height:1.64;font-size:11px;">
+            &#169; 2019 Indeed Ireland Operations, Ltd.
+    </td>
+</tr>
+<tr>
+    <td align="center" style="padding:0 20px;line-height:1.64;font-size:11px;">
+            124 St. Stephen's Green, Dublin 2, Ireland
+    </td>
+</tr>
+<tr>
+    <td align="center" style="padding:11px 20px 26px;line-height:1.45;font-size:11px;">
+        <a href="http://ca.indeed.com/myjobs/redirect/email?contentType=APPVIEWED&parentTk=1dnnlg4uu0d89001&action=PRIVACY_POLICY&continue=http%3A%2F%2Fca.indeed.com%2Flegal%23privacy" target="_blank">PRIVACY POLICY</a> | <a href="http://ca.indeed.com/myjobs/redirect/email?contentType=APPVIEWED&parentTk=1dnnlg4uu0d89001&action=TERMS_OF_USE&continue=http%3A%2F%2Fca.indeed.com%2Flegal" target="_blank">TERMS</a> | <a href="http://ca.indeed.com/myjobs/redirect/email?contentType=APPVIEWED&parentTk=1dnnlg4uu0d89001&action=HELP_CENTER&continue=http%3A%2F%2Fsupport.indeed.com%2Fhc%2Fen-ca" target="_blank">HELP</a> | <a href="http://subscriptions.indeed.com/optout?co=CA&hl=en&tk=1dnnlg4uu0d89001&ctt=CiCxcauo43plYT40FIiLwRDnINZldS_qu-iIIQCy-vQBYhIgJ9yT77jUwU9m27yGEUQwi9GnFZlU-HUnUxx0Lx8tNSkaEMA8_0kkaUAWlBq18CQsjpc%3D&token=CkC6G6EMyV4OWu9puaxr_V-wRmCO_EpqGWa8EwEhr_lWJp1ubaxJzdqD4jXUel2lnjmtD9bInnnaWCTm_QmN2JWMEhA18BDP7kWMULkGajychykhGhCwtmZLe5jgaofHZJjsTE18" target="_blank">UNSUBSCRIBE</a>
+    </td>
+</tr>
+						</table>
+					</td>
+				</tr>
+				<!-- fix for gmail -->
+				<tr>
+					<td style="line-height:0;"><div style="display:none; white-space:nowrap; font:15px/1px courier;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div></td>
+				</tr>
+			</table>
+		</div>
+        <img src="http://ca.indeed.com/myjobs/rpc/log/emailping/email.png?eptk=1dnnlg4uu0d89001&c=APPVIEWED" height="1" width="1">
+    <img src="https://subscriptions.indeed.com/imgping?tk=1dnnlg4v30d89001&type=MYJOBS_APPVIEWED" height="1" width="1"></body>
+</html>
+
+------=_Part_40717959_1950767815.1571678589957--

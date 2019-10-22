@@ -1,0 +1,117 @@
+Return-Path: <emmy.castillo@instacart.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id gK8ZEUX9U10mEyoAOhTp2Q
+	(envelope-from <emmy.castillo@instacart.com>)
+	for <hey@sarahpaz.ca>; Wed, 14 Aug 2019 08:23:33 -0400
+Return-path: <emmy.castillo@instacart.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 14 Aug 2019 08:23:33 -0400
+Received: from mail-yw1-f98.google.com ([209.85.161.98]:45468)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <emmy.castillo@instacart.com>)
+	id 1hxsJP-00BZRD-CV
+	for hey@sarahpaz.ca; Wed, 14 Aug 2019 08:23:33 -0400
+Received: by mail-yw1-f98.google.com with SMTP id n69so4425992ywd.12
+        for <hey@sarahpaz.ca>; Wed, 14 Aug 2019 05:23:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=instacart.com; s=google;
+        h=date:from:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=jLfY9O6aojiAC5HgoGKX/ONfBWadhagEGy7urGS0CUw=;
+        b=TjhiU56fKqth6HOjEMCUGRIYiRJbgcwEwW2SjgP+K6AQ/XKHa4KyiRilFNeqFqzixB
+         pWIghxwYF5IIPIdeJSGcnENqcT8GSqVdfmwFjqfBuRJGLJfwYUsVbcL4RmPCENZyHuDR
+         7QMn/CSlniLwDpicxTJ6u2qH6SkLr7RReGdts=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:from:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=jLfY9O6aojiAC5HgoGKX/ONfBWadhagEGy7urGS0CUw=;
+        b=tCBmAlBXxg0mVjN7eLZCQugGC48BM+xvP+j9YvscU9kG6ys2hB1ra5xLwUyxGgCD8p
+         MEoWQuq2fe8cgFVyE0mWJHENVb8JMmSYSiHl5vHYbDWfW1DuU6SoFnYHKgxUgAIVsa4N
+         EfWmioKHbjKOIR9jWYhqXw1mntqkjrWL0iKV/kD5e26Jj8QhIjKM/F4jsoCZ2TzuYNKZ
+         pwsuGurYABqMZe52+JEoy5dCo8ErWF9cFlp5OevEIv0+9SFrykyQt9tFElIZyGv86B7P
+         cO61EbY4eHBRiyxzNmTlc5d8cqWOU65/c8RcBUw67bZj8Vy/hYevJQ1oHCB9eOKR5LDz
+         2Dpw==
+X-Gm-Message-State: APjAAAVErUU8tn3zrn46sDmv0VjGfFh6/o99QoFqzoPxUKegCieTgyaP
+	jZcdhQ9NzHmj/qjDLRwi7d8km0lCVRMoHkHu/vOi2rhU5dANIQ==
+X-Google-Smtp-Source: APXvYqzG5m92eezK/y3twhpHV2+IE8/FJgrvkpth6ZLVKlvHDl6nVKyNOAY+AGfZSiOf3Wj/0NThZJsva7mk
+X-Received: by 2002:a0d:d616:: with SMTP id y22mr28818931ywd.365.1565785370505;
+        Wed, 14 Aug 2019 05:22:50 -0700 (PDT)
+Received: from prod-postfix-ghr.default.svc.cluster.local (ec2-52-20-168-64.compute-1.amazonaws.com. [52.20.168.64])
+        by smtp-relay.gmail.com with ESMTPS id y7sm2545703ywc.12.2019.08.14.05.22.50
+        for <hey@sarahpaz.ca>
+        (version=TLS1_2 cipher=ECDHE-RSA-CHACHA20-POLY1305 bits=256/256);
+        Wed, 14 Aug 2019 05:22:50 -0700 (PDT)
+X-Relaying-Domain: instacart.com
+Received: from instacart.com (ip-172-29-34-232.ec2.internal [172.29.34.232])
+	by prod-postfix-ghr.default.svc.cluster.local (Postfix) with ESMTPSA id 1FDEC2CA608
+	for <hey@sarahpaz.ca>; Wed, 14 Aug 2019 12:22:50 +0000 (UTC)
+Date: Wed, 14 Aug 2019 12:22:50 +0000
+From: Emmy Castillo <emmy.castillo@instacart.com>
+To: hey@sarahpaz.ca
+Message-ID: <5d53fd1a187b7_1a3fb55e39cf3010832c0@prod-greenhouse-canary-sidekiq-mailer-worker-6c74985774-gz2sk.mail>
+Subject: Instacart Phone Interview Confirmation
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5d53fd1a180a8_1a3fb55e39cf3010831ce";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah, Thanks for submitting your availability! You're
+    confirmed for your phone interview on: 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.161.98 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+
+----==_mimepart_5d53fd1a180a8_1a3fb55e39cf3010831ce
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Sarah,
+
+Thanks for submitting your availability!
+
+You're confirmed for your phone interview on:
+
+Aug 15, 2019 3:30pm EDT: Emmy Castillo will reach out directly at 647-824-8354.
+Let us know if you have any other questions before your interview.
+
+Thanks,
+Emmy
+----==_mimepart_5d53fd1a180a8_1a3fb55e39cf3010831ce
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Sarah,</p>
+<p>Thanks for submitting your availability!</p>
+<p>You're confirmed for your phone interview on:</p>
+Aug 15, 2019 3:30pm EDT: Emmy Castillo will reach out directly at&nbsp;647-824-8354.
+<p>Let us know if you have any other questions before your interview.</p>
+<p>Thanks,<br /> Emmy</p>
+----==_mimepart_5d53fd1a180a8_1a3fb55e39cf3010831ce--

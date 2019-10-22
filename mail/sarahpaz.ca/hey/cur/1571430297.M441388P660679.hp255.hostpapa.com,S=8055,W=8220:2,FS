@@ -1,0 +1,165 @@
+Return-Path: <srdjan@crossrope.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id aGSOGJkfql3HFAoAOhTp2Q
+	(envelope-from <srdjan@crossrope.com>)
+	for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 16:24:57 -0400
+Return-path: <srdjan@crossrope.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Fri, 18 Oct 2019 16:24:57 -0400
+Received: from mail-qk1-f170.google.com ([209.85.222.170]:41512)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <srdjan@crossrope.com>)
+	id 1iLYnv-002vaD-FR
+	for hey@sarahpaz.ca; Fri, 18 Oct 2019 16:24:57 -0400
+Received: by mail-qk1-f170.google.com with SMTP id p10so6507505qkg.8
+        for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 13:24:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=crossrope-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=gvPKjqH/XjZWn9ZONgCtYLuoxO8RcJ/icoyJptdc+g0=;
+        b=Z9aFr/wkdmCjCxIBaWyr4jcCDmAjq/5PPHswR7Ge8C37KkyWpiQLtbw781VRi7ovSC
+         YpSSshTQnQIRygM7yLZPiI2F7am0SFd1SEyPAwFar8AkBGXUTbRKxRqVxOGmAkxsBcWW
+         Psy0oVmKYeFm8lNCQRKavRl0ppKQfZpXqCJnL1pJcMYHIiDl7pfzK7kKT/sWjpHGwU09
+         N3dzhlr2+Y3HFWFeieIopACXTwWSLm+gGReoarFMwDJzWDnxr0ZwnvXCa4NGSkDdU7Ol
+         0EFZwzNep3857dLchqUStwMtzuuvxE7DwBwe27mAar0/KyLygryZaynhNYqdfDY4oEfw
+         jH4A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=gvPKjqH/XjZWn9ZONgCtYLuoxO8RcJ/icoyJptdc+g0=;
+        b=Nx5tfCbjBNkjHwpPGM8XBJt1Nq49FCuNav55PQY9chK3u87TGyePBM88b+hFjEIZ4T
+         ViNvodJmgOtITDvkP19yQWhgEddvf7pahP993KiohPUhDVu28UohDXE7NmQ4zw96LRIe
+         WMRu/UT8nQPh4TTIrFP393hM3V0jypCTE/TM18KZg0mJjCq/FGYbAJg6lpnzJ8L2hrbK
+         iiNeLod55KyxPlwYJbIbBuFAMY8OqJ6BkvTEeqkDM9iXlJ8pCBOLtn8Q1sRCmHR6KYey
+         F/WcWp/sEfRCN4L9t34IdUql2fkw/xt8E88zOVunSHrp6qzp/mvflQS0nv2tyX4FceXL
+         2IEA==
+X-Gm-Message-State: APjAAAUFbaagxNFrczaRm5IkZYkiVT5Eu7dHrcmPlM9hlJted6sXhmjM
+	90SvRoPh99T6Nqf0ydCuTZdJmIMMZJL5q6GSQpilUFJv9mRoI7nd
+X-Google-Smtp-Source: APXvYqxh2NERvIKCa4M9UxlfsFEC3cse9STy0qwqnrDewXgkKSaks/c5rS63vHhqY4jDkL/0t6vlJrUDv11ZWYQlj1Q=
+X-Received: by 2002:a37:4a91:: with SMTP id x139mr10852854qka.103.1571430254070;
+ Fri, 18 Oct 2019 13:24:14 -0700 (PDT)
+MIME-Version: 1.0
+References: <193B53E8-813E-43A3-8986-EFB82ADE4376@sarahpaz.ca>
+In-Reply-To: <193B53E8-813E-43A3-8986-EFB82ADE4376@sarahpaz.ca>
+From: Srdjan Popovic <srdjan@crossrope.com>
+Date: Fri, 18 Oct 2019 16:23:37 -0400
+Message-ID: <CALP+BQ9cbVitzHB9r64QzF-X+SWvZRV9xVuN0RtnNuVkTog2kQ@mail.gmail.com>
+Subject: Re: Application: Digital Marketing E-Commerce Specialist
+To: Sarah Paz <hey@sarahpaz.ca>
+Content-Type: multipart/alternative; boundary="00000000000015629b0595351e92"
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, Happy to hear you're interested. Please take some
+    time to fill out this questionnaire for us - https://crossrope.typeform.com/to/UVm6ht
+    I'll be reviewing all submissions over the next week or so. Let me know if
+    you have any questions. 
+ Content analysis details:   (1.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.222.170 listed in list.dnswl.org]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.222.170 listed in wl.mailspike.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of
+                             words
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--00000000000015629b0595351e92
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Sarah,
+
+Happy to hear you're interested. Please take some time to fill out this
+questionnaire for us -
+https://crossrope.typeform.com/to/UVm6ht
+
+I'll be reviewing all submissions over the next week or so. Let me know if
+you have any questions.
+
+Thanks and have a great weekend.
+
+On Fri, Oct 18, 2019 at 4:21 PM Sarah Paz <hey@sarahpaz.ca> wrote:
+
+> Hello Srdjan!
+>
+> Great to hear from you! I am definitely still interested in the Digital
+> Marketing E-Commerce Specialist role with Crossrope! Please send over the
+> marketing questionnaire, I look forward to receiving it.
+>
+> Talk soon!
+>
+> Sarah Paz
+> 647-824-8354
+
+
+
+-- 
+
+Srdjan Popovic
+
+Chief Marketing Officer
+
+www.crossrope.com | #wejump
+
+--00000000000015629b0595351e92
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Sarah,<br><br>Happy to hear you&#39;re interested. Plea=
+se take some time to fill out this questionnaire for us -=C2=A0<br><a href=
+=3D"https://crossrope.typeform.com/to/UVm6ht" target=3D"_blank">https://cro=
+ssrope.typeform.com/to/UVm6ht</a><br><br>I&#39;ll be reviewing all submissi=
+ons over the next week or so. Let me know if you have any questions.=C2=A0<=
+br><br>Thanks and have a great weekend.=C2=A0=C2=A0=C2=A0<br></div><br><div=
+ class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Fri, Oct 18=
+, 2019 at 4:21 PM Sarah Paz &lt;<a href=3D"mailto:hey@sarahpaz.ca">hey@sara=
+hpaz.ca</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"=
+margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-lef=
+t:1ex">Hello Srdjan!<br>
+<br>
+Great to hear from you! I am definitely still interested in the Digital Mar=
+keting E-Commerce Specialist role with Crossrope! Please send over the mark=
+eting questionnaire, I look forward to receiving it.<br>
+<br>
+Talk soon!<br>
+<br>
+Sarah Paz<br>
+647-824-8354</blockquote></div><br clear=3D"all"><div><br></div>-- <br><div=
+ dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"lt=
+r"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div style=3D"font-si=
+ze:12.8px;font-family:Verdana,Geneva,sans-serif"><p class=3D"MsoNormal" sty=
+le=3D"color:rgb(136,136,136);font-family:Arial,Helvetica,sans-serif;font-si=
+ze:small"><span lang=3D"PT-BR" style=3D"font-size:11pt;font-family:Arial,sa=
+ns-serif;color:black">Srdjan Popovic</span></p><p class=3D"MsoNormal" style=
+=3D"color:rgb(136,136,136);font-family:Arial,Helvetica,sans-serif;font-size=
+:small"><span lang=3D"PT-BR" style=3D"font-size:10pt;font-family:Arial,sans=
+-serif;color:black">Chief Marketing Officer<u></u><u></u></span></p><p clas=
+s=3D"MsoNormal" style=3D"margin:0px"><span style=3D"font-size:10pt;font-fam=
+ily:Arial,sans-serif;color:black"><a href=3D"http://www.crossrope.com/" tit=
+le=3D"http://www.crossrope.com/lp/memorial" style=3D"color:rgb(17,85,204)" =
+target=3D"_blank"><span style=3D"color:rgb(5,99,193)">www.crossrope.com</sp=
+an></a><span>=C2=A0</span>| #wejump</span></p><p class=3D"MsoNormal" style=
+=3D"margin:0px"><span style=3D"font-size:10pt;font-family:Arial,sans-serif;=
+color:black"><img src=3D"https://docs.google.com/uc?export=3Ddownload&amp;i=
+d=3D1boMF_esVX44MQJWIwZUrWU29_PR8t6Pg&amp;revid=3D0B8rbj9PJuLzaeHpKRzVtNmVl=
+NWFxKy8ybmNrSTFFcWlZeU1NPQ" width=3D"200" height=3D"37"><br></span></p></di=
+v></div></div></div></div></div></div></div>
+
+--00000000000015629b0595351e92--

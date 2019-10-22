@@ -1,0 +1,125 @@
+Return-Path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id kF8kD3P/qV0lZQUAOhTp2Q
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 14:07:47 -0400
+Return-path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Fri, 18 Oct 2019 14:07:47 -0400
+Received: from o13.sendgrid.ziprecruiter.com ([167.89.10.209]:24119)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1iLWfC-001WfE-Ln
+	for hey@sarahpaz.ca; Fri, 18 Oct 2019 14:07:47 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=sendgrid.ziprecruiter.com; 
+	h=mime-version:content-type:content-transfer-encoding:to:subject:reply-to:from; 
+	s=smtpapi; bh=7hjCfI6h8afdTCWiyfdfCct8bmg=; b=RBqGFox7Cujhtp+8dv
+	SkydVvEFZZANpTuhRev0HzXyN416Y0rkulFEkgP3Q9kmQErmCIVSazJn3KQ5614U
+	vGORxIk1Z5LzLj92U/KqI6iqi1tiymjbB7eLCDtHnkyn84ff69vPOY2fCvXw4X9q
+	0byuvsyuzFyO/7+7uXvMw/3vs=
+Received: by filter0100p1iad2.sendgrid.net with SMTP id filter0100p1iad2-3872-5DA9FF49-D
+        2019-10-18 18:07:05.18007713 +0000 UTC m=+153545.367316090
+Received: from zipalerts.com (ec2-52-23-117-207.compute-1.amazonaws.com [52.23.117.207])
+	by ismtpd0060p1mdw1.sendgrid.net (SG) with ESMTP id s3BEo_rBS3Wd61oZDrgKZg
+	for <hey@sarahpaz.ca>; Fri, 18 Oct 2019 18:07:05.117 +0000 (UTC)
+Date: Fri, 18 Oct 2019 18:07:05 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+To: "Sarah Paz" <hey@sarahpaz.ca>
+Subject: Thanks for applying to Crossrope!
+Reply-To: srdjan@crossrope.com
+From: "Srdjan (Serge) Popovic" <hiringmanager@ziprecruiter.com>
+Message-ID: <s3BEo_rBS3Wd61oZDrgKZg@ismtpd0060p1mdw1.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVncIzBhQ7bfDIpqozrgrjgPEL68jyA+ztViCG
+ /0J7JKon7caWgZpaGv8Po3Wd2w2ynR4TYmfn+M8GpotgQa20rx+kP93Buh1BtrkoaYOJyVhtBk/Sjb
+ OS0EbfyRJsjJNZgoSfsBfFEghwlNAloUag06F4twqmJ8E/e/YRM9ZO8yLD+1jfF/JD/fOJQ8bQxtZF
+ rolcL1xs4Ax4FD/XrbgQq9
+X-SG-ID: trnf54TTjAb91d6Ywfb3bh3BmeQCHiosUaVWK/fxndCXFMRQ7N9P5zj9ALKMP1eHzDNh3iCp17IaKQ
+ tiXkr2G5TX8yFNClaju0PM6yGPNtikUWbUkySbYygpJHd+t2cGPetGQs6kk9QtLjHTH1EW4v/h5B0a
+ eqcwEiV1FHsTdU/BbJ0Zm5QvgZ3UN+IKEZaCyGo2qq6SQjFp5xa1Zbd3H+lHSzomSI/D5HxCTsI0O5
+ SIQAOCwaTQiZ0AyyJ9XjD/
+X-Spam-Status: No, score=1.9
+X-Spam-Score: 19
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello! Thank you for applying to our Digital Marketing Specialist
+    position here at Crossrope. I've had a chance to review your resume with
+   the team and I would like to move you to the next stage of our appli [...]
+    
+ Content analysis details:   (1.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of
+                             words
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<html>
+<head></head>
+  <body>
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:=
+640px;background-color: #ffffff;border-collapse:collapse;">
+      <tr>
+        <td valign=3D"top" align=3D"left" style=3D"background-color: #fffff=
+f;padding:20px 0;font-family:Arial,sans-serif;font-size:15px;line-height:1.=
+4;color: #2f3639;width:100%;line-height:1.5em;">
+           Hello!<br /><br />Thank you for applying to our Digital Marketin=
+g Specialist position here at Crossrope. I&#39;ve had a chance to review yo=
+ur resume with the team and I would like to move you to the next stage of o=
+ur application process.<br /><br />If you&#39;d like to proceed, please res=
+pond to this email and let me know you&#39;re interested. I will then send =
+you a short marketing questionnaire to fill out so we can get to know a lit=
+tle more about you and your past experiences.<br /><br />Looking forward to=
+ hear from you.<br /><br />Srdjan (Serge) Popovic<br />CMO at Crossrope
+        </td>
+      </tr>
+        <tr>
+          <td valign=3D"top" align=3D"left" style=3D"padding:5px 0 30px;fon=
+t-family:Arial,sans-serif;font-size:15px;line-height:1.4;">              <a=
+ style=3D"color: #0e75e2;" href=3D"mailto:srdjan@crossrope.com" target=3D"_=
+blank">Click here to reply directly to hiring manager.</a>
+                      </td>
+        </tr>
+      <tr>
+        <td valign=3D"top" align=3D"left" style=3D"border-top:1px solid #d1=
+d4d5;padding:10px 0;font-family:Arial,sans-serif;font-size:15px;line-height=
+:1.4;width:100%;">
+          <span style=3D"font-size:12px;color: #2f3639;line-height:18px;">
+            This email was sent via ZipRecruiter in reference to your appli=
+cation for the <a href=3D"https://www.ziprecruiter.com/job/8593cc1e" style=
+=3D"color: #0e75e2;" target=3D"_blank">Digital Marketing E-Commerce Special=
+ist at Fitness Startup</a> job at Crossrope. ZipRecruiter is a third-party =
+software provider and is not responsible for the content of this email.
+          </span>
+        </td>
+      </tr>
+    </table>
+=20=20=20=20
+<img src=3D"https://www.ziprecruiter.com/pxl/CmqqzBebP9ud7zkowjZaHO0Z0mXhh4=
+x_CULpHzvDE5r9tTVjXiz3PrSklMk-ti53QaWMb-h4N346bHU_1ieoLVLngUF8Or9oGgKJ08j9M=
+DxVpHh3kgWKLczC4Vyu9aD7eiVIy6g7P97hJKn1Y-h7Gqi6d0zWHB9szE_T-LQOzOoV7pXbKKXl=
+ySgB3-jWtRnJ5koT9GV6YnwhTKGf9X7-ZyPWijBvKAI5ruOGoEkwr4j9GCOT9RgMWJBrAGcsG_t=
+K3ISatY3-igYhUW5C8rhl4M7-HJezgouoFEdUIK0bu0QLELRzPpDzve-mNr-yS7tLdUyQGL-un0=
+soXlGorl_B_dooIIT-ww677VTODsz8DYjs7PLBjf04Iyld05OkucynNeUCayp-_GY07-UO5JbE7=
+blyMlKsR1cFGOVD3wNuV1Sn9czNn1leQ4v81e8ZS3Mx.973b73ce6bc7e70a37d7fd8d609a91f=
+8" width=3D"1" height=3D"1" alt=3D"" />
+  </body>
+</html>

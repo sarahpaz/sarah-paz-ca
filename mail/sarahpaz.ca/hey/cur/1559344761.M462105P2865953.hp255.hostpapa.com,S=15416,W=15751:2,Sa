@@ -1,0 +1,335 @@
+Return-Path: <alert@indeed.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id wERxG3m28VwhuysAOhTp2Q
+	(envelope-from <alert@indeed.com>)
+	for <hey@sarahpaz.ca>; Fri, 31 May 2019 19:19:21 -0400
+Return-path: <alert@indeed.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Fri, 31 May 2019 19:19:21 -0400
+Received: from mail64.indeed.com ([198.58.75.64]:58764)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <alert@indeed.com>)
+	id 1hWqnv-00C6DJ-IH
+	for hey@sarahpaz.ca; Fri, 31 May 2019 19:19:21 -0400
+Received: from aus-mexec88.indeed.net (unknown [10.1.3.210])
+	by mail64.indeed.com (Postfix) with ESMTP id 45G0kR05cQz7QWv5
+	for <hey@sarahpaz.ca>; Fri, 31 May 2019 18:18:38 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1559344719;
+	bh=sdDoGGEV4EPkr7hnXG0jtDB9Neg0Phf9kWCFrIV8YO0=;
+	h=From:Reply-To:To:Subject:List-Unsubscribe:Date;
+	b=vKrIGhmZBDG8VlKmksgHxtpiFfdSXlIsEsTeaKTSvhp4CeFvxDkyKa6q2gNx8tlsa
+	 TIIcR6Pfgj2DpGl3vpvPahu6edduGwIm4AJXzS7fWyGB8PMmCjxMkSdsnNbm3UwMRx
+	 p2WvSfeCi9/e/V2Vvbri0gbsF+t49M9CHiUdbdBw=
+From: Indeed Job Alert <alert@indeed.com>
+Reply-To: Indeed Job Alert <alert@indeed.com>
+To: hey@sarahpaz.ca
+Message-ID: <1dc8308tr382780m.1559344718975.Railgunner@aus-mexec93.indeed.net>
+Subject: 1 new job for your recent search
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_13491157_1258492092.1559344718987"
+List-Unsubscribe: http://subscriptions.indeed.com/optout?co=CA&hl=en&tk=1dc2rua12nibq802&ctt=CiCfSMle7tmvK65PjJ-Pv8jc0Gb4pb9F5mEDbZGGHAsn5xIg9rDsV77wheMIcy3qh567negPPZWX3QSj--wzoAXxudYaEBWdRjFDtEqSZDJJ1EejQs4%3D&token=CkCvp_F33MfD2RIVDy9Z4rApuBJ91Rh0GOGL4D5QRyXgFajNYngFrCub1bH5vKEN0U6BaoK1Kf2K2N5FBSvdcSZ1EhBxdsr19yjVxCNzyEqzpnBMGhC-RNGkJr-_nlrqybVc0Z9c&from=header
+X-Indeed-FBL: :3:3463f80b94640997ae49477407b994d1
+X-Indeed-Client-App: RailgunnerDaemon
+X-Indeed-Content-Type: MYJOBS_JOB_ALERT_PROMO
+X-Indeed-TK: 1dc8309400ed3000
+Date: Fri, 31 May 2019 18:18:38 -0500 (CDT)
+X-Spam-Status: No, score=-17.4
+X-Spam-Score: -173
+X-Spam-Bar: -----------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Your recent search has 1 new job Sign up for job alerts to
+    get new jobs directly in your inbox. Web Developer Intern - Toronto, ON http://ca.indeed.com/myjobs/redirect/email?contentType=JOB_ALERT_PROMO&parentTk=1dc2rua12nibq802&action=SEARCH&q=Web%20Developer%20Intern&l=Toronto%2C%20ON&jobCnt=1
+    [...] 
+ 
+ Content analysis details:   (-17.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.64 listed in list.dnswl.org]
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  0.6 STYLE_GIBBERISH        Nonsense in HTML <STYLE> tag
+X-Spam-Flag: NO
+
+------=_Part_13491157_1258492092.1559344718987
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your recent search has 1 new job
+Sign up for job alerts to get new jobs directly in your inbox.
+
+---------------
+
+Web Developer Intern - Toronto, ON
+http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_ALERT_PROMO&pa=
+rentTk=3D1dc2rua12nibq802&action=3DSEARCH&q=3DWeb%20Developer%20Intern&l=3D=
+Toronto%2C%20ON&jobCnt=3D1
+1 new job
++ Create job alert
+http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_ALERT_PROMO&pa=
+rentTk=3D1dc2rua12nibq802&action=3DCREATEALERT&q=3DWeb%20Developer%20Intern=
+&l=3DToronto%2C%20ON&ac=3D890357f36c47bf42&jobCnt=3D1
+
+---------------
+
+
+=C2=A9 2019 Indeed Ireland Operations, Ltd.
+124 St. Stephen's Green, Dublin 2, Ireland
+PRIVACY POLICY - http://ca.indeed.com/myjobs/redirect/email?contentType=3DJ=
+OB_ALERT_PROMO&parentTk=3D1dc2rua12nibq802&action=3DPRIVACY_POLICY&continue=
+=3Dhttp%3A%2F%2Fca.indeed.com%2Flegal%23privacy
+TERMS - http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_ALERT_=
+PROMO&parentTk=3D1dc2rua12nibq802&action=3DTERMS_OF_USE&continue=3Dhttp%3A%=
+2F%2Fca.indeed.com%2Flegal
+HELP - http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_ALERT_P=
+ROMO&parentTk=3D1dc2rua12nibq802&action=3DHELP_CENTER&continue=3Dhttp%3A%2F=
+%2Fsupport.indeed.com%2Fhc%2Fen
+UNSUBSCRIBE - http://subscriptions.indeed.com/optout?co=3DCA&hl=3Den&tk=3D1=
+dc2rua12nibq802&ctt=3DCiDe0NJN8VP5LObh21Dg6q6RXtJTBJ6nmxd0fohOq-34cRIgSg_TX=
+VhT3XEYUaldItoE3BBt2K2duMHBRawSgFqwU1YaEPKEdrpJPCLm6Nv7parvlxE%3D&token=3DC=
+kCQwVTjS3uoKJsLhKS8SxPDSivX9w2ZNTwQRin0g11GjAq_pHPyHgyz4Bytb3OwYCgDki7kco4E=
+kkibZiqLGutuEhAiFVPQup9J2CP9bGJofRBRGhDVlyUkllGAEa9ZVTFnGFa-&from=3Dfooter
+
+------=_Part_13491157_1258492092.1559344718987
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Indeed Job Alert Promo Email</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+    <style type=3D"text/css">
+.content-direction-specifier {
+}
+        a{
+            outline:none;
+            color:#0000cc;
+            text-decoration:none;
+        }
+        a:hover{text-decoration:underline !important;}
+        .active a:hover{text-decoration:none !important;}
+        a[x-apple-data-detectors]{color:inherit !important; text-decoration=
+:none !important;}
+        .active:hover{opacity:0.8;}
+        .active{
+            -webkit-transition:all 0.3s ease;
+            -moz-transition:all 0.3s ease;
+            -ms-transition:all 0.3s ease;
+            transition:all 0.3s ease;
+        }
+        a img{border:none;}
+        table td{mso-line-height-rule:exactly;}
+body, table, td{font-family:"Avenir Next", HelveticaNeue, Helvetica, Arial,=
+ sans-serif;}
+        .ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalCla=
+ss b, .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:i=
+nherit;}
+        @media only screen and (max-width:500px) {
+            /* default style */
+            .flexible{width:100% !important;}
+            .hide{display:none !important; width:0 !important; height:0 !im=
+portant; padding:0 !important; font-size:0 !important; line-height:0 !impor=
+tant;}
+            .db{display:block !important;}
+            .img-flex img{width:100% !important; height:auto !important;}
+            /* custom style */
+            .title{font-size: 22px !important; line-height: 26px !important=
+;}
+            .block{padding: 30px 17px 30px !important;}
+            .pb30{padding-bottom: 30px !important;}
+        }
+    </style>
+</head>
+<body style=3D"margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%;" bgcolor=3D"#f3f3f3"><img src=3D"https://subscriptions.i=
+ndeed.com/imgping?tk=3D1dc8309400ed3000&type=3DpostOpen&contentType=3DMYJOB=
+S_JOB_ALERT_PROMO&token=3DCkAVMChe0IPS02m7mJaggKQGV0bx_kYrYTHK21JbLhTyRV5Dd=
+kW0T5xGpo-07l3Q-aNL_obihiwnHXZEa_-7-pFCEhCoUKbgfCB_h9R5omypEAo5GhBZbe7mOJJC=
+UduzXQXjrS-T" height=3D"1" width=3D"1">
+    <div class=3D"content-direction-specifier">
+        <table style=3D"min-width:320px;" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" bgcolor=3D"#f3f3f3">
+            <!-- fix for gmail -->
+            <tr>
+                <td style=3D"line-height:0;"><div style=3D"display:none; wh=
+ite-space:nowrap; font:15px/1px courier;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div></td>
+            </tr>
+            <tr>
+                <td style=3D"padding: 0 10px 0;">
+                    <table class=3D"flexible" width=3D"566" align=3D"center=
+" style=3D"margin:0 auto;" cellpadding=3D"0" cellspacing=3D"0">
+                        <!-- fix for gmail -->
+                        <tr>
+                            <td class=3D"hide">
+                                <table width=3D"566" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"width:566px !important;">
+                                    <tr>
+                                        <td style=3D"min-width:566px; font-=
+size:0; line-height:0;">&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style=3D"padding: 25px 0 25px;">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                                    <!-- header -->
+                                    <tr>
+                                        <td align=3D"center" style=3D"paddi=
+ng: 0 0 24px;">
+                                            <a href=3D"http://ca.indeed.com=
+" target=3D"_blank" style=3D"text-decoration:none;"><img src=3D"https://d3h=
+bwax96mbv6t.cloudfront.net/jsnrcs/s/0679735/indeed_alpha.png" height=3D"32"=
+ width=3D"124" border=3D"0" style=3D"vertical-align:top; height: 32px; widt=
+h: 124px; font-size:30px; color:#2164f3;" alt=3D"indeed" /></a>
+                                        </td>
+                                    </tr>
+                                    <!-- block1 -->
+<tr>
+    <td style=3D"padding: 0 0 5px;">
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+            <tr>
+                <td class=3D"block" bgcolor=3D"#ffffff" style=3D"padding: 3=
+5px 35px;">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0">
+                        <tr>
+                            <td class=3D"title" align=3D"center" style=3D"f=
+ont-size:24px; line-height:28px; color:#ff6600; letter-spacing: -0.3px; pad=
+ding: 0 0 10px;">
+                                Your recent search has 1 new job
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class=3D"pb30">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                                    <tr>
+                                        <td class=3D"pb30" align=3D"center"=
+ style=3D"font-size:18px; line-height:22px; color:#484848; border-bottom: 1=
+px solid #c9c9c9; padding: 0 0 25px;">
+                                        Sign up for job alerts to get new j=
+obs directly in your inbox.
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+<tr>
+    <td style=3D"padding: 15px 0 16px; border-bottom: 1px solid #c9c9c9;">
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+            <tr>
+                <td class=3D"sg-heading4" style=3D"font-size:16px; line-hei=
+ght:20px; color:#00c; padding: 0 0 5px;">
+                    <a target=3D"_blank" style=3D"font-weight:bold" href=3D=
+"http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_ALERT_PROMO&p=
+arentTk=3D1dc2rua12nibq802&action=3DSEARCH&q=3DWeb%20Developer%20Intern&l=
+=3DToronto%2C%20ON&jobCnt=3D1">
+                        Web Developer Intern - Toronto, ON
+                    </a>
+                    <span style=3D"color:#00c"> - </span>
+                    <span style=3D"color:#ff6600">
+                        1 new job
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style=3D"font-size:15px; line-height:18px; color:#00c; =
+padding: 0 0 4px;">
+                    <a target=3D"_blank" href=3D"http://ca.indeed.com/myjob=
+s/redirect/email?contentType=3DJOB_ALERT_PROMO&parentTk=3D1dc2rua12nibq802&=
+action=3DCREATEALERT&q=3DWeb%20Developer%20Intern&l=3DToronto%2C%20ON&ac=3D=
+890357f36c47bf42&jobCnt=3D1">
+                        + Create job alert
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<tr>
+    <td align=3D"center" style=3D"padding:15px 20px 0;line-height:1.64;font=
+-size:11px;">
+            &#169; 2019 Indeed Ireland Operations, Ltd.
+    </td>
+</tr>
+<tr>
+    <td align=3D"center" style=3D"padding:0 20px;line-height:1.64;font-size=
+:11px;">
+            124 St. Stephen's Green, Dublin 2, Ireland
+    </td>
+</tr>
+<tr>
+    <td align=3D"center" style=3D"padding:11px 20px 26px;line-height:1.45;f=
+ont-size:11px;">
+        <a href=3D"http://ca.indeed.com/myjobs/redirect/email?contentType=
+=3DJOB_ALERT_PROMO&parentTk=3D1dc2rua12nibq802&action=3DPRIVACY_POLICY&cont=
+inue=3Dhttp%3A%2F%2Fca.indeed.com%2Flegal%23privacy" target=3D"_blank">PRIV=
+ACY POLICY</a> | <a href=3D"http://ca.indeed.com/myjobs/redirect/email?cont=
+entType=3DJOB_ALERT_PROMO&parentTk=3D1dc2rua12nibq802&action=3DTERMS_OF_USE=
+&continue=3Dhttp%3A%2F%2Fca.indeed.com%2Flegal" target=3D"_blank">TERMS</a>=
+ | <a href=3D"http://ca.indeed.com/myjobs/redirect/email?contentType=3DJOB_=
+ALERT_PROMO&parentTk=3D1dc2rua12nibq802&action=3DHELP_CENTER&continue=3Dhtt=
+p%3A%2F%2Fsupport.indeed.com%2Fhc%2Fen" target=3D"_blank">HELP</a> | <a hre=
+f=3D"http://subscriptions.indeed.com/optout?co=3DCA&hl=3Den&tk=3D1dc2rua12n=
+ibq802&ctt=3DCiDe0NJN8VP5LObh21Dg6q6RXtJTBJ6nmxd0fohOq-34cRIgSg_TXVhT3XEYUa=
+ldItoE3BBt2K2duMHBRawSgFqwU1YaEPKEdrpJPCLm6Nv7parvlxE%3D&token=3DCkCQwVTjS3=
+uoKJsLhKS8SxPDSivX9w2ZNTwQRin0g11GjAq_pHPyHgyz4Bytb3OwYCgDki7kco4EkkibZiqLG=
+utuEhAiFVPQup9J2CP9bGJofRBRGhDVlyUkllGAEa9ZVTFnGFa-&from=3Dfooter" target=
+=3D"_blank">UNSUBSCRIBE</a>
+    </td>
+</tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <img src=3D"http://ca.indeed.com/myjobs/rpc/log/emailping/email.png?ept=
+k=3D1dc2rua12nibq802&c=3DJOB_ALERT_PROMO" height=3D"1" width=3D"1">
+</body>
+</html>
+
+------=_Part_13491157_1258492092.1559344718987--

@@ -1,0 +1,329 @@
+Return-Path: <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqv84fn808r1e2iv08@bounce.linkedin.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id QA52E8psnF2fGAwAOhTp2Q
+	(envelope-from <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqv84fn808r1e2iv08@bounce.linkedin.com>)
+	for <hey@sarahpaz.ca>; Tue, 08 Oct 2019 07:02:34 -0400
+Return-path: <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqv84fn808r1e2iv08@bounce.linkedin.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 08 Oct 2019 07:02:34 -0400
+Received: from maile-dc.linkedin.com ([108.174.6.203]:37324)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <m-ii3qartlwn8pb2we9qbk6oc9z8ie9q1f5zqv84fn808r1e2iv08@bounce.linkedin.com>)
+	id 1iHnGC-003Ozz-B6
+	for hey@sarahpaz.ca; Tue, 08 Oct 2019 07:02:34 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=d2048-201806-01; t=1570532511;
+	bh=Dr4D0M/QJXqBNABgu4vH6xV47HgyiDLJ7kdW0vtbiLo=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=wBVxcPhcKVLaBwBn1+gRHbf+DSRbTbsnh7OHly3iKQBWutWHyW2eU+zb52MpxKMNU
+	 /9dtZa5UGBKTYQHLLc1jOeVzUCqp8KiiN0hgIwy1y3CnR5kvV/yN8lEyzhcyzgMrpk
+	 tKT1PKMshdkza5I1WcWNjhJE99jPLlwkpuwaimkgRUPuwRiOfVwsKi7rd/q9wnqCf0
+	 V43SzQqwzz9My7B8wogAHFG7GrP+0WS2Qtq4uEncDOzbIu5LfFWCojfuYFjoB7embo
+	 cdWKULRPD3pOAe5y/w/GPMl7O+OhkkwYfA/ULoTuJweUIclYHvZaZjtvkYr5z3pSO/
+	 9Nfi49j4Yyh5A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;
+	s=proddkim1024; t=1570532511;
+	bh=Dr4D0M/QJXqBNABgu4vH6xV47HgyiDLJ7kdW0vtbiLo=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=B9hMH0u7SKPIlkujMaXSIEPz+B7Q1R1a7pD7kEAhlLz2xHLI/7gQQHl0urclMnbLA
+	 e8UNB7TtijGVUX9s9s7FUA6swp0cgvWb9p35mrPTTtfr+jrgelovJ4pPSxab/hn0oh
+	 lGaYdz+zQJpzAIvd3psDh3M3+TIFAs/94+XJ6EcQ=
+From: LinkedIn <news-noreply@linkedin.com>
+Message-ID: <1304277122.839327.1570532511305.JavaMail.app@lor1-app45352.prod.linkedin.com>
+Subject: News about Christie Christelis
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_839323_28015139.1570532511303"
+To: Sarah Paz <hey@sarahpaz.ca>
+Date: Tue, 8 Oct 2019 11:01:51 +0000 (UTC)
+X-LinkedIn-Class: LIN-NEWS
+X-LinkedIn-Template: b2_newsle
+X-LinkedIn-fbl: m2-aszrt3dm4tncew6w6pwslz9r5fqvsz0go2133e2o8umbhrh4sawbjnif8af40mhhiww1pcj0kl3vjvvcm71mn2mvn84iurku355zl4
+X-LinkedIn-Id: fh7ut-k1hfcc0g-wx
+List-Unsubscribe: <https://www.linkedin.com/e/v2?e=fh7ut-k1hfcc0g-wx&t=lun&midToken=AQFL0x-p2e9pXw&ek=b2_newsle&loid=AQFbm1qcYS5LkgAAAW2rCE4vw7dFHfB6Z7lz8LnFuWSyhIXp9q_pgiJIvwMkquz_V1u-te2EJiYLI8LITOmQW_E7uBd5VAE&eid=fh7ut-k1hfcc0g-wx>
+Require-Recipient-Valid-Since: hey@sarahpaz.ca; Tue, 14 May 2019 03:26:09 +0000
+X-Spam-Status: No, score=-2.5
+X-Spam-Score: -24
+X-Spam-Bar: --
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  News About Your Network Christie Christelis Contactless payments
+    push credit cards past debit in Canada (13 hours ago) https://www.paymentssource.com/news/contactless-payments-push-credit-cards-past-debit-in-canada
+    “Mobile [...] 
+ Content analysis details:   (-2.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [108.174.6.203 listed in list.dnswl.org]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: paymentssource.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+------=_Part_839323_28015139.1570532511303
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+News About Your Network
+
+
+Christie Christelis
+Contactless payments push credit cards past debit in Canada (13 hours ago)
+https://www.paymentssource.com/news/contactless-payments-push-credit-cards-=
+past-debit-in-canada
+=E2=80=9CMobile payments currently make a very small contribution to the gr=
+owth differential between credit and debit card transactions, but mobile wi=
+ll be an important battleground for Interac to win if it wants to regain so=
+me ground and position itself for the future,=E2=80=9D said <b>Christie Chr=
+istelis</b>, TSI=E2=80=99s president, in a release.
+
+------------------------
+
+
+
+
+
+
+This is an occasional email to help you get the most out of LinkedIn. Unsub=
+scribe here: https://www.linkedin.com/e/v2?e=3Dfh7ut-k1hfcc0g-wx&t=3Dlun&mi=
+dToken=3DAQFL0x-p2e9pXw&tracking=3Deml-newsle-f-unsub&ek=3Db2_newsle&loid=
+=3DAQHiWOA0Ylg0hQAAAW2rCE4hf6BDgZUdKGdZ_SOikx8HFI0I6dM0vAijLJxEX89xeK_oOzhE=
+Y_pp3hvFafBHSaft36yVjbQ&eid=3Dfh7ut-k1hfcc0g-wx
+
+=C2=A9 2019 LinkedIn Ireland Unlimited Company. LinkedIn, the LinkedIn logo=
+, and InMail are registered trademarks of LinkedIn Corporation in the Unite=
+d States and/or other countries. All rights reserved.
+
+
+This email was intended for Sarah Paz (Full Stack Web Dev Student + E-Comme=
+rce Specialist).=20
+Learn why we included this: https://www.linkedin.com/e/v2?e=3Dfh7ut-k1hfcc0=
+g-wx&lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3=
+D&a=3DcustomerServiceUrl&midToken=3DAQFL0x-p2e9pXw&ek=3Db2_newsle&articleId=
+=3D4788
+
+LinkedIn is a registered business name of LinkedIn Ireland Unlimited Compan=
+y.
+Registered in Ireland as a private unlimited company, Company Number 477441
+Registered Office: Wilton Plaza, Wilton Place, Dublin 2, Ireland
+
+
+LinkedIn does not guarantee that news articles are accurate or about the co=
+rrect person.
+------=_Part_839323_28015139.1570532511303
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml"> <head> <meta name=3D"viewport" content=3D"width=3Ddevice-=
+width"> <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8"> <style type=3D"text/css">@media only screen and (max-width:532px) { =
+table[id=3Dmain_container], table[id=3Dtop_bar], table[id=3Dfooter_inner] {=
+ width:100% !important; max-width:532px; } td[id=3Dslogan] { display:none; =
+} *[class].img-responsive { width:100% !important; } } @media only screen a=
+nd (max-width:532px) { *[class].responsive-logo, *[class].responsive-articl=
+e, *[class].responsive-footer, *[class].responsive-headline { width:96% !im=
+portant; max-width:532px; text-align:left; } } </style> </head> <body style=
+=3D"padding:0;margin:0;color:#333333;font-size:14px;line-height:20px;font-f=
+amily:Helvetica,Arial,sans-serif;"> <table role=3D"presentation" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"padding:0;margin:0;color:#3=
+33333;font-size:14px;font-family:Helvetica,Arial,sans-serif;line-height:20p=
+x;" width=3D"100%" height=3D"100%" bgcolor=3D"#ffffff"> <tbody> <tr> <td al=
+ign=3D"center" valign=3D"top"> <table role=3D"presentation" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans=
+-serif; " width=3D"100%" height=3D"46" bgcolor=3D"#f2f2f2"> <tbody> <tr> <t=
+d width=3D"100%" align=3D"center" valign=3D"top"> <table width=3D"1" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D=
+"height:11px;font-size:11px;line-height:11px"> &nbsp; </div></td> </tr> </t=
+body> </table> <table role=3D"presentation" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=
+=3D"100%"> <tbody> <tr> <td width=3D"100%" height=3D"9" style=3D"font-size:=
+7px;line-height:9px;"><a href=3D"" style=3D"font-size:7px;-webkit-text-size=
+-adjust:none;color:#f2f2f2;">Your connections are in the news! Contactless =
+payments push credit cards past debit in Canada</a><img alt=3D"" role=3D"pr=
+esentation" src=3D"http://www.linkedin.com/emimp/ip_Wm1nM2RYUXRhekZvWm1Oak1=
+HY3RkM2c9OllqSmZibVYzYzJ4bDo=3D.gif" style=3D"width:1px; height:1px;"></td>=
+ </tr> </tbody> </table> <table id=3D"top_bar" width=3D"532" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"15" style=3D"font-family:Helvetica,Arial,sa=
+ns-serif;"> <tbody> <tr> <td align=3D"left" style=3D"font-family:Helvetica,=
+Arial,sans-serif;"><a href=3D"https://www.linkedin.com/comm/feed/?midToken=
+=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_news-3-header&amp;trkEmai=
+l=3Deml-b2_newsle-network_news-3-header-null-fh7ut%7Ek1hfcc0g%7Ewx-null-nep=
+tune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOB=
+RZ3zNQ%3D%3D"><img src=3D"https://static.licdn.com/sc/p/com.linkedin.email-=
+assets-frontend%3Aemail-assets-frontend-static-content%2B__latest__/f/%2Fem=
+ail-assets-frontend%2Fimages%2Femail%2Flogos%2Flogo_linkedin_tm_email_95x21=
+_v1.png" width=3D"95" height=3D"21" alt=3D"LinkedIn" style=3D"border:none;t=
+ext-decoration:none;"></a> <table width=3D"1" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D"height:15px;font-size:=
+15px;line-height:15px"> &nbsp; </div></td> </tr> </tbody> </table><p style=
+=3D"margin:0px;font-weight:100;font-size:24px;line-height:1.2em;font-family=
+:Helvetica,Arial,sans-serif;">Connections In The News</p> <table width=3D"1=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div =
+style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> <=
+/tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbody> </t=
+able> <table id=3D"main_container" width=3D"532" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"15"> <tbody> <tr> <td align=3D"left" valign=3D"top"> =
+<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody=
+> <tr> <td> <div style=3D"height:25px;font-size:25px;line-height:25px"> &nb=
+sp; </div></td> </tr> </tbody> </table> <table role=3D"presentation" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,A=
+rial,sans-serif;border-bottom:1px solid #dddddd;" width=3D"100%" bgcolor=3D=
+"#ffffff"> <tbody> <tr> <td valign=3D"top" style=3D"padding-bottom:25px;"> =
+<table role=3D"presentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%"> <tbod=
+y> <tr> <td width=3D"100%" style=3D"padding-bottom:17px;"> <table role=3D"p=
+resentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font=
+-family:Helvetica,Arial,sans-serif; " width=3D"auto" align=3D"left"> <tbody=
+> <tr> <td valign=3D"top" style=3D"padding-right:15px;"><a href=3D"https://=
+www.linkedin.com/comm/in/christiechristelis?midToken=3DAQFL0x-p2e9pXw&amp;t=
+rk=3Deml-b2_newsle-network_news-6-mentionedMemberPhoto&amp;trkEmail=3Deml-b=
+2_newsle-network_news-6-mentionedMemberPhoto-null-fh7ut%7Ek1hfcc0g%7Ewx-nul=
+l-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_n=
+ewsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3D"><img style=3D"border:0;display:block;=
+" src=3D"https://media.licdn.com/dms/image/C4E03AQFsmC0BETNcRQ/profile-disp=
+layphoto-shrink_100_100/0?e=3D2159024400&amp;v=3Dbeta&amp;t=3D4nwJJOO3B_ZQV=
+3nvvALrVYZYJEPSGwW628YyIakDNCQ" width=3D"50" height=3D"50" alt=3D"Christie =
+Christelis"></a></td> <td valign=3D"top"> <table role=3D"presentation" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica=
+,Arial,sans-serif; " width=3D"auto"> <tbody> <tr> <td style=3D"padding:5px =
+0 0;color:#303030;font-weight:300;font-size:14px;line-height:20px;font-fami=
+ly:Helvetica,Arial,sans-serif;"><a style=3D"color:#303030;text-decoration:n=
+one;" href=3D"https://www.linkedin.com/comm/in/christiechristelis?midToken=
+=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_news-5-mentionedMemberNam=
+e&amp;trkEmail=3Deml-b2_newsle-network_news-5-mentionedMemberName-null-fh7u=
+t%7Ek1hfcc0g%7Ewx-null-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Al=
+i%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3D">Christie Christe=
+lis</a></td> </tr> <tr> <td style=3D"font-weight:100;font-size:13px;line-he=
+ight:19px;font-family:Helvetica,Arial,sans-serif;"><a href=3D"" style=3D"co=
+lor:#bbbbbb;text-decoration:none;">paymentssource.com =C2=B7 13 hours ago</=
+a></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr=
+> <td style=3D"font-size:1px;line-height:1px;"></td> </tr> <tr> <td style=
+=3D"padding-bottom:10px;font-size:21px;line-height:1.2;font-family:Helvetic=
+a,Arial,sans-serif;"><a style=3D"font-weight:100;text-decoration:none;color=
+:#0077B5;" href=3D"https://www.linkedin.com/comm/feed/update/urn:li:activit=
+y:6587080837215342592?highlightedUpdateUrns=3Durn%3Ali%3Aactivity%3A6587080=
+837215342592&amp;highlightedUpdateTypes=3DMITN&amp;midToken=3DAQFL0x-p2e9pX=
+w&amp;trk=3Deml-b2_newsle-network_news-4-null&amp;trkEmail=3Deml-b2_newsle-=
+network_news-4-null-null-fh7ut%7Ek1hfcc0g%7Ewx-null-neptune%2Ffeed%2Eupdate=
+&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3=
+D&amp;trk=3Deml-b2_newsle-article_headline_deeplink">Contactless payments p=
+ush credit cards past debit in Canada</a></td> </tr> <tr> <td style=3D"colo=
+r:#555555;font-weight:100;font-size:14px;line-height:1.4;font-family:Helvet=
+ica,Arial,sans-serif;">=E2=80=9CMobile payments currently make a very small=
+ contribution to the growth differential between credit and debit card tran=
+sactions, but mobile will be an important battleground for Interac to win i=
+f it wants to regain some ground and position itself for the future,=E2=80=
+=9D said <b>Christie Christelis</b>, TSI=E2=80=99s president, in a release.=
+</td> </tr> <tr> <td style=3D"padding-top:15px;"> <table role=3D"presentati=
+on" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:H=
+elvetica,Arial,sans-serif; " width=3D"auto" align=3D"left"> <tbody> <tr> <t=
+d style=3D"white-space:nowrap;font-weight:100;font-size:14px;font-family:He=
+lvetica,Arial,sans-serif;padding-right:11px;"><a href=3D"https://www.linked=
+in.com/comm/messaging/compose/?connId=3Dchristiechristelis&amp;body=3DCongr=
+ats+on+the+article&amp;midToken=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-ne=
+twork_news-9-articleCongratsMsg&amp;trkEmail=3Deml-b2_newsle-network_news-9=
+-articleCongratsMsg-null-fh7ut%7Ek1hfcc0g%7Ewx-null-neptune%2Fmessaging%2Ec=
+ompose&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOBRZ3zN=
+Q%3D%3D" style=3D"color:#0077B5;text-decoration:none;">Message Christie</a>=
+</td> <td style=3D"color:#999999;font-family:Helvetica,Arial,sans-serif;pad=
+ding-right:10px;">=C2=B7</td> <td style=3D"white-space:nowrap;font-weight:1=
+00;font-size:14px;font-family:Helvetica,Arial,sans-serif;padding-right:10px=
+;"><a href=3D"https://www.linkedin.com/e/v2?e=3Dfh7ut-k1hfcc0g-wx&amp;lipi=
+=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3D&amp;t=
+=3Dplh&amp;midToken=3DAQFL0x-p2e9pXw&amp;ek=3Db2_newsle&amp;li=3D8&amp;m=3D=
+network_news&amp;ts=3DarticleShareLinkedin&amp;urlhash=3DBXtp&amp;url=3Dhtt=
+ps%3A%2F%2Fwww%2Elinkedin%2Ecom%2FshareArticle%3Furl%3Dhttps%3A%2F%2Fwww%2E=
+paymentssource%2Ecom%2Fnews%2Fcontactless-payments-push-credit-cards-past-d=
+ebit-in-canada" style=3D"color:#0077B5;text-decoration:none;">Share</a></td=
+> <td style=3D"color:#999999;font-family:Helvetica,Arial,sans-serif;">=C2=
+=B7</td> <td style=3D"white-space:nowrap;font-weight:100;padding-left:10px;=
+font-size:14px;font-family:Helvetica,Arial,sans-serif;"><a href=3D"https://=
+www.linkedin.com/comm/feed/?articleUrnStr=3Durn%3Ali%3Aarticle%3A8170221778=
+313294497&amp;mentionedEntityStr=3Durn%3Ali%3Amember%3A885590&amp;midToken=
+=3DAQFL0x-p2e9pXw&amp;trk=3Deml-b2_newsle-network_news-7-articleWrongPerson=
+&amp;trkEmail=3Deml-b2_newsle-network_news-7-articleWrongPerson-null-fh7ut%=
+7Ek1hfcc0g%7Ewx-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_n=
+ewsle%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3D" style=3D"color:#bbbbbb;text-decoratio=
+n:none;">Wrong Person?</a></td> </tr> </tbody> </table></td> </tr> </tbody>=
+ </table></td> </tr> </tbody> </table></td> </tr> </tbody> </table> <table =
+role=3D"presentation" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%"> <tbody> <tr>=
+ <td width=3D"100%" align=3D"center" valign=3D"top"> <table id=3D"footer_in=
+ner" width=3D"532" border=3D"0" cellspacing=3D"0" cellpadding=3D"9" style=
+=3D"color:#999999;font-size:11px;line-height:14px;font-family:Helvetica,Ari=
+al,sans-serif;"> <tbody> <tr> <td align=3D"left" style=3D"color:#999999;fon=
+t-size:11px;line-height:14px;font-family:Helvetica,Arial,sans-serif;">You a=
+re receiving Connections in the News emails. <a href=3D"https://www.linkedi=
+n.com/e/v2?e=3Dfh7ut-k1hfcc0g-wx&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_news=
+le%3BWmAHpds9QAaXkBOBRZ3zNQ%3D%3D&amp;t=3Dplh&amp;midToken=3DAQFL0x-p2e9pXw=
+&amp;ek=3Db2_newsle&amp;urlhash=3D-R85&amp;url=3Dhttps%3A%2F%2Fhelp%2Elinke=
+din%2Ecom%2Fapp%2Fanswers%2Fdetail%2Fa_id%2F50021" style=3D"color:#2e8dd7;t=
+ext-decoration:none;">Learn more</a> about this feature. <a href=3D"https:/=
+/www.linkedin.com/e/v2?e=3Dfh7ut-k1hfcc0g-wx&amp;t=3Dlun&amp;midToken=3DAQF=
+L0x-p2e9pXw&amp;tracking=3Deml-newsle-f-unsub&amp;ek=3Db2_newsle&amp;loid=
+=3DAQGpsW5bI-VdkAAAAW2rCE4gYDsb-5pcdbXku8qDYW1j_R8dnwd_TK5jLQHheiTFRZKMgINs=
+6TL5GAzJdfRsdyxkj4Hn-6c&amp;eid=3Dfh7ut-k1hfcc0g-wx" style=3D"color:#2e8dd7=
+;text-decoration:none;">Unsubscribe</a>. <table role=3D"presentation" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Helvetica,=
+Arial,sans-serif; " width=3D"100%"> <tbody> <tr> <td> <table width=3D"1" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div styl=
+e=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr>=
+ </tbody> </table></td> </tr> <tr> <td align=3D"center"> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#999999;font-size:11px=
+;font-family:Helvetica,Arial,sans-serif;line-height:14px;" width=3D"100%"> =
+<tbody> <tr> <td align=3D"center" dir=3D"ltr">=C2=A9 2019 LinkedIn Ireland =
+Unlimited Company. LinkedIn, the LinkedIn logo, and InMail are registered t=
+rademarks of LinkedIn Corporation in the United States and/or other countri=
+es. All rights reserved.</td> </tr> <tr> <td> <table width=3D"1" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td> <div style=3D"hei=
+ght:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr> </tbody=
+> </table></td> </tr> <tr> <td align=3D"center"></td> </tr> <tr> <td align=
+=3D"center">This email was intended for Sarah Paz (Full Stack Web Dev Stude=
+nt + E-Commerce Specialist). <a href=3D"https://www.linkedin.com/e/v2?e=3Df=
+h7ut-k1hfcc0g-wx&amp;lipi=3Durn%3Ali%3Apage%3Aemail_b2_newsle%3BWmAHpds9QAa=
+XkBOBRZ3zNQ%3D%3D&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQFL0x-p2e9pXw&=
+amp;ek=3Db2_newsle&amp;articleId=3D4788" style=3D"color:#2e8dd7;text-decora=
+tion:none;">Learn why we included this.</a></td> </tr> <tr> <td> <table wid=
+th=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <tr> <td=
+> <div style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div>=
+</td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"center" dir=3D"l=
+tr">LinkedIn is a registered business name of LinkedIn Ireland Unlimited Co=
+mpany.</td> </tr> <tr> <td align=3D"center" dir=3D"ltr">Registered in Irela=
+nd as a private unlimited company, Company Number 477441</td> </tr> <tr> <t=
+d align=3D"center" dir=3D"ltr">Registered Office: Wilton Plaza, Wilton Plac=
+e, Dublin 2, Ireland</td> </tr> </tbody> </table></td> </tr> <tr> <td> <tab=
+le width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tbody> <t=
+r> <td> <div style=3D"height:20px;font-size:20px;line-height:20px"> &nbsp; =
+</div></td> </tr> </tbody> </table></td> </tr> </tbody> </table><p style=3D=
+"color:#333333;">LinkedIn does not guarantee that news articles are accurat=
+e or about the correct person.</p></td> </tr> </tbody> </table></td> </tr> =
+</tbody> </table></td> </tr> </tbody> </table> </body> </html>
+------=_Part_839323_28015139.1570532511303--
+

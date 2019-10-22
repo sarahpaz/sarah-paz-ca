@@ -1,0 +1,196 @@
+Return-Path: <indeedapply@indeed.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id QEukG9frjl3JojAAOhTp2Q
+	(envelope-from <indeedapply@indeed.com>)
+	for <hey@sarahpaz.ca>; Sat, 28 Sep 2019 01:12:55 -0400
+Return-path: <indeedapply@indeed.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sat, 28 Sep 2019 01:12:55 -0400
+Received: from mail64.indeed.com ([198.58.75.64]:20105)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <indeedapply@indeed.com>)
+	id 1iE52M-00DNeO-ML
+	for hey@sarahpaz.ca; Sat, 28 Sep 2019 01:12:55 -0400
+Received: from aus-mexec125.indeed.net (aus-smtp2.indeed.net [10.1.3.211])
+	by mail64.indeed.com (Postfix) with ESMTP id 46gGxV0FXDz7S32W
+	for <hey@sarahpaz.ca>; Sat, 28 Sep 2019 00:12:14 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1569647534;
+	bh=W+jRwAXA5+jhDH6DwzSyxPpG7meLCOI5vIdOnrg22io=;
+	h=From:Reply-To:To:Subject:Date;
+	b=ewAOr+WbWtZjO/HReowd7Dj3W0bqSHCDgtKbB1nNBWWiR1LcNvD+EQ28cROQNyeVT
+	 /PffVuZkjk1sZQC+O2KpqngBzutbU/jD/zbfTmmu5y2nZGKUCTby3LzCj/qwhMml0k
+	 dID6Nu6XfpxbxZ4YUL4xaIcC/FVBIHq2h/mriUhI=
+From: Indeed Apply <indeedapply@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: hey@sarahpaz.ca
+Message-ID: <1638556364.60200996.1569647534035.JavaMail.notifications@aus-mexec125.indeed.net>
+Subject: Indeed Application: Junior Web Developer | Co-Op (8 - 16 mo)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_60200995_758624196.1569647534035"
+X-Indeed-FBL: :2:3463f80b94640997ae49477407b994d1
+X-Indeed-Client-App: INDEED_APPLY_JHET
+X-Indeed-Content-Type: INDEED_APPLY_CONFIRMATION_EMAIL
+X-Indeed-TK: 1dlr4h7u1o7qp800
+Date: Sat, 28 Sep 2019 00:12:14 -0500 (CDT)
+X-Spam-Status: No, score=-18.0
+X-Spam-Score: -179
+X-Spam-Bar: ------------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Your application has been submitted. Good luck! If you notice
+    an error in your application, please Contact Indeed <https://apply.indeed.com/indeedapply/confirmemail/contactus?iaUid=1dlr47gomf2hl800&ap
+    [...] 
+ Content analysis details:   (-18.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.64 listed in list.dnswl.org]
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [198.58.75.64 listed in wl.mailspike.net]
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+X-Spam-Flag: NO
+
+------=_Part_60200995_758624196.1569647534035
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your application has been submitted. Good luck!
+If you notice an error in your application, please Contact Indeed <https://apply.indeed.com/indeedapply/confirmemail/contactus?iaUid=1dlr47gomf2hl800&apiToken=d743016d9ec2da46e3a52c68c67645cb9e494a3f3c0015a97cfdf851c32d5a91>
+
+------
+Job: Junior Web Developer | Co-Op (8 - 16 mo) at SoCast Inc. in Toronto , Ontario , Canada
+Name: Sarah Paz
+Email: hey@sarahpaz.ca
+Resume: Sarah Paz - Resume 2019.pdf
+------
+Questions:
+    Current Salary
+        60000
+
+    Cover Letter
+        
+
+    LinkedIn Profile
+        https://www.linkedin.com/in/sarahpaz/
+
+    Github Profile
+        https://github.com/sarahpaz
+
+
+------
+
+Indeed Ireland Operations Ltd. - one search. all jobs. | Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland
+
+------=_Part_60200995_758624196.1569647534035
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+<head>
+    <style type="text/css">
+        a, a:link {
+            color: #00c
+        }
+    </style>
+</head>
+<body style="background:#fff"><img src="https://subscriptions.indeed.com/imgping?tk=1dlr4h7u1o7qp800&type=postOpen&contentType=INDEED_APPLY_CONFIRMATION_EMAIL&token=CkBS_SC9HcgkD80eM3q8RWgwn7w_v-4pHMpW2NatYRVTj48NDEIDbe12_xsZt8u0PCVPT2663bEPpUpihtuUGRw8EhCO74nYsvNJckQ7qZe228y4GhAUd8veLOM5y4QJWqUBwAEM" height="1" width="1">
+
+<table style="border-spacing:0px;width:100%"  dir="ltr" >
+    <tr>
+        <td style="padding-bottom: 15px;">
+            <img src="https://ads.indeed.com/images/email/indeed-logo-small.png?refUid=1dlr4h7u0o7qp803"/>
+        </td>
+    </tr>
+    <tr style="font-size:16px;color:#2D9965;font-weight:bold;">
+        <td style="padding-bottom:10px;">
+        You submitted an application for:
+        </td>
+    </tr>
+    <tr style="background-color: #E8FFE8; border-spacing:10px; outline: #C5D9C5 solid 1px">
+        <td>
+            <table style="width:100%;">
+                <tr>
+                    <td style="padding:15px 0px 15px 15px;width:40px;">
+                        <img style="width:22px;height:22px;"
+                             src="https://d3fw5vlhllyvee.cloudfront.net/indeedapply/s/238de3f/icon-checkmark.png"/>
+                    </td>
+                    <td style="padding:15px 0px 15px 0px;">
+                        <div style="display:inline-block;">
+                            <div style="font-size:16px;">
+                                <a href="https://apply.indeed.com/indeedapply/confirmemail/viewjob?iaUid=1dlr47gomf2hl800&amp;apiToken=d743016d9ec2da46e3a52c68c67645cb9e494a3f3c0015a97cfdf851c32d5a91&amp;next=https%3A%2F%2Fsocastsrm.recruiterbox.com%2Fjobs%2Ffk03vub%2F">
+                                Junior Web Developer | Co-Op (8 - 16 mo)
+                                </a>
+                            </div>
+                            <div>
+                                    SoCast Inc. - <span style="color:#6f6f6f">Toronto , Ontario , Canada</span>
+                            </div>
+                        </div>
+                    </td>
+                    <td style="padding:15px 15px 15px 0px;text-align:right">
+                        <span style="font-weight:bold;color:#2D9965;font-size:16px;">
+                        Submitted
+                        </span>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table style="width:100%">
+                <tr>
+                    <td style="padding:20px 0 20px 0">
+                        <div style="margin-top:15px;">
+                            The following items have been submitted. Good luck!
+                            <ul>
+                                <li>Application</li>
+                                <li>Resume</li>
+                            </ul>
+                            <br>
+                            <span style="font-size:12px;color:#6f6f6f;">
+                                Please do not reply directly to this autogenerated email message. If you have any questions or concerns about your application, please <a href="https://apply.indeed.com/indeedapply/confirmemail/contactus?iaUid=1dlr47gomf2hl800&amp;apiToken=d743016d9ec2da46e3a52c68c67645cb9e494a3f3c0015a97cfdf851c32d5a91">contact Indeed</a>.
+                            </span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top:10px;border-top:2px solid #CCC;font-size:10px;color:#6f6f6f">
+                <a href="http://ca.indeed.com/"><font color="#2164f3"><b>Indeed Ireland Operations Ltd.</b></font></a> - one search. all jobs. | Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland
+        </td>
+    </tr>
+    <tr>
+            <td style="font-size:10px;color:#6f6f6f">
+                    If you no longer wish to receive these types of emails, you may <a href="https://apply.indeed.com/indeedapply/confirmemail/unsubscribe?iaUid=1dlr47gomf2hl800&apiToken=d743016d9ec2da46e3a52c68c67645cb9e494a3f3c0015a97cfdf851c32d5a91&next=http%3A%2F%2Fsubscriptions.indeed.com%2Foptout%3Fco%3DCA%26hl%3Den%26ctt%3DCiAGDBrC-NYKk4GvuoVTY-UpHIdRaAE9azxqfeJkU4PsBRIgA-neEGX9p08YWHOm-6Amw6tAuovXqtjVr5U2xjLkjwwaEMrrW9RJS8Su4oLnGXhT_rU%253D%26token%3DCkCm4YZEKvxHA_VnqohL5_6ApRPBFsmeNCUmQCWEiJ431mEWhHDQ0pG2sIhp28zQPNzbxtimrsU6Uq4AYaD2EaN6EhAUOvobyhS0BreP728IUdQZGhDWO7ccO9YxtDMy2gMWSymx">unsubscribe</a>.
+            </td>
+    </tr>
+</table>
+<img src="https://subscriptions.indeed.com/imgping?iaEmailType=email-conf&type=indeedapply&iaUid=1dlr47gomf2hl800&tk=1dlr4h7u1o7qp800" height="1" width="1"><img src="https://subscriptions.indeed.com/imgping?tk=1dlr4h7u1o7qp800&type=INDEED_APPLY_CONFIRMATION_EMAIL" height="1" width="1"></body></html>
+
+------=_Part_60200995_758624196.1569647534035--

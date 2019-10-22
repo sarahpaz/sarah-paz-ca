@@ -1,0 +1,125 @@
+Return-Path: <emmy.castillo@instacart.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id cHQzKb+PUV2R0Q0AOhTp2Q
+	(envelope-from <emmy.castillo@instacart.com>)
+	for <hey@sarahpaz.ca>; Mon, 12 Aug 2019 12:11:43 -0400
+Return-path: <emmy.castillo@instacart.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 12 Aug 2019 12:11:43 -0400
+Received: from mail-ua1-f100.google.com ([209.85.222.100]:37336)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <emmy.castillo@instacart.com>)
+	id 1hxCv6-003vo7-3G
+	for hey@sarahpaz.ca; Mon, 12 Aug 2019 12:11:43 -0400
+Received: by mail-ua1-f100.google.com with SMTP id f9so471606uaj.4
+        for <hey@sarahpaz.ca>; Mon, 12 Aug 2019 09:11:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=instacart.com; s=google;
+        h=date:from:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=JBlh9RRFSlyVVJsJCoCYtuNx1ECILzkAzTPqXbR6eFU=;
+        b=iI2SRF2pm/qJWFzEiHGXGRXGoB4zdz3HC2Jlhrp5DuE/7oYC4afJ+JIHk0ajsAo+S5
+         k2ivXltogoDK+u+yE/pfOK2r5HMI4jFefPMV13+E70KYNNQDdD629KrzZzhVcnVaVc9l
+         EDr1NzYSjCiJrEF7Lyin87dl3XAb2NYnYp8nQ=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:from:to:message-id:subject:mime-version
+         :content-transfer-encoding;
+        bh=JBlh9RRFSlyVVJsJCoCYtuNx1ECILzkAzTPqXbR6eFU=;
+        b=ADuVxt2yHFnAM+6ZrOjHi0zhubUtOGVNVzZeqzesy4ShOiUlFzdV31G147g64OOCSN
+         fVFFVGSIwW1j2GJF/0eQFz0PI1BYqoklP8o7I+iilurhG9EYqarNMENyKtIxteEDkbLm
+         CfEeFG6ezXO4bSi9WoBBJ1Qu+xVXw9xE1fnfxlZjPtHgoFh150pk76+whOe7biFb7BYN
+         3XWCCBhhpinmvDsVpFVc4CY2hfQeoLMUuePQsGqIZ814uPJ2xM/keH9Iovz4Mgl2BZQg
+         aF19PmsWLmbH04sDHjPHJ+rRWKi6uyNRpERsDc0Pt76UH/Pr2V7k5C5U6ix1VTln3WHI
+         lJ8A==
+X-Gm-Message-State: APjAAAWogM+CsodrM0PtpheJxh75z4sPT2eERL4TSNQXPAXoq7UXzcbq
+	/75rGoUi/5u50wfdKUv8MOwRVLciiNk78KNVNS9cOeJEe2zAvw==
+X-Google-Smtp-Source: APXvYqyGEdyDmDWws/4mH9gidJqi1lg+MjmhiQ9LCeFNfOo3CBXuXHAq5PBeyoS1KwEbp9zUPViCmTDw3X1U
+X-Received: by 2002:a9f:3105:: with SMTP id m5mr20378767uab.142.1565626259070;
+        Mon, 12 Aug 2019 09:10:59 -0700 (PDT)
+Received: from prod-postfix-ghr.default.svc.cluster.local (ec2-52-20-168-64.compute-1.amazonaws.com. [52.20.168.64])
+        by smtp-relay.gmail.com with ESMTPS id b77sm10050055vka.7.2019.08.12.09.10.58
+        for <hey@sarahpaz.ca>
+        (version=TLS1_2 cipher=ECDHE-RSA-CHACHA20-POLY1305 bits=256/256);
+        Mon, 12 Aug 2019 09:10:59 -0700 (PDT)
+X-Relaying-Domain: instacart.com
+Received: from instacart.com (ip-172-29-63-49.ec2.internal [172.29.63.49])
+	by prod-postfix-ghr.default.svc.cluster.local (Postfix) with ESMTPSA id B51722C0A4E
+	for <hey@sarahpaz.ca>; Mon, 12 Aug 2019 16:10:58 +0000 (UTC)
+Date: Mon, 12 Aug 2019 16:10:58 +0000
+From: Emmy Castillo <emmy.castillo@instacart.com>
+To: hey@sarahpaz.ca
+Message-ID: <5d518f92a8b75_492b01da792f1443961@prod-greenhouse-canary-web-dcdb95b99-md6d6.mail>
+Subject: Instacart Phone Interview Availability
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5d518f92a8278_492b01da792f1443872";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah, Thanks for your interest in the Implementation
+    Specialist position at Instacart. We're excited to move forward with the
+   interview process. To help us schedule your phone interview, please let us
+    know when you're available by selecting the online calendar link below. The
+    phone call will be roughly 30 minutes. 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.222.100 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+----==_mimepart_5d518f92a8278_492b01da792f1443872
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello Sarah,
+
+Thanks for your interest in the Implementation Specialist position at Instacart. We're excited to move forward with the interview process.
+
+To help us schedule your phone interview, please let us know when you're available by selecting the online calendar link below. The phone call will be roughly 30 minutes.
+
+Please provide a range of availability over the next week or so (rather than just one time slot).
+
+Look forward to speaking to you.
+
+Best,
+
+Emmy
+
+Enter your availability now > ( https://app.greenhouse.io/availability/ea41a6500b39e24a3b981eba09ed69fa )
+----==_mimepart_5d518f92a8278_492b01da792f1443872
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Sarah,</p>
+<p>Thanks for your interest in the Implementation Specialist position at Instacart. We're excited to move forward with the interview process.</p>
+<p>To help us schedule your phone interview, please let us know when you're available by selecting the online calendar link below. The phone call will be roughly 30 minutes.&nbsp;<br /><strong><br />Please provide a&nbsp;<span style="text-decoration: underline;">range of availability</span> over the next week or so (rather than just one time slot)</strong>.</p>
+<p>Look forward to speaking to you.</p>
+<p>Best,<br /><br />Emmy</p>
+
+<p><a href="https://app.greenhouse.io/availability/ea41a6500b39e24a3b981eba09ed69fa">Enter your availability now &gt;</a></p>
+----==_mimepart_5d518f92a8278_492b01da792f1443872--

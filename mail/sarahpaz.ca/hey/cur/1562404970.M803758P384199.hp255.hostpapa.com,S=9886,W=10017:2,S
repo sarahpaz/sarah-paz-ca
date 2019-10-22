@@ -1,0 +1,131 @@
+Return-Path: <bounces@e.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id AC9qL2poIF3H3AUAOhTp2Q
+	(envelope-from <bounces@e.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Sat, 06 Jul 2019 05:22:50 -0400
+Return-path: <bounces@e.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sat, 06 Jul 2019 05:22:50 -0400
+Received: from mta1a2.sp.zipsites.com ([34.216.216.108]:22199)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces@e.ziprecruiter.com>)
+	id 1hjgu8-001bvP-Mw
+	for hey@sarahpaz.ca; Sat, 06 Jul 2019 05:22:50 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=sparkpost.ziprecruiter.com; s=s1015; t=1562404926;
+	i=@sparkpost.ziprecruiter.com;
+	bh=7KHtarFOXpQOFqw4vag9jqEBUDPK7VqM9ycf05lq/v4=;
+	h=Content-Type:To:Message-ID:Date:Subject:From;
+	b=Ru+scioPqNIHiHGIYFWuipP2ACKzzMGfbtqxsnsGiP9gEBllDkDBEdL6qD75OggIH
+	 fO35fmzLap0fWZyMq9RnGe8u7IiZdQqM0//ZbNz+avV1pgIo84vNc+nHepB7ONSKyr
+	 j7m6lNG+U407OC1QzOA+kNS/Cx9jm8oI8Bv2p7OE=
+X-MSFBL: vJdAsDskpgBBDSeb7Ht7tnp0WnWQS1k9OQqBcpfrOVY=|eyJzdWJhY2NvdW50X2l
+	kIjoiMCIsIm1lc3NhZ2VfaWQiOiIwMDFiM2U2ODIwNWRiYjA0YzkwZiIsInIiOiJ
+	oZXlAc2FyYWhwYXouY2EiLCJ0ZW5hbnRfaWQiOiJ6aXAiLCJjdXN0b21lcl9pZCI
+	6IjEifQ==
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="UTF-8"
+To: "Sarah Paz" <hey@sarahpaz.ca>
+Message-ID: <9C.F0.01211.E38602D5@aa.mta2vrest.cc.prd.sparkpost>
+Date: Sat, 06 Jul 2019 09:22:06 +0000
+MIME-Version: 1.0
+Subject: Sarah, I have a client looking for candidates like you
+From: "Phil @ ZipRecruiter" <phil@ziprecruiter.com>
+List-Unsubscribe: <mailto:unsubscribe@sparkpost.ziprecruiter.com?subject=unsubscribe:AaBaQRJdPsc3tNAaJnRlLWei1aLOecfd3LxvMGweD-Y~|eyAicmNwdF90byI6ICJoZXlAc2FyYWhwYXouY2EiLCAidGVuYW50X2lkIjogInppcCIsICJjdXN0b21lcl9pZCI6ICIxIiwgInN1YmFjY291bnRfaWQiOiAiMCIsICJtZXNzYWdlX2lkIjogIjAwMWIzZTY4MjA1ZGJiMDRjOTBmIiB9>
+List-Id: <zip.1.0.sparkpostmail.com>
+X-Spam-Status: No, score=1.4
+X-Spam-Score: 14
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, I have a job that I think lines up well with your
+    resume. It's new, so they don't have many candidates yet. Check out the description
+    and hit "Apply Now" if you like what you see. Associate Software Engineer
+    - Capital One - Toronto, ON 
+ Content analysis details:   (1.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.2 KAM_TRACKIMAGE         RAW: Message has a remote image explicitly meant
+                             for tracking
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+<html>
+<head></head>
+<body>
+
+<span style="font-family:Arial,sans-serif;font-size:15px;line-height:1.4;">
+
+Hi Sarah,<br><br>
+
+I <a href="https://www.ziprecruiter.com/eclk/capital-one-00000000-associate-software-engineer-1082_r77706?clk=BHCh-oUgth-BhnQd8ZQqphogi4chRhVEKCG_V47JuaJrblF45M0neodZ8UE5fVolE1KGgTNP8n9ElG1K6KsFWuigzaHwY9CL-emXiZlP3WgWPGI6u8swHZ3iseAEIcPOcnxji8va3ZWKeH-2vDiJyqjKxmdFFZfIn6O-sQ-7mgseF5eQYJusryWUOZHqfkIQq1VfLwiL6PMV5cCv5ZqAVkGJyByIzbEzLU0e4XIl6zC4b7hVmAv_jnFO4AUh4OmgGYQNvARWRtQr31sRjgd3QYlvk_cUbF6tlP7ZXTgY4bURtJ9lyFF2fxJ08oXgcAgY0_JW05lGZfscXXzFSYY336kDbA0IGEscC834Xz3PHdMPQlKZ-VdJhf2vIg5wl-3hGl9GumLahAxViH6RTJSttLfUjaLPOYadLDTQS0FBQ7Wc-0y1mr8qXo3sLlw6VfavLIv1K2wOgYjEqUD3GwcijPiZWh9K9kjqFqZ74zaLV8UMC5seLO3d2bQfT84bEBzG_69sRoho5YYt1x-8YRW0LoFt11icQy-UHBWwAaTat9rGHNhzOvSps00olU8DL3XrxCW5xez2O40zjJumvSZRKwGe8hCJdXmyC_QWozhQKXgqN-vkhx0t-YnYZVcnNByq.3b88e5926d79e6905978ff424e661fcb" style="color: #0e75e2;" target="_blank">have a job</a> that I think lines up well with your resume.
+It's new, so they don't have many candidates yet.
+Check out the description and hit "Apply Now" if you like what you see.
+<br><br>
+
+
+  
+
+  <span style="font-weight:bold;">Associate Software Engineer</span> - Capital One - Toronto, ON  <br>
+  
+      <div style='font-size:13px;'>161 Bay Street (93021), Canada, Toronto,Toronto, Ontario, At Capital One, we're building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer......</div>
+        <a href="https://www.ziprecruiter.com/eclk/capital-one-00000000-associate-software-engineer-1082_r77706?clk=BHCh-oUgth-BhnQd8ZQqphogi4chRhVEKCG_V47JuaJrblF45M0neodZ8UE5fVolE1KGgTNP8n9ElG1K6KsFWuigzaHwY9CL-emXiZlP3WgWPGI6u8swHZ3iseAEIcPOcnxji8va3ZWKeH-2vDiJyqjKxmdFFZfIn6O-sQ-7mgseF5eQYJusryWUOZHqfkIQq1VfLwiL6PMV5cCv5ZqAVkGJyByIzbEzLU0e4XIl6zC4b7hVmAv_jnFO4AUh4OmgGYQNvARWRtQr31sRjgd3QYlvk_cUbF6tlP7ZXTgY4bURtJ9lyFF2fxJ08oXgcAgY0_JW05lGZfscXXzFSYY336kDbA0IGEscC834Xz3PHdMPQlKZ-VdJhf2vIg5wl-3hGl9GumLahAxViH6RTJSttLfUjaLPOYadLDTQS0FBQ7Wc-0y1mr8qXo3sLlw6VfavLIv1K2wOgYjEqUD3GwcijPiZWh9K9kjqFqZ74zaLV8UMC5seLO3d2bQfT84bEBzG_69sRoho5YYt1x-8YRW0LoFt11icQy-UHBWwAaTat9rGHNhzOvSps00olU8DL3XrxCW5xez2O40zjJumvSZRKwGe8hCJdXmyC_QWozhQKXgqN-vkhx0t-YnYZVcnNByq.3b88e5926d79e6905978ff424e661fcb" style="color: #0e75e2;" target="_blank">View Details</a> |
+        <a href="https://www.ziprecruiter.com/eclk/capital-one-00000000-associate-software-engineer-1082_r77706?clk=BHCh-oUgth-BhnQd8ZQqphogi4chRhVEKCG_V47JuaJrblF45M0neodZ8UE5fVolE1KGgTNP8n9ElG1K6KsFWuigzaHwY9CL-emXiZlP3WgWPGI6u8swHZ3iseAEIcPOcnxji8va3ZWKeH-2vDiJyqjKxmdFFZfIn6O-sQ-7mgseF5eQYJusryWUOZHqfkIQq1VfLwiL6PMV5cCv5ZqAVkGJyByIzbEzLU0e4XIl6zC4b7hVmAv_jnFO4AUh4OmgGYQNvARWRtQr31sRjgd3QYlvk_cUbF6tlP7ZXTgY4bURtJ9lyFF2fxJ08oXgcAgY0_JW05lGZfscXXzFSYY336kDbA0IGEscC834Xz3PHdMPQlKZ-VdJhf2vIg5wl-3hGl9GumLahAxViH6RTJSttLfUjaLPOYadLDTQS0FBQ7Wc-0y1mr8qXo3sLlw6VfavLIv1K2wOgYjEqUD3GwcijPiZWh9K9kjqFqZ74zaLV8UMC5seLO3d2bQfT84bEBzG_69sRoho5YYt1x-8YRW0LoFt11icQy-UHBWwAaTat9rGHNhzOvSps00olU8DL3XrxCW5xez2O40zjJumvSZRKwGe8hCJdXmyC_QWozhQKXgqN-vkhx0t-YnYZVcnNByq.3b88e5926d79e6905978ff424e661fcb" style="color: #0e75e2;" target="_blank">Quick Apply</a>
+  
+
+    <br>
+  <br>
+  
+
+(Is this job a good match? If not, please <a href="https://www.ziprecruiter.com/candidate/suggestion-feedback/capitaloneprogrammaticc186139fc186139f-1082_R77706/4a6df941/412a6bb1-e4b6-408e-8252-e5d68cb9cd61/7wBURonoIHDHmA6LqKbdwna8REE?source=magic5-candidate-auto-send" style="color: #0e75e2;" target="_blank">let us know so we can improve our results.</a>)
+<br><br>
+Regards,<br /><br />
+Phil - Job Seeker Advocate<br>
+
+<a href="https://www.ziprecruiter.com" target="_blank" title="Sign In to ZipRecruiter" style="color:#0e75e2;"><img src="https://www.ziprecruiter.com/zrs/f5bd79b6/img/ziprecruiter-logo-150px.png" alt="ZipRecruiter" style="display:inline-block"/></a>
+<br>
+<a href="https://www.ziprecruiter.com" style="color:#2f3639;text-decoration:none" target="_blank">604 Arizona Ave., Santa Monica, CA 90401
+</a>
+<br>
+<br>
+  <span style="font-weight:bold">P.S. Are you hiring?</span> Get your job featured in an email like this.<br>
+  <a href="https://www.ziprecruiter.com/post-a-job?utm_source=jobseeker_transactional_email" style="color:#0e75e2;" target="_blank">Post now for free</a>.
+<br>
+<table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100%" bgcolor="#e0e2e3" height="1" style="font-size: 1px; line-height: 1px;"> </td>
+  </tr>
+</table>
+<br>
+<span style="font-size:13px">Already got hired? <a href="https://www.ziprecruiter.com/candidate/hired-survey?source=magic5-candidate-auto-send&auth_token=_v3_da663c1bde1bcb2a37e0c3767e663a1e50b785f92a4d0ff96f92c719bf8e0d60&contact_id=4a6df941&expires=1562577725" style="color: #0e75e2;">Let us know.</a></span>
+<br>
+<span style="font-size:13px">If you&#39;d prefer not to receive any more emails like this from us you can easily <a href="https://www.ziprecruiter.com/candidate/notification-unsubscribe-confirm/4a6df941/5c3a44af/_v3u_2610fd243d3b23cdef2cfefb235fb0b81a653b9b0eda4633560ac545b18e2052/1565083325/?source=magic5-candidate-auto-send&auth_token=_v3_da663c1bde1bcb2a37e0c3767e663a1e50b785f92a4d0ff96f92c719bf8e0d60&contact_id=4a6df941&expires=1562577725" style="color: #0e75e2;text-decoration: underline;">unsubscribe</a>.</span>
+
+<img src="https://www.ziprecruiter.com/pxl/SmdOLV1GbnI3ID7nahs76y-DYZ1Udph3i_QGR3j3DGiIlcRwUXMFLDZZi-df2LXSFh7-xd8w_-5fd8uA6s-irO7h8Y2ZsirWWjjQf89TdMgV2FF73iYnbjO4fj3410FZQQt-nahGzhdWwHXHN0zTNNCz2M4m_aQRWl0_T_2srmeyNAgHfI2dbt7F0GsQl1QIFUKFIH3L-AAE8MjgktRJjWcJKcxhYXSi0MO3Coe-886G79g1gLx74WfHW3khfKFyCBvz5_WqPUaLX0h51nNWpApUIzHY-LVjJjp2vDN_-eVvipSf4TZVu_IFV7S5I1t85beMpQPovy8aeD2DfLCZUff4UitHuK2ZwCnxszLlaeYdsrhfByPPSMnfFyRV7uAAALbHz_2iTFeTOnKPRNYq1Gijdoa7j4ODkXjX4-wUbydv7JgeL-NO-XPgFXQs457x.951ac16483f97038067ac431b00593ee" width="1" height="1" alt="" />
+</span>
+
+
+<img border="0" width="1" height="1" alt="" src="http://track.sparkpost.ziprecruiter.com/q/B2Ys2lDk4p8b2d_gYrubRA~~/AAAAAQA~/RgRfAu0-PlcDemlwQgoAGz5oIF27BMkPUg9oZXlAc2FyYWhwYXouY2FYBAAAAAA~">
+</body>
+</html>
+
+

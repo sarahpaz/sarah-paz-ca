@@ -1,0 +1,1111 @@
+Return-Path: <codezilla@codezillakids.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id MC1SHmuJpF1b3SYAOhTp2Q
+	(envelope-from <codezilla@codezillakids.com>)
+	for <hey@sarahpaz.ca>; Mon, 14 Oct 2019 10:42:51 -0400
+Return-path: <codezilla@codezillakids.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Mon, 14 Oct 2019 10:42:51 -0400
+Received: from mail-qk1-f180.google.com ([209.85.222.180]:42984)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <codezilla@codezillakids.com>)
+	id 1iK1Ye-00AjO9-SI
+	for hey@sarahpaz.ca; Mon, 14 Oct 2019 10:42:51 -0400
+Received: by mail-qk1-f180.google.com with SMTP id f16so16079584qkl.9
+        for <hey@sarahpaz.ca>; Mon, 14 Oct 2019 07:42:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=codezillakids-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=jIgBnQdrFjJZvabK/2HilGAPfPPkXwksZOMO1Awkf8Y=;
+        b=hsbU9YuNX5Im1Zq+vQXElbTedy1aXhWMaCLq+8dfPJDjprtwWXdL/eXE//iunONh8y
+         VmbhAN4ASQmcX8pTXRGqf0rjfOhsSDBZ3lFL3prwqCCzAyT/iCOEZO650kS69dUwwb9N
+         8TJAGKegBBmD1a7LEO98i9eVxNBs3dGN3yJ2b8yVAqaYBnwRo2OLHWnpjA+Rx6aFruZ4
+         /9w7r2dj68H70d5iHLJQ0kRPKQLIabeyHnABPbMfVvZbvxylnN6Dx5jPo850XzJBixIM
+         dwAmHRU8VoPrJJC/8ZZvIxSNa6g+jZ29zCuBWd8XSLvznDkaKnwzylk7yygRbGC4lizS
+         34Og==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=jIgBnQdrFjJZvabK/2HilGAPfPPkXwksZOMO1Awkf8Y=;
+        b=iclnbUCLkbFG0krc9H7foKodmIQPyRx6/5vrvfb6ofG/lEUTPDSgaiA7HgpC+tsLdd
+         dmvWABdNMTna6KdWqAimverPVBZNPnXmzAGAWa9zika8vBUrx3CLjS1GKEtkAKfzW4us
+         ObfnxIhkpka3WmWx6ELfcVKebD29miUSwTkzsy3RCBUPAtOIKokHiaL5hFxZ7D6dhq5R
+         gVkel3Sl+qSBJAMJLkydlV/noyXRd5pAOuVCPF56MhBil0vlYkYN6yzPOV/+XJZDDGbc
+         gPXnbBJwB4qs6fRXpASA92mjAC/i8w46o03QjUMK8LolxTbaRQFj+lCOBW9bBoLMSUAU
+         IJPA==
+X-Gm-Message-State: APjAAAW6p4PTXY/jwS4WYUA03BqigzNv37g7iXeG7n2vW3SH6ysdGEj4
+	AWDVo9M/9RAwXx7PUXWo3zp7cxChECil0OMYqglwaSEM
+X-Google-Smtp-Source: APXvYqwHftfiPDymcg/VHCrwAy+gN1e2g4FnF1CCpiIEA+pjKA8jdszxKap6BQTSkBSrwtL2IIxvi7hAJMc/ILxh5V4=
+X-Received: by 2002:a37:6648:: with SMTP id a69mr29527498qkc.154.1571064126581;
+ Mon, 14 Oct 2019 07:42:06 -0700 (PDT)
+MIME-Version: 1.0
+References: <BCF4450C-49DC-49C8-8868-9B6C34C05F03@sarahpaz.ca>
+ <CAKPHbbyQHPZkeybFYn9NVOeNp4=jPqg3gyvNh=PTopWJAJJAaQ@mail.gmail.com>
+ <0CEE6485-0A15-4436-B477-3CA4FD3EA599@sarahpaz.ca> <CAKPHbbz81N=Wsd_120UzPABiE3EgO39bvCvaWLd9CUByq_SP5g@mail.gmail.com>
+ <F330A438-7698-40FA-AB59-CDC27EF5CBC8@sarahpaz.ca> <CAKPHbbxB7Gfy7hJ59O+kEmTAq+ZbHzQxNza9eQ43pWU5N1rOBA@mail.gmail.com>
+ <6d027889-b147-4831-a714-e23276becfa5@sarahpaz.ca> <CAKPHbbyVWLFL+MYe8ULc9GaHz5VQ52SHhA4VdUOsDM46-WBTBA@mail.gmail.com>
+ <25C9AA1E-4458-41BF-9A2A-88390797EC66@sarahpaz.ca>
+In-Reply-To: <25C9AA1E-4458-41BF-9A2A-88390797EC66@sarahpaz.ca>
+From: Codezilla Kids <codezilla@codezillakids.com>
+Date: Mon, 14 Oct 2019 10:46:40 -0400
+Message-ID: <CAKPHbbzXMOEhLNX=uD_Dg-Lhe2R0UbEnvQ+uZycHz+F45tGm_Q@mail.gmail.com>
+Subject: Re: Job Opportunities
+To: Sarah Paz <hey@sarahpaz.ca>
+Content-Type: multipart/alternative; boundary="0000000000002f3f780594dfdf8f"
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah Can you chat around 4:30pm tomorrow? *Want coding
+    or STEM in your school or daycare? Learn <http://bit.ly/2XnfHUj> about our
+    award-winning programs!* *$100 Gift Certificate with registration in Game
+    Makers Coding, Sundays in The Annex. L [...] 
+ Content analysis details:   (0.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.222.180 listed in list.dnswl.org]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.222.180 listed in wl.mailspike.net]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz
+                             domains in spam/malware
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--0000000000002f3f780594dfdf8f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sarah
+Can you chat around 4:30pm tomorrow?
+*________________________________*
+
+*Want coding or STEM in your school or daycare? Learn
+<http://bit.ly/2XnfHUj> about our award-winning programs!*
+*$100 Gift Certificate with registration in Game Makers Coding, Sundays in
+The Annex. Learn more <http://bit.ly/2ktZEpH>.*
+
+www.codezillakids.com
+*facebook <https://www.facebook.com/codezillakids/> | instagram
+<https://www.instagram.com/codezillakids/> | twitter
+<https://twitter.com/codezillakids>*
+1800+ children at 40+ schools/daycares, camps & birthday parties
+2018 Best STEM Programs for Kids - Toronto4Kids.com
+2018 Best Places In Toronto To Learn How To Code - NOW
+[image: facebook] <https://www.facebook.com/codezillakids/>[image:
+instagram] <https://www.instagram.com/codezillakids/>[image: twitter]
+<https://twitter.com/codezillakids>
+
+
+On Sun, Oct 13, 2019 at 8:41 PM Sarah Paz <hey@sarahpaz.ca> wrote:
+
+> Hi Sheri,
+>
+> Sure, that works for me! I=E2=80=99d love to chat more, let me know when =
+you=E2=80=99re
+> available next week. I=E2=80=99m pretty flexible so I can work around you=
+r schedule.
+>
+> Talk soon!
+> Sarah
+>
+> On Oct 13, 2019, at 10:26 AM, Codezilla Kids <codezilla@codezillakids.com=
+>
+> wrote:
+>
+> You typically get 1-2 wks lead time (somtimes it's shorter -- but we ask
+> the staff to find a sub amongst themselves)
+> Days when I need more substitute instructors / extra help are *Tues - Wed
+> - Thurs, lunch + after school*
+> If this works for you, let's schedule a phone interview next week.
+> Thx
+> sheri
+> *________________________________*
+>
+> *Want coding or STEM in your school or daycare? Learn
+> <http://bit.ly/2XnfHUj> about our award-winning programs!*
+> *$100 Gift Certificate with registration in Game Makers Coding, Sundays i=
+n
+> The Annex. Learn more <http://bit.ly/2ktZEpH>.*
+>
+> www.codezillakids.com
+> *facebook <https://www.facebook.com/codezillakids/> | instagram
+> <https://www.instagram.com/codezillakids/> | twitter
+> <https://twitter.com/codezillakids>*
+> 1800+ children at 40+ schools/daycares, camps & birthday parties
+> 2018 Best STEM Programs for Kids - Toronto4Kids.com
+> 2018 Best Places In Toronto To Learn How To Code - NOW
+> [image: facebook] <https://www.facebook.com/codezillakids/>[image:
+> instagram] <https://www.instagram.com/codezillakids/>[image: twitter]
+> <https://twitter.com/codezillakids>
+>
+>
+> On Sat, Oct 12, 2019 at 8:07 PM Sarah Paz <hey@sarahpaz.ca> wrote:
+>
+>> Okay, I can definitely do that with enough notice on when the days are.
+>> Which days did you have in mind?
+>>
+>> Get BlueMail for Android <http://www.bluemail.me/r?b=3D15704>
+>> On Oct. 12, 2019, at 4:08 p.m., Codezilla Kids <
+>> codezilla@codezillakids.com> wrote:
+>>>
+>>> OK, I will have to see. We also need some sub for lunch time mid-town a
+>>> few days a week
+>>> *________________________________*
+>>>
+>>> *Want coding or STEM in your school or daycare? Learn
+>>> <http://bit.ly/2XnfHUj> about our award-winning programs!*
+>>> *$100 Gift Certificate with registration in Game Makers Coding, Sundays
+>>> in The Annex. Learn more <http://bit.ly/2ktZEpH>.*
+>>>
+>>> www.codezillakids.com
+>>> *facebook <https://www.facebook.com/codezillakids/> | instagram
+>>> <https://www.instagram.com/codezillakids/> | twitter
+>>> <https://twitter.com/codezillakids>*
+>>> 1800+ children at 40+ schools/daycares, camps & birthday parties
+>>> 2018 Best STEM Programs for Kids - Toronto4Kids.com
+>>> 2018 Best Places In Toronto To Learn How To Code - NOW
+>>> [image: facebook] <https://www.facebook.com/codezillakids/> [image:
+>>> instagram] <https://www.instagram.com/codezillakids/> [image: twitter]
+>>> <https://twitter.com/codezillakids>
+>>>
+>>>
+>>> On Sat, Oct 12, 2019 at 2:10 PM Sarah Paz < hey@sarahpaz.ca> wrote:
+>>>
+>>>> Great! I would say after school would probably work best for me then. =
+I
+>>>> am available Mon-Fri.
+>>>>
+>>>> Talk soon!
+>>>> Sarah
+>>>>
+>>>> On Oct 12, 2019, at 11:47 AM, Codezilla Kids <
+>>>> codezilla@codezillakids.com> wrote:
+>>>>
+>>>> we are teaching mid-town
+>>>> *________________________________*
+>>>>
+>>>> *Want coding or STEM in your school or daycare? Learn
+>>>> <http://bit.ly/2XnfHUj> about our award-winning programs!*
+>>>> *$100 Gift Certificate with registration in Game Makers Coding, Sunday=
+s
+>>>> in The Annex. Learn more <http://bit.ly/2ktZEpH>.*
+>>>>
+>>>> www.codezillakids.com
+>>>> *facebook <https://www.facebook.com/codezillakids/> | instagram
+>>>> <https://www.instagram.com/codezillakids/> | twitter
+>>>> <https://twitter.com/codezillakids>*
+>>>> 1800+ children at 40+ schools/daycares, camps & birthday parties
+>>>> 2018 Best STEM Programs for Kids - Toronto4Kids.com
+>>>> <http://toronto4kids.com/>
+>>>> 2018 Best Places In Toronto To Learn How To Code - NOW
+>>>> [image: facebook] <https://www.facebook.com/codezillakids/> [image:
+>>>> instagram] <https://www.instagram.com/codezillakids/> [image: twitter]
+>>>> <https://twitter.com/codezillakids>
+>>>>
+>>>>
+>>>> On Fri, Oct 11, 2019 at 7:19 PM Sarah Paz < hey@sarahpaz.ca> wrote:
+>>>>
+>>>>> Hello!
+>>>>>
+>>>>> Thanks for your reply! Do you know which locations you would have
+>>>>> available? I would be available for either times but it does depend o=
+n the
+>>>>> location as well. So closer to me I=E2=80=99d be okay with lunch, and=
+ further I
+>>>>> would be okay with after school. I am located in Scarborough close to
+>>>>> Markham (McCowan and McNicoll area).
+>>>>>
+>>>>> Looking forward to your reply!
+>>>>>
+>>>>> Best regards,
+>>>>> Sarah
+>>>>>
+>>>>> On Oct 11, 2019, at 1:56 PM, Codezilla Kids <
+>>>>> codezilla@codezillakids.com> wrote:
+>>>>>
+>>>>> Hi Sarah
+>>>>> Thanks kindly for your email. I wasn't currently hiring -- we will
+>>>>> have more work in jan -  but I may need a sub teacher this Fall term
+>>>>> What are your avails:
+>>>>> - Mon - Fri
+>>>>> - lunch (11:00 - 12:30pm approx)
+>>>>> - after school (3:15 - 4:30 approx)
+>>>>> *________________________________*
+>>>>>
+>>>>> *Want coding or STEM in your school or daycare? Learn
+>>>>> <http://bit.ly/2XnfHUj> about our award-winning programs!*
+>>>>> *$100 Gift Certificate with registration in Game Makers Coding,
+>>>>> Sundays in The Annex. Learn more <http://bit.ly/2ktZEpH>.*
+>>>>>
+>>>>> www.codezillakids.com
+>>>>> *facebook <https://www.facebook.com/codezillakids/> | instagram
+>>>>> <https://www.instagram.com/codezillakids/> | twitter
+>>>>> <https://twitter.com/codezillakids>*
+>>>>> 1800+ children at 40+ schools/daycares, camps & birthday parties
+>>>>> 2018 Best STEM Programs for Kids - Toronto4Kids.com
+>>>>> <http://toronto4kids.com/>
+>>>>> 2018 Best Places In Toronto To Learn How To Code - NOW
+>>>>> [image: facebook] <https://www.facebook.com/codezillakids/> [image:
+>>>>> instagram] <https://www.instagram.com/codezillakids/> [image: twitter=
+]
+>>>>> <https://twitter.com/codezillakids>
+>>>>>
+>>>>>
+>>>>> On Thu, Oct 10, 2019 at 5:10 PM Sarah Paz < hey@sarahpaz.ca> wrote:
+>>>>>
+>>>>>> Hello!
+>>>>>>
+>>>>>> My name is Sarah Paz, and I=E2=80=99m currently a Full Stack Web Dev=
+ student
+>>>>>> in an online bootcamp (Flatiron School). I wanted to reach out in re=
+gards
+>>>>>> to any open part-time opportunities you may currently have available=
+. The
+>>>>>> idea of sharing my knowledge and teaching kids to love code really g=
+ets me
+>>>>>> excited! I wish these opportunities were available to me when I was =
+young,
+>>>>>> and because of that I am very passionate about offering what I can t=
+o
+>>>>>> better the community and help younger generations learn and understa=
+nd the
+>>>>>> power of code.
+>>>>>>
+>>>>>> A bit about myself, I=E2=80=99m not track to graduate next month. Cu=
+rrent
+>>>>>> experience includes HTML/CSS, Bootstrap, JavaScript, Ruby, Rails and
+>>>>>> React.js. I also have experience with responsive design, and website
+>>>>>> usability. I=E2=80=99ve attached my resume as well, if you=E2=80=99r=
+e interested - or we
+>>>>>> can always set up a call to chat some more!
+>>>>>>
+>>>>>> Looking forward to hearing from you soon!
+>>>>>>
+>>>>>> Best regards,
+>>>>>> Sarah Paz
+>>>>>> 647-824-8354
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>
+
+--0000000000002f3f780594dfdf8f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Sarah<div>Can you chat around 4:30pm tomorrow?<br clear=
+=3D"all"><div><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"=
+gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"lt=
+r"><div><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"=
+><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div d=
+ir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"l=
+tr"><div dir=3D"ltr"><div dir=3D"ltr"><b><font color=3D"#444444">__________=
+______________________</font></b></div><div><img src=3D"http://drive.google=
+.com/uc?export=3Dview&amp;id=3D0B2v0D8SaImnOU2h3SEZ4VUVjeFE"><br></div><div=
+ dir=3D"ltr"><div><div style=3D"margin:0px;padding:0px 0px 20px;width:872px=
+;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:medium=
+"><div style=3D"font-size:12.8px;margin:8px 0px 0px;padding:0px"><div dir=
+=3D"ltr"><div style=3D"font-family:Arial,Helvetica,sans-serif;font-size:sma=
+ll"><div dir=3D"ltr"><div><div dir=3D"ltr"><span><div dir=3D"ltr"><b><font =
+size=3D"1" color=3D"#38761d">Want coding or STEM in your school or daycare?=
+=C2=A0<a href=3D"http://bit.ly/2XnfHUj" style=3D"color:rgb(17,85,204)" targ=
+et=3D"_blank">Learn</a>=C2=A0about our award-winning programs!</font></b><b=
+r></div></span><div dir=3D"ltr"><b><span style=3D"font-size:8pt;font-family=
+:Arial;color:rgb(56,118,29);vertical-align:baseline;white-space:pre-wrap">$=
+100 Gift Certificate with registration in Game Makers Coding, </span><span =
+style=3D"color:rgb(56,118,29);font-family:Arial;font-size:10.6667px;white-s=
+pace:pre-wrap">Sundays in The Annex. <a href=3D"http://bit.ly/2ktZEpH" styl=
+e=3D"color:rgb(17,85,204)" target=3D"_blank">Learn more</a>.</span></b></di=
+v></div><div><b><font size=3D"1" color=3D"#38761d"><br></font></b></div></d=
+iv><div style=3D"color:rgb(80,0,80);font-size:12.8px"><div><font face=3D"ar=
+ial, helvetica, sans-serif" color=3D"#444444"><a href=3D"http://www.codezil=
+lakids.com/" style=3D"color:rgb(17,85,204)" target=3D"_blank">www.codezilla=
+kids.com</a></font></div><div><font face=3D"arial, helvetica, sans-serif" c=
+olor=3D"#444444"><b><a href=3D"https://www.facebook.com/codezillakids/" sty=
+le=3D"color:rgb(17,85,204)" target=3D"_blank">facebook</a>=C2=A0|=C2=A0<a h=
+ref=3D"https://www.instagram.com/codezillakids/" style=3D"color:rgb(17,85,2=
+04)" target=3D"_blank">instagram</a>=C2=A0|=C2=A0<a href=3D"https://twitter=
+.com/codezillakids" style=3D"color:rgb(17,85,204)" target=3D"_blank">twitte=
+r</a></b></font></div><div><div style=3D"font-family:system-ui,-apple-syste=
+m,system-ui,&quot;.SFNSText-Regular&quot;,sans-serif;color:rgb(29,33,41);fo=
+nt-size:14px;white-space:pre-wrap"><div style=3D"direction:ltr;font-family:=
+inherit"><span style=3D"color:rgb(34,34,34);font-family:verdana,sans-serif;=
+font-size:x-small;white-space:normal">1800+ children at 40+ schools/daycare=
+s, camps &amp; birthday parties</span><br style=3D"color:rgb(34,34,34);font=
+-family:verdana,sans-serif;font-size:x-small;white-space:normal"><span styl=
+e=3D"color:rgb(34,34,34);font-family:verdana,sans-serif;font-size:x-small;w=
+hite-space:normal">2018 Best STEM Programs for Kids - Toronto4Kids.com</spa=
+n><br style=3D"color:rgb(34,34,34);font-family:verdana,sans-serif;font-size=
+:x-small;white-space:normal"><span style=3D"color:rgb(34,34,34);font-family=
+:verdana,sans-serif;font-size:x-small;white-space:normal">2018 Best Places =
+In Toronto To Learn How To Code - NOW</span></div></div></div></div></div><=
+/div></div></div></div></div><div><div><a href=3D"https://www.facebook.com/=
+codezillakids/" target=3D"_blank"><img src=3D"http://drive.google.com/uc?ex=
+port=3Dview&amp;id=3D0B2v0D8SaImnOMFFIejdObWhHU00" alt=3D"facebook"></a><a =
+href=3D"https://www.instagram.com/codezillakids/" target=3D"_blank"><img sr=
+c=3D"http://drive.google.com/uc?export=3Dview&amp;id=3D0B2v0D8SaImnOZGtGRUl=
+sQUdrTkU" alt=3D"instagram"></a><a href=3D"https://twitter.com/codezillakid=
+s" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dview&a=
+mp;id=3D0B2v0D8SaImnOUjF6aGhnb3JldFk" alt=3D"twitter"></a><br></div></div><=
+/div></div></div></div></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div><br></div></d=
+iv><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On =
+Sun, Oct 13, 2019 at 8:41 PM Sarah Paz &lt;<a href=3D"mailto:hey@sarahpaz.c=
+a">hey@sarahpaz.ca</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote=
+" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);=
+padding-left:1ex"><div style=3D"overflow-wrap: break-word;">Hi Sheri,<div><=
+br></div><div>Sure, that works for me! I=E2=80=99d love to chat more, let m=
+e know when you=E2=80=99re available next week. I=E2=80=99m pretty flexible=
+ so I can work around your schedule.</div><div><br></div><div>Talk soon!</d=
+iv><div>Sarah<br><div><br><blockquote type=3D"cite"><div>On Oct 13, 2019, a=
+t 10:26 AM, Codezilla Kids &lt;<a href=3D"mailto:codezilla@codezillakids.co=
+m" target=3D"_blank">codezilla@codezillakids.com</a>&gt; wrote:</div><br><d=
+iv><div dir=3D"ltr">You typically get 1-2 wks lead time (somtimes=C2=A0it&#=
+39;s shorter -- but we ask the staff to find a sub amongst themselves)<div>=
+Days when I need more substitute=C2=A0instructors / extra help are <b>Tues =
+- Wed - Thurs, lunch=C2=A0+ after school</b></div><div>If this works for yo=
+u, let&#39;s schedule a phone interview next week.</div><div>Thx</div><div>=
+sheri</div><div><div><div dir=3D"ltr"><div dir=3D"ltr"><div><div dir=3D"ltr=
+"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><b><font color=
+=3D"#444444">________________________________</font></b></div><div><img src=
+=3D"http://drive.google.com/uc?export=3Dview&amp;id=3D0B2v0D8SaImnOU2h3SEZ4=
+VUVjeFE"><br></div><div dir=3D"ltr"><div><div style=3D"margin:0px;padding:0=
+px 0px 20px;width:872px;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans=
+-serif;font-size:inherit"><div style=3D"font-size:12.8px;margin:8px 0px 0px=
+;padding:0px"><div dir=3D"ltr"><div style=3D"font-family:Arial,Helvetica,sa=
+ns-serif;font-size:small"><div dir=3D"ltr"><div><div dir=3D"ltr"><span><div=
+ dir=3D"ltr"><b><font size=3D"1" color=3D"#38761d">Want coding or STEM in y=
+our school or daycare?=C2=A0<a href=3D"http://bit.ly/2XnfHUj" style=3D"colo=
+r:rgb(17,85,204)" target=3D"_blank">Learn</a>=C2=A0about our award-winning =
+programs!</font></b><br></div></span><div dir=3D"ltr"><b><span style=3D"fon=
+t-size:8pt;font-family:Arial;color:rgb(56,118,29);vertical-align:baseline;w=
+hite-space:pre-wrap">$100 Gift Certificate with registration in Game Makers=
+ Coding, </span><span style=3D"color:rgb(56,118,29);font-family:Arial;font-=
+size:10.6667px;white-space:pre-wrap">Sundays in The Annex. <a href=3D"http:=
+//bit.ly/2ktZEpH" style=3D"color:rgb(17,85,204)" target=3D"_blank">Learn mo=
+re</a>.</span></b></div></div><div><b><font size=3D"1" color=3D"#38761d"><b=
+r></font></b></div></div><div style=3D"color:rgb(80,0,80);font-size:12.8px"=
+><div><font face=3D"arial, helvetica, sans-serif" color=3D"#444444"><a href=
+=3D"http://www.codezillakids.com/" style=3D"color:rgb(17,85,204)" target=3D=
+"_blank">www.codezillakids.com</a></font></div><div><font face=3D"arial, he=
+lvetica, sans-serif" color=3D"#444444"><b><a href=3D"https://www.facebook.c=
+om/codezillakids/" style=3D"color:rgb(17,85,204)" target=3D"_blank">faceboo=
+k</a>=C2=A0|=C2=A0<a href=3D"https://www.instagram.com/codezillakids/" styl=
+e=3D"color:rgb(17,85,204)" target=3D"_blank">instagram</a>=C2=A0|=C2=A0<a h=
+ref=3D"https://twitter.com/codezillakids" style=3D"color:rgb(17,85,204)" ta=
+rget=3D"_blank">twitter</a></b></font></div><div><div style=3D"font-family:=
+system-ui,-apple-system,system-ui,&quot;.SFNSText-Regular&quot;,sans-serif;=
+color:rgb(29,33,41);font-size:14px;white-space:pre-wrap"><div style=3D"dire=
+ction:ltr;font-family:inherit"><span style=3D"color:rgb(34,34,34);font-fami=
+ly:verdana,sans-serif;font-size:x-small;white-space:normal">1800+ children =
+at 40+ schools/daycares, camps &amp; birthday parties</span><br style=3D"co=
+lor:rgb(34,34,34);font-family:verdana,sans-serif;font-size:x-small;white-sp=
+ace:normal"><span style=3D"color:rgb(34,34,34);font-family:verdana,sans-ser=
+if;font-size:x-small;white-space:normal">2018 Best STEM Programs for Kids -=
+ <a href=3D"http://Toronto4Kids.com" target=3D"_blank">Toronto4Kids.com</a>=
+</span><br style=3D"color:rgb(34,34,34);font-family:verdana,sans-serif;font=
+-size:x-small;white-space:normal"><span style=3D"color:rgb(34,34,34);font-f=
+amily:verdana,sans-serif;font-size:x-small;white-space:normal">2018 Best Pl=
+aces In Toronto To Learn How To Code - NOW</span></div></div></div></div></=
+div></div></div></div></div></div><div><div><a href=3D"https://www.facebook=
+.com/codezillakids/" target=3D"_blank"><img src=3D"http://drive.google.com/=
+uc?export=3Dview&amp;id=3D0B2v0D8SaImnOMFFIejdObWhHU00" alt=3D"facebook"></=
+a><a href=3D"https://www.instagram.com/codezillakids/" target=3D"_blank"><i=
+mg src=3D"http://drive.google.com/uc?export=3Dview&amp;id=3D0B2v0D8SaImnOZG=
+tGRUlsQUdrTkU" alt=3D"instagram"></a><a href=3D"https://twitter.com/codezil=
+lakids" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dv=
+iew&amp;id=3D0B2v0D8SaImnOUjF6aGhnb3JldFk" alt=3D"twitter"></a><br></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div></div></div></div><br></di=
+v></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr=
+">On Sat, Oct 12, 2019 at 8:07 PM Sarah Paz &lt;<a href=3D"mailto:hey@sarah=
+paz.ca" target=3D"_blank">hey@sarahpaz.ca</a>&gt; wrote:<br></div><blockquo=
+te class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-left:1px =
+solid rgb(204,204,204);padding-left:1ex"><div style=3D"zoom:0%"><div dir=3D=
+"auto">Okay, I can definitely do that with enough notice on when the days a=
+re. Which days did you have in mind? <br><br></div>
+<div dir=3D"auto">Get <a href=3D"http://www.bluemail.me/r?b=3D15704" target=
+=3D"_blank">BlueMail for Android</a> </div>
+<div class=3D"gmail_quote">On Oct. 12, 2019, at 4:08 p.m., Codezilla Kids &=
+lt;<a href=3D"mailto:codezilla@codezillakids.com" target=3D"_blank">codezil=
+la@codezillakids.com</a>&gt; wrote:<blockquote class=3D"gmail_quote" style=
+=3D"margin:0pt 0pt 0pt 0.8ex;border-left:1px solid rgb(204,204,204);padding=
+-left:1ex">
+<div dir=3D"ltr">
+ OK, I will have to see. We also need some sub for lunch time mid-town a fe=
+w days a=C2=A0week
+ <br clear=3D"all">
+ <div>
+  <div dir=3D"ltr">
+   <div dir=3D"ltr">
+    <div>
+     <div dir=3D"ltr">
+      <div>
+       <div dir=3D"ltr">
+        <div>
+         <div dir=3D"ltr">
+          <div dir=3D"ltr">
+           <div dir=3D"ltr">
+            <div dir=3D"ltr">
+             <div dir=3D"ltr">
+              <div dir=3D"ltr">
+               <div dir=3D"ltr">
+                <div dir=3D"ltr">
+                 <div dir=3D"ltr">
+                  <div dir=3D"ltr">
+                   <div dir=3D"ltr">
+                    <div dir=3D"ltr">
+                     <div dir=3D"ltr">
+                      <div dir=3D"ltr">
+                       <div dir=3D"ltr">
+                        <b><font color=3D"#444444">________________________=
+________</font></b>
+                       </div>
+                       <div>
+                        <img src=3D"http://drive.google.com/uc?export=3Dvie=
+w&amp;id=3D0B2v0D8SaImnOU2h3SEZ4VUVjeFE">
+                        <br>
+                       </div>
+                       <div dir=3D"ltr">
+                        <div>
+                         <div style=3D"margin:0px;padding:0px 0px 20px;widt=
+h:872px;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size=
+:inherit">
+                          <div style=3D"font-size:12.8px;margin:8px 0px 0px=
+;padding:0px">
+                           <div dir=3D"ltr">
+                            <div style=3D"font-family:Arial,Helvetica,sans-=
+serif;font-size:small">
+                             <div dir=3D"ltr">
+                              <div>
+                               <div dir=3D"ltr">
+                                <span>
+                                 <div dir=3D"ltr">
+                                  <b><font size=3D"1" color=3D"#38761d">Wan=
+t coding or STEM in your school or daycare?=C2=A0<a href=3D"http://bit.ly/2=
+XnfHUj" style=3D"color:rgb(17,85,204)" target=3D"_blank">Learn</a>=C2=A0abo=
+ut our award-winning programs!</font></b>
+                                  <br>
+                                 </div></span>
+                                <div dir=3D"ltr">
+                                 <b><span style=3D"font-size:8pt;font-famil=
+y:Arial;color:rgb(56,118,29);vertical-align:baseline;white-space:pre-wrap">=
+$100 Gift Certificate with registration in Game Makers Coding, </span><span=
+ style=3D"color:rgb(56,118,29);font-family:Arial;font-size:10.6667px;white-=
+space:pre-wrap">Sundays in The Annex. <a href=3D"http://bit.ly/2ktZEpH" sty=
+le=3D"color:rgb(17,85,204)" target=3D"_blank">Learn more</a>.</span></b>
+                                </div>
+                               </div>
+                               <div>
+                                <b><font size=3D"1" color=3D"#38761d"><br><=
+/font></b>
+                               </div>
+                              </div>
+                              <div style=3D"color:rgb(80,0,80);font-size:12=
+.8px">
+                               <div>
+                                <font face=3D"arial, helvetica, sans-serif"=
+ color=3D"#444444"><a href=3D"http://www.codezillakids.com/" style=3D"color=
+:rgb(17,85,204)" target=3D"_blank">www.codezillakids.com</a></font>
+                               </div>
+                               <div>
+                                <font face=3D"arial, helvetica, sans-serif"=
+ color=3D"#444444"><b><a href=3D"https://www.facebook.com/codezillakids/" s=
+tyle=3D"color:rgb(17,85,204)" target=3D"_blank">facebook</a>=C2=A0|=C2=A0<a=
+ href=3D"https://www.instagram.com/codezillakids/" style=3D"color:rgb(17,85=
+,204)" target=3D"_blank">instagram</a>=C2=A0|=C2=A0<a href=3D"https://twitt=
+er.com/codezillakids" style=3D"color:rgb(17,85,204)" target=3D"_blank">twit=
+ter</a></b></font>
+                               </div>
+                               <div>
+                                <div style=3D"font-family:system-ui,-apple-=
+system,system-ui,&quot;.SFNSText-Regular&quot;,sans-serif;color:rgb(29,33,4=
+1);font-size:14px;white-space:pre-wrap">
+                                 <div style=3D"direction:ltr;font-family:in=
+herit">
+                                  <span style=3D"color:rgb(34,34,34);font-f=
+amily:verdana,sans-serif;font-size:x-small;white-space:normal">1800+ childr=
+en at 40+ schools/daycares, camps &amp; birthday parties</span>
+                                  <br style=3D"color:rgb(34,34,34);font-fam=
+ily:verdana,sans-serif;font-size:x-small;white-space:normal">
+                                  <span style=3D"color:rgb(34,34,34);font-f=
+amily:verdana,sans-serif;font-size:x-small;white-space:normal">2018 Best ST=
+EM Programs for Kids - <a href=3D"http://Toronto4Kids.com" target=3D"_blank=
+">Toronto4Kids.com</a></span>
+                                  <br style=3D"color:rgb(34,34,34);font-fam=
+ily:verdana,sans-serif;font-size:x-small;white-space:normal">
+                                  <span style=3D"color:rgb(34,34,34);font-f=
+amily:verdana,sans-serif;font-size:x-small;white-space:normal">2018 Best Pl=
+aces In Toronto To Learn How To Code - NOW</span>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                        <div>
+                         <div>
+                          <a href=3D"https://www.facebook.com/codezillakids=
+/" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dview&a=
+mp;id=3D0B2v0D8SaImnOMFFIejdObWhHU00" alt=3D"facebook"></a>
+                          <a href=3D"https://www.instagram.com/codezillakid=
+s/" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dview&=
+amp;id=3D0B2v0D8SaImnOZGtGRUlsQUdrTkU" alt=3D"instagram"></a>
+                          <a href=3D"https://twitter.com/codezillakids" tar=
+get=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dview&amp;id=
+=3D0B2v0D8SaImnOUjF6aGhnb3JldFk" alt=3D"twitter"></a>
+                          <br>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <br>
+</div>
+<br>
+<div class=3D"gmail_quote">
+ <div dir=3D"ltr" class=3D"gmail_attr">
+  On Sat, Oct 12, 2019 at 2:10 PM Sarah Paz &lt;
+  <a href=3D"mailto:hey@sarahpaz.ca" target=3D"_blank">hey@sarahpaz.ca</a>&=
+gt; wrote:
+  <br>
+ </div>
+ <blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border=
+-left:1px solid rgb(204,204,204);padding-left:1ex">
+  <div>
+   Great! I would say after school would probably work best for me then. I =
+am available Mon-Fri.=C2=A0
+   <div>
+    <br>
+   </div>
+   <div>
+    Talk soon!
+   </div>
+   <div>
+    Sarah
+    <br>
+    <div>
+     <br>
+     <blockquote type=3D"cite">
+      <div>
+       On Oct 12, 2019, at 11:47 AM, Codezilla Kids &lt;
+       <a href=3D"mailto:codezilla@codezillakids.com" target=3D"_blank">cod=
+ezilla@codezillakids.com</a>&gt; wrote:
+      </div>
+      <br>
+      <div>
+       <div dir=3D"ltr">
+        we are teaching mid-town
+        <br clear=3D"all">
+        <div>
+         <div dir=3D"ltr">
+          <div dir=3D"ltr">
+           <div>
+            <div dir=3D"ltr">
+             <div>
+              <div dir=3D"ltr">
+               <div>
+                <div dir=3D"ltr">
+                 <div dir=3D"ltr">
+                  <div dir=3D"ltr">
+                   <div dir=3D"ltr">
+                    <div dir=3D"ltr">
+                     <div dir=3D"ltr">
+                      <div dir=3D"ltr">
+                       <div dir=3D"ltr">
+                        <div dir=3D"ltr">
+                         <div dir=3D"ltr">
+                          <div dir=3D"ltr">
+                           <div dir=3D"ltr">
+                            <div dir=3D"ltr">
+                             <div dir=3D"ltr">
+                              <div dir=3D"ltr">
+                               <b><font color=3D"#444444">_________________=
+_______________</font></b>
+                              </div>
+                              <div>
+                               <img src=3D"http://drive.google.com/uc?expor=
+t=3Dview&amp;id=3D0B2v0D8SaImnOU2h3SEZ4VUVjeFE">
+                               <br>
+                              </div>
+                              <div dir=3D"ltr">
+                               <div>
+                                <div style=3D"margin:0px;padding:0px 0px 20=
+px;width:872px;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;fo=
+nt-size:inherit">
+                                 <div style=3D"font-size:12.8px;margin:8px =
+0px 0px;padding:0px">
+                                  <div dir=3D"ltr">
+                                   <div style=3D"font-family:Arial,Helvetic=
+a,sans-serif;font-size:small">
+                                    <div dir=3D"ltr">
+                                     <div>
+                                      <div dir=3D"ltr">
+                                       <span>
+                                        <div dir=3D"ltr">
+                                         <b><font size=3D"1" color=3D"#3876=
+1d">Want coding or STEM in your school or daycare?=C2=A0<a href=3D"http://b=
+it.ly/2XnfHUj" style=3D"color:rgb(17,85,204)" target=3D"_blank">Learn</a>=
+=C2=A0about our award-winning programs!</font></b>
+                                         <br>
+                                        </div></span>
+                                       <div dir=3D"ltr">
+                                        <b><span style=3D"font-size:8pt;fon=
+t-family:Arial;color:rgb(56,118,29);vertical-align:baseline;white-space:pre=
+-wrap">$100 Gift Certificate with registration in Game Makers Coding, </spa=
+n><span style=3D"color:rgb(56,118,29);font-family:Arial;font-size:10.6667px=
+;white-space:pre-wrap">Sundays in The Annex. <a href=3D"http://bit.ly/2ktZE=
+pH" style=3D"color:rgb(17,85,204)" target=3D"_blank">Learn more</a>.</span>=
+</b>
+                                       </div>
+                                      </div>
+                                      <div>
+                                       <b><font size=3D"1" color=3D"#38761d=
+"><br></font></b>
+                                      </div>
+                                     </div>
+                                     <div style=3D"color:rgb(80,0,80);font-=
+size:12.8px">
+                                      <div>
+                                       <font face=3D"arial, helvetica, sans=
+-serif" color=3D"#444444"><a href=3D"http://www.codezillakids.com/" style=
+=3D"color:rgb(17,85,204)" target=3D"_blank">www.codezillakids.com</a></font=
+>
+                                      </div>
+                                      <div>
+                                       <font face=3D"arial, helvetica, sans=
+-serif" color=3D"#444444"><b><a href=3D"https://www.facebook.com/codezillak=
+ids/" style=3D"color:rgb(17,85,204)" target=3D"_blank">facebook</a>=C2=A0|=
+=C2=A0<a href=3D"https://www.instagram.com/codezillakids/" style=3D"color:r=
+gb(17,85,204)" target=3D"_blank">instagram</a>=C2=A0|=C2=A0<a href=3D"https=
+://twitter.com/codezillakids" style=3D"color:rgb(17,85,204)" target=3D"_bla=
+nk">twitter</a></b></font>
+                                      </div>
+                                      <div>
+                                       <div style=3D"font-family:system-ui,=
+-apple-system,system-ui,&quot;.SFNSText-Regular&quot;,sans-serif;color:rgb(=
+29,33,41);font-size:14px;white-space:pre-wrap">
+                                        <div style=3D"direction:ltr;font-fa=
+mily:inherit">
+                                         <span style=3D"color:rgb(34,34,34)=
+;font-family:verdana,sans-serif;font-size:x-small;white-space:normal">1800+=
+ children at 40+ schools/daycares, camps &amp; birthday parties</span>
+                                         <br style=3D"color:rgb(34,34,34);f=
+ont-family:verdana,sans-serif;font-size:x-small;white-space:normal">
+                                         <span style=3D"color:rgb(34,34,34)=
+;font-family:verdana,sans-serif;font-size:x-small;white-space:normal">2018 =
+Best STEM Programs for Kids - <a href=3D"http://toronto4kids.com/" target=
+=3D"_blank">Toronto4Kids.com</a></span>
+                                         <br style=3D"color:rgb(34,34,34);f=
+ont-family:verdana,sans-serif;font-size:x-small;white-space:normal">
+                                         <span style=3D"color:rgb(34,34,34)=
+;font-family:verdana,sans-serif;font-size:x-small;white-space:normal">2018 =
+Best Places In Toronto To Learn How To Code - NOW</span>
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                    </div>
+                                   </div>
+                                  </div>
+                                 </div>
+                                </div>
+                               </div>
+                               <div>
+                                <div>
+                                 <a href=3D"https://www.facebook.com/codezi=
+llakids/" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=
+=3Dview&amp;id=3D0B2v0D8SaImnOMFFIejdObWhHU00" alt=3D"facebook"></a>
+                                 <a href=3D"https://www.instagram.com/codez=
+illakids/" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=
+=3Dview&amp;id=3D0B2v0D8SaImnOZGtGRUlsQUdrTkU" alt=3D"instagram"></a>
+                                 <a href=3D"https://twitter.com/codezillaki=
+ds" target=3D"_blank"><img src=3D"http://drive.google.com/uc?export=3Dview&=
+amp;id=3D0B2v0D8SaImnOUjF6aGhnb3JldFk" alt=3D"twitter"></a>
+                                 <br>
+                                </div>
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <br>
+       </div>
+       <br>
+       <div class=3D"gmail_quote">
+        <div dir=3D"ltr" class=3D"gmail_attr">
+         On Fri, Oct 11, 2019 at 7:19 PM Sarah Paz &lt;
+         <a href=3D"mailto:hey@sarahpaz.ca" target=3D"_blank">hey@sarahpaz.=
+ca</a>&gt; wrote:
+         <br>
+        </div>
+        <blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex=
+;border-left:1px solid rgb(204,204,204);padding-left:1ex">
+         <div>
+          Hello!
+          <div>
+           <br>
+          </div>
+          <div>
+           Thanks for your reply! Do you know which locations you would hav=
+e available? I would be available for either times but it does depend on th=
+e location as well. So closer to me I=E2=80=99d be okay with lunch, and fur=
+ther I would be okay with after school. I am located in Scarborough close t=
+o Markham (McCowan and McNicoll area).=C2=A0
+          </div>
+          <div>
+           <br>
+          </div>
+          <div>
+           Looking forward to your reply!
+          </div>
+          <div>
+           <br>
+          </div>
+          <div>
+           Best regards,
+          </div>
+          <div>
+           Sarah
+           <br>
+           <div>
+            <div>
+             <br>
+             <blockquote type=3D"cite">
+              <div>
+               On Oct 11, 2019, at 1:56 PM, Codezilla Kids &lt;
+               <a href=3D"mailto:codezilla@codezillakids.com" target=3D"_bl=
+ank">codezilla@codezillakids.com</a>&gt; wrote:
+              </div>
+              <br>
+              <div>
+               <div dir=3D"ltr">
+                Hi Sarah
+                <div>
+                 Thanks kindly for your=C2=A0email. I wasn&#39;t currently =
+hiring -- we will have more work in jan -=C2=A0 but I may need a sub teache=
+r this Fall term
+                </div>
+                <div>
+                 What are your avails:
+                </div>
+                <div>
+                 - Mon - Fri
+                </div>
+                <div>
+                 - lunch (11:00 - 12:30pm approx)
+                </div>
+                <div>
+                 - after school (3:15 - 4:30 approx)
+                 <br clear=3D"all">
+                 <div>
+                  <div dir=3D"ltr">
+                   <div dir=3D"ltr">
+                    <div>
+                     <div dir=3D"ltr">
+                      <div>
+                       <div dir=3D"ltr">
+                        <div>
+                         <div dir=3D"ltr">
+                          <div dir=3D"ltr">
+                           <div dir=3D"ltr">
+                            <div dir=3D"ltr">
+                             <div dir=3D"ltr">
+                              <div dir=3D"ltr">
+                               <div dir=3D"ltr">
+                                <div dir=3D"ltr">
+                                 <div dir=3D"ltr">
+                                  <div dir=3D"ltr">
+                                   <div dir=3D"ltr">
+                                    <div dir=3D"ltr">
+                                     <div dir=3D"ltr">
+                                      <div dir=3D"ltr">
+                                       <div dir=3D"ltr">
+                                        <b><font color=3D"#444444">________=
+________________________</font></b>
+                                       </div>
+                                       <div>
+                                        <img src=3D"http://drive.google.com=
+/uc?export=3Dview&amp;id=3D0B2v0D8SaImnOU2h3SEZ4VUVjeFE">
+                                        <br>
+                                       </div>
+                                       <div dir=3D"ltr">
+                                        <div>
+                                         <div style=3D"margin:0px;padding:0=
+px 0px 20px;width:872px;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans=
+-serif;font-size:inherit">
+                                          <div style=3D"font-size:12.8px;ma=
+rgin:8px 0px 0px;padding:0px">
+                                           <div dir=3D"ltr">
+                                            <div style=3D"font-family:Arial=
+,Helvetica,sans-serif;font-size:small">
+                                             <div dir=3D"ltr">
+                                              <div>
+                                               <div dir=3D"ltr">
+                                                <span>
+                                                 <div dir=3D"ltr">
+                                                  <b><font size=3D"1" color=
+=3D"#38761d">Want coding or STEM in your school or daycare?=C2=A0<a href=3D=
+"http://bit.ly/2XnfHUj" style=3D"color:rgb(17,85,204)" target=3D"_blank">Le=
+arn</a>=C2=A0about our award-winning programs!</font></b>
+                                                  <br>
+                                                 </div></span>
+                                                <div dir=3D"ltr">
+                                                 <b><span style=3D"font-siz=
+e:8pt;font-family:Arial;color:rgb(56,118,29);vertical-align:baseline;white-=
+space:pre-wrap">$100 Gift Certificate with registration in Game Makers Codi=
+ng, </span><span style=3D"color:rgb(56,118,29);font-family:Arial;font-size:=
+10.6667px;white-space:pre-wrap">Sundays in The Annex. <a href=3D"http://bit=
+.ly/2ktZEpH" style=3D"color:rgb(17,85,204)" target=3D"_blank">Learn more</a=
+>.</span></b>
+                                                </div>
+                                               </div>
+                                               <div>
+                                                <b><font size=3D"1" color=
+=3D"#38761d"><br></font></b>
+                                               </div>
+                                              </div>
+                                              <div style=3D"color:rgb(80,0,=
+80);font-size:12.8px">
+                                               <div>
+                                                <font face=3D"arial, helvet=
+ica, sans-serif" color=3D"#444444"><a href=3D"http://www.codezillakids.com/=
+" style=3D"color:rgb(17,85,204)" target=3D"_blank">www.codezillakids.com</a=
+></font>
+                                               </div>
+                                               <div>
+                                                <font face=3D"arial, helvet=
+ica, sans-serif" color=3D"#444444"><b><a href=3D"https://www.facebook.com/c=
+odezillakids/" style=3D"color:rgb(17,85,204)" target=3D"_blank">facebook</a=
+>=C2=A0|=C2=A0<a href=3D"https://www.instagram.com/codezillakids/" style=3D=
+"color:rgb(17,85,204)" target=3D"_blank">instagram</a>=C2=A0|=C2=A0<a href=
+=3D"https://twitter.com/codezillakids" style=3D"color:rgb(17,85,204)" targe=
+t=3D"_blank">twitter</a></b></font>
+                                               </div>
+                                               <div>
+                                                <div style=3D"font-family:s=
+ystem-ui,-apple-system,system-ui,&quot;.SFNSText-Regular&quot;,sans-serif;c=
+olor:rgb(29,33,41);font-size:14px;white-space:pre-wrap">
+                                                 <div style=3D"direction:lt=
+r;font-family:inherit">
+                                                  <span style=3D"color:rgb(=
+34,34,34);font-family:verdana,sans-serif;font-size:x-small;white-space:norm=
+al">1800+ children at 40+ schools/daycares, camps &amp; birthday parties</s=
+pan>
+                                                  <br style=3D"color:rgb(34=
+,34,34);font-family:verdana,sans-serif;font-size:x-small;white-space:normal=
+">
+                                                  <span style=3D"color:rgb(=
+34,34,34);font-family:verdana,sans-serif;font-size:x-small;white-space:norm=
+al">2018 Best STEM Programs for Kids - <a href=3D"http://toronto4kids.com/"=
+ target=3D"_blank">Toronto4Kids.com</a></span>
+                                                  <br style=3D"color:rgb(34=
+,34,34);font-family:verdana,sans-serif;font-size:x-small;white-space:normal=
+">
+                                                  <span style=3D"color:rgb(=
+34,34,34);font-family:verdana,sans-serif;font-size:x-small;white-space:norm=
+al">2018 Best Places In Toronto To Learn How To Code - NOW</span>
+                                                 </div>
+                                                </div>
+                                               </div>
+                                              </div>
+                                             </div>
+                                            </div>
+                                           </div>
+                                          </div>
+                                         </div>
+                                        </div>
+                                        <div>
+                                         <div>
+                                          <a href=3D"https://www.facebook.c=
+om/codezillakids/" target=3D"_blank"><img src=3D"http://drive.google.com/uc=
+?export=3Dview&amp;id=3D0B2v0D8SaImnOMFFIejdObWhHU00" alt=3D"facebook"></a>
+                                          <a href=3D"https://www.instagram.=
+com/codezillakids/" target=3D"_blank"><img src=3D"http://drive.google.com/u=
+c?export=3Dview&amp;id=3D0B2v0D8SaImnOZGtGRUlsQUdrTkU" alt=3D"instagram"></=
+a>
+                                          <a href=3D"https://twitter.com/co=
+dezillakids" target=3D"_blank"><img src=3D"http://drive.google.com/uc?expor=
+t=3Dview&amp;id=3D0B2v0D8SaImnOUjF6aGhnb3JldFk" alt=3D"twitter"></a>
+                                          <br>
+                                         </div>
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                    </div>
+                                   </div>
+                                  </div>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <br>
+                </div>
+               </div>
+               <br>
+               <div class=3D"gmail_quote">
+                <div dir=3D"ltr" class=3D"gmail_attr">
+                 On Thu, Oct 10, 2019 at 5:10 PM Sarah Paz &lt;
+                 <a href=3D"mailto:hey@sarahpaz.ca" target=3D"_blank">hey@s=
+arahpaz.ca</a>&gt; wrote:
+                 <br>
+                </div>
+                <blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0=
+px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex">
+                 <div>
+                  Hello!
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   My name is Sarah Paz, and I=E2=80=99m currently a Full S=
+tack Web Dev student in an online bootcamp (Flatiron School). I wanted to r=
+each out in regards to any open part-time opportunities you may currently h=
+ave available. The idea of sharing my knowledge and teaching kids to love c=
+ode really gets me excited! I wish these opportunities were available to me=
+ when I was young, and because of that I am very passionate about offering =
+what I can to better the community and help younger generations learn and u=
+nderstand the power of code.=C2=A0
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   A bit about myself, I=E2=80=99m not track to graduate ne=
+xt month. Current experience includes HTML/CSS, Bootstrap, JavaScript, Ruby=
+, Rails and React.js. I also have experience with responsive design, and we=
+bsite usability. I=E2=80=99ve attached my resume as well, if you=E2=80=99re=
+ interested - or we can always set up a call to chat some more!=C2=A0
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   Looking forward to hearing from you soon!
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   Best regards,
+                  </div>
+                  <div>
+                   Sarah Paz
+                  </div>
+                  <div>
+                   647-824-8354
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                  <div></div>
+                 </div>
+                 <div>
+                  <div></div>
+                  <div>
+                   <br>
+                  </div>
+                  <div>
+                   <br>
+                  </div>
+                 </div>
+                </blockquote>
+               </div>=20
+              </div>
+             </blockquote>
+            </div>
+            <br>
+           </div>
+          </div>
+         </div>
+        </blockquote>
+       </div>=20
+      </div>
+     </blockquote>
+    </div>
+    <br>
+   </div>
+  </div>
+ </blockquote>
+</div></blockquote></div></div></blockquote></div>
+</div></blockquote></div><br></div></div></blockquote></div>
+
+--0000000000002f3f780594dfdf8f--

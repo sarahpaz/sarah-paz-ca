@@ -1,0 +1,992 @@
+Return-Path: <alert@neuvoo.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id aHESFBofqV34HyMAOhTp2Q
+	(envelope-from <alert@neuvoo.com>)
+	for <hey@sarahpaz.ca>; Thu, 17 Oct 2019 22:10:34 -0400
+Return-path: <alert@neuvoo.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 17 Oct 2019 22:10:34 -0400
+Received: from mail07.neuvoo.com ([144.217.119.37]:39935)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <alert@neuvoo.com>)
+	id 1iLHiq-009fN6-0V
+	for hey@sarahpaz.ca; Thu, 17 Oct 2019 22:10:34 -0400
+To: hey@sarahpaz.ca
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=neuvoo.com; s=mail;
+	t=1571364569; bh=oQ3PvTqfaDvXRzI+9mGYy6OPfxWM+x4ulFyXiZ/cZOk=;
+	h=Subject:From:MIME-Version:Content-Type:Message-Id:Date:From;
+	b=7KE8K0RrErZ2k4VeIH7tmwK7DZd7t3wM7AX6uTcYc4+hv8X+F57CFIunPqm0iCMeI
+	 GsdSuUX6Wmg3nmRJ5LrKhR5m1rKyNz5LWizQWVjoiBryI7HyYeCXUytgY14lmYu0yH
+	 8fa2ROMzW9AP8YSPNi+svLYe4YtWqy16Us+nxli8=
+Subject: =?utf-8?B?U2VuaW9yIEZyb250IERldmVsb3BlciBhbmQgNDYgbW9yZSBKdW5pb3IgV2ViIERldmVsb3BlciBqb2JzIGluIFRvcm9udG8sIENhbmFkYSBmb3IgeW91IQ==?=
+From: neuvoo.ca<job@neuvoo.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Reply-To: no-reply@neuvoo.com
+List-Unsubscribe: <mailto:unsubscribe@delist.neuvoo.com?subject=mailtoTag:d72250379d9b-MTA:MTA2-w:6dbe7ddgcddf6dd77ed3gddf6ddgeed3eddfcdb9>
+Feedback-ID: JOBALERT:MTA2:neuvoo
+X-Customer-ID: faa8daab29e76c9gf9adga9f89aefa
+X-Alert-ID: d72250379d9b
+Message-Id: <20191018020929.2C0E970143D@mail07.neuvoo.com>
+Date: Fri, 18 Oct 2019 02:09:29 +0000 (UTC)
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  30+ new Junior Web Developer opportunities in Toronto, Canada
+    Ruby on Rails Developer Stafflink - Toronto, ON, Canada 1d ago Senior Front-End
+    Developer Michael Page CA - Toronto, CA 12h ago Junior C+ [...] 
+ Content analysis details:   (0.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at https://www.dnswl.org/,
+                             low trust
+                             [144.217.119.37 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<head><style>body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+table,td{mso-table-lspace:0pt;mso-table-rspace:0pt;}
+img{-ms-interpolation-mode:bicubic;}
+img{border:0;height:auto;line-height:100%;outline:none;text-decoration:none;}
+table{border-collapse:collapse !important;}
+body{height:100% !important;margin:0 !important;padding:0 !important;width:100% !important;}
+.job-title,.job-info,.job-description,.job-tag,.company-title,.notice,.footer-text,.view-jobs,.downshift-link{font-family:'Helvetica Neue', Roboto, Arial, sans-serif;}
+.job a{color:#000000;display:block;text-decoration:none;}
+.job-tag{font-size:10px;line-height:10px;padding:4px 8px;border-radius:2px;display:inline-block;vertical-align:middle;text-transform:uppercase;font-weight:500;}
+.grey-tag{background:#f4f3f3;border:1px solid #f4f3f3;color:#4B4B4B;}
+.yellow-tag{background:#FFEDBD;border:1px solid #FFEDBD;}
+.dotted-tag{border:1px dashed #cccccc;border-radius:2px;color:#4B4B4B;}
+.content-box{padding:50px !important;}
+.cta a{width:298px !important;}
+.recJob-content-box{padding:28px 50px 0px;}
+.br-24{border-radius:24px;}
+.width-348{max-width:348px;}
+.width-392{max-width:392px;}
+.width-410{max-width:410px;}
+.width-550{max-width:550px;}
+.ja_image_desktop{max-width:464px;height:auto;}
+@media only screen and (max-width:530px){.outer-box{padding:0 8px !important;}
+.content-box{padding:32px 16px !important;}
+.recJob-content-box{padding:32px 16px !important;}
+.has-downshift-content-box{padding:16px 16px 32px !important;}
+.neuvoo-logo{padding:16px 0 !important;}
+.sg-heading2{font-size:20px !important;}
+.spacer{display:none !important;}
+.section-header-icon{width:22px !important;}
+.job-tags table{display:block !important;}
+.job-tag{white-space:nowrap !important;padding:4px !important;margin:0 1px 2px !important;}
+.job-description{display:none !important;}
+.cta a{width:100% !important;box-sizing:border-box !important;}
+.footer-address{display:block !important;padding-bottom:4px !important;}
+.show-when-mobile{display:block!important;max-height:none !important;}
+.hide-when-mobile{display:none!important;}
+u+#body a{color:inherit;text-decoration:none;}
+u+.body .sg-heading2{font-size:18px !important;line-height:22px !important;}
+u+.body .yellow-line-break{height:4px !important;}
+u+.body .job-tag{font-size:8px !important;line-height:8px !important;}
+u+.body .job-title{font-size:14px !important;padding-bottom:4px !important;}
+u+.body .company-title,u+.body .bold-text{font-size:16px !important;}
+u+.body .cta a{font-size:15px !important;line-height:40px !important;}
+}
+@media only screen and (max-width:414px){u~div .main{min-width:100vw;}
+}
+</style></head>
+<body>
+<div class="rcmBody" style="font-family: arial,sans-serif;">
+    <div class="moz-forward-container">
+        <table class="main" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F2F2F2">
+          <tbody>
+            <tr>
+              <td class="outer-box" style="padding: 0 8px" bgcolor="#F2F2F2" align="center">
+                <!-- node type 8 -->
+                <table class="width-550" style="max-width: 550px" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F2F2F2">
+                  <tbody>
+                    <tr>
+                      <td class="neuvoo-logo" style="padding: 25px 0" align="center"> <a href="https://neuvoo.ca/" target="_blank" rel="noreferrer"> <img src="https://neuvoo.com/V5/img/neuvoo.png" alt="neuvoo" style="display: block; width: 100px; color: rgb(41, 173, 228); font-size: 30px; font-weight: 400; letter-spacing: -1px;    font-family: "Fontastique";" width="100" border="0"> </a> </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table class="width-550 br-24" style="max-width: 550px; border-radius: 24px" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+                  <tbody>
+                    <tr>
+                      <td class="content-box " style="padding: 24px 24px">
+                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <table class="job-alerts" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                  <tbody>
+                                    <tr>
+                                      <td class="section-header">
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                          <tbody>
+                                            <tr>
+                                              <td style="padding-bottom: 24px">
+                                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                  <tbody>
+                                                    <tr>
+                                                      <td class="sg-heading2" style="font-size: 26px; line-height: 32px; color: #000000; font-weight: bold" align="center">
+                                                        30+ new Junior Web Developer opportunities in Toronto, Canada</td>
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td class="yellow-line-break" style="background: rgb(41, 173, 228); height: 6px; display: block; font-size: 1px">&nbsp;</td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="job-list" style="padding: 24px 0 0">
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                          <tbody>
+                                            <tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=f8d51c35fd65&pag=1&pos=0&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=f8d51c35fd65&pag=1&pos=0&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Ruby on Rails Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Stafflink</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  1d ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=9e2355fe31f1&pag=1&pos=1&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=9e2355fe31f1&pag=1&pos=1&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Senior Front-End Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Michael Page CA</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  12h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=1d79df91d41d&pag=1&pos=2&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=1d79df91d41d&pag=1&pos=2&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Junior C++ Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Procom</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  16h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=90d21669f695&pag=1&pos=3&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=90d21669f695&pag=1&pos=3&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Engineering Manager - Ruby on Rails</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">JobLeads</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  1d ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=51dd5051790d&pag=1&pos=4&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=51dd5051790d&pag=1&pos=4&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Software Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Info-Tech Research Group</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  5h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=377b7eb64289&pag=1&pos=5&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=377b7eb64289&pag=1&pos=5&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Full Stack Web Software Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">PeopleToGo Inc</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  5h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=627f39362617&pag=1&pos=6&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=627f39362617&pag=1&pos=6&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> DevOps Architect (Salesforce)-Remote</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Empower Tek Solutions LLC</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  19h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=d1e0af7bd667&pag=1&pos=7&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=d1e0af7bd667&pag=1&pos=7&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> eCommerce Manager</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Haymaker</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  8h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=cc3dfd4ed724&pag=1&pos=8&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=cc3dfd4ed724&pag=1&pos=8&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Ruby on Rails Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">7B Search Group Inc</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  1m ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=cbd8cd9d183f&pag=1&pos=9&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=cbd8cd9d183f&pag=1&pos=9&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Int. to Sr. Full Stack Developer (Java)</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">gdR | Grossman Dorland Recruiting</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  12h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=5c87aa52539a&pag=1&pos=10&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=5c87aa52539a&pag=1&pos=10&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Senior Front End Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">LAAgencia</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                  Quick Apply </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  9h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=f4d28507d7c1&pag=1&pos=11&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=f4d28507d7c1&pag=1&pos=11&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Production Engineering - Developer Acceleration Manager</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Shopify</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                  Quick Apply </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  9h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=30b38678f639&pag=1&pos=12&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=30b38678f639&pag=1&pos=12&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Software Developer - Toronto, ON</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Ticketmaster</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  10h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=693d01c31ec1&pag=1&pos=13&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=693d01c31ec1&pag=1&pos=13&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Senior Application Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Klick Health</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Ontario, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                  Quick Apply </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  14h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=419223869ca5&pag=1&pos=14&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=419223869ca5&pag=1&pos=14&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Full Stack Developer - Digital</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">BCAA</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  *Head Office, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  8h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=1cd722c536c9&pag=1&pos=15&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=1cd722c536c9&pag=1&pos=15&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Full Stack Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Overbond</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                  Quick Apply </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  6h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=0cfa4e4c6ac2&pag=1&pos=16&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=0cfa4e4c6ac2&pag=1&pos=16&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> BackEnd Developer-Engineer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Alliance Search Partners</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  TORONTO, ON</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  6h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=3e9caf350476&pag=1&pos=17&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=3e9caf350476&pag=1&pos=17&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Full-Stack Developer Co-op</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">FreshBooks</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, CA</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  1d ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=1763aec029b2&pag=1&pos=18&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=1763aec029b2&pag=1&pos=18&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Software Developer - DevOps</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Farmers Edge</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, ON, CAN</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  1d ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr><tr>
+                      <td class="job" style="padding-bottom: 32px">
+                        <a href="https://neuvoo.ca/job.php?id=bc5049caccd8&pag=1&pos=19&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="text-decoration: none" target="_blank" rel="noreferrer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td class="job-title" style="font-weight: bold; padding-bottom: 4px" align="left"> <a href="https://neuvoo.ca/job.php?id=bc5049caccd8&pag=1&pos=19&utm_medium=email&source=neuvoo-email&tl1=s21_v27&tl2=ckr1_v27&tl3=d_default_en_v27&tl4=&tl5=hourly_limited_5d_daily_budget_v12&tlf=fcd_v27&tgroup=MTA2&send_group=high&current_group=instant_full&email_source=listing&refid=d72250379d9b&email_datein=2019-10-09T22%3A41%3A58Z&email_datesent=2019-10-17T22%3A09%3A49Z&utm_source=sarahpaz.ca&email_status=active&wc_email=no&lang=en" style="color: #000000; text-decoration: underline; font-size: 18px; line-height: 24px" target="_blank" rel="noreferrer"> Site Reliability Developer</a> </td>
+                              </tr>
+                              <tr>
+                                <td class="job-info" style="font-size: 14px; line-height: 20px; font-weight: 500; color: #2D2D2D; padding-bottom: 4px" align="left">
+                                  <span class="job-company-name">Oracle</span>
+                                  
+ <span class="job-company-location" style="font-weight: 400; display: inline !important; color: #767676">-
+                                  Toronto, Canada</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #000000; font-size: 14px; line-height: 20px; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="job-description" style="font-size: 14px; line-height: 20px; font-weight: 400; color: #4B4B4B; padding-bottom: 4px" align="left">
+                                    
+                                </td>
+                              </tr>
+                              <tr>
+<td style="color: rgb(41, 173, 228); font-size: 14px; line-height: 20px; padding-bottom: 4px;font-weight: 700;" align="left">
+                                   </td>
+                              </tr>
+                              <tr>
+                                <td style="color: #767676; font-size: 14px; line-height: 20px" align="left">
+                                  23h ago  </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          </a>
+                         </td>
+                    </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="section-cta">
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                          <tbody>
+                                            <tr>
+                                              <td style="font-size: 13px; color: #000000; font-weight: bold" align="center"> 130 new opportunities </td>
+                                            </tr>
+                                            <tr>
+                                              <td class="cta" align="center">
+                                                <div><!-- node type 8 --><a href="http://neuvoo.ca/jobs/?k=Junior+Web+Developer&l=Toronto%2C+Canada&by=date&refid=d72250379d9b&utm_source=email&utm_medium=" style="    background: rgb(41, 173, 228); border-radius: 100px; color: #ffffff; display: inline-block; font-size: 16px; font-weight: bold; line-height: 44px; text-align: center; text-decoration: none; width: 100%; -webkit-text-size-adjust: none; mso-hide: all" target="_blank" rel="noreferrer">View all jobs</a> </div>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      </td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F2F2F2">
+                  <tbody>
+                    <tr>
+                      <td class="footer-text footer-links" style="color: #777777; font-size: 11px; line-height: 16px" align="center">        You are receiving this email because you have subscribed to neuvoo's job alert system.
+            <br>
+            If you want to improve your job alerts, please click here:
+            <br><a href="https://neuvoo.ca/my/notifications/?e_token=faa8daab29e76c9gf9adga9f89aefa&authToken=2dfe94a96d420cda&lang=en" class="link-manager" style="display: block; color: rgb(0, 0, 0); font-weight: 700; font-size: 12px;">Manage job alert settings</a>  
+            <br>
+            If you are receiving this by error or want to completely unsubscribe from all alerts, please click here:
+            <br><a href="https://neuvoo.ca/my/notifications/?e_token=faa8daab29e76c9gf9adga9f89aefa&authToken=2dfe94a96d420cda&lang=en&unsubscribe=d72250379d9b" class="unsub-link" style="display: block; color: rgb(174, 174, 174); font-size: 12px; text-decoration: underline;">Unsubscribe from Job Alert</a> 
+<br><br>            
+            		&copy; 2019 neuvoo 
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <!-- node type 8 -->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+  </div></div>
+</body>
+<img width="1px" height="1px" alt="" src="https://neuvoo.com/img/logoEmail/3995eeeeead7caaceeee6dd6eeeeaa9cede94deeedeefdabddageded6dd9ede72aacdda7eaee4eeeeee44eaebaa789997aabge9eede66edeeae2da91ce9eeee44eeeeae39aac2eae7da6ce9ed99d7aaf49aeeaef6ad8e9egdaafe996de92eaed4aefeeeefea4aeaeb9adfaa97ede8dd6aeae7ad8faa79aa9caa8feae7ed4aeae99ac7ad4ddafaede9dd6beae79ddeddeedaffba1f9aacdae8dd9feaefea4aeaee9ec6ad4edee5eaecd96eeee4aedeae599deeddfab9119bacdaedda9aeaeeee46edee9ecaaa44dadce9eede64eeeeaec9bd1eadcaa9b1aba2aafb9ab1ab4c9.png">

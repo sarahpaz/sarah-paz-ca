@@ -1,0 +1,112 @@
+Return-Path: <0100016c823c6ddb-8712dad6-9282-44e2-87ae-fc5ad7d3e234-000000@out.breezy-mail.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id kIwyAfBxUF1ZOyUAOhTp2Q
+	(envelope-from <0100016c823c6ddb-8712dad6-9282-44e2-87ae-fc5ad7d3e234-000000@out.breezy-mail.com>)
+	for <hey@sarahpaz.ca>; Sun, 11 Aug 2019 15:52:16 -0400
+Return-path: <0100016c823c6ddb-8712dad6-9282-44e2-87ae-fc5ad7d3e234-000000@out.breezy-mail.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Sun, 11 Aug 2019 15:52:16 -0400
+Received: from a8-41.smtp-out.amazonses.com ([54.240.8.41]:49340)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <0100016c823c6ddb-8712dad6-9282-44e2-87ae-fc5ad7d3e234-000000@out.breezy-mail.com>)
+	id 1hwtt1-00AEhK-4s
+	for hey@sarahpaz.ca; Sun, 11 Aug 2019 15:52:16 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1565553094;
+	h=Content-Type:From:To:Reply-To:Subject:Message-ID:Date:MIME-Version:Feedback-ID;
+	bh=vo7XzzTp/wcHb/+oYJBeyUC3S8rE4KrURhGhTW2ex4g=;
+	b=Ogp2N4/CjisHMG6C0ybmjRqjffvvDSQzqUvNZ4ehDeZbjZpHeNUaeIE+ctB7vM5o
+	GlThQutE/fKCoDWbf8z1DWx0AG89DhT5QiV8gOGweUJAAhvWMt9s41iupPbikTT7Tzp
+	B3Pm941Ku5JoB+TyL6BHrLdPkWdxouH2qC5gO/4s=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=breezy-mail.com;
+ q=dns/txt; s=dkim; bh=vo7XzzTp/wcHb/+oYJBeyUC3S8rE4KrURhGhTW2ex4g=;
+ h=from:reply-to:subject:to:mime-version:content-type;
+ b=oKA8fcgCpAUU/2TqziZniJOF+mJqpl00FsO6remoMX1vanOj3d+Tl7cN6+sq99n6zJi+xxOkX
+ 0Xa/XuiBm5wYcDSBcFAVG65TB/jH1nTuGi9UBnJ6aOkjMHpUpNNslay3su61dHY7SJed7jyUmWh
+ KtrTdwP5/kgk7k2OmEWTgJU=
+Content-Type: multipart/alternative;
+ boundary="--_NmP-a56ac46984f98eb2-Part_1"
+From: Catherine Jeon <no-reply@esight-eyewear.breezy-mail.com>
+To: hey@sarahpaz.ca
+Reply-To: no-reply@esight-eyewear.breezy-mail.com
+Subject: Re: Jr. Web Developer position at eSight EyewearSarah Paz
+Message-ID: <0100016c823c6ddb-8712dad6-9282-44e2-87ae-fc5ad7d3e234-000000@email.amazonses.com>
+Date: Sun, 11 Aug 2019 19:51:34 +0000
+MIME-Version: 1.0
+X-SES-Outgoing: 2019.08.11-54.240.8.41
+Feedback-ID: 1.us-east-1.hckqfvN+z4ktzuK4r4aFMQkbDPmt+xWkjiE4IFEXoM4=:AmazonSES
+X-Spam-Status: No, score=1.8
+X-Spam-Score: 18
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah, and thank you for your interest in eSight Eyewear.
+    Your application has been received and will be reviewed by our Talent Specialist.
+    If your application reflects the experience and skills, we are looking for
+    we will contact you directly to begin the s [...] 
+ Content analysis details:   (1.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [54.240.8.41 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.8 HTML_IMAGE_ONLY_08     BODY: HTML: images with 400-800 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 HTML_SHORT_LINK_IMG_1  HTML is very short with a linked image
+X-Spam-Flag: NO
+
+----_NmP-a56ac46984f98eb2-Part_1
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sarah, and thank you for your interest in eSight Eyewear.
+
+Your application has been received and will be reviewed by our Talent =
+Specialist. If your application reflects the experience and skills, we are =
+looking for we will contact you directly to begin the screening process. If=
+ you are not contacted for this opportunity your profile will be kept in =
+our records for future consideration.
+
+All the best!
+
+Sincerely,
+
+Talent Specialist
+
+[![eSight Logo](https://uploads-ssl.webflow.=
+com/5a10884fd85f4b0001a51ca9/5a96eb6c6914880001c50fc8_eSight_logo.=
+jpg)](https://www.esighteyewear.com/ "eSight =
+Eyewear")
+----_NmP-a56ac46984f98eb2-Part_1
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hello Sarah, and thank you for your interest in eSight =
+Eyewear.</p>
+<p>Your application has been received and will be reviewed by =
+our Talent Specialist. If your application reflects the experience and =
+skills, we are looking for we will contact you directly to begin the =
+screening process. If you are not contacted for this opportunity your =
+profile will be kept in our records for future consideration.</p>
+<p>All the best!</p>
+<p>Sincerely,</p>
+<p>Talent Specialist</p>
+<p><a href=3D"https://www.esighteyewear.com/" title=3D"eSight Eyewear"><img=
+ src=3D"https://uploads-ssl.webflow.com/5a10884fd85f4b0001a51ca9/5a96eb6c69=
+14880001c50fc8_eSight_logo.jpg" alt=3D"eSight Logo"></a></p>
+<img src=3D"https://app.breezy.hr/pixel?_mid=3De32cb861b04b" width=3D"0" =
+height=3D"0"></body></html>
+----_NmP-a56ac46984f98eb2-Part_1--

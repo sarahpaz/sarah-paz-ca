@@ -1,0 +1,1858 @@
+Return-Path: <linkedin@e.linkedin.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id ABOxHbtZQ10FJAYAOhTp2Q
+	(envelope-from <linkedin@e.linkedin.com>)
+	for <hey@sarahpaz.ca>; Thu, 01 Aug 2019 17:29:31 -0400
+Return-path: <linkedin@e.linkedin.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 01 Aug 2019 17:29:31 -0400
+Received: from omp.e.linkedin.com ([199.7.202.92]:41674)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <linkedin@e.linkedin.com>)
+	id 1htIdd-001i6l-D0
+	for hey@sarahpaz.ca; Thu, 01 Aug 2019 17:29:31 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=linkedin; d=e.linkedin.com;
+ h=MIME-Version:Content-Type:Date:To:From:Reply-To:Subject:List-Unsubscribe:
+ Message-ID; i=linkedin@e.linkedin.com;
+ bh=Y8hVPyYt0KYgDo6+XtYjug6hvNIiN9X6phdSqD4R+Ns=;
+ b=v1tom6++++7ddpfpjc750OTF4tW76cMjbSBF4lpunPmI/sJB4ioEKM0R8510DzzMWr4IPdSKTG2Z
+   IMr28FNsStJS14k1TDx9dvI5dgFgGMIW5s4Fq227X/8t7ZhYab79mCRv9yDgvr9ok72NRoaKsetw
+   A1zTEdthFdsPMrYLpc4=
+Received: by omp.e.linkedin.com id h8dcp02idb4j for <hey@sarahpaz.ca>; Thu, 1 Aug 2019 14:28:47 -0700 (envelope-from <linkedin@e.linkedin.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----msg_border_GoWZEaXjEC"
+Date: Thu, 1 Aug 2019 14:28:47 -0700
+To: hey@sarahpaz.ca
+From: =?UTF-8?B?VGFsayBTaG9wIGZyb20gTGlua2VkSW4gTWFya2V0aW5nIFNvbHU=?=
+	=?UTF-8?B?dGlvbnM=?=
+ <linkedin@e.linkedin.com>
+Reply-To: =?UTF-8?B?VGFsayBTaG9wIGZyb20gTGlua2VkSW4gTWFya2V0aW5nIFNvbHU=?=
+	=?UTF-8?B?dGlvbnM=?=
+ <donotreply@e.linkedin.com>
+Subject: Sarah, now who's the boss?
+Feedback-ID: 50563:14323595:oraclersys
+List-Unsubscribe: <https://e.linkedin.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96&_ei_=EolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7sPFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q>, <mailto:unsubscribe-YQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: oLPxkHjHoiHFQJH
+X-rext: 5.interact5.Ei_rRnuXbQHLwlH9Frqdwr0E6UD3CpRwzKJ0R0wBxyWLxAYh6EDA
+X-cid: linkedin.12140535
+X-ei: Enm72xXa-IFvpIbhXff6ts8PXjzV-kA
+Require-Recipient-Valid-Since: hey@sarahpaz.ca; Tue, 20 Dec 2011 13:19:00 -0800
+Message-ID: <0.1.AF.B6D.1D548B01ADB5382.0@omp.e.linkedin.com>
+X-Spam-Status: No, score=-4.1
+X-Spam-Score: -40
+X-Spam-Bar: ----
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Please view this email in a browser: https://e.linkedin.com/pub/sf/FormLink?_ri_=X0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXMtX%3DYQpglLjHJlYQGr0hnMNzfTUvBRiNGqg
+    [...] 
+ Content analysis details:   (-4.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: responsys.net]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [199.7.202.92 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.2 KAM_HUGEIMGSRC         Message contains many image tags with huge http
+                             urls
+  0.8 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------msg_border_GoWZEaXjEC
+Date: Thu, 1 Aug 2019 14:28:47 -0700
+Content-Type: multipart/alternative; boundary="----alt_border_x6Pbdzr547_1"
+
+
+
+------alt_border_x6Pbdzr547_1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please view this email in a browser:=20
+https://e=2Elinkedin=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpX=
+j0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXMtX%3DYQpglLjHJlYQ=
+Gr0hnMNzfTUvBRiNGqgtzaIC3OzcjqA7sXc4FCPhsPMMHeIjzehrbBqw&_ei_=3DEin99i3i2E8=
+tgytFQQJ02uBGqRkhcfwWjTRGR-TRtezT_ExPSaaaO0=2EJg%3D%3D
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIza=
+aeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDYYY&_ei_=3DEola=
+GGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7s=
+PFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2EJg%3D%3D=20
+
+This is an occasional email to help you get the most out of LinkedIn=2E Uns=
+ubscribe:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIza=
+aeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDYBY&_ei_=3DEola=
+GGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7s=
+PFjkLs5XDs-Lx8SMt9CmhVzxK9Bh2uPTaSaMvLsCworVeE5fQIGzONJv5KP-dCWQqHq3hAT-Dii=
+jcBoUlpw4bf8ok3gfkgj5sRi4ecxs1nxUkkW_v1vb5r5BaTFXbGyVwiG1lCioZEn4zz6tgmjSMR=
+1vXT_w=2EJg%3D%3D
+
+This email was intended for Sarah=2E Learn why we include this:=20
+https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIza=
+aeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDYDY&_ei_=3DEola=
+GGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7s=
+PFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2EJg%3D%3D
+
+Copyright 2019, LinkedIn Corporation=2E All rights reserved=2E LinkedIn Cor=
+p=2E 1000 West Maude Avenue, Sunnyvale CA 94085
+=2E
+
+------alt_border_x6Pbdzr547_1
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html style=3D=22position: relative; min-height: 100%;=22>
+ <head>
+ </head>
+ <body style=3D=22height: 100%; margin: 0; padding: 0; -ms-text-size-adjust=
+: none; -webkit-text-size-adjust: none; font-family: Arial, sans-serif; fon=
+t-size: 14px; -webkit-font-smoothing: antialiased;=22>
+  <p>
+  <meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Du=
+tf-8=22>
+  <meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22>
+  <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22>
+  <meta name=3D=22ROBOTS=22 content=3D=22NOINDEX, NOFOLLOW=22>     <=21-- e=
+nable media queries for windows phone 8 -->
+  <meta name=3D=22format-detection=22 content=3D=22telephone=3Dno=22>     <=
+=21-- disable auto telephone linking in iOS -->
+  <title>LinkedIn</title>
+  <=21--Leave Spaces 1019 characters for iOS Buffering-->     <style type=
+=3D=22text/css=22>
+    body =7B
+      height: 100%;
+      margin: 0;
+    =7D
+   =20
+    body =7B
+      margin: 0;
+      padding: 0;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    =7D
+   =20
+    =2EExternalClass =7B
+      width: 100%;
+    =7D
+   =20
+    =2EExternalClass =7B
+      line-height: 100%;
+    =7D
+   =20
+    =2EReadMsgBody =7B
+      width: 100%;
+      background-color: =23ebebeb;
+    =7D
+   =20
+    img =7B
+      -ms-interpolation-mode: bicubic;
+    =7D
+   =20
+    =2EExternalClass =7B
+      width: 100%;
+    =7D
+   =20
+    =2EExternalClass =7B
+      line-height: 100%;
+    =7D
+   =20
+    a:visited =7B
+      text-decoration: none;
+    =7D
+   =20
+    body =7B
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      -webkit-text-size-adjust: none;
+      -ms-text-size-adjust: none;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      padding: 0;
+    =7D
+   =20
+    =40media screen and (max-width: 1200px) =7B
+      =2Eios-light =7B
+        color: =23ffffff =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-light a =7B
+        color: =23ffffff =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-dark =7B
+        color: =23737373 =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-dark a =7B
+        color: =23737373 =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-alt =7B
+        color: =2378909C =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-alt a =7B
+        color: =2378909C =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-footer =7B
+        color: =23737373 =21important;
+        text-decoration: none =21important;
+      =7D
+      =2Eios-footer a =7B
+        color: =23737373 =21important;
+        text-decoration: none =21important;
+      =7D
+    =7D
+   =20
+    =40media screen and (max-width: 599px) =7B
+      =2Eforce-row =7B
+        width: 100% =21important;
+        max-width: 100% =21important;
+        min-width: 200px =21important;
+      =7D
+      =2Econtainer =7B
+        width: 100% =21important;
+        max-width: 100% =21important;
+        min-width: 200px =21important;
+      =7D
+      =2Econtainer-padding-mobile =7B
+        padding-left: 40px;
+        padding-right: 40px;
+      =7D
+      =23body =7B
+        width: 96% =21important;
+        max-width: 96% =21important;
+      =7D
+      =2Ebr-dt =7B
+        border: none =21important;
+      =7D
+    =7D
+   =20
+    =40media screen and (max-width: 400px) =7B
+      =2Econtainer-padding =7B
+        padding-left: 12px =21important;
+        padding-right: 12px =21important;
+      =7D
+      =2Econtainer-padding-mobile =7B
+        padding-left: 12px =21important;
+        padding-right: 12px =21important;
+      =7D
+    =7D
+   =20
+    =40media only screen and (max-width: 480px) =7B
+      =2Ew100m =7B
+        width: 100% =21important;
+      =7D
+      =2Ecolumn50 =7B
+        width: 100% =21important;
+      =7D
+      =2Ecolumn33 =7B
+        width: 100% =21important;
+      =7D
+      =2Ecolumn25 =7B
+        width: 100% =21important;
+      =7D
+      =2Ecolumn75 =7B
+        width: 100% =21important;
+      =7D
+      =2Ecolumn66 =7B
+        width: 100% =21important;
+      =7D
+      =2Ew90m =7B
+        width: 90% =21important;
+      =7D
+      =2Ew85m =7B
+        width: 85% =21important;
+      =7D
+      =2Eexpandm =7B
+        width: 100% =21important;
+        display: block =21important;
+      =7D
+      =2Eresizem =7B
+        width: 100% =21important;
+        height: auto =21important;
+      =7D
+      =2Ehidem =7B
+        display: none =21important;
+      =7D
+      =2Eh1m =7B
+        font-size: 20px =21important;
+      =7D
+      =2Eh2m =7B
+        font-size: 14px =21important;
+      =7D
+      =2Ecenterm =7B
+        text-align: center =21important;
+      =7D
+      =2Eleftm =7B
+        text-align: left =21important;
+      =7D
+      =2Epadt0m =7B
+        padding-top: 0px =21important;
+      =7D
+      =2Epadt5m =7B
+        padding-top: 5px =21important;
+      =7D
+      =2Epadt10m =7B
+        padding-top: 10px =21important;
+      =7D
+      =2Epadt20m =7B
+        padding-top: 20px =21important;
+      =7D
+      =2Epadt30m =7B
+        padding-top: 30px =21important;
+      =7D
+      =2Epadb5m =7B
+        padding-bottom: 5px =21important;
+      =7D
+      =2Epadb10m =7B
+        padding-bottom: 10px =21important;
+      =7D
+      =2Epadb20m =7B
+        padding-bottom: 20px =21important;
+      =7D
+      =2Epadb30m =7B
+        padding-bottom: 30px =21important;
+      =7D
+      =2Ewidth320 =7B
+        width: 320px =21important;
+      =7D
+      =2Ecell12x15 =7B
+        width: 12px;
+        height: 15px =21important;
+      =7D
+      =2Ewidth296 =7B
+        width: 296px =21important;
+      =7D
+      =2Ewidth12 =7B
+        width: 12px =21important;
+      =7D
+    =7D
+   =20
+    =40media only screen and (max-width: 512px) =7B
+      =2Ew100 =7B
+        width: 100% =21important;
+      =7D
+      =2Ew90 =7B
+        width: 90% =21important;
+      =7D
+      =2Ew85 =7B
+        width: 85% =21important;
+      =7D
+      =2Eminwidth =7B
+        min-width: 100% =21important;
+      =7D
+      =2Ehide =7B
+        display: none =21important;
+      =7D
+      =2Eresize =7B
+        width: 100% =21important;
+        height: auto =21important;
+      =7D
+      =2Eresize img =7B
+        width: 100% =21important;
+        height: auto =21important;
+      =7D
+      =2Eexpand =7B
+        width: 100% =21important;
+        display: block =21important;
+      =7D
+      =2Eheight0 =7B
+        height: 0 =21important;
+      =7D
+      =2Ecolumn50 =7B
+        width: 50%;
+      =7D
+      =2Ecolumn33 =7B
+        width: 33=2E33%;
+      =7D
+      =2Ecolumn25 =7B
+        width: 25%;
+      =7D
+      =2Ecolumn75 =7B
+        width: 75%;
+      =7D
+      =2Ecolumn66 =7B
+        width: 66%;
+      =7D
+      =2Ecenter =7B
+        text-align: center =21important;
+      =7D
+      =2Eborderr0 =7B
+        border-right: 0px =21important;
+      =7D
+      =2Epadt0 =7B
+        padding-top: 0px =21important;
+      =7D
+      =2Epadt5 =7B
+        padding-top: 5px =21important;
+      =7D
+      =2Epadt10 =7B
+        padding-top: 10px =21important;
+      =7D
+      =2Epadt20 =7B
+        padding-top: 20px =21important;
+      =7D
+      =2Epadt30 =7B
+        padding-top: 30px =21important;
+      =7D
+      =2Epadb0 =7B
+        padding-bottom: 0px =21important;
+      =7D
+      =2Epadb5 =7B
+        padding-bottom: 5px =21important;
+      =7D
+      =2Epadb10 =7B
+        padding-bottom: 10px =21important;
+      =7D
+      =2Epadb20 =7B
+        padding-bottom: 20px =21important;
+      =7D
+      =2Epadb30 =7B
+        padding-bottom: 30px =21important;
+      =7D
+    =7D
+    </style> &=239;<=21--=5Bif mso>
+<style type=3D=22text/css=22>
+body =7B
+	margin: 0 =21important;
+    padding: 0 =21important;
+    font-family: Segoe UI, Arial, sans-serif;
+    =7D
+
+table, td, div, p =7B
+	font-family: Segoe UI, Arial, sans-serif;
+    line-height: normal;
+    =7D
+</style>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<=21=5Bendif-->
+  <p><=21--Leave Spaces 1019 characters for iOS Buffering-->       <=21--=
+=5Bif mso=5D>
+  <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22 />
+  <style type=3D=22text/css=22>
+    body =7B
+      margin: 0 =21important;
+        padding: 0 =21important;
+        font-family: Arial, sans-serif =21important;
+        =7D
+       =20
+    table, td, div, p =7B
+      font-family: Arial, sans-serif =21important;
+        line-height: normal;
+        =7D   =20
+  </style>
+  <=21=5Bendif=5D--></p>
+  <div id=3D=22qa-grid=22 style=3D=22display: none; background: linear-grad=
+ient(to bottom, rgba(0, 0, 0, 0=2E17), rgba(0, 0, 0, 0=2E17) 50%, rgba(255,=
+ 255, 255, 0=2E17) 50%, rgba(255, 255, 255, 0=2E17)) 0% 0% / 200% 16px; pos=
+ition: absolute; top: 1px; bottom: 0; left: 0; right: 0; z-index: 99999999;=
+ pointer-events: none;=22></div>
+  <=21-- 100% background wrapper (grey background) -->
+  <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;=22 width=3D=22100%=22 height=3D=22100%=22 cellspacing=3D=220=22 c=
+ellpadding=3D=220=22 border=3D=220=22 bgcolor=3D=22=23f2f2f2=22>
+   <tbody>
+    <tr>
+     <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt;=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 align=3D=
+=22center=22><span style=3D=22display: none; font-size: 0; max-height: 0; w=
+idth: 0; line-height: 0; mso-hide: all;=22>Your monthly digest for all thin=
+gs B2B Marketing</span>           <=21-- SPACES AFTER THE SNIPPET TO PREVET=
+ PULLING THE EMAILS COPY into snippet -->
+     <div style=3D=22display: none; font-size: 1px; color: =23FFFFFF;=22>&z=
+wnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; =
+&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj=
+; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zw=
+nj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &=
+zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;=
+ &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwn=
+j; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &z=
+wnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; =
+&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj=
+; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zw=
+nj;</div>
+     <=21-- THE GMAIL FIXER WEIRED THING -->
+     <div class=3D=22gmailfix=22 style=3D=22display: none =21important; whi=
+te-space: nowrap; font: 15px courier;=22></div>
+     <=21-- 512px container (white background) -->
+     <table id=3D=22body=22 class=3D=22container=22 valign=3D=22top=22 styl=
+e=3D=22width: 512px; max-width: 512px; border-spacing: 0; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt;=22 width=3D=22512=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 border=3D=220=22>
+      <=21-- /// PREHEADER ROW START /// -->
+      <tbody>
+       <tr>
+        <td class=3D=22hide=22 style=3D=22padding-top: 10px; padding-bottom=
+: 15px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt;=22 align=3D=22center=22>
+        <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;=22 width=3D=2295%=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 border=3D=220=22 align=3D=22center=22>
+         <tbody>
+          <tr>
+           <=21-- * COPY START * -->
+           <td style=3D=22font-size: 12px; font-family: Arial, sans-serif; =
+color: =23696969; border-collapse: collapse; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;=22 align=3D=22center=22>Your monthly digest for all things =
+B2B Marketing</td>
+           <=21-- * COPY END * -->
+          </tr>
+         </tbody>
+        </table>
+        </td>
+       </tr>
+       <=21-- /// PREHEADER ROW END /// -->             <=21-- /// 1 UNIVER=
+SAL HEADER ROW START /// -->
+       <tr>
+        <td class=3D=22padt10m padb10m=22 style=3D=22padding-top: 15px; pad=
+ding-bottom: 15px; border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt;=22 bgcolor=3D=22white=22 align=3D=22center=22>
+        <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;=22 width=3D=2285%=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 border=3D=220=22 align=3D=22center=22>
+         <tbody>
+          <tr>
+           <=21-- * LOGO START * -->
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22 width=3D=2236=22 align=3D=22left=22><a href=3D=
+=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzc=
+IzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDASY&_ei_=3DE=
+olaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVa=
+j7sPFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2E=22 style=3D=22text-=
+decoration: none; color: =232670B1;=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/linkedin/contentlibrary/jeangrey/icon=
+ography/jean-grey-linkedin-logo=2Epng=22 alt=3D=22LinkedIn=22 style=3D=22di=
+splay: block; font-size: 20px; font-weight: bold; font-family: sans-serif; =
+color: =230D0D0D; -ms-interpolation-mode: bicubic; border: 0;=22 class=3D=
+=22resizem=22 width=3D=2241=22 /></a></td>
+           <=21-- * LOGO END * -->
+           <td style=3D=22padding-left: 20px; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=
+=3D=220=22 border=3D=220=22>
+            <tbody>
+             <tr>
+              <=21-- * NAME START * -->
+              <td class=3D=22h3m=22 style=3D=22padding-right: 10px; font-fa=
+mily: Helvetica Neue, Arial, sans-serif; font-size: 14px; color: =23737373;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 align=3D=22right=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=
+=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ez=
+f65oAG96VXtpKX%3DSBDWDAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATH=
+qL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7sPFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84=
+bOLi89TtT_Q=2E=22 style=3D=22color: =237e7e7e; text-decoration: none;=22>Sa=
+rah Paz</a></td>
+              <=21-- * NAME END * -->
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=2236=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <=21-- * IMAGE START * -->
+                 <td style=3D=22-webkit-border-radius: 50%; -moz-border-rad=
+ius: 50%; border-radius: 50%; overflow: hidden; border-collapse: collapse; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt;=22 align=3D=22center=22><a hr=
+ef=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj=
+0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDAUY&_ei=
+_=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3=
+MeAVaj7sPFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2E=22 style=3D=22=
+text-decoration: none; color: =232670B1;=22><img src=3D=22http://m=2Ec=2Eln=
+kd=2Elicdn=2Ecom/mpr/mprhttps://media=2Elicdn=2Ecom/dms/image/C4E03AQGwVOiw=
+sdwCvg/profile-displayphoto-shrink_400_400/0?e=3D1570060800&v=3Dbeta&t=3Dn4=
+zuW9FQnwZzhd2Nbj8Ggx4GiHXeh29-uqsdu4D-ecQ=22 style=3D=22display: block; bac=
+kground-color: =230077B5; -ms-interpolation-mode: bicubic; border: 0;=22 cl=
+ass=3D=22resizem=22 width=3D=2236=22 alt=3D=22=22 /></a></td>
+                 <=21-- * IMAGE END * -->
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        </td>
+       </tr>
+       <=21-- /// 1 UNIVERSAL HEADER ROW END /// -->             <=21-- STA=
+RT CONTENT HERE -->
+       <tr>
+        <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt;=22>
+        <table id=3D=22main=22 class=3D=22container=22 valign=3D=22top=22 s=
+tyle=3D=22-webkit-border-radius: 3px; border-radius: 3px; width: 512px; max=
+-width: 512px; overflow: hidden; border-spacing: 0; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt;=22 width=3D=22512=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 border=3D=220=22>
+         <=21-- HERO START -->
+         <tbody>
+          <tr>
+           <td class=3D=22container-padding hero=22 style=3D=22padding-left=
+: 24px; padding-right: 24px; border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=22100%=22 bgcolor=3D=22=23FFFFFF=22 =
+align=3D=22center=22>
+           <div class=3D=22headline=22 style=3D=22color: =233C4345;=22></di=
+v>
+           <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsy=
+simages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_em_20190619_talkshop_=
+june_namer/lms-talk-shop-logo-header_2x=2Epng=22 class=3D=22image-responsiv=
+e=22 alt=3D=22Talk Shop=22 style=3D=22-ms-interpolation-mode: bicubic; colo=
+r: =233C4345;=22 width=3D=22284=22 />
+           <table class=3D=22table-spacer force-row=22 valign=3D=22top=22 s=
+tyle=3D=22font-size: 1px =21important; line-height: 1px =21important; mso-l=
+ine-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; mso-lin=
+e-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; min-width: 200px =21important; color: =233C4345;=22 width=3D=
+=22100%=22 height=3D=2227=22 cellspacing=3D=220=22 cellpadding=3D=220=22 bo=
+rder=3D=220=22 bgcolor=3D=22=22 align=3D=22center=22>
+            <tbody>
+             <tr style=3D=22color: =233C4345;=22>
+              <td style=3D=22font-size: 1px =21important; line-height: 1px =
+=21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bot=
+tom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; color=
+: =233C4345; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=222=
+7=22></td>
+             </tr>
+            </tbody>
+           </table>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; color: =233C4345;=22 width=3D=22100%=22 align=3D=22left=
+=22>
+            <tbody>
+             <tr style=3D=22color: =233C4345;=22>
+              <td style=3D=22border-collapse: collapse; color: =233C4345; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;=22>
+              <div class=3D=22text-body=22 style=3D=22font-family: &quot;He=
+lvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 14px; f=
+ont-weight: 400; line-height: 21px;=22>Summer is in full swing - that means=
+ heat waves, longer days, lots of sun (sunburns?) and vacations=2E Everyone=
+ always seems to be on vacation in the summer and things are *supposed* to =
+slow down, but then why are our inboxes still overflowing? <br /><br /> Rii=
+ight - YOU still have work to do=2E Someone has to lead the charge while yo=
+ur colleagues are out sunning themselves=21 And if you&rsquo;re not on vaca=
+tion (and let&rsquo;s face it, you&rsquo;re probably not if you&rsquo;re re=
+ading this email), then you&rsquo;re on the hook for doing something of val=
+ue today at work=2E The below can help=2E<br /><br /> Inside you'll find ti=
+ps for <a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpg=
+lLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3D=
+SBDWDABY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7=
+_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS9=
+53qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22=
+ target=3D=22_blank=22 style=3D=22text-decoration: none; color: =232670B1;=
+=22>reviving your storytelling</a> and <a href=3D=22https://e=2Elinkedin=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0=
+OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDADY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yf=
+WMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM9=
+24HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCtlVu=
+CDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=22text-deco=
+ration: none; color: =232670B1;=22>avoiding distraction</a> to help you add=
+ a little bit of summer sizzle to your marketing efforts=2E <br /><br /> So=
+ when your higher ups get back from their holidays to exotic places, you&rs=
+quo;ll have all you need to wow them=2E Now who&rsquo;s the boss? You are=2E
+              <p></p>
+              </div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <table class=3D=22table-spacer force-row=22 valign=3D=22top=22 s=
+tyle=3D=22font-size: 1px =21important; line-height: 1px =21important; mso-l=
+ine-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; mso-lin=
+e-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; min-width: 200px =21important; color: =233C4345;=22 width=3D=
+=22100%=22 height=3D=2227=22 cellspacing=3D=220=22 cellpadding=3D=220=22 bo=
+rder=3D=220=22 bgcolor=3D=22=22 align=3D=22center=22>
+            <tbody>
+             <tr style=3D=22color: =233C4345;=22>
+              <td style=3D=22font-size: 1px =21important; line-height: 1px =
+=21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bot=
+tom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; color=
+: =233C4345; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=222=
+7=22></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- HERO END -->
+          <tr>
+           <=21-- SECTION START -->
+           <td class=3D=22container-padding content section=22 style=3D=22b=
+order-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; pad=
+ding: 17=2E6px 24px;=22 width=3D=22100%=22 bgcolor=3D=22=23FFFFFF=22 align=
+=3D=22left=22><=21-- SECTION HEADER START -->
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 width=3D=22100%=22 align=3D=22left=22>
+            <tbody>
+             <tr>
+              <td style=3D=22min-width: 12px; max-width: 12px; width: 12px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=2212=22 bgcolor=3D=22=23F4BA64=22></td>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2230=22 bgcolor=
+=3D=22=23F4BA64=22 align=3D=22left=22>
+              <div class=3D=22text-header=22 style=3D=22font-family: &quot;=
+Helvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 14px;=
+ line-height: 20px; font-weight: 500;=22>WHAT'S TRENDING?</div>
+              </td>
+             </tr>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22>
+              <div style=3D=22width: 100%; height: 24px;=22></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <=21-- SECTION HEADER START -->
+           <div class=3D=22text-body-headline=22 style=3D=22font-family: &q=
+uot;Helvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 1=
+9px; font-weight: 500; line-height: 26px;=22>What's happening in B2B market=
+ing you ask? We're sharing our favorite articles from this month below=2E</=
+div>
+           <div style=3D=22width: 100%; height: 16px;=22></div>
+           <img class=3D=22image-responsive=22 src=3D=22https://static=2Ecd=
+n=2Eresponsys=2Enet/i5/responsysimages/content/linkedin/what-trending-july-=
+header=2Ejpg=22 alt=3D=22=22 style=3D=22width: 100% =21important; max-width=
+: 512px =21important; height: auto; -ms-interpolation-mode: bicubic;=22 />
+           <div style=3D=22width: 100%; height: 24px;=22></div>
+           <div style=3D=22width: 100%; height: 24px;=22></div>
+           <table valign=3D=22top=22 style=3D=22border-spacing: 0; mso-tabl=
+e-lspace: 0pt; mso-table-rspace: 0pt;=22 width=3D=22100%=22 align=3D=22left=
+=22>
+            &=239;&=239;&=239;&=239;&=239;
+            <tbody>
+             <tr>
+              <td style=3D=22padding-top: 5px; border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;=22 width=3D=2227=22 valign=3D=
+=22top=22 height=3D=2227=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2227=22 bgcolor=3D=22=
+=23FBEBD3=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22list-index=22 style=3D=22border-collapse: c=
+ollapse; font-weight: bold; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 bgcolor=3D=22=23FBEBD3=22 align=3D=22center=22>1</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+              <td style=3D=22padding-top: 5px; padding-left: 12px; border-c=
+ollapse: collapse; font-size: 14px; line-height: 21px; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt;=22 class=3D=22list-body=22 valign=3D=22top=22><a =
+href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGp=
+Xj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDADY&_=
+ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwp=
+xByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhU=
+lNFbDEHib75xqKHk2iMExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=
+=22_blank=22 style=3D=22text-decoration: none; color: =232670B1;=22> 5 Ways=
+ for Content Marketers to Avoid Shiny Object Syndrome </a> - It never hurts=
+ to evaluate new technologies, new channels, or new ways to reach your audi=
+ence=2E Just don&rsquo;t let the latest big thing distract from what&rsquo;=
+s already working, says Marketing Insider Group&rsquo;s <a href=3D=22https:=
+//e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaD=
+zgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDBSY&_ei_=3DEr3-ieaLVl=
+TpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xa=
+xxNLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk=
+2iMExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 sty=
+le=3D=22text-decoration: none; color: =232670B1;=22>Michael Brenner</a>
+              <table class=3D=22table-spacer force-row=22 valign=3D=22top=
+=22 style=3D=22font-size: 1px =21important; line-height: 1px =21important; =
+mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; ms=
+o-line-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; min-width: 200px =21important;=22 width=3D=22100%=22 hei=
+ght=3D=2230=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ bgcolor=3D=22=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22font-size: 1px =21important; line-height: 1=
+px =21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-=
+bottom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=2230=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=2227=22 valign=3D=22top=22 height=3D=
+=2227=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2227=22 bgcolor=3D=22=
+=23FBEBD3=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22list-index=22 style=3D=22border-collapse: c=
+ollapse; font-weight: bold; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 bgcolor=3D=22=23FBEBD3=22 align=3D=22center=22>2</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+              <td style=3D=22padding-left: 12px; border-collapse: collapse;=
+ font-size: 14px; line-height: 21px; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt;=22 class=3D=22list-body=22 valign=3D=22top=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDBUY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>What B2B Marketers can Le=
+arn From Craft Breweries</a> - Is your content crisp as an IPA, fresh as a =
+Hefeweizen, and satisfying as a stout? <a href=3D=22https://e=2Elinkedin=2E=
+com/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0=
+OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDBYY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yf=
+WMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM9=
+24HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCtlVu=
+CDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=22text-deco=
+ration: none; color: =232670B1;=22>Kathryn Hawkins</a> explains how to enga=
+ge your audience and build relationships, with tips borrowed from microbrew=
+eries=2E
+              <table class=3D=22table-spacer force-row=22 valign=3D=22top=
+=22 style=3D=22font-size: 1px =21important; line-height: 1px =21important; =
+mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; ms=
+o-line-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; min-width: 200px =21important;=22 width=3D=22100%=22 hei=
+ght=3D=2230=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ bgcolor=3D=22=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22font-size: 1px =21important; line-height: 1=
+px =21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-=
+bottom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=2230=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=2227=22 valign=3D=22top=22 height=3D=
+=2227=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2227=22 bgcolor=3D=22=
+=23FBEBD3=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22list-index=22 style=3D=22border-collapse: c=
+ollapse; font-weight: bold; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 bgcolor=3D=22=23FBEBD3=22 align=3D=22center=22>3</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+              <td style=3D=22padding-left: 12px; border-collapse: collapse;=
+ font-size: 14px; line-height: 21px; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt;=22 class=3D=22list-body=22 valign=3D=22top=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDBDY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>Be Better at B2B: How to =
+Improve B2B Marketing on LinkedIn</a> - We may be slightly biased in thinki=
+ng that LinkedIn is the perfect place for B2B marketing=2E You don&rsquo;t =
+have to take our word for it: <a href=3D=22https://e=2Elinkedin=2Ecom/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7=
+zfP4ezf65oAG96VXtpKX%3DSBDWDCUY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yfWMJMHrIJQ=
+LGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM924HrgS9Fq=
+d16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCtlVuCDrCTUoo0=
+v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=22text-decoration: n=
+one; color: =232670B1;=22>Ricky van der Walt</a> shares his experience with=
+ the platform, and offers tips for achieving even better results=2E
+              <table class=3D=22table-spacer force-row=22 valign=3D=22top=
+=22 style=3D=22font-size: 1px =21important; line-height: 1px =21important; =
+mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; ms=
+o-line-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; min-width: 200px =21important;=22 width=3D=22100%=22 hei=
+ght=3D=2230=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ bgcolor=3D=22=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22font-size: 1px =21important; line-height: 1=
+px =21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-=
+bottom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=2230=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             &=239;&=239;&=239;&=239;&=239;&=239;   &=239;&=239;&=239;&=239=
+;&=239;&=239;   &=239;&=239;&=239;&=239;&=239;&=239;
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=2227=22 valign=3D=22top=22 height=3D=
+=2227=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2227=22 bgcolor=3D=22=
+=23FBEBD3=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22list-index=22 style=3D=22border-collapse: c=
+ollapse; font-weight: bold; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 bgcolor=3D=22=23FBEBD3=22 align=3D=22center=22>4</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+              <td style=3D=22padding-left: 12px; border-collapse: collapse;=
+ font-size: 14px; line-height: 21px; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt;=22 class=3D=22list-body=22 valign=3D=22top=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDABY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>Writing for B2B Audiences=
+: Five Ways to Revive Your Storytelling</a> - The right kind of B2B content=
+ doesn&rsquo;t just engage an audience; it moves them to action=2E These ti=
+ps from <a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQp=
+glLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3=
+DSBDWDCBY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe=
+7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS=
+953qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=
+=22 target=3D=22_blank=22 style=3D=22text-decoration: none; color: =232670B=
+1;=22>Kathleen Lucente</a> can help your content make a bigger impact=2E
+              <table class=3D=22table-spacer force-row=22 valign=3D=22top=
+=22 style=3D=22font-size: 1px =21important; line-height: 1px =21important; =
+mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; ms=
+o-line-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; min-width: 200px =21important;=22 width=3D=22100%=22 hei=
+ght=3D=2230=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ bgcolor=3D=22=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22font-size: 1px =21important; line-height: 1=
+px =21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-=
+bottom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=2230=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             &=239;&=239;&=239;&=239;&=239;&=239;
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=2227=22 valign=3D=22top=22 height=3D=
+=2227=22 align=3D=22center=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2227=22 bgcolor=3D=22=
+=23FBEBD3=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22list-index=22 style=3D=22border-collapse: c=
+ollapse; font-weight: bold; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 bgcolor=3D=22=23FBEBD3=22 align=3D=22center=22>5</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+              <td style=3D=22padding-left: 12px; border-collapse: collapse;=
+ font-size: 14px; line-height: 21px; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt;=22 class=3D=22list-body=22 valign=3D=22top=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDDSY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>Introducing a More Powerf=
+ul Campaign Manager</a> - We&rsquo;ve introduced three new objectives to Ca=
+mpaign Manager to support your business goals=2E Read why we&rsquo;re commi=
+tted to making campaign creation easier for marketers like you=2E
+              <table class=3D=22table-spacer force-row=22 valign=3D=22top=
+=22 style=3D=22font-size: 1px =21important; line-height: 1px =21important; =
+mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-bottom-alt: 0; ms=
+o-line-height-rule: exactly; border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; min-width: 200px =21important;=22 width=3D=22100%=22 hei=
+ght=3D=2230=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22=
+ bgcolor=3D=22=22 align=3D=22center=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22font-size: 1px =21important; line-height: 1=
+px =21important; mso-line-height-alt: 0; mso-margin-top-alt: 0; mso-margin-=
+bottom-alt: 0; mso-line-height-rule: exactly; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt;=22 height=3D=2230=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <div style=3D=22width: 100%; height: 9px;=22></div>
+           <table class=3D=22 force-row=22 style=3D=22border-spacing: 0; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 200px =21important;=
+=22 width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 align=3D=22center=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 align=3D=22left=22>
+               <tbody>
+                <tr>
+                 <td class=3D=22button-td=22 style=3D=22-webkit-border-radi=
+us: 2px; padding: 9px 18px; border-radius: 2px; font-size: 14px; line-heigh=
+t: 18px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt;=22 bgcolor=3D=22=230077B5=22 align=3D=22center=22><a href=3D=22https=
+://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOta=
+DzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDDUY&_ei_=3DEr3-ieaLV=
+lTpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4X=
+axxNLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKH=
+k2iMExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 st=
+yle=3D=22text-decoration: none; color: =23ffffff; font-size: 14px; line-hei=
+ght: 17px; font-family: &quot;Helvetica Neue&quot;, Arial, sans-serif; font=
+-weight: bold; display: inline-block;=22>Read more articles</a></td>
+                </tr>
+               </tbody>
+              </table>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=
+=3D=22right=22>
+               <tbody>
+                <tr>
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 align=3D=22right=22>
+                 <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt;=22>
+                  <tbody>
+                   <tr>
+                    <=21-- SHARE TEXT START -->
+                    <td style=3D=22border-collapse: collapse; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;=22>
+                    <div class=3D=22text-body=22 style=3D=22font-family: &q=
+uot;Helvetica Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 1=
+4px; font-weight: 400; line-height: 21px;=22>Share</div>
+                    </td>
+                    <=21-- SHARE TEXT END -->
+                    <td style=3D=22min-width: 5px; max-width: 5px; width: 5=
+px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;=22 width=3D=225=22></td>
+                    <=21-- SHARE FACEBOOK START -->
+                    <td style=3D=22border-collapse: collapse; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgj=
+zbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDDBY&_ei_=3DEr3-ieaLVlTpz=
+KpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxN=
+LSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iM=
+ExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>                         =
+                  <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newsl=
+etter/lms-facebook-social-share-icon_2x=2Epng=22 alt=3D=22Facebook=22 style=
+=3D=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 =
+/>                                         </a></td>
+                    <=21-- SHARE FACEBOOK END -->
+                    <td style=3D=22min-width: 5px; max-width: 5px; width: 5=
+px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;=22 width=3D=225=22></td>
+                    <=21-- SHARE TWITTER START -->
+                    <td style=3D=22border-collapse: collapse; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgj=
+zbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDDDY&_ei_=3DEr3-ieaLVlTpz=
+KpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxN=
+LSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iM=
+ExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>                         =
+                  <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newsl=
+etter/lms-twitter-social-share-icon_2x=2Epng=22 alt=3D=22Twitter=22 style=
+=3D=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 =
+/>                                         </a></td>
+                    <=21-- SHARE TWITTER END -->
+                    <td style=3D=22min-width: 5px; max-width: 5px; width: 5=
+px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+;=22 width=3D=225=22></td>
+                    <=21-- SHARE LINKEDIN START -->
+                    <td style=3D=22border-collapse: collapse; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=
+=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgj=
+zbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRRBY&_ei_=3DEr3-ieaLVlTpz=
+KpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxN=
+LSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iM=
+ExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =232670B1;=22>                         =
+                  <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/r=
+esponsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newsl=
+etter/lms-inbug-social-share-icon_2x=2Epng=22 alt=3D=22Linkedin=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                    <=21-- SHARE LINKEDIN END -->
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <div style=3D=22width: 100%; height: 24px;=22></div>
+           </td>
+           <=21-- SECTION END -->
+          </tr>
+          <tr>
+           <=21-- SECTION START -->
+           <td class=3D=22container-padding content section=22 style=3D=22b=
+order-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; pad=
+ding: 17=2E6px 24px;=22 width=3D=22100%=22 bgcolor=3D=22=23FCF9F3=22 align=
+=3D=22left=22><=21-- SECTION HEADER START -->
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 width=3D=22100%=22 align=3D=22left=22>
+            <tbody>
+             <tr>
+              <td style=3D=22min-width: 12px; max-width: 12px; width: 12px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=2212=22 bgcolor=3D=22=23F4BA64=22></td>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2230=22 bgcolor=
+=3D=22=23F4BA64=22 align=3D=22left=22>
+              <div class=3D=22text-header=22 style=3D=22font-family: &quot;=
+Helvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 14px;=
+ line-height: 20px; font-weight: 500;=22>OVERHEARD IN MARKETING</div>
+              </td>
+             </tr>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22>
+              <div style=3D=22width: 100%; height: 24px;=22></div>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <=21-- SECTION HEADER START -->
+           <div class=3D=22text-body-headline=22 style=3D=22font-family: &q=
+uot;Helvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 2=
+4px; font-weight: 500; line-height: 26px;=22>Those =23relatable moments in =
+marketing=2E</div>
+           <div style=3D=22width: 100%; height: 16px;=22></div>
+           <div class=3D=22text-body=22 style=3D=22font-family: &quot;Helve=
+tica Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px; font=
+-weight: 400; line-height: 21px;=22>When your repurposed content outperform=
+s its original posting=2E</div>
+           <=21-- INSERT INSTAGRAM SHARE ICON? -->                  &=239;&=
+=239;&=239;&=239;&=239;&=239;
+           <div style=3D=22width: 100%; height: 9px;=22></div>
+           <table class=3D=22 force-row=22 style=3D=22border-spacing: 0; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 200px =21important;=
+=22 width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=
+=3D=220=22 align=3D=22center=22>
+            <tbody>
+             <tr>
+             </tr>
+            </tbody>
+           </table>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=
+=22right=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 align=3D=22right=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22>
+               <tbody>
+                <tr>
+                 <=21-- SHARE TEXT START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22>
+                 <div class=3D=22text-body=22 style=3D=22font-family: &quot=
+;Helvetica Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px=
+; font-weight: 400; line-height: 21px;=22>Share</div>
+                 </td>
+                 <=21-- SHARE TEXT END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE FACEBOOK START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRSSY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-facebook-social-share-icon_2x=2Epng=22 alt=3D=22Facebook=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE FACEBOOK END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE TWITTER START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRSYY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-twitter-social-share-icon_2x=2Epng=22 alt=3D=22Twitter=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE TWITTER END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE LINKEDIN START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRSDY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-inbug-social-share-icon_2x=2Epng=22 alt=3D=22Linkedin=22 style=3D=22=
+display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 />    =
+                                     </a></td>
+                 <=21-- SHARE LINKEDIN END -->
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- SECTION END --></td>
+       </tr>
+       <tr>
+        <=21-- SECTION START -->
+        <td class=3D=22container-padding content section=22 style=3D=22bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; paddin=
+g: 17=2E6px 24px;=22 width=3D=22100%=22 bgcolor=3D=22=23FFFFFF=22 align=3D=
+=22left=22><=21-- SECTION HEADER START -->
+        <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;=22 width=3D=22100%=22 align=3D=22left=22>
+         <tbody>
+          <tr>
+           <td style=3D=22min-width: 12px; max-width: 12px; width: 12px; bo=
+rder-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=22 w=
+idth=3D=2212=22 bgcolor=3D=22=23F4BA64=22></td>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2230=22 bgcolor=3D=
+=22=23F4BA64=22 align=3D=22left=22>
+           <div class=3D=22text-header=22 style=3D=22font-family: &quot;Hel=
+vetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 14px; li=
+ne-height: 20px; font-weight: 500;=22>CONTRARIAN MARKETING TIP OF THE MONTH=
+</div>
+           </td>
+          </tr>
+          <tr>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22>
+           <div style=3D=22width: 100%; height: 24px;=22></div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <=21-- SECTION HEADER START -->
+        <div class=3D=22text-body-headline=22 style=3D=22font-family: &quot=
+;Helvetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 24px=
+; font-weight: 500; line-height: 26px;=22>Tips for marketers who aren't afr=
+aid to reject consensus opinion=2E</div>
+        <div style=3D=22width: 100%; height: 16px;=22></div>
+        <div class=3D=22text-body=22 style=3D=22font-family: &quot;Helvetic=
+a Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px; font-we=
+ight: 400; line-height: 21px;=22>Marketers think ideas need to be original =
+or new in order to be good, but customers routinely disagree=2E Buyers like=
+ useful ideas that work -- they don&rsquo;t care whether the insight is hot=
+ off the press or four thousand years old=2E</div>
+        <div style=3D=22width: 100%; height: 24px;=22></div>
+        <table class=3D=22 force-row=22 style=3D=22border-spacing: 0; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; min-width: 200px =21important;=22 =
+width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22 align=3D=22center=22>
+         <tbody>
+          <tr>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=
+=220=22 align=3D=22left=22>
+            <tbody>
+             <tr>
+              <td class=3D=22button-td=22 style=3D=22-webkit-border-radius:=
+ 2px; padding: 9px 18px; border-radius: 2px; font-size: 14px; line-height: =
+18px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt;=22 bgcolor=3D=22=230077B5=22 align=3D=22center=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRTSY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =23ffffff; font-size: 14px; line-height=
+: 17px; font-family: &quot;Helvetica Neue&quot;, Arial, sans-serif; font-we=
+ight: bold; display: inline-block;=22>Learn more</a></td>
+             </tr>
+            </tbody>
+           </table>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=
+=22right=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 align=3D=22right=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22>
+               <tbody>
+                <tr>
+                 <=21-- SHARE TEXT START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22>
+                 <div class=3D=22text-body=22 style=3D=22font-family: &quot=
+;Helvetica Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px=
+; font-weight: 400; line-height: 21px;=22>Share</div>
+                 </td>
+                 <=21-- SHARE TEXT END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE FACEBOOK START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRTUY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-facebook-social-share-icon_2x=2Epng=22 alt=3D=22Facebook=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE FACEBOOK END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE TWITTER START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRTYY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-twitter-social-share-icon_2x=2Epng=22 alt=3D=22Twitter=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE TWITTER END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE LINDEDIN START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRUSY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-inbug-social-share-icon_2x=2Epng=22 alt=3D=22Linkedin=22 style=3D=22=
+display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 />    =
+                                     </a></td>
+                 <=21-- SHARE LINDEDIN END -->
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <div style=3D=22width: 100%; height: 24px;=22></div>
+        </td>
+        <=21-- SECTION END -->
+       </tr>
+       &=239;&=239;&=239;&=239;&=239; &=239;&=239;&=239;&=239;&=239; &=239;=
+&=239;&=239;&=239;&=239; &=239;&=239;&=239;&=239;&=239; &=239;&=239;&=239;&=
+=239; <=21-- SECTION START -->
+       <tr>
+        <td class=3D=22container-padding content section=22 style=3D=22bord=
+er-bottom-width: 4px; border-bottom-color: =23F4BA64; border-bottom-style: =
+solid; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; padding: 17=2E6px 24px;=22 width=3D=22100%=22 bgcolor=3D=22=23FCF9F3=
+=22 align=3D=22center=22><=21-- SECTION HEADER START -->
+        <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;=22 width=3D=22100%=22 align=3D=22left=22>
+         <tbody>
+          <tr>
+           <td style=3D=22min-width: 12px; max-width: 12px; width: 12px; bo=
+rder-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=22 w=
+idth=3D=2212=22 bgcolor=3D=22=23F4BA64=22></td>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22 width=3D=22100%=22 height=3D=2230=22 bgcolor=3D=
+=22=23F4BA64=22 align=3D=22left=22>
+           <div class=3D=22text-header=22 style=3D=22font-family: &quot;Hel=
+vetica Neue&quot;, Arial, sans-serif; color: =233C4345; font-size: 14px; li=
+ne-height: 20px; font-weight: 500;=22>MARKETER SPOTLIGHT</div>
+           </td>
+          </tr>
+          &=239;&=239;&=239;&=239;&=239;&=239;   &=239;&=239;&=239;&=239;&=
+=239;&=239;
+          <tr>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22>
+           <div style=3D=22width: 100%; height: 24px;=22></div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        &=239;&=239;&=239;&=239;&=239;&=239; &=239;&=239;&=239;&=239;&=239;=
+&=239;   <=21-- SECTION HEADER START --> <img class=3D=22image-icon=22 src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/lin=
+kedin/alicia_tillman_photo=2Ejpeg=22 alt=3D=22Amy Tillman=22 style=3D=22-we=
+bkit-border-radius: 0%;&=2310;-moz-border-radius: 50%;&=2310;border-radius:=
+ 50%; overflow: hidden; -ms-interpolation-mode: bicubic;=22 width=3D=2266=
+=22 />
+        <div style=3D=22width: 100%; height: 24px;=22></div>
+        <div class=3D=22quote=22 style=3D=22font-family: &quot;Helvetica Ne=
+ue&quot;, Arial, sans-serif; color: =23262626; font-size: 24px; font-weight=
+: 400; line-height: 27px;=22><span class=3D=22entity=22 style=3D=22color: =
+=23F4BA64; font-size: 24px;=22><img class=3D=22image-icon=22 src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin/contentlibrar=
+y/lms/lmsacq2019lit/lms_prospect_newsletter/quotation-start=2Epng=22 alt=3D=
+=22=22 style=3D=22-ms-interpolation-mode: bicubic;=22 width=3D=2218=22 /></=
+span>  <span>Brands win or lose based on the value and quality of the exper=
+iences they offer=2E</span>  <span class=3D=22entity=22 style=3D=22color: =
+=23F4BA64; font-size: 24px;=22><img class=3D=22image-icon=22 src=3D=22https=
+://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/linkedin/contentlibrar=
+y/lms/lmsacq2019lit/lms_prospect_newsletter/quotation-end=2Epng=22 alt=3D=
+=22=22 style=3D=22-ms-interpolation-mode: bicubic;=22 width=3D=2218=22 /></=
+span></div>
+        &=239;&=239;&=239;&=239;&=239;&=239;
+        <div style=3D=22width: 100%; height: 16px;=22></div>
+        <div class=3D=22text-body=22 style=3D=22font-family: &quot;Helvetic=
+a Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px; font-we=
+ight: 400; line-height: 21px;=22><strong><a href=3D=22https://e=2Elinkedin=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U=
+8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRUUY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp=
+_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSMCtQJKuAv=
+RM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExvITssClCt=
+lVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=22text-d=
+ecoration: none; color: =232670B1;=22>Amy Tillman</a></strong>, CMO at SAP<=
+/div>
+        <div style=3D=22width: 100%; height: 32px;=22></div>
+        <table class=3D=22 force-row=22 style=3D=22border-spacing: 0; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; min-width: 200px =21important;=22 =
+width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22 align=3D=22center=22>
+         <tbody>
+          <tr>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=
+=220=22 align=3D=22center=22>
+            <tbody>
+             <tr>
+              <td class=3D=22button-td=22 style=3D=22-webkit-border-radius:=
+ 2px; padding: 9px 18px; border-radius: 2px; font-size: 14px; line-height: =
+18px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt;=22 bgcolor=3D=22=230077B5=22 align=3D=22center=22><a href=3D=22https://=
+e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzg=
+jzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRUBY&_ei_=3DEr3-ieaLVlTp=
+zKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4Xaxx=
+NLSMCtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2i=
+MExvITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=
+=3D=22text-decoration: none; color: =23ffffff; font-size: 14px; line-height=
+: 17px; font-family: &quot;Helvetica Neue&quot;, Arial, sans-serif; font-we=
+ight: bold; display: inline-block;=22>Read more</a></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        &=239;&=239;&=239;&=239;&=239;&=239;
+        <table class=3D=22 force-row=22 style=3D=22border-spacing: 0; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; min-width: 200px =21important;=22 =
+width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=22=
+0=22 align=3D=22center=22>
+         <tbody>
+          <tr>
+           <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt;=
+ mso-table-rspace: 0pt;=22>
+           <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt;=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=
+=22right=22>
+            <tbody>
+             <tr>
+              <td style=3D=22border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;=22 align=3D=22right=22>
+              <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt;=22>
+               <tbody>
+                <tr>
+                 <=21-- SHARE TEXT START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22>
+                 <div class=3D=22text-body=22 style=3D=22font-family: &quot=
+;Helvetica Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px=
+; font-weight: 400; line-height: 21px;=22>Share</div>
+                 </td>
+                 <=21-- SHARE TEXT END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE FACEBOOK START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRWSY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-facebook-social-share-icon_2x=2Epng=22 alt=3D=22Facebook=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE FACEBOOK END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE TWITTER START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRWUY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-twitter-social-share-icon_2x=2Epng=22 alt=3D=22Twitter=22 style=3D=
+=22display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 /> =
+                                        </a></td>
+                 <=21-- SHARE TWITTER END -->
+                 <td style=3D=22min-width: 5px; max-width: 5px; width: 5px;=
+ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+=22 width=3D=225=22></td>
+                 <=21-- SHARE LINDEDIN START -->
+                 <td style=3D=22border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt;=22 width=3D=2221=22><a href=3D=22https://e=2E=
+linkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbK=
+OjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRWBY&_ei_=3DEr3-ieaLVlTpzKpf=
+E3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg0TLe7_9y34mMqwpxByWhIygrd0Qq4XaxxNLSM=
+CtQJKuAvRM924HrgS9Fqd16ag26d_u3UnxxOFPr1hS953qoSDOOhUlNFbDEHib75xqKHk2iMExv=
+ITssClCtlVuCDrCTUoo0v2yX2wSSJPaqig4dA=2E=22 target=3D=22_blank=22 style=3D=
+=22text-decoration: none; color: =232670B1;=22>                            =
+               <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/resp=
+onsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms_prospect_newslett=
+er/lms-inbug-social-share-icon_2x=2Epng=22 alt=3D=22Linkedin=22 style=3D=22=
+display: block; -ms-interpolation-mode: bicubic;=22 width=3D=2221=22 />    =
+                                     </a></td>
+                 <=21-- SHARE LINDEDIN END -->
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <div style=3D=22width: 100%; height: 24px;=22></div>
+        </td>
+        <=21-- SECTION END -->
+       </tr>
+       <tr>
+        <=21-- SECTION START -->
+        <td class=3D=22container-padding content section=22 style=3D=22bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; paddin=
+g: 17=2E6px 24px;=22 width=3D=22100%=22 bgcolor=3D=22=23FFFFFF=22 align=3D=
+=22center=22>
+        <div style=3D=22width: 100%; height: 10px;=22></div>
+        <div style=3D=22width: 100%; height: 10px;=22></div>
+        <img class=3D=22image-icon=22 src=3D=22https://static=2Ecdn=2Erespo=
+nsys=2Enet/i5/responsysimages/linkedin/contentlibrary/lms/lmsacq2019lit/lms=
+_prospect_newsletter/lms-subscribe-icon_2x=2Epng=22 alt=3D=22=22 style=3D=
+=22-ms-interpolation-mode: bicubic;=22 width=3D=2220=22 />
+        <div style=3D=22width: 100%; height: 14px;=22></div>
+        <div class=3D=22text-body=22 style=3D=22font-family: &quot;Helvetic=
+a Neue&quot;, Arial, sans-serif; color: =23737373; font-size: 14px; font-we=
+ight: 400; line-height: 21px;=22><span style=3D=22font-size: 16px; font-wei=
+ght: 500; color: =23262626;=22>Like what you see?</span>                   =
+      <br /><a href=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3=
+DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtp=
+KX%3DSBDYRYSY&_ei_=3DEr3-ieaLVlTpzKpfE3Gl8ctp_yfWMJMHrIJQLGlL0RTVjZtKI0E1zg=
+0TLe7_9y34mQVODR244XLD2eLZimUCpst4h3K8uZaA_i9ppw-qYx168IGYuw9lRd09E-KD5lIX4=
+Svp-lveX85NBm8rhIBHORWiI2ODVNmxAngRit0DAsU1podfiQZH6FxALg8pDfcDaWqxjdmVBUGJ=
+dOqBJRd3o27fQrK9Iic4Opsf5ei22_51hQ0UwoDQvDAyPXa2q_0sUrxuTSUoYng=2E=22 targe=
+t=3D=22_blank=22 style=3D=22text-decoration: none; color: =232670B1;=22>Sub=
+scribe here=2E</a></div>
+        <div style=3D=22width: 100%; height: 8px;=22></div>
+        <div style=3D=22width: 100%; height: 8px;=22></div>
+        </td>
+        <=21-- SECTION END -->
+       </tr>
+      </tbody>
+     </table>
+     </td>
+    </tr>
+    <=21-- END CONTENT HERE -->
+   </tbody>
+  </table>
+  <=21--/512px container -->           <=21-- =7C=7C=7C FOOTER TABLE START =
+=7C=7C=7C -->
+  <table style=3D=22border-spacing: 0; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;=22 width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22=
+ border=3D=220=22 align=3D=22center=22>
+   <tbody>
+    <tr>
+     <td style=3D=22border-collapse: collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt;=22 align=3D=22center=22>
+<=21-- Footer -->
+<table class=3D=22width320=22 width=3D=22512=22 border=3D=220=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22backgro=
+und-color:=23f2f2f2;=22>
+<tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22left=22 valign=3D=22top=22 bgcolor=3D=22=23f2f2f2=22 style=3D=22backgrou=
+nd-color:=23f2f2f2;=22>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2224=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22><a href=
+=3D=22https://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0g=
+mzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDWDYBY&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3M=
+eAVaj7sPFjkLs5XDs-Lx8SMt9CmhVzxK9Bh2uPTaSaMvLsCworVeE5fQIGzONJv5KP-dCWQqHq3=
+hAT-DiijcBoUlpw4bf8ok3gfkgj5sRi4ecxs1nxUkkW_v1vb5r5BaTFXbGyVwiG1lCioZEn4zz6=
+tgmjSMR1vXT_w=2E=22 style=3D=22color:=23737373; text-decoration:underline;=
+=22>Unsubscribe</a>&nbsp;&nbsp;&nbsp;=7C&nbsp;&nbsp;&nbsp;<a href=3D=22http=
+s://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOt=
+aDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRYUY&_ei_=3DEolaGGF4=
+SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7sPFjk=
+Ls5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2E=22 style=3D=22color:=23737=
+373; text-decoration:underline;=22>Help</a></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22 style=3D=22font-family:Helvetica, Arial, sans-serif; font-siz=
+e:12px; font-weight:normal; color:=23737373; line-height:normal;=22>This is=
+ an occasional email to help you get the most out of LinkedIn=2E</td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22464=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>This email was intended for  Sarah Paz (F=
+ull Stack Web Dev Student &=23x2b; E-Commerce Specialist)=2E <a href=3D=22h=
+ttps://e=2Elinkedin=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaa=
+eOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXtpKX%3DSBDYRYYY&_ei_=3DEolaG=
+GF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7sP=
+FjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2E=22 style=3D=22color:=23=
+008cc9; text-decoration:none;=22>Learn why we included this</a>=2E</td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width320=22 width=3D=22512=22 colspan=3D=223=22 align=3D=
+=22center=22 valign=3D=22top=22><a href=3D=22https://e=2Elinkedin=2Ecom/pub=
+/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0R=
+O7zfP4ezf65oAG96VXtpKX%3DSBDWDASY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5=
+XCDqKATHqL5BiABNg_ei22f9pEqu285S7cuU3MeAVaj7sPFjkLs5WviXIttbCio4W6JjhLQeg7D=
+06zZYE84bOLi89TtT_Q=2E=22 rilt=3D=22LOGO=22><img src=3D=22https://static=2E=
+cdn=2Eresponsys=2Enet/i5/responsysimages/linkedin/contentlibrary/oldcontent=
+/cm_footer_and_text/footer_phoenix_english=2Eimages/logo=2Epng=22 alt=3D=22=
+LinkedIn Logo=22 border=3D=220=22 style=3D=22display:block; border:none;=22=
+  /></a></td>
+  </tr>
+  <tr>
+    <td class=3D=22cell12x15=22 width=3D=2224=22 height=3D=2210=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 align=3D=22left=22 valign=3D=
+=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22center=22 valig=
+n=3D=22top=22><=21-- ***EDIT NOTE: Adjust the width on the table below to c=
+hange where the new lines wrap in the copy=2E  The width must be between 28=
+8 and 464=2E -->
+      <table class=3D=22width296=22 width=3D=22450=22 border=3D=220=22 alig=
+n=3D=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+          <td align=3D=22center=22 valign=3D=22top=22 style=3D=22font-famil=
+y:Helvetica, Arial, sans-serif; font-size:12px; font-weight:normal; color:=
+=23737373; line-height:normal;=22>&=23169; 2019, LinkedIn Ireland Ltd=2E Al=
+l rights reserved=2E LinkedIn Ireland Unlimited Company&=2344; Gardner Hous=
+e&=2344; Wilton Plaza&=2344; Wilton Place&=2344; Dublin 2&=2344; Ireland </=
+td>
+        </tr>
+      </table></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+  <tr>
+    <td class=3D=22width12=22 width=3D=2224=22 height=3D=2230=22 align=3D=
+=22left=22 valign=3D=22top=22></td>
+    <td class=3D=22width296=22 width=3D=22464=22 align=3D=22left=22 valign=
+=3D=22top=22></td>
+    <td class=3D=22width12=22 width=3D=2224=22></td>
+  </tr>
+</td>
+  </tr></table></td>
+    </tr>
+   </tbody>
+  </table>
+  <=21-- =7C=7C=7C FOOTER TABLE END =7C=7C=7C -->            <=21--/100% ba=
+ckground wrapper-->
+  <div class=3D=22gmailfix=22 style=3D=22white-space: nowrap; display: none=
+ =21important; font: 15px courier;=22></div>
+  </meta>
+  </meta>
+  </meta>
+  </meta>
+  </meta>
+  </p><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Elinkedin=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGpXj0gmzcIzaaeOtaDzgjzbKOjRGA39U8i0OFdcR0RO7zfP4ezf65oAG96VXHkMX%3Dw&=
+_ei_=3DEolaGGF4SNMvxFF7KucKuWNh54ymMVokn5XCDqKATHqL5BiABNg_ei22f9pEqu285S7c=
+uU3MeAVaj7sPFjkLs5WviXIttbCio4W6JjhLQeg7D06zZYE84bOLi89TtT_Q=2E=22></img>
+</td>
+</tr>
+</table>
+ </body>
+</html>
+
+------alt_border_x6Pbdzr547_1--
+
+------msg_border_GoWZEaXjEC--
+

@@ -1,0 +1,723 @@
+Return-Path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id qHIRFYnC3Fx5NScAOhTp2Q
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Wed, 15 May 2019 21:53:13 -0400
+Return-path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 15 May 2019 21:53:13 -0400
+Received: from o12.sendgrid.ziprecruiter.com ([167.89.32.19]:18518)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1hR5a1-00An1a-Fq
+	for hey@sarahpaz.ca; Wed, 15 May 2019 21:53:13 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=sendgrid.ziprecruiter.com; 
+	h=mime-version:content-type:content-transfer-encoding:to:subject:from; 
+	s=smtpapi; bh=SyxcG12x0i3YJ2qZyIeuvKvU6io=; b=DRPs6+j4pD5dUo/ZGy
+	ADwp21BRl7rfZLvGOD6evG5d51JQEsvL4gBaqMifpsjXnZ+dAmrwN+Oh5XZfKk0r
+	UpPOrRp/TjkW7jqUjGzQQB1QUv+sjAT9TYDkce42BXM1SmLQJ+Z7OMX7yBN3UmsC
+	DDgqW0yevQS0DNU8Bp+Tsivt0=
+Received: by filter1167p1las1.sendgrid.net with SMTP id filter1167p1las1-29466-5CDCC25C-1F
+        2019-05-16 01:52:28.470745652 +0000 UTC m=+187952.937334586
+Received: from zipalerts.com (ec2-52-23-117-207.compute-1.amazonaws.com [52.23.117.207])
+	by ismtpd0039p1iad2.sendgrid.net (SG) with ESMTP id 2bQvVxa8RYiRj5uD2MINYg
+	for <hey@sarahpaz.ca>; Thu, 16 May 2019 01:52:28.319 +0000 (UTC)
+Date: Thu, 16 May 2019 01:52:28 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="15579715480.7fa8.23471"
+Content-Transfer-Encoding: 7bit
+To: "Sarah Paz" <hey@sarahpaz.ca>
+Subject: You've Unlocked the Smartest Way to Get Hired!
+From: "Team @ ZipRecruiter" <seekerteam@ziprecruiter.com>
+Message-ID: <2bQvVxa8RYiRj5uD2MINYg@ismtpd0039p1iad2.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVlums4oLFCm6Xw9zGFFeFl1hZ1qcD6DbqFfWK
+ k9hEO4BhWpniU5PVrNf9z16wgvk//s0UWnnlEIKuy4FMqWn4YXv9r4e8PL2aaLDYK2vyVB8evfsni8
+ 7bUNAXL+0WRoQ2CX0mPv5bHT9pkcFumlbOsD5mbt+yEL3mWQ2lefqFtiSAPju+/Q7CgRSO9FLa0xXb
+ A=
+X-SG-ID: trnf54TTjAb91d6Ywfb3bh3BmeQCHiosUaVWK/fxndCXFMRQ7N9P5zj9ALKMP1eHm2QtlRfPc7tH5O
+ ObwHaVRigzoFjQ3lnSG5NjRubZKjeNqcZQUyqvrfSqEueMrThivY1evd/LwlIWWQ1sV8RuI1W+XcT3
+ V3gVVRSM/C5oMcH+pJZqcQAd7Xj2un5kBy0T97QLERM+7D9FyUG8XjMg7AThOQTwbZ2RkjQYx+IAbM
+ M=
+X-Spam-Status: No, score=3.6
+X-Spam-Score: 36
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Sarah, let ZipRecruiter help you find your next job. You’ve
+    taken the first step towards finding a great job. Based on the information
+    you have provided, we’ll send you daily emails that highlight the latest
+    and greatest job opportunities. To make sure you get them, please add support@ziprecruiter.com
+    to yo [...] 
+ 
+ Content analysis details:   (3.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image
+                             area
+  1.5 MPART_ALT_DIFF_COUNT   BODY: HTML and text parts are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.2 KAM_HUGEIMGSRC         Message contains many image tags with huge http
+                             urls
+X-Spam-Flag: NO
+
+--15579715480.7fa8.23471
+Date: Wed, 15 May 2019 18:52:28 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Sarah, let ZipRecruiter help you find your next job. You=E2=80=99ve taken t=
+he
+first step towards finding a great job.
+
+Based on the information you have provided, we=E2=80=99ll send you daily em=
+ails
+that highlight the latest and greatest job opportunities. To make sure
+you get them, please add support@ziprecruiter.com to your contact list.
+
+If you land a job and no longer wish to receive our emails, just click
+the unsubscribe at the top or bottom of the email.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+Get Started
+It=E2=80=99s important to give yourself an advantage over the competition:
+
+- Upload your resume</a>  to make it much easier to apply for the jobs
+you like.
+https://www.ziprecruiter.com/profile
+
+- Complete your job seeker profile so we can make better job
+recommendations.
+https://www.ziprecruiter.com/profile
+
+- Download our mobile app to conveniently access your job alerts,
+applications, and more!
+https://www.ziprecruiter.com/mobile-app-redirect?area=3Dnew-contact
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+Our Promise
+- If you no longer want to receive updates on new job opportunities,
+just click here
+https://www.ziprecruiter.com/candidate/unsubscribe/4a6df941/_v3u_405e1025b5=
+2933955a9934d1e0d677f24f7ec8d2e8ee2a96f69a9bfafe2159f7/1560649948!
+- We will never sell or share your personal information to 3rd parties,
+except those you authorize.
+- We never charge you to find a job. If you are prompted to pay an
+application or screening fee for a job you found through ZipRecruiter,
+please let us know immediately.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+Sign In Here:
+  https://www.ziprecruiter.com/login
+
+Good luck in your job search!
+- The ZipRecruiter Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+--15579715480.7fa8.23471
+Date: Wed, 15 May 2019 18:52:28 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html style=3D"margin: 0; padding: 0;" xmlns=3D"http://www.w3.org/1999/xhtm=
+l" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office">
+  <head>
+    <!--[if gte mso 9]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <style type=3D"text/css" data-premailer=3D"ignore">
+      html, body{ margin:0; padding:0;  }
+      table{ margin-top: 0px !important; padding-top: 0px !important; }
+    </style>
+    <style type=3D"text/css" data-premailer=3D"ignore">
+      [office365] button{ margin:0 !important; padding:0 !important; displa=
+y:block !important; }
+      [office365] div{ margin:0 !important; padding:0 !important; display:b=
+lock !important; }
+    </style>
+    <style type=3D"text/css">
+      div, p, a, li, td {-webkit-text-size-adjust:none;}
+      a img {color:#FFFFFF !important;}
+
+      h1, h2, h3, p, a {
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+      .mi-all{ display: block; }
+      .mi-desktop{ display: block; }
+
+      .mi-mobile{
+        display: none;
+        font-size: 0;
+        max-height: 0;
+        line-height: 0;
+        padding: 0;
+        float: left;
+        overflow: hidden;
+        mso-hide: all; /* hide elements in Outlook 2007-2013 */
+      }
+
+      @media only screen and (max-device-width: 480px),
+                  screen and (max-width: 480px),
+                  screen and (orientation: landscape) and (max-width: 630px=
+) {
+
+        /* very important! all except .all and this current type get a disp=
+lay:none; */
+        .mi-desktop{ display: none !important; }
+
+        .mi-mobile{
+          display: block !important;
+          font-size: 12px !important;
+          max-height: none !important;
+          line-height: 1.5 !important;
+          float: none !important;
+          overflow: visible !important;
+        }
+      }
+
+
+    </style>
+  </head>
+  <body bgcolor=3D"#FFFFFF" style=3D"background: #FFFFFF; font-family: sans=
+-serif; margin-top: 0 !important; padding-top: 0 !important">
+    <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" bgcolor=3D"#FFFFFF" style=3D"background: #FFFFFF; border: 0; border-col=
+lapse: collapse; border-spacing: 0; margin: 0; padding: 0" border=3D"0">
+      <tr align=3D"center" style=3D"border: 0; border-collapse: collapse; b=
+order-spacing: 0">
+        <td align=3D"center" valign=3D"top" style=3D"border: 0; border-coll=
+apse: collapse; border-spacing: 0">
+          <div class=3D"mi-desktop" section-tag=3D"s0d389" style=3D"display=
+:block">
+            <table class=3D"mi-desktop" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" align=3D"center" width=3D"900" style=3D"display:block">
+              <tr align=3D"left" style=3D"border: 0; border-collapse: colla=
+pse; border-spacing: 0">
+                <td>
+                  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" s=
+tyle=3D"border: 0; border-collapse: collapse; border-spacing: 0; min-width:=
+ 900px">
+                    <tr align=3D"left" style=3D"border: 0; border-collapse:=
+ collapse; border-spacing: 0">
+                      <td id=3D"c52e6e" style=3D"vertical-align:top">
+                        <table cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border: 0 none; border-collapse: collapse; border-spacing: 0; margin: 0; p=
+adding: 0;" border=3D"0">
+                          <tr>
+                            <td style=3D"background: #FFFFFF;">
+                              <span style=3D"font-size: 0;font-family:Arial=
+,sans-serif;display:none;height:0px;line-height:0px;margin:0px;padding:0px;=
+text-indent:-9999px;">Welcome to ZipRecruiter, The Smartest Way to Get Hire=
+d. We take the hassle out of getting your next job.</span>
+                            </td>
+                          </tr>
+                          <tr id=3D"c93bba" class=3D"mi-slice">
+                            <td id=3D"c93bba" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"71" style=3D"height: 71px; line-height: 0px; mso-l=
+ine-height-rule: exactly; vertical-align: top; background: #FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image0&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"ZR Header" target=
+=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/movabl=
+eink-assets-production/7156%2Femail_template_assets%2F7f6ba81c-97cb-4a3c-8f=
+10-9c0a99e81287%2Flogo-masthead-900px-wide.jpg" alt=3D"ZipRecruiter Logo" s=
+tyle=3D"max-width: 900px; max-height: 71px;border: 0;display: block;" width=
+=3D"900" height=3D"72" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c6fef0" class=3D"mi-slice">
+                            <td id=3D"c6fef0" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"726" style=3D"height: 726px; line-height: 0px; mso=
+-line-height-rule: exactly; vertical-align: top; background: #FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image1&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top" target=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/movabl=
+eink-assets-production/7156%2Femail_template_assets%2Fba5982e5-9fc4-48cb-95=
+d1-9d645b868d5a%2Ftop-slice.jpg" alt=3D"Your Job Search. Made Smarter. Welc=
+ome to ZipRecruiter! We take the hassle out of getting your next job." styl=
+e=3D"max-width: 900px; max-height: 726px;border: 0;display: block;" width=
+=3D"900" height=3D"727" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"cc2e08" class=3D"mi-slice">
+                            <td id=3D"cc2e08" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"801" style=3D"height: 801px; width: 900px; line-he=
+ight: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image2&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 2" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2Fb0eaaacd=
+-1d0f-4e77-a92f-8647cb491bf4%2Ffile-4dfa390d-add7-4a90-a84a-8a4702a2f54e.jp=
+eg" alt=3D"Follow these steps to start receiving relevant job matches. Step=
+ 1, upload your resume. Once it's on file, our technology finds and sends y=
+ou jobs where you're a great candidate." style=3D"border: 0; display: block=
+; line-height: 1; height: 801px; max-height: 801px; min-height: 801px; widt=
+h: 900px; max-width: 900px; min-width: 900px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c4b031" class=3D"mi-slice">
+                            <td id=3D"c4b031" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"798" style=3D"height: 798px; width: 900px; line-he=
+ight: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image3&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 3" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F2070ce5a=
+-ed48-4e06-a4f4-0b7a1c3ce0ed%2Ffile-af60dffd-985b-43df-af87-8a960911a55b.jp=
+eg" alt=3D"Step 2, one click apply. You can apply from any device with one =
+simple click." style=3D"border: 0; display: block; line-height: 1; height: =
+798px; max-height: 798px; min-height: 798px; width: 900px; max-width: 900px=
+; min-width: 900px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c95726" class=3D"mi-slice">
+                            <td id=3D"c95726" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"801" style=3D"height: 801px; width: 900px; line-he=
+ight: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image4&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 4" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F93f80280=
+-f922-4e23-bb92-9b1b3086f335%2Ffile-9fffd5ad-59bb-4e9d-88fb-8f05be938928.jp=
+eg" alt=3D"Step 3, hear back quickly. You'll know whether or not your appli=
+cation was viewed within four days of applying to a job posted on ZipRecrui=
+ter." style=3D"border: 0; display: block; line-height: 1; height: 801px; ma=
+x-height: 801px; min-height: 801px; width: 900px; max-width: 900px; min-wid=
+th: 900px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c1fe1a" class=3D"mi-slice">
+                            <td id=3D"c1fe1a" align=3D"left" valign=3D"top"=
+ width=3D"900" height=3D"692" bgcolor=3D"#FFFFFF" style=3D"height: 692px; w=
+idth: 900px; line-height: 0px; mso-line-height-rule: exactly; background: #=
+FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image5&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Bottom" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F93f80280=
+-f922-4e23-bb92-9b1b3086f335%2Ffile-0d2841de-4604-40fc-84d1-de49cb7536dd.jp=
+eg" alt=3D"Your next job awaits!" style=3D"border: 0; display: block; line-=
+height: 0; height: 692px; max-height: 692px; min-height: 692px; width: 900p=
+x; max-width: 900px; min-width: 900px;" />
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class=3D"mi-desktop" section-tag=3D"s8c429" style=3D"display=
+:block">
+            <table class=3D"mi-desktop" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" align=3D"center" width=3D"900" style=3D"display:block">
+              <tr align=3D"left" style=3D"border: 0; border-collapse: colla=
+pse; border-spacing: 0">
+                <td>
+                  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" s=
+tyle=3D"border: 0; border-collapse: collapse; border-spacing: 0; min-width:=
+ 900px; max-width: 900px; width: 900px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+  <tr>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;padding-bot=
+tom:7px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;f=
+ont-size:13px;color: #2f3639;line-height:1.4em;background:#f1f3f4;padding-t=
+op:45px;">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse;margin-right:auto;margin-left:auto;width:280px">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;pad=
+ding-right:5px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dnew-contact-test" title=3D"Download the ZipRecruiter Mobile App for iOS"=
+ target=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/04e16c0f/im=
+g/Download_on_the_App_Store_Badge_US-UK_135x40.png" alt=3D"Download in the =
+App Store" style=3D"margin: 0 auto;display: block;max-width: 135px; height:=
+ auto;" border=3D"0" width=3D"135" height=3D"auto" /></a>
+        </td>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dnew-contact-test" title=3D"Download the ZipRecruiter Mobile App for Andr=
+oid" target=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/18bdbfc=
+6/img/en_generic_rgb_wo_45.png" alt=3D"Download in the Play Store" style=3D=
+"margin: 0 auto;display: block;max-width: 115px; height: auto;" border=3D"0=
+" width=3D"115" height=3D"auto" /></a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sans-ser=
+if;font-size:13px;color: #2f3639;line-height:1.4em;background:#f1f3f4;paddi=
+ng-top:10px;">
+      Got hired? <a href=3D"https://www.ziprecruiter.com/candidate/hired-su=
+rvey?source=3Djs-remarketing-Triggered-Jobseeker-asap-new-contact---&amp;au=
+th_token=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea651=
+25cf&amp;contact_id=3D4a6df941&amp;expires=3D1558144348" style=3D"color: #2=
+f3639;" target=3D"_blank">Let us know.</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding: 0px 10px 45px;bac=
+kground: #f1f3f4 none;font-family:Arial,sans-serif;font-size:15px;line-heig=
+ht:1.4;color: #2f3639;font-size:13px;" id=3D"footer">
+=20=20=20=20=20=20
+<center>
+
+<a href=3D"https://www.ziprecruiter.com/candidate/notification-unsubscribe-=
+confirm/4a6df941/a612dc0e/_v3u_405e1025b52933955a9934d1e0d677f24f7ec8d2e8ee=
+2a96f69a9bfafe2159f7/1560649948/?source=3Dnew-contact&amp;auth_token=3D_v3_=
+08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp;contac=
+t_id=3D4a6df941&amp;expires=3D1558144348" target=3D"_blank" style=3D"color:=
+#2f3639;text-decoration: underline;">Unsubscribe</a> from this email and ot=
+hers like it.<br />
+ZipRecruiter, Inc. &copy; All Rights Reserved Worldwide<br />
+
+604 Arizona Ave., Santa Monica, CA 90401
+<br />
+<a href=3D"https://www.ziprecruiter.com/privacy?source=3Dnew-contact" style=
+=3D"color: #2f3639;" target=3D"_blank">Privacy Policy</a>
+</center>
+    </td>
+  </tr>
+
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <!--[if !mso]>
+          <!-->
+          <div class=3D"mi-mobile" section-tag=3D"s6beb8" style=3D"display:=
+none; float:left; font-size:0; line-height:0; max-height:0; mso-hide:all; o=
+verflow:hidden; padding:0">
+            <table class=3D"mi-mobile" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" align=3D"center" width=3D"600" style=3D"display:none; float:le=
+ft; font-size:0; line-height:0; max-height:0; mso-hide:all; overflow:hidden=
+; padding:0">
+              <tr align=3D"left" style=3D"border: 0; border-collapse: colla=
+pse; border-spacing: 0">
+                <td>
+                  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" s=
+tyle=3D"border: 0; border-collapse: collapse; border-spacing: 0; min-width:=
+ 600px">
+                    <tr align=3D"left" style=3D"border: 0; border-collapse:=
+ collapse; border-spacing: 0">
+                      <td id=3D"c4f491" style=3D"vertical-align:top">
+                        <table cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border: 0 none; border-collapse: collapse; border-spacing: 0; margin: 0; p=
+adding: 0;" border=3D"0">
+                          <tr id=3D"c31760" class=3D"mi-slice">
+                            <td id=3D"c31760" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"94" style=3D"height: 94px; line-height: 0px; mso-l=
+ine-height-rule: exactly; vertical-align: top; background: #FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image0&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"ZR Header" target=
+=3D"_blank">
+                                <img src=3D"https://s3.amazonaws.com/movabl=
+eink-assets-production/7156%2Femail_template_assets%2F531712d3-d647-423a-ae=
+d2-b3b3384a75f2%2Flogo-masthead-600x94.jpg" alt=3D"ZipRecruiter Logo" style=
+=3D"max-width: 600px; max-height: 94px;" width=3D"600" height=3D"94" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c74a4e" class=3D"mi-slice">
+                            <td id=3D"c74a4e" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"969" bgcolor=3D"#FFFFFF" style=3D"height: 969px; w=
+idth: 600px; line-height: 0px; mso-line-height-rule: exactly; background: #=
+FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image1&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F8c3d4133=
+-477b-4877-90d1-f47ebfdf1b49%2Ffile-a2666f33-9252-4e50-a73d-56c8317489b7.jp=
+eg" alt=3D"Your Job Search. Made Smarter. Welcome to ZipRecruiter! We take =
+the hassle out of getting your next job." style=3D"border: 0; display: bloc=
+k; line-height: 0; height: 969px; max-height: 969px; min-height: 969px; wid=
+th: 600px; max-width: 600px; min-width: 600px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"c45787" class=3D"mi-slice">
+                            <td id=3D"c45787" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"1068" style=3D"height: 1068px; width: 600px; line-=
+height: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image2&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 2" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F35b8c79e=
+-002f-4f7b-853a-23d1e0213487%2Ffile-e5739032-a2a6-4f9c-b6ec-afc26da296e8.jp=
+eg" alt=3D"Follow these steps to start receiving relevant job matches. Step=
+ 1, upload your resume. Once it's on file, our technology finds and sends y=
+ou jobs where you're a great candidate." style=3D"border: 0; display: block=
+; line-height: 1; height: 1068px; max-height: 1068px; min-height: 1068px; w=
+idth: 600px; max-width: 600px; min-width: 600px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"cd4e69" class=3D"mi-slice">
+                            <td id=3D"cd4e69" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"1066" style=3D"height: 1066px; width: 600px; line-=
+height: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image3&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 3" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2Faf18501a=
+-4e1d-4ce8-a420-490e4a31e756%2Ffile-93092eae-a3e5-41c5-b1d9-6380abae5978.jp=
+eg" alt=3D"Step 2, one click apply. You can apply from any device with one =
+simple click." style=3D"border: 0; display: block; line-height: 1; height: =
+1066px; max-height: 1066px; min-height: 1066px; width: 600px; max-width: 60=
+0px; min-width: 600px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"ca44b8" class=3D"mi-slice">
+                            <td id=3D"ca44b8" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"1066" style=3D"height: 1066px; width: 600px; line-=
+height: 0px; mso-line-height-rule: exactly;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image4&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Top 4" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F23a3539d=
+-65a0-495e-aa61-a8db482eeed0%2Ffile-25c5e02b-5a2c-47b2-afca-63aa0f0e6295.jp=
+eg" alt=3D"Step 3, hear back quickly. You'll know whether or not your appli=
+cation was viewed within four days of applying to a job posted on ZipRecrui=
+ter." style=3D"border: 0; display: block; line-height: 1; height: 1066px; m=
+ax-height: 1066px; min-height: 1066px; width: 600px; max-width: 600px; min-=
+width: 600px;" />
+                              </a>
+                            </td>
+                          </tr>
+                          <tr id=3D"caeef1" class=3D"mi-slice">
+                            <td id=3D"caeef1" align=3D"left" valign=3D"top"=
+ width=3D"600" height=3D"916" bgcolor=3D"#FFFFFF" style=3D"height: 916px; w=
+idth: 600px; line-height: 0px; mso-line-height-rule: exactly; background: #=
+FFFFFF;">
+                              <a style=3D"border: 0; margin: 0; padding: 0;=
+" href=3D"https://www.ziprecruiter.com/candidate/suggested-jobs?source=3Djs=
+-remarketing-Triggered-Jobseeker-asap-new-contact----image5&amp;auth_token=
+=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp=
+;contact_id=3D4a6df941&amp;expires=3D1558144348" title=3D"View Job Matches =
+Bottom" target=3D"_blank">
+                                <img border=3D"0" src=3D"https://s3.amazona=
+ws.com/movableink-assets-production/7156%2Femail_template_assets%2F23a3539d=
+-65a0-495e-aa61-a8db482eeed0%2Ffile-65f0e59d-4bfc-45da-80d9-7517cfe232c6.jp=
+eg" alt=3D"Your next job awaits!" style=3D"border: 0; display: block; line-=
+height: 0; height: 916px; max-height: 916px; min-height: 916px; width: 600p=
+x; max-width: 600px; min-width: 600px;" />
+                              </a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <!--<![endif]-->
+          <!--[if !mso]>
+          <!-->
+          <div class=3D"mi-mobile" section-tag=3D"sec1ba" style=3D"display:=
+none; float:left; font-size:0; line-height:0; max-height:0; mso-hide:all; o=
+verflow:hidden; padding:0">
+            <table class=3D"mi-mobile" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" align=3D"center" width=3D"600" style=3D"display:none; float:le=
+ft; font-size:0; line-height:0; max-height:0; mso-hide:all; overflow:hidden=
+; padding:0">
+              <tr align=3D"left" style=3D"border: 0; border-collapse: colla=
+pse; border-spacing: 0">
+                <td>
+                  <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" s=
+tyle=3D"border: 0; border-collapse: collapse; border-spacing: 0; min-width:=
+ 600px; max-width: 600px; width: 600px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+  <tr>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;padding-bot=
+tom:7px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;f=
+ont-size:13px;color: #2f3639;line-height:1.4em;background:#f1f3f4;padding-t=
+op:45px;">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse;margin-right:auto;margin-left:auto;width:280px">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;pad=
+ding-right:5px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dnew-contact-test" title=3D"Download the ZipRecruiter Mobile App for iOS"=
+ target=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/04e16c0f/im=
+g/Download_on_the_App_Store_Badge_US-UK_135x40.png" alt=3D"Download in the =
+App Store" style=3D"margin: 0 auto;display: block;max-width: 135px; height:=
+ auto;" border=3D"0" width=3D"135" height=3D"auto" /></a>
+        </td>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dnew-contact-test" title=3D"Download the ZipRecruiter Mobile App for Andr=
+oid" target=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/18bdbfc=
+6/img/en_generic_rgb_wo_45.png" alt=3D"Download in the Play Store" style=3D=
+"margin: 0 auto;display: block;max-width: 115px; height: auto;" border=3D"0=
+" width=3D"115" height=3D"auto" /></a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sans-ser=
+if;font-size:13px;color: #2f3639;line-height:1.4em;background:#f1f3f4;paddi=
+ng-top:10px;">
+      Got hired? <a href=3D"https://www.ziprecruiter.com/candidate/hired-su=
+rvey?source=3Djs-remarketing-Triggered-Jobseeker-asap-new-contact---&amp;au=
+th_token=3D_v3_08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea651=
+25cf&amp;contact_id=3D4a6df941&amp;expires=3D1558144348" style=3D"color: #2=
+f3639;" target=3D"_blank">Let us know.</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"padding: 0px 10px 45px;bac=
+kground: #f1f3f4 none;font-family:Arial,sans-serif;font-size:15px;line-heig=
+ht:1.4;color: #2f3639;font-size:13px;" id=3D"footer">
+=20=20=20=20=20=20
+<center>
+
+<a href=3D"https://www.ziprecruiter.com/candidate/notification-unsubscribe-=
+confirm/4a6df941/a612dc0e/_v3u_405e1025b52933955a9934d1e0d677f24f7ec8d2e8ee=
+2a96f69a9bfafe2159f7/1560649948/?source=3Dnew-contact&amp;auth_token=3D_v3_=
+08a433b219b1da90472427cb66e4e328f467a4cf758743bbb855d0eea65125cf&amp;contac=
+t_id=3D4a6df941&amp;expires=3D1558144348" target=3D"_blank" style=3D"color:=
+#2f3639;text-decoration: underline;">Unsubscribe</a> from this email and ot=
+hers like it.<br />
+ZipRecruiter, Inc. &copy; All Rights Reserved Worldwide<br />
+
+604 Arizona Ave., Santa Monica, CA 90401
+<br />
+<a href=3D"https://www.ziprecruiter.com/privacy?source=3Dnew-contact" style=
+=3D"color: #2f3639;" target=3D"_blank">Privacy Policy</a>
+</center>
+    </td>
+  </tr>
+
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <!--<![endif]-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+  <img src=3D"https://www.ziprecruiter.com/pxl/RbfLCH-CpkBXLbJFBgz8A_nKb6B2=
+l8aKfbtgG2k28zy3w2jdYpcjnzNsi87Y4s-fvNIoj4CLy2ymURsTnAHqmAKyOm7ZfBk2EAKM9Hj=
+5Mj4Ko7-B566eEKfMvST3VYIuLoe-7hD0IU7t0U--6q143iDnogjVlRoQwiPzaAZ77Ew-m1JR4w=
+0hdfkhyzJffKmYSZ-Jqhekhpm38XOqrUqN3EmtOc-fSp5p9V8o1qj0pZYVDrOQy15AFwk-1MYee=
+MnLdd2rBGemnP_HmSp_sI36L2Wtjh23x6pSYPJEHaLGfpsU8TvMgLZ6xp2WvlyInEZWx2hGzZh9=
+UhilSHw5BosqZIDJIGwB6vw-BnpDOGMsQEO93Hmuh2pyrsZ2s51t1XYiVVPFHZeB5hIwF-xEjIo=
+DDw.6062dfb5af5059d6e2abb9da387de12d" width=3D"1" height=3D"1" alt=3D"" />
+
+
+--15579715480.7fa8.23471--

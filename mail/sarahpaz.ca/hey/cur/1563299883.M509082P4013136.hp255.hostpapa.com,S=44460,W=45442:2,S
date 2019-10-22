@@ -1,0 +1,982 @@
+Return-Path: <0102016bfbee7f82-1adf09d5-687f-442c-8d97-15bc61d67347-000000@eu-west-1.amazonses.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id 4L3GHSsQLl1QPD0AOhTp2Q
+	(envelope-from <0102016bfbee7f82-1adf09d5-687f-442c-8d97-15bc61d67347-000000@eu-west-1.amazonses.com>)
+	for <hey@sarahpaz.ca>; Tue, 16 Jul 2019 13:58:03 -0400
+Return-path: <0102016bfbee7f82-1adf09d5-687f-442c-8d97-15bc61d67347-000000@eu-west-1.amazonses.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 16 Jul 2019 13:58:03 -0400
+Received: from a53-50.smtp-out.eu-west-1.amazonses.com ([54.240.53.50]:54680)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <0102016bfbee7f82-1adf09d5-687f-442c-8d97-15bc61d67347-000000@eu-west-1.amazonses.com>)
+	id 1hnRiD-00GrBa-VS
+	for hey@sarahpaz.ca; Tue, 16 Jul 2019 13:58:03 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=wdkksfes3trsnum62ksgha5fcjleyc27; d=moo.com; t=1563299840;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+	bh=dLiQMoKLZINCWwr/zph2phv689ObefQyedyXaaiVnxs=;
+	b=WFhb5WeUtZLstbvWTpRsvbFUkq7k2xz1qob7iMoGB7eOjxbBBFMmwcfncFPQf0HA
+	LMvvmgr4af8kxsN3kqvvOEMKbFRRrQKVg5hKEEo8LciPc/5ovOiqSEwljdk9vKPhXSX
+	Ux/FkACPPigxVlYrI3KBsttr+xeHigt2medGUexU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ihchhvubuqgjsxyuhssfvqohv7z3u4hn; d=amazonses.com; t=1563299840;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type:Feedback-ID;
+	bh=dLiQMoKLZINCWwr/zph2phv689ObefQyedyXaaiVnxs=;
+	b=EWEWEz8Uqya7XFhk6cm2oF1Lq1fb09PzMx/BiN/5wsGphTMNj1svfj0i1UYZVXJv
+	RtGXnP2mnL5sC/ic2pjZeRVjuSvZKU4t8hMDGw0zwTAOZiRqsTA9ySpgwt6T9uTBiNq
+	0cAYW1cOj4Vm4G6cVCwH1ZRI8Ss+UOtSAx2ZzQfY=
+Message-ID: <0102016bfbee7f82-1adf09d5-687f-442c-8d97-15bc61d67347-000000@eu-west-1.amazonses.com>
+Date: Tue, 16 Jul 2019 17:57:19 +0000
+Subject: MOO | Order 0462640170 | Confirmed
+From: Little MOO | Print Robot <noreply@moo.com>
+To: hey@sarahpaz.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1563299839_d2607591b7aa94065959488b88affc9d_=_"
+X-SES-Outgoing: 2019.07.16-54.240.53.50
+Feedback-ID: 1.eu-west-1.4zW0A3UedUV1yoLnQqhIpzCrxZJTgpJ7YGLp5+98Zws=:AmazonSES
+X-Spam-Status: No, score=-3.9
+X-Spam-Score: -38
+X-Spam-Bar: ---
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello Sarah I'm Little MOO - the bit of software that will
+    be managing your order with moo.com. It will shortly be sent to Big MOO,
+   our print machine who will print it for you in the next few days. I'll let
+    you k [...] 
+ Content analysis details:   (-3.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [54.240.53.50 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: moo.com]
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+X-Spam-Flag: NO
+
+
+--_=_swift_v4_1563299839_d2607591b7aa94065959488b88affc9d_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello Sarah
+
+I'm Little MOO - the bit of software that will be manag=
+ing your order
+with moo.com. It will shortly be sent to Big MOO, our prin=
+t machine who will
+print it for you in the next few days. I'll let you kn=
+ow when it's done
+and on its way to you.
+
+You can track and manage yo=
+ur order from the accounts section at:
+https://secure.moo.com/account?dwe=
+mail=3DORDER_CONFIRMATION_EMAIL
+=20
+
+Estimated Arrival Date: Jul 19, 20=
+19=20
+
+
+
+
+Remember, I'm just a bit of software, so if you have any =
+questions
+regarding your order, the best place to start is with our dedic=
+ated
+customer services portal:
+
+https://support.moo.com/hc/en-us?dwem=
+ail=3DORDER_CONFIRMATION_EMAIL
+
+Thanks,
+Little MOO, Print Robot
+
+=
+MOO
+"Design works wonders"
+
+- - - - - - - - - - - - -
+
+
+Order d=
+etails as follows:
+
+Order Date Jul. 16, 2019
+
+Order Reference 04626=
+40170
+
+
+
+Delivery Address
+
+Sarah Paz
+330 Alton Towers Cir
+U=
+nit 1409
+Buzzer: 258
+Scarborough, ON
+M1V 5H3
+Canada
+
+
+Order C=
+ontent
+
+Qty     Description - Price
+
+50       MOO Size Rounded Busi=
+ness Cards - CDN$ 25.99
+
+Original item(s) Total CDN$ 25.99
+
+Net amo=
+unt CDN$ 25.99
+Shipping CDN$ 27.75
+Handling Fee(13%) CDN$ 3.38
+
+Ord=
+er Total CDN$ 57.12
+
+* By ordering goods from MOO you hereby authorize =
+our licensed customs broker to act on your behalf as your agent with the Ca=
+nada Border Service Agency, to clear goods through customs,
+account for a=
+ll duties and taxes owing and handle any returns and subsequent refunds on =
+your behalf.
+You understand, waive and transfer your right to receive any=
+ refunds of duties and taxes to DHL as our agent and understand that duties=
+ and taxes will be returned directly to you by MOO.
+
+--_=_swift_v4_1563299839_d2607591b7aa94065959488b88affc9d_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.=
+w3.org/1999/xhtml" xml:lang=3D"en"><head><meta http-equiv=3D"Content-Type" =
+content=3D"text/html;charset=3DUTF-8"><title>Document</title><style type=3D=
+"text/css">
+            img.resize {
+                max-width: 100%;=
+
+                height: auto;
+            }
+
+            img{
+  =
+              -ms-interpolation-mode: bicubic;
+            }
+
+       =
+     @media only screen and (min-device-width: 600px) {
+                .=
+content {
+                    width: 600px !important;
+                =
+}
+            }
+        </style><style type=3D"text/css">
+           =
+ .headiImg{
+                width:100%;
+                max-width:328px=
+ !important;
+            }
+
+            .fb{
+                width:=
+14px;
+                max-width:14px !important;
+            }
+      =
+      .twit{
+                width:24px;
+                max-width:24px=
+ !important;
+            }
+            .pin{
+                width:24=
+px;
+                max-width:24px !important;
+            }
+        =
+</style><!--[if (mso)|(IE)]>
+        <style type=3D"text/css">
+        =
+    .headImg{
+                width:328px;
+                height:101px=
+;
+            }
+            .logo{
+                width:24px;
+    =
+            height:34px;
+            }
+            .fb{
+             =
+   width:14px;
+                height:25px;
+            }
+           =
+ .twit{
+                width:24px;
+                height:25px;
+    =
+        }
+            .pin{
+                width:24px;
+             =
+   height:25px;
+            }
+        </style>
+        <![endif]--></=
+head><body yahoo=3D"fix" class=3D"body-style" bgcolor=3D"#f1f1f1" style=3D"=
+-moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; ma=
+rgin: 0; padding: 0;">
+
+   =20
+    <table cellspacing=3D"0" cellpadding=
+=3D"0" margin=3D"0" padding=3D"0" align=3D"center" width=3D"100%" bgcolor=
+=3D"#f1f1f1"><tr><td width=3D"100%" bgcolor=3D"#f1f1f1" class=3D"wrapper-co=
+ntainer" align=3D"center" style=3D"-webkit-font-smoothing: antialiased !imp=
+ortant; margin: 0; padding-bottom: 40px;">
+               =20
+           =
+     <!--[if (mso)|(IE)]>
+                <table cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D'600' bgcolor=3D"#f1f1f1" align=3D"center">
+         =
+       <tr>
+                <td width=3D'600' bgcolor=3D"#f1f1f1" class=
+=3D"container-ie-reset" align=3D"center">
+                <![endif]-->
+=
+
+               =20
+                <table cellspacing=3D"0" cellpadding=
+=3D"0" margin=3D"0" padding=3D"0" align=3D"center" width=3D"92%" bgcolor=3D=
+"#f1f1f1"><tr><td width=3D"100%" bgcolor=3D"#f1f1f1" class=3D"container-ie-=
+reset" align=3D"center" style=3D"margin: 0; padding: 0;">
+               =
+            =20
+
+
+                            <table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%">=
+
+                                        <table cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%" align=3D"=
+center" class=3D"logo-container" style=3D"color: #525252; font-family: verd=
+ana,sans-serif; font-size: 9px; padding-bottom: 32px; padding-top: 30px;">=
+
+                                                                        =
+                                    <a href=3D"https://www.moo.com/ca/" tit=
+le=3D"MOO" class=3D"" id=3D"" rel=3D"" style=3D"color: #ffffff; text-decora=
+tion: none; border:none;">                                                 =
+       <img src=3D"https://www.moo.com/images/email/mesg/header/moo_logo.gi=
+f?q=3D1-08184658215597345110" alt=3D"moo.com" title=3D"" width=3D"120" heig=
+ht=3D"38" class=3D"" id=3D"" style=3D"display: block; border:none; width:12=
+0px; height:38px;"></a>                                                    =
+                                                </td>
+                   =
+                         </tr></table></td>
+                             =
+   </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"545" cl=
+ass=3D"main-container" align=3D"center" style=3D"max-width: 545px; width: 1=
+00%;"><tr><td width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+
+   =
+                                         <table cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"78%" align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#=
+ffffff">
+                <table cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" align=3D"center"><tr><td width=3D"100%" align=3D"center" valign=
+=3D"top" class=3D"hello-first-name" style=3D"color: #525252; font-family: t=
+rebuchet MS,verdana,sans-serif; font-size: 18px; line-height: 25px; font-we=
+ight: bold; padding-top: 30px;">
+                                        =
+                    Hello Sarah!                                           =
+         </td>
+                    </tr></table></td>
+        </tr></ta=
+ble><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"cent=
+er"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+                <table ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td wi=
+dth=3D"100%" align=3D"center" valign=3D"top" class=3D"image" style=3D"paddi=
+ng-top: 35px;">
+                            <img src=3D"https://www.moo.c=
+om/images/email/mesg/en/thank-you.jpg?q=3D1-364228311655520" width=3D"433" =
+height=3D"86" alt=3D""></td>
+                    </tr></table></td>
+   =
+     </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"68%" =
+align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+            =
+    <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"cent=
+er"><tr><td width=3D"100%" align=3D"center" valign=3D"top" class=3D"text-bl=
+ock" style=3D"color: #676767; font-family: trebuchet MS,verdana,sans-serif;=
+ font-size: 16px; line-height: 25px; padding-top: 25px;">
+               =
+             It's Little MOO here - the friendly Print Robot that manages y=
+our order. Take a look below for all the confirmation details you'll need. =
+                       </td>
+                    </tr></table></td>
+   =
+     </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" =
+align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+            =
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center">=
+<tr><td align=3D"center" valign=3D"top" class=3D"cross-divider" style=3D"pa=
+dding-top: 25px; width: 100%;">
+                        <img src=3D"https=
+://www.moo.com/images/email/mesg/x-divider.gif?q=3D833d74f0ecb55e2f1cd6122c=
+584a2b2e" class=3D"resize cross-divider-image" alt=3D"" style=3D"display: b=
+lock; height: 11px; max-width: 100%; width: 100%;"></td>
+                =
+</tr></table></td>
+    </tr></table><table cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"78%" align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ff=
+ffff">
+                <table cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" align=3D"center"><tr><td width=3D"100%" align=3D"center" valign=
+=3D"top" class=3D"text-block" style=3D"color: #676767; font-family: trebuch=
+et MS,verdana,sans-serif; font-size: 16px; line-height: 25px; padding-top: =
+25px;">
+                            <table cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" class=3D"order-information"><tr><td valign=3D"top" cl=
+ass=3D"text-label" style=3D"color: #676767; font-family: trebuchet MS,verda=
+na,sans-serif; font-size: 16px; line-height: 30px;">
+                    =
+                    Your order number:=C2=A0=C2=A0
+                      =
+              </td>
+                                    <td valign=3D"top=
+" class=3D"text-label dark-text" style=3D"color: #4d4d4d; font-family: treb=
+uchet MS,verdana,sans-serif; font-size: 16px; line-height: 30px; font-weigh=
+t: bold;">
+                                        0462640170
+         =
+                           </td>
+                                </tr><tr=
+><td valign=3D"top" class=3D"text-label" style=3D"color: #676767; font-fami=
+ly: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 30px;">=
+
+                                        Received by: =C2=A0
+          =
+                          </td>
+                                    <td v=
+align=3D"top" class=3D"text-label dark-text" style=3D"color: #4d4d4d; font-=
+family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 30px=
+; font-weight: bold;">
+                                        Little MOO=
+, friendly Print Robot                                    </td>
+         =
+                       </tr><tr><td valign=3D"top" class=3D"text-label" sty=
+le=3D"color: #676767; font-family: trebuchet MS,verdana,sans-serif; font-si=
+ze: 16px; line-height: 30px;">
+                                        Ne=
+xt destination:=C2=A0
+                                    </td>
+       =
+                             <td valign=3D"top" class=3D"text-label dark-te=
+xt" style=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-serif; =
+font-size: 16px; line-height: 30px; font-weight: bold;">
+                =
+                        Big MOO, trusty Print Machine                      =
+              </td>
+                                </tr></table></td>
+=
+                    </tr></table></td>
+        </tr></table><table cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td width=
+=3D"100%" bgcolor=3D"#ffffff">
+            <table cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" align=3D"center"><tr><td align=3D"center" valig=
+n=3D"top" class=3D"cross-divider" style=3D"padding-top: 25px; width: 100%;"=
+>
+                        <img src=3D"https://www.moo.com/images/email/me=
+sg/x-divider.gif?q=3D833d74f0ecb55e2f1cd6122c584a2b2e" class=3D"resize cros=
+s-divider-image" alt=3D"" style=3D"display: block; height: 11px; max-width:=
+ 100%; width: 100%;"></td>
+                </tr></table></td>
+    </tr>=
+</table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"c=
+enter"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+            <table cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td al=
+ign=3D"left" valign=3D"top" class=3D"dark-text text-block" style=3D"color: =
+#4d4d4d; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; lin=
+e-height: 25px; font-weight: bold; padding-top: 25px;">
+                 =
+                                   Here's what you've ordered:             =
+                               </td>
+                </tr></table></td>=
+
+    </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%=
+" align=3D"center" class=3D"order-details" style=3D"padding-top: 6px;"><tr>=
+<td width=3D"100%" bgcolor=3D"#ffffff">
+            <table cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td align=3D"left=
+" valign=3D"top" class=3D"base-text" style=3D"color: #676767; font-family: =
+trebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 25px;">
+  =
+                      <table cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" align=3D"center"><tr><td valign=3D"top" class=3D"text-label" style=3D"=
+color: #676767; font-family: trebuchet MS,verdana,sans-serif; font-size: 16=
+px; line-height: 25px;">
+                                        <span st=
+yle=3D"color: #4d4d4d;">50</span> MOO Size Rounded Business Cards=C2=A0=
+=C2=A0
+                                    </td>
+                      =
+              <td valign=3D"top" align=3D"right" class=3D"dark-text" style=
+=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-serif; font-size=
+: 16px; line-height: 25px; font-weight: bold;">
+                         =
+               CDN$ 25.99
+                                    </td>
+   =
+                             </tr><tr><td valign=3D"top" class=3D"dark-text=
+" style=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-serif; fo=
+nt-size: 16px; line-height: 25px; font-weight: bold;">
+                  =
+                          <span style=3D"color: #4d4d4d;">
+              =
+                                                                           =
+           Original item(s) Total=C2=A0=C2=A0
+                           =
+                                                                 </span>
+=
+                                        </td>
+                           =
+             <td valign=3D"top" align=3D"right" class=3D"dark-text" style=
+=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-serif; font-size=
+: 16px; line-height: 25px; font-weight: bold;">
+                         =
+                   CDN$ 25.99
+                                        </t=
+d>
+                                    </tr><tr><td class=3D"empty-line" =
+style=3D"font-size: 10px; line-height: 0px; padding-top: 10px; white-space:=
+ nowrap;">
+                                            =C2=A0
+         =
+                               </td>
+                                    =
+</tr><tr><td valign=3D"top" class=3D"dark-text" style=3D"color: #4d4d4d; fo=
+nt-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 2=
+5px; font-weight: bold;">
+                                            <sp=
+an style=3D"color: #4d4d4d;">
+                                           =
+                                                         Net amount=C2=
+=A0=C2=A0
+                                                               =
+                             </span>
+                                    =
+    </td>
+                                        <td valign=3D"top" alig=
+n=3D"right" class=3D"dark-text" style=3D"color: #4d4d4d; font-family: trebu=
+chet MS,verdana,sans-serif; font-size: 16px; line-height: 25px; font-weight=
+: bold;">
+                                            CDN$ 25.99
+      =
+                                  </td>
+                                 =
+   </tr><tr><td valign=3D"top" class=3D"dark-text" style=3D"color: #4d4d4d;=
+ font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height=
+: 25px; font-weight: bold;">
+                                            =
+<span style=3D"color: #4d4d4d;">
+                                        =
+                                                            Shipping price=
+=C2=A0=C2=A0
+                                                            =
+                                </span>
+                                 =
+       </td>
+                                        <td valign=3D"top" a=
+lign=3D"right" class=3D"dark-text" style=3D"color: #4d4d4d; font-family: tr=
+ebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 25px; font-wei=
+ght: bold;">
+                                            CDN$ 27.75
+   =
+                                     </td>
+                              =
+      </tr><tr><td valign=3D"top" class=3D"dark-text" style=3D"color: #4d4d=
+4d; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-hei=
+ght: 25px; font-weight: bold;">
+                                         =
+   <span style=3D"color: #4d4d4d;">
+                                     =
+                                                                           =
+                                        Handling Fee*                      =
+                                                                           =
+                                               </span>
+                  =
+                      </td>
+                                        <td v=
+align=3D"top" align=3D"right" class=3D"dark-text" style=3D"color: #4d4d4d; =
+font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height:=
+ 25px; font-weight: bold;">
+                                            C=
+DN$ 3.38
+                                        </td>
+                =
+                    </tr><tr><td class=3D"empty-line" style=3D"font-size: 1=
+0px; line-height: 0px; padding-top: 10px; white-space: nowrap;">
+        =
+                                    =C2=A0
+                              =
+          </td>
+                                    </tr><tr><td valign=
+=3D"top" class=3D"dark-text" style=3D"color: #4d4d4d; font-family: trebuche=
+t MS,verdana,sans-serif; font-size: 16px; line-height: 25px; font-weight: b=
+old;">
+                                            <span style=3D"color: =
+#4d4d4d;">
+                                                              =
+                                      Total Price=C2=A0=C2=A0
+           =
+                                                                           =
+      </span>
+                                        </td>
+           =
+                             <td valign=3D"top" align=3D"right" class=3D"da=
+rk-text" style=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-se=
+rif; font-size: 16px; line-height: 25px; font-weight: bold;">
+           =
+                                 CDN$ 57.12
+                             =
+           </td>
+                                    </tr></table><p clas=
+s=3D"order-disclaimer" style=3D"color: #b4b4b4; font-family: verdana,sans-s=
+erif; font-size: 10px; line-height: 1.3em; padding-bottom: 0; padding-top: =
+10px;">
+                                * By ordering goods from MOO you =
+hereby authorize our licensed customs broker to act on your behalf as your =
+agent with the Canada Border Service Agency, to clear goods through customs=
+, account for all duties and taxes owing and handle any returns and subsequ=
+ent refunds on your behalf. You understand, waive and transfer your right t=
+o receive any refunds of duties and taxes from our licensed customs broker =
+as our agent and understand that duties and taxes will be returned directly=
+ to you by MOO.                            </p>
+                         =
+                   </td>
+                </tr></table></td>
+    </tr></=
+table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"cen=
+ter" class=3D"delivery-address" style=3D"padding-top: 18px;"><tr><td width=
+=3D"100%" bgcolor=3D"#ffffff">
+                <table cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%" ali=
+gn=3D"left" valign=3D"top" class=3D"dark-text text-label delivery-address-h=
+eading" style=3D"color: #4d4d4d; font-family: trebuchet MS,verdana,sans-ser=
+if; font-size: 16px; line-height: 25px; font-weight: bold; padding-bottom: =
+4px;">
+                                                            Your d=
+elivery address:                                                    </td>=
+
+
+                                            </tr><tr><td width=3D"100=
+%" align=3D"left" valign=3D"top" class=3D"text-label" style=3D"color: #6767=
+67; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-hei=
+ght: 25px;">
+                                                            =
+                            Sarah Paz <br>
+                              =
+                              330 Alton Towers Cir <br>
+                 =
+                                           Unit 1409 <br>
+               =
+                                             Buzzer: 258 <br>
+           =
+                                                 Scarborough, ON <br>
+   =
+                                                         M1V 5H3 <br>
+   =
+                                                         Canada <br></td>=
+
+
+                                            </tr></table></td>
+    =
+    </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" a=
+lign=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+             =
+       <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"c=
+enter"><tr><td width=3D"100%" align=3D"left" valign=3D"top" class=3D"delive=
+ry-date" style=3D"padding-top: 12px;">
+                                <t=
+able cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><t=
+r><td valign=3D"top" class=3D"base-text dark-text" style=3D"color: #4d4d4d;=
+ font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height=
+: 25px; font-weight: bold;">
+                                            =
+Your estimated delivery date:                                        </td>=
+
+                                        <td valign=3D"top" align=3D"righ=
+t" class=3D"base-text dark-text" style=3D"color: #4d4d4d; font-family: treb=
+uchet MS,verdana,sans-serif; font-size: 16px; line-height: 25px; font-weigh=
+t: bold;">
+                                            Jul 19, 2019
+   =
+                                                                           =
+      </td>
+                                    </tr></table></td>
+    =
+                    </tr></table></td>
+            </tr></table><table ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td cl=
+ass=3D"dotted-divider" style=3D"background-color: #fff; border-bottom: 3px =
+dotted #cccccc; width: 100%;">
+            =C2=A0
+        </td>
+    <=
+/tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=
+=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff" class=3D"button-wrap=
+per" style=3D"padding-bottom: 14px; padding-top: 30px;">
+                =
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center">=
+<tr><td bgcolor=3D"#01965e" width=3D"100%" align=3D"center" valign=3D"top" =
+class=3D"button-body button-green" style=3D"color: #676767; font-family: tr=
+ebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 39px; backgrou=
+nd-color: #01965e; border-radius: 2px; font-weight: bold; height: 39px;">=
+
+                                                                        =
+                <a href=3D"https://www.moo.com/ca/account/view-vat-receipt.=
+php?id=3D0462640170&amp;dwemail=3DORDER_CONFIRMATION_EMAIL" title=3D"Downlo=
+ad your receipt" class=3D"button-link" id=3D"" rel=3D"" style=3D"color: #ff=
+f; display: inline-block; height: 100%; text-decoration: none; width: 100%;=
+">                                    Download your receipt
+             =
+                   </a>                                                    =
+</td>
+                    </tr></table></td>
+        </tr></table><tabl=
+e cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><t=
+d class=3D"dotted-divider" style=3D"background-color: #fff; border-bottom: =
+3px dotted #cccccc; width: 100%;">
+            =C2=A0
+        </td>
+ =
+   </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" al=
+ign=3D"center"><tr><td width=3D"100%">
+            <table cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%"=
+ align=3D"left" valign=3D"top" class=3D"text-block" style=3D"color: #676767=
+; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-heigh=
+t: 25px; padding-top: 25px;">
+                                           =
+                                                                           =
+                          If you=E2=80=99d like to keep an eye on your orde=
+r, you can check on its status or             <a href=3D"https://www.moo.co=
+m/ca/account/order-history-order.php?id=3D0462640170" title=3D"reorder" cla=
+ss=3D"link" id=3D"" rel=3D"" style=3D"color: #01965E; text-decoration: none=
+;">        reorder        </a>     any time from <a href=3D"https://www.moo=
+.com/ca/account/" title=3D"Your Account" class=3D"link" id=3D"" rel=3D"" st=
+yle=3D"color: #01965E; text-decoration: none;">Your Account</a>.           =
+                                                                           =
+                  </td>
+                </tr></table></td>
+    </tr></t=
+able><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"cent=
+er"><tr><td width=3D"100%" class=3D"button-wrapper" style=3D"padding-bottom=
+: 14px; padding-top: 30px;">
+            <table cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%" align=3D"=
+center" valign=3D"top" class=3D"button-body button-green" style=3D"color: #=
+676767; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line=
+-height: 39px; background-color: #01965e; border-radius: 2px; font-weight: =
+bold; height: 39px;">
+                                                   =
+                                 <a href=3D"https://www.moo.com/ca/account/=
+order-history-order.php?id=3D0462640170" title=3D"Manage your order" class=
+=3D"button-link" id=3D"" rel=3D"" style=3D"color: #fff; display: inline-blo=
+ck; height: 100%; text-decoration: none; width: 100%;">                    =
+                Manage your order
+                                </a>   =
+                                                                     </td>=
+
+                </tr></table></td>
+    </tr></table><table cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td class=3D"do=
+tted-divider" style=3D"background-color: #fff; border-bottom: 3px dotted #c=
+ccccc; width: 100%;">
+            =C2=A0
+        </td>
+    </tr></tab=
+le><table cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center=
+"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+            <table cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td width=
+=3D"100%" align=3D"left" valign=3D"top" class=3D"text-block" style=3D"color=
+: #676767; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; l=
+ine-height: 25px; padding-top: 25px;">
+                        Got a ques=
+tion or need to speak to someone at MOO? Head to our handy <a href=3D"https=
+://support.moo.com/hc/en-us" style=3D"text-decoration: none; color: #01965e=
+;">support pages</a> where you can search our FAQs or, if you're still stuc=
+k, you can call, email or chat online to our team - they're real people and=
+ always happy to help.
+<br><br>We look forward to seeing you!
+<br>Littl=
+e MOO, Print Robot                    </td>
+                </tr></table>=
+</td>
+    </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"78%" align=3D"center"><tr><td class=3D"dotted-divider" style=3D"backgro=
+und-color: #fff; border-bottom: 3px dotted #cccccc; width: 100%;">
+      =
+      =C2=A0
+        </td>
+    </tr></table><table cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"78%" align=3D"center"><tr><td width=3D"100%" bgcol=
+or=3D"#ffffff" class=3D"image" style=3D"padding-top: 35px;">
+            =
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"left"><t=
+r><td width=3D"100%" align=3D"left" valign=3D"top" height=3D"94">
+       =
+                 <a href=3D"https://www.moo.com/ca/products/rounded-corner-=
+square-business-cards.html" title=3D"Take a look" class=3D"link" id=3D"" re=
+l=3D"" style=3D"color: #01965E; text-decoration: none;">                   =
+         <img src=3D"https://www.moo.com/images/email/mesg/squarcle.jpg?q=
+=3D1-591272421655530" width=3D"433" height=3D"172" name=3D"Rounded Corner S=
+quare Cards" alt=3D"Rounded Corner Square Cards"></a>                    </=
+td>
+                </tr></table></td>
+    </tr></table><table cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center" class=3D"crm-tex=
+t"><tr><td width=3D"100%" bgcolor=3D"#ffffff">
+            <table cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr><td width=
+=3D"100%" align=3D"left" valign=3D"top" class=3D"text-block" style=3D"color=
+: #676767; font-family: trebuchet MS,verdana,sans-serif; font-size: 16px; l=
+ine-height: 28px; padding-top: 25px;">
+                        <span styl=
+e=3D"font-weight: bold; color: #4d4d4d;">Rounded Corner
+Square Business C=
+ards</span><br>
+How can a square be round? With Rounded Corner Square Bus=
+iness Cards, of course!<br><a href=3D"https://www.moo.com/ca/products/round=
+ed-corner-square-business-cards.html" title=3D"Take a look" class=3D"link" =
+id=3D"" rel=3D"" style=3D"color: #01965E; text-decoration: none;">         =
+                   Take a look
+                        </a>              =
+      </td>
+                </tr></table></td>
+    </tr></table><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td =
+width=3D"100%" bgcolor=3D"#ffffff" class=3D"image" style=3D"padding-top: 35=
+px;">
+            <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" align=3D"left"><tr><td width=3D"100%" align=3D"left" valign=3D"top" heig=
+ht=3D"94">
+                        <a href=3D"https://www.moo.com/ca/idea=
+s/inspiration.html" title=3D"Get Inspired" class=3D"link" id=3D"" rel=3D"" =
+style=3D"color: #01965E; text-decoration: none;">                          =
+  <img src=3D"https://www.moo.com/images/email/mesg/inspiration.jpg?q=3D1-8=
+067788889216559600" width=3D"433" height=3D"172" name=3D"Inspiration Galler=
+y" alt=3D"Inspiration Gallery"></a>                    </td>
+            =
+    </tr></table></td>
+    </tr></table><table cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"78%" align=3D"center" class=3D"crm-text"><tr><td width=
+=3D"100%" bgcolor=3D"#ffffff">
+            <table cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" align=3D"center"><tr><td width=3D"100%" align=
+=3D"left" valign=3D"top" class=3D"text-block" style=3D"color: #676767; font=
+-family: trebuchet MS,verdana,sans-serif; font-size: 16px; line-height: 28p=
+x; padding-top: 25px;">
+                        <span style=3D"font-weigh=
+t: bold; color: #4d4d4d;">Inspiration Gallery</span><br>
+MOO customers lo=
+ve to get creative with our products<br><a href=3D"https://www.moo.com/ca/i=
+deas/inspiration.html" title=3D"Get Inspired" class=3D"link" id=3D"" rel=3D=
+"" style=3D"color: #01965E; text-decoration: none;">                       =
+     Get Inspired
+                        </a>                    </td>=
+
+                </tr></table></td>
+    </tr></table><table cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"78%" align=3D"center"><tr><td class=3D"do=
+tted-divider" style=3D"background-color: #fff; border-bottom: 3px dotted #c=
+ccccc; width: 100%;">
+            =C2=A0
+        </td>
+    </tr></tab=
+le><table cellspacing=3D"0" cellpadding=3D"0" width=3D"545" class=3D"footer=
+-wrapper-container" align=3D"center" style=3D"max-width: 600px !important; =
+width: 100%;"><tr><td width=3D"100%" bgcolor=3D"#ffffff" class=3D"footer-wr=
+apper-container" align=3D"center" style=3D"max-width: 600px !important; wid=
+th: 100%;">
+                <table cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"70%" align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff" cla=
+ss=3D"footer-reset" style=3D"padding-bottom: 0; padding-top: 0;">
+       =
+                     <table cellspacing=3D"0" cellpadding=3D"0" width=3D"10=
+0%" align=3D"center"><tr><td width=3D"100%" align=3D"center" class=3D"foote=
+r-logo" style=3D"color: #b4b4b4; font-family: verdana,sans-serif; font-size=
+: 12px; padding-bottom: 33px; padding-top: 38px;">
+                      =
+                  <img src=3D"https://www.moo.com/images/email/mesg/footer/=
+moo_drop.jpg?q=3D1-22561972711655810" width=3D"24" height=3D"34" alt=3D"moo=
+.com" title=3D"moo.com"></td>
+                                </tr><tr><t=
+d width=3D"100%" align=3D"center" class=3D"footer-hello" style=3D"color: #b=
+4b4b4; font-family: verdana,sans-serif; font-size: 12px; padding-bottom: 0;=
+ padding-top: 10px;">
+                                        =C2=A9 Hell=
+o, we=E2=80=99re MOO Inc. But let=E2=80=99s not be formal - call us MOO! <b=
+r>
+14 Blackstone Valley Place, Lincoln, RI 02865, USA. <br>
+We're regis=
+tered in the United States of America.                                    <=
+/td>
+                                </tr><tr><td width=3D"100%" align=3D=
+"center" class=3D"footer-links" style=3D"border-bottom: 1px solid #eeeeee; =
+color: #b4b4b4; font-family: verdana,sans-serif; font-size: 12px; padding-b=
+ottom: 40px; padding-top: 10px;">
+                                       =
+                                             <a href=3D"https://www.moo.com=
+/ca/about/terms-conditions" title=3D"Terms and Conditions" class=3D"link" i=
+d=3D"" rel=3D"" style=3D"color: #01965E; text-decoration: none;">          =
+                                      Terms and Conditions
+              =
+                              </a>                                         =
+                                                   <span style=3D"color: #5=
+55555;">|</span>
+                                           =20
+         =
+                                                                           =
+<a href=3D"https://www.moo.com/ca/about/privacy-policy" title=3D"Privacy Po=
+licy" class=3D"link" id=3D"" rel=3D"" style=3D"color: #01965E; text-decorat=
+ion: none;">                                                Privacy Policy=
+
+                                            </a>                        =
+                   =20
+                                                    =
+                        </td>
+                                </tr></tabl=
+e></td>
+                    </tr></table></td>
+        </tr></table><ta=
+ble cellspacing=3D"0" cellpadding=3D"0" width=3D"545" class=3D"footer-wrapp=
+er-container" align=3D"center" style=3D"max-width: 600px !important; width:=
+ 100%;"><tr><td width=3D"100%" bgcolor=3D"#ffffff" class=3D"footer-wrapper-=
+container" align=3D"center" style=3D"max-width: 600px !important; width: 10=
+0%;">
+
+                <table cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"162" align=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff" class=
+=3D"footer-social-wrapper" style=3D"padding-bottom: 0; padding-top: 34px;">=
+
+
+                            <table cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%" align=3D"center"><tr><td width=3D"100" align=3D"center" va=
+lign=3D"top" class=3D"footer-social-icons" style=3D"color: #4d4d4d; font-fa=
+mily: verdana,sans-serif; font-size: 15px; font-weight: 100; line-height: 2=
+8px; padding-bottom: 34px; padding-top: 0;">
+                            =
+                <a href=3D"http://www.twitter.com/moo" title=3D"Twitter" cl=
+ass=3D"" id=3D"" rel=3D"">                                                <=
+img src=3D"https://www.moo.com/images/email/mesg/social/twitter.jpg?q=3D1-1=
+1665121655810" alt=3D"Twitter" title=3D"Twitter" width=3D"24" height=3D"24"=
+ class=3D"" id=3D"" style=3D"display: block; width:100%; max-width:24px !im=
+portant; border:none;"></a>                                        </td>
+=
+                                                                           =
+ <td width=3D"100" align=3D"center" valign=3D"top" class=3D"footer-social-i=
+cons" style=3D"color: #4d4d4d; font-family: verdana,sans-serif; font-size: =
+15px; font-weight: 100; line-height: 28px; padding-bottom: 34px; padding-to=
+p: 0;">
+                                            <a href=3D"http://www=
+.facebook.com/moo" title=3D"Facebook" class=3D"" id=3D"" rel=3D"">         =
+                                       <img src=3D"https://www.moo.com/imag=
+es/email/mesg/social/facebook.jpg?q=3D1-85421655210" alt=3D"Facebook" title=
+=3D"Facebook" width=3D"24" height=3D"24" class=3D"" id=3D"" style=3D"displa=
+y: block; width:100%; max-width:24px !important; border:none;"></a>        =
+                                </td>
+                                   =
+                                         <td width=3D"100" align=3D"center"=
+ valign=3D"top" class=3D"footer-social-icons" style=3D"color: #4d4d4d; font=
+-family: verdana,sans-serif; font-size: 15px; font-weight: 100; line-height=
+: 28px; padding-bottom: 34px; padding-top: 0;">
+                         =
+                   <a href=3D"http://www.pinterest.com/moohq" title=3D"Pint=
+erest" class=3D"" id=3D"" rel=3D"">                                        =
+        <img src=3D"https://www.moo.com/images/email/mesg/social/pinterest.=
+jpg?q=3D1-85559216555100" alt=3D"Pinterest" title=3D"Pinterest" width=3D"24=
+" height=3D"24" class=3D"" id=3D"" style=3D"display: block; width:100%; max=
+-width:24px !important; border:none;"></a>                                 =
+       </td>
+                                                            =
+        </tr></table></td>
+                    </tr></table></td>
+     =
+   </tr></table><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" a=
+lign=3D"center"><tr><td width=3D"100%" bgcolor=3D"#ffffff" class=3D"footer-=
+fringe" style=3D"padding-bottom: 0; padding-top: 0;">
+                <ta=
+ble cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"center"><tr=
+><td bgcolor=3D"#ffffff" width=3D"100%" align=3D"center" valign=3D"top" bac=
+kground=3D"https://www.moo.com/images/email/mesg/perf.jpg?q=3D833d74f0ecb55=
+e2f1cd6122c584a2b2e" class=3D"footer-fringe-image" height=3D"7" style=3D"bo=
+rder-radius: 2px; color: #ffffff; font-family: trebuchet MS,verdana,sans-se=
+rif; font-size: 16px; font-weight: 100; line-height: 25px; padding-bottom: =
+0; padding-top: 0;">
+                        </td>
+                    =
+</tr></table></td>
+        </tr></table></td>
+                         =
+       </tr></table></td>
+                    </tr></table></td>
+      =
+  </tr></table><img src=3D"https://www.google-analytics.com/collect?v=3D1&a=
+mp;tid=3DUA-66896-34&amp;t=3Devent&amp;ec=3Demail&amp;ea=3Dopen&amp;el=3DOR=
+DER_CONFIRMATION_EMAIL&amp;cs=3Dtransactional&amp;cm=3Demail&amp;cn=3DORDER=
+_CONFIRMATION_EMAIL&amp;cm1=3D1&amp;cd1=3Deceb9031a7dc11e9828102bbd6d2c1c4&=
+amp;cid=3Deceb9031a7dc11e9828102bbd6d2c1c4"></body></html>
+
+
+--_=_swift_v4_1563299839_d2607591b7aa94065959488b88affc9d_=_--
+

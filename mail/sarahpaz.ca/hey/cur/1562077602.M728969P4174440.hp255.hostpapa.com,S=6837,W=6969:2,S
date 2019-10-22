@@ -1,0 +1,132 @@
+Return-Path: <bounces+1638471-a5d8-hey=sarahpaz.ca@sent.smartrecruiters.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id CAxXK6JpG11osj8AOhTp2Q
+	(envelope-from <bounces+1638471-a5d8-hey=sarahpaz.ca@sent.smartrecruiters.com>)
+	for <hey@sarahpaz.ca>; Tue, 02 Jul 2019 10:26:42 -0400
+Return-path: <bounces+1638471-a5d8-hey=sarahpaz.ca@sent.smartrecruiters.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 02 Jul 2019 10:26:42 -0400
+Received: from o1.mail.smartrecruiters.com ([192.254.112.23]:36676)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+1638471-a5d8-hey=sarahpaz.ca@sent.smartrecruiters.com>)
+	id 1hiJk1-000NN1-4s
+	for hey@sarahpaz.ca; Tue, 02 Jul 2019 10:26:42 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=smartrecruiters.com; 
+	h=content-type:from:mime-version:to:subject; s=s1; 
+	bh=pEqyQ2wycpw9LepCuV/J5TAsexc=; b=T4lhRm32rlKMnk9kKD0i1DcDtymfs
+	D81cceTHXbLd8aZmEm9JRj8scyuVHwHQciwMPPRxlmrFbRXLyrGysFuC7yhB7jL4
+	hUKuXCraElaTW16c9EbhdDLB3i9w/POtzr99E3pXqnSDR3DndCRMUJo+RKHpnq9r
+	U87WGFiOQKh3tE=
+Received: by filter0883p1las1.sendgrid.net with SMTP id filter0883p1las1-19833-5D1B6970-2B
+        2019-07-02 14:25:52.380985796 +0000 UTC m=+47491.076348519
+Received: from MTYzODQ3MQ (ec2-35-157-94-240.eu-central-1.compute.amazonaws.com [35.157.94.240])
+	by ismtpd0007p1lon1.sendgrid.net (SG) with HTTP id NgR2OzlKR0WC3iZCKSO4xA
+	Tue, 02 Jul 2019 14:25:52.156 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=c452ce5b112338584a6a2c927a07dfb9c1a9d843637bc49e0b2e05550ede
+Date: Tue, 02 Jul 2019 14:25:52 +0000 (UTC)
+From: "Brainrider" <notifications@smartrecruiters.com>
+Mime-Version: 1.0
+To: hey@sarahpaz.ca
+Message-ID: <NgR2OzlKR0WC3iZCKSO4xA@ismtpd0007p1lon1.sendgrid.net>
+Subject: Thank you for applying to Brainrider
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVnqTe34wYpProq/9ikI4KILNHbEuCmDIH387d
+ c1zT9zGBZMU+6YUbu6CA7QLIw9eCI3DtM6Dt9P3WYLstZvGb4WRDOMcgp/lFahJoboPUHTQcQWmLcH
+ LzPSzk9zGClaruKqdIRnVHtPg/UC6fNrPdNm6tRmPsoBVj1Iif7SKCdF3TdNRRTnhvPrcMmPAicHt8
+ M=
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7IEKuO9XiMloSmupLMc/+u8LKQA22rRS/oxqQyfD1URRX6jVaAKQdVLatu
+ EdHcWC03a8iRxj936UwjJ2Ei6MmrYvy5ck3+GzelYhhpkVvq+jX0gxGm+21Nm0YyrYIrYGBA==
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dear Sarah, Thank you for submitting your application for
+   the position of Junior Web Developer. We will review your application and
+   contact you shortly. Best regards, Brainrider Hiring Team 
+ Content analysis details:   (2.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [192.254.112.23 listed in list.dnswl.org]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: smartrecruiters.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.0 HTML_IMAGE_ONLY_16     BODY: HTML: images with 1200-1600 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--c452ce5b112338584a6a2c927a07dfb9c1a9d843637bc49e0b2e05550ede
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Dear Sarah,
+
+Thank you for submitting your application for the position of Junior Web De=
+veloper. We will review your application and contact you shortly.=20
+
+Best regards,
+Brainrider Hiring Team
+
+
+Access my profile: https://my.smartrecruiters.com/api/sign-in?token=3Dac57d=
+495-6566-4674-8c40-4044b2e485ee&application=3Dd83fb599-324f-4a0f-9740-53480=
+f57e92b&utm_source=3Dautoreply
+
+--c452ce5b112338584a6a2c927a07dfb9c1a9d843637bc49e0b2e05550ede
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+Dear Sarah,<br><br>Thank you for submitting your application for the positi=
+on of Junior Web Developer. We will review your application and contact you=
+ shortly. <br><br>Best regards,<br>Brainrider Hiring Team<br>
+
+<img src=3D"https://www.smartrecruiters.com/scripts/dot/img/5d1b69708e7f413=
+e0a960fec.gif" alt=3D"" width=3D"1" height=3D"1"/>
+
+<br/>
+<a href=3D"https://my.smartrecruiters.com/api/sign-in?token=3Dac57d495-6566=
+-4674-8c40-4044b2e485ee&application=3Dd83fb599-324f-4a0f-9740-53480f57e92b&=
+utm_source=3Dautoreply"
+   style=3D"display: inline-block; background-color: #00ae41; border: 1px s=
+olid #00ae41; border-radius: 3px; padding: 10px 50px; font-family:Helvetica=
+,Arial,sans-serif; font-size:14px; font-weight:normal; color: #ffffff; text=
+-decoration: none;" target=3D"_blank">
+    Access my profile
+</a>
+<img src=3D"http://links.smartrecruiters.com/wf/open?upn=3DjQhle9vCs52fJYPh=
+4-2Ffwt2vKvadCanp-2B4qUfeGQZgPTWUVH9Cq5Oz-2FplYoDuQFaDy064Xj1iPW-2FRXEqzdPb=
+uwrz7QtvicaWlnxHHfgoKQ5huHVwhpHAkRDPaRGWUUXcoOW71L0-2Bcq7pdxKJ-2B8VD6Qq-2FO=
+WH0sx2Jyn0lUfENbVsMqpC-2FDZ-2FTY9ldtH8MpoWyc6tEMLTERppwkxEe-2BLJsAnIjdstzsS=
+-2BMjF-2BVn9XtpyaE1Hqm70P8bBvOVtDiRe6I2D7LAy4kRIzPYwwYKFln2loAGMuevq7TSNSZr=
+WsM75KO-2BzRvNBIomreMFGJKDJhMrTiY-2BisDxhbgZOnnthrPS5GzIEnzRbwkNOMVoRdZsqWM=
+-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;"/>
+
+--c452ce5b112338584a6a2c927a07dfb9c1a9d843637bc49e0b2e05550ede--

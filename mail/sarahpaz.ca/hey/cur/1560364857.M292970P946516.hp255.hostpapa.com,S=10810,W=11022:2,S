@@ -1,0 +1,212 @@
+Return-Path: <jaclyn4653_v2q@indeedemail.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id +JJZETlHAV1UcQ4AOhTp2Q
+	(envelope-from <jaclyn4653_v2q@indeedemail.com>)
+	for <hey@sarahpaz.ca>; Wed, 12 Jun 2019 14:40:57 -0400
+Return-path: <jaclyn4653_v2q@indeedemail.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 12 Jun 2019 14:40:57 -0400
+Received: from mail96.indeedemail.com ([198.58.75.96]:48873 helo=mail96.indeedmail.com)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <jaclyn4653_v2q@indeedemail.com>)
+	id 1hb8B6-003yuY-Dl
+	for hey@sarahpaz.ca; Wed, 12 Jun 2019 14:40:57 -0400
+Received: from aus-mexec101.indeed.net (unknown [10.1.3.211])
+	by mail96.indeedmail.com (Postfix) with ESMTP id 45PFzg5s1Gz18VxBs
+	for <hey@sarahpaz.ca>; Wed, 12 Jun 2019 13:40:15 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeedemail.com;
+	s=default; t=1560364815;
+	bh=Mf3W0T3Jikf96AvgBKMRsdxr4nqsJflv+CJIYOpU8I4=;
+	h=Date:From:To:Subject;
+	b=iM980ppvoM2/TokwMgdQLHdRQGcRNjqUTsVOQrDH8uerNqS4yXShbTyH3DBVAU3zh
+	 vB8y2v9ztcgI644x+g4URzWdVJH8uKgBNiQ/pU5DomHTcgmkK/RE9B2MybzxQXGGUq
+	 weGtAgq2aZcYy8FISTPB4x4AMejPaX62N5kt7mPM=
+Date: Wed, 12 Jun 2019 18:40:11 +0000
+From: Jaclyn Ling <jaclyn4653_v2q@indeedemail.com>
+To: Sarah Paz <hey@sarahpaz.ca>
+Message-ID: <arwfqh7s3w7cz3gjb0pqdoa7j-0@mailer.nylas.com>
+Subject: Hatchways application - next steps
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_285547795_1488934463.1560364815789"
+X-Indeed-FBL: :2:e0694c145c6111ad0a02fa396b40e1b7c0bd45d7a344132f63a96f8ddda19163
+X-Indeed-Client-App: DREMR
+X-Indeed-Content-Type: DREMR
+X-Indeed-TK: 1dd6fr5bg3hh8801
+X-Spam-Status: No, score=-16.9
+X-Spam-Score: -168
+X-Spam-Bar: ----------------
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi Sarah, Thank you for applying to Hatchways on Indeed for
+    a Junior Web Developer position. We use our platform to find and hire talent
+    for our company- the next step in our process is to complete an online as
+    [...] 
+ 
+ Content analysis details:   (-16.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at https://www.dnswl.org/,
+                             medium trust
+                             [198.58.75.96 listed in list.dnswl.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+  1.1 STYLE_GIBBERISH        Nonsense in HTML <STYLE> tag
+X-Spam-Flag: NO
+
+------=_Part_285547795_1488934463.1560364815789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Sarah,  
+  
+Thank you for applying to Hatchways on Indeed for a Junior Web Developer
+position. We use our platform to find and hire talent for our company- the
+next step in our process is to complete an online assessment based on your
+skillset.  
+  
+The big bonus is that while you are completing your online assessment for
+Hatchways, it enables you opportunities not only for employment at Hatchways,
+but potential employment opportunities with the tech startups we work with in
+Toronto. In other words, by completing one assessment, you gain accessibility
+to dozens of other start-ups.  
+  
+You can find the next step here: <https://hatchways.io/#/candidates/signup>  
+  
+We host interview cycles every month for internship and full-time
+opportunities that can start right away. We take candidates with any
+background. If you are accepted into an interview round, you don't need to
+apply to any of the startups, we automatically set up interviews for you. Our
+next interview cycle is June 24th, and candidates must complete their online
+assessment by June 15th to qualify.  
+  
+There is a lot more information on our website, but if you have any questions
+I'd be happy to chat further. Let me know if this is interesting to you at
+all.  
+  
+Thanks!  
+Jaclyn![](http://infinite-stream-5194.herokuapp.com/pixel/mmm_nJ1nJM.gif)
+
+
+Suspect spam or fraud?
+Report this message to Indeed <https://m.indeedemail.com/report-email?info=2bSp1T2KIbceMCuZt4U1GJONxXABkRgjX1_KQNRNSsfAt3Gpc6VRf7eYP57Ta85uSpSPj6hTXZ1pClV-rlhckKFkPBkA3KK12dMOQGrA6JfZWEAD1EborHO646B4OwaPyMS9KJH3aRI4rXJYrmDZwUnm6ttsONkX4FjLGqF6utjtvTSTtpx2_-w1b6Dx>
+
+By replying or using an indeedemail.com email address, you agree that this email will be processed and analyzed according to the Indeed Cookie Policy <https://www.indeed.com/legal?hl=en&amp;co=CA#cookies>, Privacy Policy <https://www.indeed.com/legal?hl=en&amp;co=CA#privacy>, and Terms of Service <https://www.indeed.com/legal?hl=en&amp;co=CA#tos>.
+------=_Part_285547795_1488934463.1560364815789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+  <meta name=3D"format-detection" content=3D"address=3Dno">=20
+  <meta name=3D"format-detection" content=3D"telephone=3Dno">=20
+  <style type=3D"text/css">@media screen and (max-width: 500px) {.stack {di=
+splay:block !important; padding:8px 12px !important; box-sizing:border-box =
+!important; width:100% !important;}.iris-button-wrapper {width:100% !import=
+ant; margin:auto !important; text-align:center !important;}.iris-button {wi=
+dth:100% !important; display:block !important; box-sizing:border-box !impor=
+tant;}.iris-button-label {width:300px !important; display:block !important;=
+ margin:0 auto !important;}.iris-button-mobile-only {display:table !importa=
+nt; max-height:none !important; overflow:visible !important;}.iris-button-h=
+eader-mobile-only {display:block !important; max-height:none !important; ov=
+erflow:visible !important;}.ph-20 {padding-left:20px !important; padding-ri=
+ght:20px !important;}.iris-replay-test-2-wrapper {display:block !important;=
+ width:280px !important; margin:0 auto !important;}}</style>=20
+ </head>=20
+ <body>=20
+  <div id=3D"indeedemailpixel">=20
+   <img src=3D"https://m.indeedemail.com/emailpixel.gif?info=3DPaKlC_NhdGSI=
+1PFxAZS1Ot0bjn2x-YpQJyATqldez1h6POCHatoiecsJLlSfvn5mvWvfTQJqKkTvejwqJ0LZ-kn=
+AKdStymIzmOklp4sdXxHgqURRPKfUc4-9xfyXImdBiAp5IsvBc35P1GKDAyZ8cM-4sO7VYM1NWu=
+FiqJ5pe-mwn3K0PA">=20
+  </div> Hi Sarah,=20
+  <br>=20
+  <br> Thank you for applying to Hatchways on&nbsp;Indeed for a&nbsp;Junior=
+ Web Developer position. We use our platform to find and hire talent for ou=
+r company- the next step in our process is to complete an online assessment=
+ based on your skillset.=20
+  <br>=20
+  <br> The big bonus is that while you are completing your online assessmen=
+t for Hatchways, it enables you opportunities not only for employment at Ha=
+tchways, but potential employment opportunities with the tech startups we w=
+ork with in Toronto. In other words, by completing one assessment, you gain=
+ accessibility to dozens of other start-ups.=20
+  <br>=20
+  <br> You can find the next step here:&nbsp;=20
+  <a href=3D"https://hatchways.io/#/candidates/signup">https://hatchways.io=
+/#/candidates/signup</a>=20
+  <br>=20
+  <br> We host interview cycles every month for internship and full-time op=
+portunities that can start right away. We take candidates with any backgrou=
+nd. If you are accepted into an interview round, you don't need to apply to=
+ any of the startups, we automatically set up interviews for you. Our next =
+interview cycle is June 24th, and candidates must complete their online ass=
+essment by June 15th to qualify.=20
+  <br>=20
+  <br> There is a lot more information on our website, but if you have any =
+questions I'd be happy to chat further. Let me know if this is interesting =
+to you at all.=20
+  <br>=20
+  <br> Thanks!=20
+  <br> Jaclyn=20
+  <img alt=3D"" width=3D"1" height=3D"1" src=3D"http://infinite-stream-5194=
+.herokuapp.com/pixel/mmm_nJ1nJM.gif">=20
+  <div id=3D"report-suspicious--2608787735790133811" style=3D"border-top:so=
+lid 1px #d8d8d8; color:#999; padding:7px 0; margin-top:3px; font-size:12px;=
+" class=3D"dremr-report-suspicious">=20
+   <b>Suspect spam or fraud?</b>=20
+   <a href=3D"https://m.indeedemail.com/report-email?info=3D2bSp1T2KIbceMCu=
+Zt4U1GJONxXABkRgjX1_KQNRNSsfAt3Gpc6VRf7eYP57Ta85uSpSPj6hTXZ1pClV-rlhckKFkPB=
+kA3KK12dMOQGrA6JfZWEAD1EborHO646B4OwaPyMS9KJH3aRI4rXJYrmDZwUnm6ttsONkX4FjLG=
+qF6utjtvTSTtpx2_-w1b6Dx" style=3D"color:#999">Report this message to Indeed=
+</a>=20
+   <span>=E2=80=83 =E2=80=83 =E2=80=83</span>=20
+   <a href=3D"https://m.indeedemail.com/report-email-hidden?info=3D2bSp1T2K=
+IbceMCuZt4U1GJONxXABkRgjX1_KQNRNSsfAt3Gpc6VRf7eYP57Ta85uSpSPj6hTXZ1pClV-rlh=
+ckKFkPBkA3KK12dMOQGrA6JfZWEAD1EborHO646B4OwaPyMS9KJH3aRI4rXJYrmDZwUnm6ttsON=
+kX4FjLGqF6utjtvTSTtpx2_-w1b6Dx"></a>=20
+  </div> =20
+  <div id=3D"legal-disclaimer" style=3D"color:gray;margin-top:10px;font-siz=
+e:12px" class=3D"dremr-disclaimer">
+   <div>
+    By replying or using an indeedemail.com email address, you agree that t=
+his email will be processed and analyzed according to the Indeed=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DCA#cookies" st=
+yle=3D"color:#999">Cookie Policy</a>,=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DCA#privacy" st=
+yle=3D"color:#999">Privacy Policy</a>, and=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DCA#tos" style=
+=3D"color:#999">Terms of Service</a>.
+   </div>
+  </div>
+ </body>
+</html>
+------=_Part_285547795_1488934463.1560364815789--

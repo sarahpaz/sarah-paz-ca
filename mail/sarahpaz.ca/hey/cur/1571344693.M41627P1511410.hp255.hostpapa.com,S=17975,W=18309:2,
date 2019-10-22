@@ -1,0 +1,334 @@
+Return-Path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id GJLbATXRqF3yDxcAOhTp2Q
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Thu, 17 Oct 2019 16:38:13 -0400
+Return-path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 17 Oct 2019 16:38:13 -0400
+Received: from o1678934x219.outbound-mail.sendgrid.net ([167.89.34.219]:5655)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1iLCXD-006N98-6x
+	for hey@sarahpaz.ca; Thu, 17 Oct 2019 16:38:13 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=sendgrid.ziprecruiter.com; 
+	h=mime-version:content-type:content-transfer-encoding:from:to:subject; 
+	s=smtpapi; bh=Zuy469Lfy9dIoLePx3LUJwwcJCc=; b=oREWHjlSAZ9/a4q26Y
+	ygQs37uDivEf4MQrazdJeufMtccSJ8XJN+g/+uUg2H+6R0plZxdhfx0SK17vrS4o
+	q/Fwx3fHw+xtyimBi71THAtDjmB7YxXNSywUAkFxj7pV6K3xjd9Yauhh8bAFs/6d
+	zz65U3DS1Ar3jAQwZMY6dL2Hs=
+Received: by filter0842p1las1.sendgrid.net with SMTP id filter0842p1las1-11018-5DA8D10A-7
+        2019-10-17 20:37:30.191047993 +0000 UTC m=+593478.577888578
+Received: from zipalerts.com (ec2-52-23-117-207.compute-1.amazonaws.com [52.23.117.207])
+	by ismtpd0023p1mdw1.sendgrid.net (SG) with ESMTP id kuBKjBsXQeWhd8MFX2BUdw
+	for <hey@sarahpaz.ca>; Thu, 17 Oct 2019 20:37:30.099 +0000 (UTC)
+Date: Thu, 17 Oct 2019 20:37:30 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+From: "Team @ ZipRecruiter" <seekerteam@ziprecruiter.com>
+To: hey@sarahpaz.ca
+Subject: Jobs like Junior Software Developer
+Message-ID: <kuBKjBsXQeWhd8MFX2BUdw@ismtpd0023p1mdw1.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVnpvuMRuUCy3zOXvTsrbzfbBQEZ0zi4g+6vay
+ UR5CFGuHXOtOCQA/oIQdq+mRxJnkMTliHMG4iditROCYy/dSs1ZJtNI1Vtc51yJADfkEAqrk2r1KRo
+ zeW/APp21VdWOJhqNAGnkl8SWpH8EUaBAmlupaI77CUryjkKlRA1UA3XrTZMHPukvuGr7PtJ8dZuUY
+ 0=
+X-SG-ID: trnf54TTjAb91d6Ywfb3bh3BmeQCHiosUaVWK/fxndABMOobNMY7MPWyGVdFmsMlUMY91cm091606p
+ egMfiINOdKaNl5S1+t+p6Su0CjfbuYN4sjWzdHGEdoriDxrkllDtUAhyG25vP5tT5A+0SFSo1Uwo2/
+ sltaBfMwnNkD4/vHqB0tV+AKrLaiLiC/n3rq4WVSV5qE9SGFjDp+WSkpAtQCRotlvQbIVmk2kcXaUU
+ OXd2PK5mFXZKuKVCFqcnFsSxwRdz6APbKoOtF5cmqS4Q==
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Sarah, We found a few similar jobs like the Junior Software
+    Developer position at Evenset Inc. that we wanted to run by you. If you like
+    any of them, just click the "1-Click Apply" link and we'll submit your [...]
+    
+ Content analysis details:   (1.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [167.89.34.219 listed in list.dnswl.org]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+<html>
+<head></head>
+<body>
+
+<span style=3D"font-family:Arial,sans-serif;font-size:15px;line-height:1.4;=
+color:#2f3639;">
+Hi Sarah,<br><br>
+   We found a few similar jobs like the <b>Junior Software Developer</b> po=
+sition at <b>Evenset Inc.</b> that we wanted to run by you. If you like any=
+ of them, just click the &quot;1-Click Apply&quot; link and we'll submit yo=
+ur application using the resume that you have on file.
+<br><br>
+--------------------
+<br><br>
+
+=20=20
+
+  <span style=3D"font-weight:bold;">.NET AngularJS SQL Developer - Full-Tim=
+e</span> - Direct IT Recruiting Inc. - Mississauga, ON  <br>
+=20=20
+        <a href=3D"https://www.ziprecruiter.com/clk/direct-it-recruiting-in=
+c-00000000-net-angularjs-sql-developer-full-time-f4dc0f87?clk=3D8RFDp8tdOm1=
+9X99H_-VNSDWS9GbmW0A9vniaRVWBW5OOoQcPEF8eUQ_5W0d57waydf7pCwTMg2jr1QT3Z9jj50=
+o1bFBLzpBRUvAuLGMC1O4eiXwQ6bAscnnX11da7nn0t6HoSvZ0-7Ey9QZmjCc8LV5GNJA15Li3c=
+dydZy5CqzMKijhtjxsSCNc54YQponL0f1VGuQ9ux6vEiprxhKorbcuPiCSyjLELMsfHI3OUbS9e=
+vWQ-lr8g4-IhB4YflIR0SQbsIPl38hTaZ8SAUjYgTWVt7ntOPrZ4W9q0MN_1h-qbg9TKeP0tF9-=
+VXt8kLcY1swsTKLRVY98tPsci2-oSvl6CXa74sg1ryMvQrQC6JTBDarXYo3WV_KIKWLUGQkHFT-=
+rjLg1PCqBt0EGKu5b7SilRGW0IjItFIVFXwV8kWiooO1Zx2MK79XeBMcLB5DbwNtTI3Rfkp81Jq=
+cCxUdIpWJURAqIbqtI46UkJ_GNVtWbwdR9jny1Xs9bP0wBuV4XXwPS7Vs6C7rPXliXEsiGfmtut=
+xKRcgqXXy3slgr9kEy4c83aKQS9_CPQy3FZ1vCzPNFPrx38HMQpzGXKJ4AaIDYk_z21DSnV5Ekx=
+ynMN01KS8IB5J_DzCD5aFK7RIPUu4VN5DL7VyukfKHNWL5bC0tlO5eeNtS79PpqybWqMi4LKW1v=
+Y2sVEOzF506yYGtQkbqJzot6lp0o7eX_2qYwR3udbt_rQp0ahMvL8HZ70B-htrbYFqWf5B-mDEl=
+_Cxk7bmEGFXh3oHa2p_RZGhXv_CjQ.744b8528df6fea3416eba7dbc7048e3a" style=3D"co=
+lor: #0e75e2;" target=3D"_blank">View Details</a> |
+        <a href=3D"https://www.ziprecruiter.com/clk/direct-it-recruiting-in=
+c-00000000-net-angularjs-sql-developer-full-time-f4dc0f87?clk=3D8RFDp8tdOm1=
+9X99H_-VNSDWS9GbmW0A9vniaRVWBW5OOoQcPEF8eUQ_5W0d57waydf7pCwTMg2jr1QT3Z9jj50=
+o1bFBLzpBRUvAuLGMC1O4eiXwQ6bAscnnX11da7nn0t6HoSvZ0-7Ey9QZmjCc8LV5GNJA15Li3c=
+dydZy5CqzMKijhtjxsSCNc54YQponL0f1VGuQ9ux6vEiprxhKorbcuPiCSyjLELMsfHI3OUbS9e=
+vWQ-lr8g4-IhB4YflIR0SQbsIPl38hTaZ8SAUjYgTWVt7ntOPrZ4W9q0MN_1h-qbg9TKeP0tF9-=
+VXt8kLcY1swsTKLRVY98tPsci2-oSvl6CXa74sg1ryMvQrQC6JTBDarXYo3WV_KIKWLUGQkHFT-=
+rjLg1PCqBt0EGKu5b7SilRGW0IjItFIVFXwV8kWiooO1Zx2MK79XeBMcLB5DbwNtTI3Rfkp81Jq=
+cCxUdIpWJURAqIbqtI46UkJ_GNVtWbwdR9jny1Xs9bP0wBuV4XXwPS7Vs6C7rPXliXEsiGfmtut=
+xKRcgqXXy3slgr9kEy4c83aKQS9_CPQy3FZ1vCzPNFPrx38HMQpzGXKJ4AaIDYk_z21DSnV5Ekx=
+ynMN01KS8IB5J_DzCD5aFK7RIPUu4VN5DL7VyukfKHNWL5bC0tlO5eeNtS79PpqybWqMi4LKW1v=
+Y2sVEOzF506yYGtQkbqJzot6lp0o7eX_2qYwR3udbt_rQp0ahMvL8HZ70B-htrbYFqWf5B-mDEl=
+_Cxk7bmEGFXh3oHa2p_RZGhXv_CjQ.744b8528df6fea3416eba7dbc7048e3a" style=3D"co=
+lor: #0e75e2;" target=3D"_blank">Quick Apply</a>
+=20=20
+
+    <br>
+  <br>
+=20=20
+=20=20
+
+  <span style=3D"font-weight:bold;">I.T. Developer</span> - MBI I.T. Servic=
+es - Mississauga, ON  <br>
+=20=20
+        <a href=3D"https://www.ziprecruiter.com/clk/mbi-i-t-services-000000=
+00-i-t-developer-a00f9796?clk=3D6SW64LdDP0H7wi_iPzAyDtJOTz67bMDxQR2G7eEVgOP=
+X4CV4ufAZSo1P339z7IHoZ5oJjwqFElPrpW3ECOWKPufltE9WKzk34JMjGs_Ap1ikiwUAe4xofr=
+kiv7feVUe3ka4YEQ6eoAnrD_T2wvkXOGBh0KNVejcMzMXbyTsvcGYLQlanlNnrGa4CtEQ3YSRP9=
+yMAEcW6x8Hutvgc_m5rsdB85KCB17a0FW2_A8CnzFGFa49ZcqXYjQ9Tcj9REhRI6-aJB9e72buL=
+Fb7axlo0dklyELh-Ci6KLWV0d0yP9WFj_vTJ6UBMh17rDrqVuOdVcThXhNfatqasoEZoD60VsHm=
+VpRNmZRTrVPlUnm0xjATGgwuCWo5GMiUEl6BzdRz6P-r20JUUEx3DDmHQHwPq1tLUzyXG2Tk9-g=
+mkcAARn_npsZ9W6HhZUwWVyvYzUcv9ZtuxK07dYxhUidlcoGAvUJ4sWB34O_Dgv42ukOzLCpMU4=
+-fyr7gKxujWNM6St-pFrEeNr1kHQHrozW1VjTlpdqfwHOV5OeJVHaHNud6FcSKSEW17cR2FVt67=
+n_T7caorm4sWcof7khuC8iVVjfFklrk99Yu4mZf2kxU32hRSTI5FR8rhxkwtycnx8puDgALWayH=
+sWbRKt2yuUlgAr77TZY7bnEgaX8KQrBKIRH4fo1U-5jU0j5nVqFHyDN-fX5xh4StrjSzg5T_zcL=
+812HD2c99atI08X5-1JrtiR5jprNU.a3502f4b48df067dda85a6b17284068d" style=3D"co=
+lor: #0e75e2;" target=3D"_blank">View Details</a> |
+        <a href=3D"https://www.ziprecruiter.com/clk/mbi-i-t-services-000000=
+00-i-t-developer-a00f9796?clk=3D6SW64LdDP0H7wi_iPzAyDtJOTz67bMDxQR2G7eEVgOP=
+X4CV4ufAZSo1P339z7IHoZ5oJjwqFElPrpW3ECOWKPufltE9WKzk34JMjGs_Ap1ikiwUAe4xofr=
+kiv7feVUe3ka4YEQ6eoAnrD_T2wvkXOGBh0KNVejcMzMXbyTsvcGYLQlanlNnrGa4CtEQ3YSRP9=
+yMAEcW6x8Hutvgc_m5rsdB85KCB17a0FW2_A8CnzFGFa49ZcqXYjQ9Tcj9REhRI6-aJB9e72buL=
+Fb7axlo0dklyELh-Ci6KLWV0d0yP9WFj_vTJ6UBMh17rDrqVuOdVcThXhNfatqasoEZoD60VsHm=
+VpRNmZRTrVPlUnm0xjATGgwuCWo5GMiUEl6BzdRz6P-r20JUUEx3DDmHQHwPq1tLUzyXG2Tk9-g=
+mkcAARn_npsZ9W6HhZUwWVyvYzUcv9ZtuxK07dYxhUidlcoGAvUJ4sWB34O_Dgv42ukOzLCpMU4=
+-fyr7gKxujWNM6St-pFrEeNr1kHQHrozW1VjTlpdqfwHOV5OeJVHaHNud6FcSKSEW17cR2FVt67=
+n_T7caorm4sWcof7khuC8iVVjfFklrk99Yu4mZf2kxU32hRSTI5FR8rhxkwtycnx8puDgALWayH=
+sWbRKt2yuUlgAr77TZY7bnEgaX8KQrBKIRH4fo1U-5jU0j5nVqFHyDN-fX5xh4StrjSzg5T_zcL=
+812HD2c99atI08X5-1JrtiR5jprNU.a3502f4b48df067dda85a6b17284068d" style=3D"co=
+lor: #0e75e2;" target=3D"_blank">Quick Apply</a>
+=20=20
+
+    <br>
+  <br>
+=20=20
+=20=20
+
+  <span style=3D"font-weight:bold;">Software Developer</span> - Info-Tech R=
+esearch Group - Toronto, ON  <br>
+=20=20
+        <a href=3D"https://www.ziprecruiter.com/clk/info-tech-research-grou=
+p-00000000-software-developer-b9d3b898?clk=3DSxVVgx5xiGZIKOLmwq_oVgCi21ISPK=
+1Gw2moyB49-LkZGzW_31nf2YC3QI8173u9RVsd3M8qijzT2PgsOeDrCRCW-srbrP4UJgy-HofGI=
+mhniGie3eN7mi_XPFCfZE4mDHDcX8VXb6EDzKkXGn9M-plSB3T_vMOoqJtzueROH6qbw5e3wgvb=
+4j50VqI52HEgj57OzP5A-0vE8N0ztVORANmzjIQgxXqyBKRi8DTDXK0a-R2nz4sRUWycPODl4LY=
+fzFjC8nkXmK6k-c5o-dRevesuLpgrOeqrv_cYi-JPNcoe44cSLF5VrRPbK4G9Ospt1srCWeA8Dc=
+vL3Ef6PnLpi-BBr5H9CYh3Xwf13dl-wk6yWeQhbUesmfCep59eV8EK8DZSuU3hwxXUk8d74o4rT=
+EhugsPdC-2evuZOnPfDe_jW0szWu7FGfV4j-jQPzQEIOmW1LikuSok7q-lMkTPUzSOOE89tP1or=
+xJQfGeENyU6aZvt7PQDQ0trGDVjtV1_BTi_SkpD_AVwBwQBg3OcEwuarQSY9z7mMJ4QXVjarsK9=
+2905TMDxdBgDYlbDMedW1CRPjEMGNG9-2sTdHN9HFIFNu4ql2QHLhSdzKrkzwVzNjdVYu0jHrCl=
+0EO753sMSWM4K8-IQpl6bmlBa8m1hoZQB0T7VwW6HdKqguRGKI0bTZxx71H_Ga0Va3-6KNBX3Ak=
+k8JY0gdYGwTFfxajlGcW71yvxQ9nPYcF8_RUOPtZZ4.0676f0207f8056d3f98eb9730b66a7d9=
+" style=3D"color: #0e75e2;" target=3D"_blank">View Details</a> |
+        <a href=3D"https://www.ziprecruiter.com/clk/info-tech-research-grou=
+p-00000000-software-developer-b9d3b898?clk=3DSxVVgx5xiGZIKOLmwq_oVgCi21ISPK=
+1Gw2moyB49-LkZGzW_31nf2YC3QI8173u9RVsd3M8qijzT2PgsOeDrCRCW-srbrP4UJgy-HofGI=
+mhniGie3eN7mi_XPFCfZE4mDHDcX8VXb6EDzKkXGn9M-plSB3T_vMOoqJtzueROH6qbw5e3wgvb=
+4j50VqI52HEgj57OzP5A-0vE8N0ztVORANmzjIQgxXqyBKRi8DTDXK0a-R2nz4sRUWycPODl4LY=
+fzFjC8nkXmK6k-c5o-dRevesuLpgrOeqrv_cYi-JPNcoe44cSLF5VrRPbK4G9Ospt1srCWeA8Dc=
+vL3Ef6PnLpi-BBr5H9CYh3Xwf13dl-wk6yWeQhbUesmfCep59eV8EK8DZSuU3hwxXUk8d74o4rT=
+EhugsPdC-2evuZOnPfDe_jW0szWu7FGfV4j-jQPzQEIOmW1LikuSok7q-lMkTPUzSOOE89tP1or=
+xJQfGeENyU6aZvt7PQDQ0trGDVjtV1_BTi_SkpD_AVwBwQBg3OcEwuarQSY9z7mMJ4QXVjarsK9=
+2905TMDxdBgDYlbDMedW1CRPjEMGNG9-2sTdHN9HFIFNu4ql2QHLhSdzKrkzwVzNjdVYu0jHrCl=
+0EO753sMSWM4K8-IQpl6bmlBa8m1hoZQB0T7VwW6HdKqguRGKI0bTZxx71H_Ga0Va3-6KNBX3Ak=
+k8JY0gdYGwTFfxajlGcW71yvxQ9nPYcF8_RUOPtZZ4.0676f0207f8056d3f98eb9730b66a7d9=
+" style=3D"color: #0e75e2;" target=3D"_blank">Quick Apply</a>
+=20=20
+
+    <br>
+  <br>
+=20=20
+=20=20
+
+  <span style=3D"font-weight:bold;">React Developer</span> - Maarut - Toron=
+to, ON  <br>
+=20=20
+        <a href=3D"https://www.ziprecruiter.com/clk/maarut-00000000-react-d=
+eveloper-ae20ef9b?clk=3DF6ZqttSCIPS5_CzsXmbJ1g0UiM0YHhtM5XoZvkOr-W2N5Dp5Dh8=
+FprhyCU-Np9PMDXXf4viV-2IjV4VTi6HvfcCxnyJvqltFP4i3SN79MB2su6w4DcLGoLCuG7IaaS=
+8xiLNhEQcXwRfsphRHk0kKblmU1Udyzl2zRMkOzOZs_cnCdUdCfyaV1yeLUFI9P3lU_RD-Io3s-=
+PE7llzFTnjBIonyy9aCrsKU0gqmikLPcHqBT9rl1QDu6cgElc4reFL9ygQPXHZgeWeSwWd2w_Wt=
+bJQiPDxE7AVQaCv2qcGpI-4Unxxj6DLXABjCDtrYJdbrYrv0RxRvpEpqmfA_G2jJ_5eorNJ0dEo=
+Wp9uYH_7sHuVL0Z_PfcLpEErYDDigYq2TNcchCKMY5-hgfAzoAKEUXNaZyNhhks8l97S_FNr86w=
+aByeuTYMi-eSuVHzOdKP2ENjYVql-O_lekZUAmRzSx8Eo4owPImzGlUQXLbAGWMGXyrUyvDH7U9=
+SJdYoVhy8isMFkZBFAGxx7Ab2wqsO93oaZlBINp1sZrhcahclUEOehyNbSocWg81y2vCp3cP2xk=
+-BfdIVAtFrdy3BbYjbnOosXi38WERovbuhdcnMI5wU6hBLuFycDjJfncHaCNW5StGofcl_--ICL=
+za77tNawmJ1cTMhlU09Nmn86NewYJEkr6AxtzQGEhXBtQmmVNKbm2_HLgSx8sud767bEnkG8KyQ=
+.247f665901cc7bc89c0056df4f7d3f1e" style=3D"color: #0e75e2;" target=3D"_bla=
+nk">View Details</a> |
+        <a href=3D"https://www.ziprecruiter.com/clk/maarut-00000000-react-d=
+eveloper-ae20ef9b?clk=3DF6ZqttSCIPS5_CzsXmbJ1g0UiM0YHhtM5XoZvkOr-W2N5Dp5Dh8=
+FprhyCU-Np9PMDXXf4viV-2IjV4VTi6HvfcCxnyJvqltFP4i3SN79MB2su6w4DcLGoLCuG7IaaS=
+8xiLNhEQcXwRfsphRHk0kKblmU1Udyzl2zRMkOzOZs_cnCdUdCfyaV1yeLUFI9P3lU_RD-Io3s-=
+PE7llzFTnjBIonyy9aCrsKU0gqmikLPcHqBT9rl1QDu6cgElc4reFL9ygQPXHZgeWeSwWd2w_Wt=
+bJQiPDxE7AVQaCv2qcGpI-4Unxxj6DLXABjCDtrYJdbrYrv0RxRvpEpqmfA_G2jJ_5eorNJ0dEo=
+Wp9uYH_7sHuVL0Z_PfcLpEErYDDigYq2TNcchCKMY5-hgfAzoAKEUXNaZyNhhks8l97S_FNr86w=
+aByeuTYMi-eSuVHzOdKP2ENjYVql-O_lekZUAmRzSx8Eo4owPImzGlUQXLbAGWMGXyrUyvDH7U9=
+SJdYoVhy8isMFkZBFAGxx7Ab2wqsO93oaZlBINp1sZrhcahclUEOehyNbSocWg81y2vCp3cP2xk=
+-BfdIVAtFrdy3BbYjbnOosXi38WERovbuhdcnMI5wU6hBLuFycDjJfncHaCNW5StGofcl_--ICL=
+za77tNawmJ1cTMhlU09Nmn86NewYJEkr6AxtzQGEhXBtQmmVNKbm2_HLgSx8sud767bEnkG8KyQ=
+.247f665901cc7bc89c0056df4f7d3f1e" style=3D"color: #0e75e2;" target=3D"_bla=
+nk">Quick Apply</a>
+=20=20
+
+    <br>
+  <br>
+=20=20
+=20=20
+
+  <span style=3D"font-weight:bold;">Full Stack Developer</span> - Smartpay,=
+ Inc. - Toronto, ON  <br>
+=20=20
+        <a href=3D"https://www.ziprecruiter.com/clk/smartpay-inc-00000000-f=
+ull-stack-developer-d09d9ce8?clk=3DUR5iv7ux3P0YPbK1XA5OC0nSo4_kDYKJelm_S7R2=
+RP-g8afJFBrkCWGnJ3BiEJtJfYyRWBwG8nkTstAb7FFn8puxrYR3Ax360zdw3F_b8WNreSJg99e=
+u7W_XJrrMD-TAHgoaxEo_BqhvxMhgEqmv_0-ygHUamFoFlP0UrrnpPtv3FUwCT7CRAM_WvrnkiY=
+jl8PC4yQkkq-Df2VZ-3U324btv4bbCMR70iVxxb5xDspBQl5rI8Bc6sV2BBZxOu6YuJQ4f9LT89=
+jHHNJX-FqXASN4JiursW-PS_ibkW5ed6T9UuZ92FZigHPg0ultbVE9mS1mwvFxRpozzH13KnUgJ=
+IR4g9b1EBBBPl_1JskUxlX-EUhDqUNViF82vOhfa0GP9wElvLPBqvFUENyjHl0u6zwHkoroPXxG=
+HVja5GxrEr1dd1ciuolI1Hreovs3u5A-cf0wDjlZGKq15TDFVCceWx7Ei0QpxEwXy1mPFTkr7Ge=
+zbABRCs2Wjy0nYXMQTu30icL8LyVR-oIa4bLXVBSFmdRZCRgGVDc14E6jLcw7PCv7QLeRQHbWu7=
+23gs6WmOlhCOIA_M6VMhgnwaKAdpI7x9HDDpKPufy_M8c06BvI-MqeaLmw8Et_7SHwHrwyc9y-2=
+2-HR-LK4I_mlcpe3nygq-5_B-JIPHujtN-vingyCXsemhBYeVQVr7wqpIkf3UIeJDPEHtg4vGhL=
+ooeUc3Mo4YR8W9fV5fcb1c5lMyyx5BbM.87f58936743238dae1daa44ac7d0b138" style=3D=
+"color: #0e75e2;" target=3D"_blank">View Details</a> |
+        <a href=3D"https://www.ziprecruiter.com/clk/smartpay-inc-00000000-f=
+ull-stack-developer-d09d9ce8?clk=3DUR5iv7ux3P0YPbK1XA5OC0nSo4_kDYKJelm_S7R2=
+RP-g8afJFBrkCWGnJ3BiEJtJfYyRWBwG8nkTstAb7FFn8puxrYR3Ax360zdw3F_b8WNreSJg99e=
+u7W_XJrrMD-TAHgoaxEo_BqhvxMhgEqmv_0-ygHUamFoFlP0UrrnpPtv3FUwCT7CRAM_WvrnkiY=
+jl8PC4yQkkq-Df2VZ-3U324btv4bbCMR70iVxxb5xDspBQl5rI8Bc6sV2BBZxOu6YuJQ4f9LT89=
+jHHNJX-FqXASN4JiursW-PS_ibkW5ed6T9UuZ92FZigHPg0ultbVE9mS1mwvFxRpozzH13KnUgJ=
+IR4g9b1EBBBPl_1JskUxlX-EUhDqUNViF82vOhfa0GP9wElvLPBqvFUENyjHl0u6zwHkoroPXxG=
+HVja5GxrEr1dd1ciuolI1Hreovs3u5A-cf0wDjlZGKq15TDFVCceWx7Ei0QpxEwXy1mPFTkr7Ge=
+zbABRCs2Wjy0nYXMQTu30icL8LyVR-oIa4bLXVBSFmdRZCRgGVDc14E6jLcw7PCv7QLeRQHbWu7=
+23gs6WmOlhCOIA_M6VMhgnwaKAdpI7x9HDDpKPufy_M8c06BvI-MqeaLmw8Et_7SHwHrwyc9y-2=
+2-HR-LK4I_mlcpe3nygq-5_B-JIPHujtN-vingyCXsemhBYeVQVr7wqpIkf3UIeJDPEHtg4vGhL=
+ooeUc3Mo4YR8W9fV5fcb1c5lMyyx5BbM.87f58936743238dae1daa44ac7d0b138" style=3D=
+"color: #0e75e2;" target=3D"_blank">Quick Apply</a>
+=20=20
+
+    <br>
+  <br>
+=20=20
+
+--------------------
+<br><br>
+Regards,<br /><br />
+The ZipRecruiter Team<br>
+
+<a href=3D"https://www.ziprecruiter.com?mid=3D37839&amp;source_board_id=3D3=
+7839" target=3D"_blank" title=3D"Sign In to ZipRecruiter" style=3D"color:#0=
+e75e2;"><img src=3D"https://www.ziprecruiter.com/zrs/f5bd79b6/img/ziprecrui=
+ter-logo-150px.png" alt=3D"ZipRecruiter" style=3D"display:inline-block"/></=
+a>
+<br>
+<a href=3D"https://www.ziprecruiter.com?mid=3D37839&amp;source_board_id=3D3=
+7839" target=3D"_blank" style=3D"color:#2f3639;text-decoration:none">604 Ar=
+izona Ave., Santa Monica, CA 90401
+</a>
+<br>
+<br>
+<br>
+<table style=3D"width:100%;" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+  <tr>
+    <td width=3D"100%" bgcolor=3D"#e0e2e3" height=3D"1" style=3D"font-size:=
+ 1px; line-height: 1px;"> </td>
+  </tr>
+</table>
+<br>
+  <span style=3D"font-size:13px">Already got hired? <a href=3D"https://www.=
+ziprecruiter.com/candidate/hired-survey?mid=3D37839&amp;source=3Djs-remarke=
+ting-triggered-jobseeker-candidate-external-interest-jobs---&amp;source_boa=
+rd_id=3D37839&amp;auth_token=3D_v3_8e9c2444f4ebf1639f8c9c720fb53d955c2dbe2b=
+fdc8585929229e97b8fca099&amp;contact_id=3D4a6df941&amp;expires=3D1571517449=
+" style=3D"color: #0e75e2;">Let us know.</a></span>
+  <br>
+  <span style=3D"font-size:13px">If you&#39;d prefer not to receive any mor=
+e emails like this from us you can easily <a href=3D"https://www.ziprecruit=
+er.com/candidate/notification-unsubscribe-confirm/4a6df941/429276a4/_v3u_5d=
+e12d64c8b2a84a8b499b6edaab55e55316e8f1f08a65daf196bb6a9f796e49/1574023049?m=
+id=3D37839&amp;source=3Djs-remarketing-triggered-jobseeker-candidate-extern=
+al-interest-jobs---&amp;source_board_id=3D37839&amp;auth_token=3D_v3_8e9c24=
+44f4ebf1639f8c9c720fb53d955c2dbe2bfdc8585929229e97b8fca099&amp;contact_id=
+=3D4a6df941&amp;expires=3D1571517449" style=3D"color: #0e75e2;text-decorati=
+on: underline;">unsubscribe</a>.</span>
+
+<img src=3D"https://www.ziprecruiter.com/pxl/Fc9Z84adH9_YMQqVpSrC_LU3U4CkfV=
+DVIrQwlx8HsS3pzyavHiG4h6n7s21fm--59xEW9ZRwulT8JJqGiTAuXNJ2DXySnYvmlfIBk9ftN=
+-vhoODiA4KwE_80UKsvD-D_SvvW939FHQH1eoIuwyTLGhhET_qXPQZY5Kx-05ASaCRy-XP1p6hJ=
+dNpOOaLadZXeL-BjdW-vsfFyVSzPNfRicZDnHUQWsPqJYkWHJ3Id0Bga7SY2slAwZk5mOtOICfs=
+SFwiUM4oF6Nvl7eFO1bF34y9SEsKqxvawhs0Ri-n4iftgAenTyUQjKZ3wmVsqN9Eh_9SW1Ot0Ht=
+UT0B-Gsu_jQ09eumMfl-8moSxpxyV4_B-SGIxYP-hZTarFeIeGYs7w-dClr4OlSG3KebVtg61Cs=
+qsiPk1UtvJcFC2kz0QmLg3jswxs7ZiFxyaOsJwG8aZ_JzPvke1SyIE8mlvdqv23_Q.0eb2b1a8f=
+64cd9bbfde0b691cb8da029" width=3D"1" height=3D"1" alt=3D"" />
+
+</span>
+
+</body>
+</html>
+

@@ -1,0 +1,181 @@
+Return-Path: <bounces+2129773-a1cf-hey=sarahpaz.ca@sendgrid.net>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id +AXLNphLAl19ezMAOhTp2Q
+	(envelope-from <bounces+2129773-a1cf-hey=sarahpaz.ca@sendgrid.net>)
+	for <hey@sarahpaz.ca>; Thu, 13 Jun 2019 09:11:52 -0400
+Return-path: <bounces+2129773-a1cf-hey=sarahpaz.ca@sendgrid.net>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 13 Jun 2019 09:11:52 -0400
+Received: from o2.lv1n.shared.sendgrid.net ([167.89.100.164]:25285)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounces+2129773-a1cf-hey=sarahpaz.ca@sendgrid.net>)
+	id 1hbPW9-00EA1G-9x
+	for hey@sarahpaz.ca; Thu, 13 Jun 2019 09:11:52 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:in-reply-to:references:mime-version:to:content-type:
+	content-transfer-encoding;
+	s=smtpapi; bh=AjO1yxNkSBrmIF6Un2tGctZebPAdf3/x7yehg8WkfL8=;
+	b=jFdKXcKuJbKr0dRwGofmGSEtZ5byVokItQzc3S/zm3d1A/lLq98iYTPaKiP9dfgXdCxX
+	C6Ma9+C2W7W+YR6t9wT0wJrEAlW3bY1JbSM8mYghc7YfakRTWqY6LKy6QiKVAjFSp2j6Rk
+	tAXEv3hoXF9jSwpgBd+zRewqUNZhmet3A=
+Received: by filter0011p3iad2.sendgrid.net with SMTP id filter0011p3iad2-27012-5D024B6A-3D
+        2019-06-13 13:11:06.591994486 +0000 UTC m=+764451.135772091
+Received: from IK-PC (unknown [5.149.252.21])
+	by ismtpd0020p1iad2.sendgrid.net (SG) with ESMTP id WUr3mlH_R9K_625rZeycHA
+	for <hey@sarahpaz.ca>; Thu, 13 Jun 2019 13:11:05.642 +0000 (UTC)
+Date: Thu, 13 Jun 2019 13:11:06 +0000 (UTC)
+From: Jessica Perez Liangzi IT <career@liangzi-it.com>
+Organization: Liangzi IT Inc.
+X-Priority: 3 (Normal)
+Message-ID: <569724103.20190613085403@liangzi-it.com>
+Subject: Re: Hello Sarah Paz
+In-Reply-To: <b9f71087-0f39-43f4-ae9f-dc270b189674@sarahpaz.ca>
+References: <9DF1680FC743DFCE1AE59C6B4FCE06F4D0D2515B@IK0PC> <b9f71087-0f39-43f4-ae9f-dc270b189674@sarahpaz.ca>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?3AmPxY02l8DZLMPOPfWPi3f3ps2VyMkSF0yu+j2AjzbJH1PDMRNzMEbotBcw4x?=
+ =?us-ascii?Q?Ja68pyQisFsEDJZpD+mxFbzmoSrhLgnQSPSHoK8?=
+ =?us-ascii?Q?CsrOMgb6KUVWwKbsb9GD0zs0nScs6pStGMRZeZ5?=
+ =?us-ascii?Q?bcEzDdx=2FcmHLEIQp6UpKh4ndWnAqFruQPplqgX4?=
+ =?us-ascii?Q?0df6BAZ0hYIP3C9Sc=2Ff1mH2KvUkuxeTDSyFT6Uc?=
+ =?us-ascii?Q?tdWlET0IBR6CWMv3h5b+f1NM2O1o7Aw9G6aRJy?=
+To: Sarah Paz <hey@sarahpaz.ca>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Re: Hello Sarah Paz Hi Sarah, We have 3 open vacancies for
+    the position "Remote Customer Service". So, we are looking for new employees
+    who wish to work with us. We are specialized in providing IT resources, expertise
+    and talent t [...] 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [167.89.100.164 listed in list.dnswl.org]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+<html><head><title>Re: Hello Sarah Paz</title>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<span style=3D" font-family:'courier new'; font-size: 9pt;">Hi Sarah,<br>
+<br>
+We have 3 open vacancies for the position "Remote Customer Service". So, we=
+ are looking for new employees who wish to work with us.<br>
+We are specialized in providing IT resources, expertise and talent to our c=
+ustomers in a timely and cost cost-effective manner.<br>
+<br>
+You can research more information about our company on website below: liang=
+zi-it.com<br>
+<br>
+<b>Requirements:<br>
+</b>1. Good communication skills;<br>
+2. Stress resistance, ability to find easy solutions to difficult problems;=
+<br>
+3. Organizational skills;<br>
+4. Excellent computer literacy including Microsoft Office (Outlook, Word, E=
+xcel, PowerPoint);<br>
+5. Must be willing to work extra hours when there are operational needs.<br=
+>
+6. Self-motivated - able to work under minimal supervision.<br>
+<br>
+<b>Job duties:<br>
+</b>1. Communicate with customers;<br>
+2. Create and mail correspondence to claimants, clients, and service provid=
+ers;<br>
+3. Prepare, scan and upload all mails into our system;<br>
+4. Create and mail correspondence to claimants, clients, and service provid=
+ers;<br>
+The Employee's duties may be reasonably modified at the Company's discretio=
+n from time to time.<br>
+<br>
+<b>Benefits:<br>
+</b>1. Full Training;<br>
+2. Health and Dental Insurance;<br>
+3. 25 days of holiday, plus bank holidays and your birthday off each year;<=
+br>
+4. Growing opportunities;<br>
+5. Flexible Working-hours;<br>
+6. Brand smartphone for work with internet access (iPhone or Android device=
+) You will receive a monthly premium for high-quality work.<br>
+<br>
+<b>Salary base:<br>
+</b>The Company shall pay Employee a Full-Time salary of 1340$/week, for th=
+e services of the Employee, payable at regular every Friday at 6 pm.<br>
+The Company shall pay Employee a Part-Time salary of 670$/week, for the ser=
+vices of the Employee, payable at regular every Friday at 6 pm.<br>
+<br>
+<b>Schedule:<br>
+</b>1. W=D0=BEr=D0=BAing days: Monday - Friday&nbsp;<br>
+2.1 Working hours (full time position): 9 AM - 5 PM.<br>
+2.2 If you choose position of Part Time, you need to work at least 4 hours =
+a day, it is advisable to start the morning.<br>
+<br>
+<b>NOTE:</b>&nbsp;Training will be provided before working.<br>
+<br>
+<b><u>If interested in this position, please answer to the pre-interview qu=
+estions. Kindly get back to us with your best answer to the questions for f=
+urther proceedings.<br>
+</u></b><br>
+1. Can you work remotely(From Home) effectively if you get hired ?<br>
+2. Are you currently employed? if yes, what's your current position?<br>
+3. Are you willing to work flexible or long hours?<br>
+4. Why do you feel you can greatly perform the roles of a "Remote Customer =
+Service"?<br>
+5. How would you describe your work ethics?<br>
+6. Fair enough. On a scale of 1 to 10, how would you rate your use of Ms Ex=
+cel?<br>
+7. What are your strengths and weakness and how does it affect your job per=
+formance?<br>
+8. Give 5 reasons why you feel you should be hired to work for us.<br>
+<br>
+<b>Interview:</b>&nbsp;You will get the interview at the office as soon as =
+you pass probation period or you can get interview through a video-conferen=
+ce on Skype.<br>
+<br>
+Awaiting your response for further proceedings...<br>
+<br>
+<i>Jessica Perez<br>
+HR Manager<br>
+Liangazi IT Inc.<br>
+career@liangzi-it.com<br>
+647-559-9130</i>&nbsp; &nbsp;&nbsp;&nbsp;<img src=3D"https://u2129773.ct.se=
+ndgrid.net/wf/open?upn=3DjQhle9vCs52fJYPh4-2FfwtzGu4G-2FcO202JQPuSz5ens4CZn=
+sRWKFAlQtc0UdsOAHwXFq3oc0wTApsG1-2BukU1VXs05Ubfr-2FV5lSPLqYiFCdEoWUGfI1DtEC=
+OihXA3O8uPI0xRomf5XZzjQwTgqEZOrtaSZeJwXMTX35ZwPdbQXxkoT8-2FgFxYIzPaXmz4df-2=
+Bjvuo68D7kZqz6G1HHhQrlHAF9g4gVzEuy-2FhY6JSpt-2FmGZM-3D" alt=3D"" width=3D"1=
+" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impor=
+tant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !imp=
+ortant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !im=
+portant;padding-bottom:0 !important;padding-right:0 !important;padding-left=
+:0 !important;"/></body>
+

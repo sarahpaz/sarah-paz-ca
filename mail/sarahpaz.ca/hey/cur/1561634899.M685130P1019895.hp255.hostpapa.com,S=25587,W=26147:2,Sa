@@ -1,0 +1,560 @@
+Return-Path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id yKxJKFOoFF33jw8AOhTp2Q
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Thu, 27 Jun 2019 07:28:19 -0400
+Return-path: <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Thu, 27 Jun 2019 07:28:19 -0400
+Received: from o15.sendgrid.ziprecruiter.com ([167.89.35.42]:59086)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <bounces+1349816-7111-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1hgSZb-004Wnl-Fa
+	for hey@sarahpaz.ca; Thu, 27 Jun 2019 07:28:19 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=sendgrid.ziprecruiter.com; 
+	h=mime-version:content-type:content-transfer-encoding:to:subject:from; 
+	s=smtpapi; bh=i5sqb3eUdbax9ZN7GFuRmazBfFk=; b=sldjXZB9YQQwfDi4Tk
+	EuqbevmHyQALSwF0fk6DWZ/EHAbgozevB27mAIf3XBPxBuwvtqEJLsWvXMvU6jiZ
+	mySB1SlmKjLG+BdZPEzpdp31R2w05K1nXvDVIRdXYZt4WV19plk3JVYpjdDc5tPT
+	brJ0DtJ3ckWo0UlEyeFn0pls0=
+Received: by filter1162p1las1.sendgrid.net with SMTP id filter1162p1las1-24925-5D14A826-7
+        2019-06-27 11:27:34.317327394 +0000 UTC m=+137578.730650580
+Received: from zipalerts.com (ec2-52-23-117-207.compute-1.amazonaws.com [52.23.117.207])
+	by ismtpd0036p1mdw1.sendgrid.net (SG) with ESMTP id Bgef5Mc4Sd2umnErfgJ_3A
+	for <hey@sarahpaz.ca>; Thu, 27 Jun 2019 11:27:34.185 +0000 (UTC)
+Date: Thu, 27 Jun 2019 11:27:34 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+To: hey@sarahpaz.ca
+Subject: Sarah, are you still interested in these jobs?
+From: "Team @ ZipRecruiter" <seekerteam@ziprecruiter.com>
+Message-ID: <Bgef5Mc4Sd2umnErfgJ_3A@ismtpd0036p1mdw1.sendgrid.net>
+X-SG-EID: 57TQRvqbI6Izm3yha6TYpUEHEd0mpyTP7nSn0pF7mVm3V0H7JYhzap+U0TN6BE823DAC4QJ/ebkeVg
+ VwjlIqXI5JQmq19IoEcUY49L0wKx14UUf4/iG+D6/Sahe6y8/JlHtZBI4hT78ha/YeRa8vDGNaFv/z
+ +3MpXEpUK0ML7g0YZDrLVyUsLGtD4uEJdReE9KSfxGlW2ar4T73z5D8pGNV/hRBtRdvJ1KqYG044D7
+ g=
+X-SG-ID: trnf54TTjAb91d6Ywfb3bh3BmeQCHiosUaVWK/fxndCXFMRQ7N9P5zj9ALKMP1eHm2QtlRfPc7tH5O
+ ObwHaVRigzoFjQ3lnSG5NjRubZKjeNqcZQUyqvrfSqEueMrThivY1evd/LwlIWWQ1sV8RuI1W+XcT3
+ V3gVVRSM/C5oMcH+pJZqcQAd7Xj2un5kBy0TvsniLWWcxDhkE8cr06ugK7vlPPub8fVujBwjgj4Xgs
+ LIF5KRiNnzMW/um73c45GD
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ZipRecruiter Sign In Hi Sarah, are you still interested in
+    these jobs? Apply now before the hiring company stops accepting new candidates.
+    Jobs you saved this week: Software Engineer Intern HomeStars • Toronto,
+    ON Junior Web Developer Brainrider • Toronto, ON Web Developer KYOZOU •
+    Toronto, ON Web Developer Select Employment • Scarborough, ON 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>
+  <!-- needed for mobile view -->
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1=
+"/>
+  <title>ZipRecruiter</title>
+  <!--general stylesheet-->
+  <style type=3D"text/css">
+    ul, ol {
+      padding:0px;margin:0px;
+    }
+    img {
+      outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; =
+display: block;
+    }
+    a img {
+      border: 0;
+    }
+    .emoji {
+      display: inline-block;
+    }
+    table td {
+      border-collapse:collapse;
+    }
+    a:link {
+      color: #0e75e2;
+    }
+    a:visited {
+      color: #800080;
+    }
+    a:hover {
+      color: #800080;
+    }
+    /* Normalize margins for android 4.4 native mail, and centering to adju=
+st for android 5.1 auto padding */
+    body {
+      margin:0 auto!important;
+    }
+    div[style*=3D"margin: 16px 0"] {
+      margin:0 auto!important; font-size:100% !important;
+    }
+    /* Mobile view */
+          @media screen and (min-device-width: 320px) and (max-device-width=
+: 480px),
+      screen and (-webkit-device-pixel-ratio:.75),
+      screen and (-webkit-device-pixel-ratio:1.5) {
+        body {
+                      background: #fff none;
+                  }
+        table[id=3D"featured"],
+        table[id=3D"backgroundTable"],
+        table[id=3D"containerTable"],
+        table[id=3D"promotedAboveTable"],
+        table[id=3D"promotedBelowTable"],
+        table[id=3D"resultsTable"],
+        table[id=3D"mainContainer"],
+        table[id=3D"line"],
+        table[id=3D"linePromoted"],
+        table[id=3D"editTable"],
+        table[id=3D"welcomeTable"],
+        table[id=3D"mainContent"],
+        table[id=3D"data-table"]{
+                      width: 380px !important;
+                  }
+        table[class=3D"tableFix"],
+        td[class=3D"tableFix"] {
+          width: 380px !important;
+        }
+        td[class=3D"tableFixSmall"],
+        table[class=3D"tableFixSmall"] {
+          width:350px !important;
+        }
+                  table[id=3D"header"] {
+            width: 400px !important;
+          }
+          table[id=3D"headerShort"] {
+            width: 480px !important;
+          }
+                table[id=3D"shadowTable"] {
+          display:none !important;
+        }
+        td[id=3D"bodyPadding"] {
+                    padding: 0px !important;
+                  }
+        td[id=3D"footer"] {
+                      border-top: 1px solid #dee0e1 !important;
+            padding: 10px 0 !important;
+            background: #fff none !important;
+                  }
+        td[class=3D"mainTDPhone"] {
+                      padding-left: 10px !important;
+            padding-right: 10px !important;
+                    line-height: 1.6 !important;
+        }
+        table[class=3D"dNonePhone"],
+        img[class=3D"dNonePhone"],
+        td[class=3D"dNonePhone"],
+        span[class=3D"dNonePhone"] {
+          display:none !important;
+        }
+        td[class=3D"w100pPhone"] {
+          width:100% !important;
+        }
+        td[class=3D"pSide0Phone"] {
+          padding-left:0 !important;
+          padding-right:0 !important;
+        }
+              }
+      </style>
+</head>
+<body style=3D"margin:0px;padding:0px;">
+    <table id=3D"mainContainer" width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"">
+    <tr>
+      <td align=3D"center" style=3D"padding: 25px 0 25px; background: #f6f7=
+f8 none;" id=3D"bodyPadding">
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:collapse;background-color: #ffffff;margin: 0 auto;border:1px =
+solid #d1d4d5;" id=3D"mainContent">
+          <tr>
+            <td style=3D"background-color: #ffffff;padding-top:0px; padding=
+:10px;padding-bottom:20px; ">
+                              <table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" style=3D"width:100%;border-collapse:collapse;background-color: #=
+ffffff;border-bottom:1px solid #d1d4d5" id=3D"header">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  <tr>
+                    <td valign=3D"middle" align=3D"left" width=3D"50%" styl=
+e=3D"background-color: #ffffff;padding:20px;padding-top:10px;padding-bottom=
+:10px;" id=3D"logo">
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                          <a href=3D"https://www.ziprecruiter.com/?source=
+=3Djs-remarketing-Triggered-Jobseeker-Weekly-saved-viewed-jobs---&amp;auth_=
+token=3D_v3_4fb0a609db09d372f0476315f15e18c7d55ea45a6d769f5ca7a00e36789e1c1=
+d&amp;contact_id=3D4a6df941&amp;expires=3D1561807654" target=3D"_blank" tit=
+le=3D"Sign In to ZipRecruiter"><img src=3D"https://www.ziprecruiter.com/zrs=
+/086d5dd4/img/logos/logo-ziprecruiter-280x112.png" style=3D"margin-top:5px;=
+" width=3D"140" height=3D"56" alt=3D"ZipRecruiter" border=3D"0"/></a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                          <td valign=3D"middle" align=3D"ri=
+ght" width=3D"50%" style=3D"background-color: #ffffff;padding-top:25px;padd=
+ing-right:20px;padding-bottom:25px;text-align:right;vertical-align:middle;"=
+ id=3D"signin">
+                                                  <table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" align=3D"right" style=3D"width:200px;width:1=
+00px">
+  <tr>
+    <td style=3D"color: #2f3639;font-family:Arial,sans-serif;font-size:13px=
+;text-align:center;padding:5px;width:200px;background:#f6f7f8;border-radius=
+:2em;min-height:28px;border:1px solid #d3d5d8;width:100px">
+      <a href=3D"https://www.ziprecruiter.com/candidate/alerts/?source=3Djs=
+-remarketing-Triggered-Jobseeker-Weekly-saved-viewed-jobs---&amp;auth_token=
+=3D_v3_4fb0a609db09d372f0476315f15e18c7d55ea45a6d769f5ca7a00e36789e1c1d&amp=
+;contact_id=3D4a6df941&amp;expires=3D1561807654" style=3D"white-space:nowra=
+p;border:none;text-decoration:none;text-align:center;display:block;color: #=
+2f3639;font-family:Arial,sans-serif;padding-left:15px;padding-right:15px;pa=
+dding-top:2px;padding-bottom:2px;"  target=3D"_blank">
+        Sign In      </a>
+    </td>
+  </tr>
+</table>
+                                              </td>
+                                                          </tr>
+                </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:100%=
+;background-color: #ffffff;border-collapse:collapse;max-width: 640px;" id=
+=3D"line">
+  <tr>
+    <td valign=3D"top" align=3D"center" style=3D"background-color: #ffffff;=
+font-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text=
+-align:left;
+        padding: 40px 20px
+        ">
+      <span style=3D"font-size:21px;color: #2f3639;font-weight:300;text-ali=
+gn:left;line-height:20px;">
+        Hi Sarah, are
+        you still interested in these jobs?
+        <br /><span style=3D"font-size:14px;color: #2f3639;font-weight:300;=
+text-align:left;line-height:30px;">Apply now before the hiring company stop=
+s accepting new candidates.</span>
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"background-color: #ffffff;fo=
+nt-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text-a=
+lign:left;padding-left:20px;padding-right:20px;padding-bottom: 25px;">
+              <strong style=3D"font-size:18px;font-weight:300;">Jobs you sa=
+ved this week:</strong><br />
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+  <br />
+  <a href=3D"https://www.ziprecruiter.com/clk/homestars-2e2808d3-software-e=
+ngineer-intern-bc4c67d8?clk=3DXX69y5msADLc1slSXeZnnjMRpFnM_kmORLQ2FqE7u-KIy=
+mzbFupjIiuvsRV6QbHjFayyaREXlhxwkL7ivlNByWQ_M_O4aJ1Lc0m8Ok78XjZEb8leoxfWZeJX=
+o633Ng51JcZRF22iSPk_ykWesyc-H0ZFw4ADAbvoRKGlFsMpznkSCxaJ5w_Qigw7sXA792WKbhu=
+pA99qpTATKc_JbmtkY-0IP9pyv_9-ATTacEErzPfvLdIS29m9SIXS4kLLW7mstsOoyrb90dloKQ=
+VGYxfsVMoqBDMUebJRbXclXu2t4yNMt4hPdA2_Lj5KsT2X__mjdb966LrCCGi-kgqWPAe5omR1p=
+BfPNIZMH67UflUjXKdmyQZdVB8apcJyqUv40hNkOG88eomRq6G1K3vX9I_xp4mfYXDhLaylct7I=
+fAfqQefxaCwbkHU-9yZACT6AltU_ICZd9YdEMeFv3n7nibmGLVsMA5Wt-zIsgZWKLhxyYnQQdn1=
+rQEufGsjDRoDq5ZKCHUXYsx_OFD-jvFai2Rbdswjdd3X5GwliuQmDb4ahfo7VXTm4Sq07akoGVv=
+aU6cH-7VSysE4YO4qmLK2i79jATTxLuGS5gFbkZ0QzLSevXTIWd2LaqYmJ2JEHBaNf3B5rh-SKd=
+ht9LPPy-vrWQAy4p2_IhDnyHK7b6qyCEMc_HfQ.f3bef174d518b8b3452268eff33cf8e2" st=
+yle=3D"" target=3D"_blank">
+    <span style=3D";color: #617ec0;" title=3D"Software Engineer Intern">Sof=
+tware Engineer Intern<br />
+    </span>
+          <span style=3D";line-height:1.1em;">HomeStars</span><strong style=
+=3D""> &bull; </strong>
+              <span style=3D";line-height:1.1em;">Toronto, ON      </a>
+
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+  <br />
+  <a href=3D"https://www.ziprecruiter.com/clk/brainrider-1c517de5-junior-we=
+b-developer-711feb64?clk=3DAyapAQkKEB_xP07gq2hnHbvgD8WhjrXmsbsmfyxgNbr0JFhz=
+z4bOh_O0PeiwcorCw3VRqMBv9TrhUvQKP2IL926rF1SBph9nU8im0ETIxjAKd9InKcIe9orysDv=
+K_Ba-SXz5gcLVd0T7avxM6a2yFjGZnPctGWEVM-QNl5skUV4R91VItzn6olEHABQ3ROWgFWsNUH=
+4nlH7Z2UgQ6YHJqQuQBJGCLZsyRivc2NM8hpABScMnBYnq-m4ox7TqEV_y9krmAJxfzaQgeXYc7=
+-o0jCiNP6js7NzcLKs6KifdRiuRBOxzVIELG4en_-UK4aYU73Uxqb3ROOh-e7a-f6IoZTSSbEFV=
+8pc03u3P_fdzs8US0poal5X2ibhEaZGWtoqJZdIBEcYHjKswQQEGlkrkNpVMyUjgeuio-9-87gh=
+gxlfdj7f6vYe8Iv6r9aKdffjJp0PX0pOjaFCnE3O7xrwHxSeeH-kUJjCA3ym5CRdG-Albn_SbhE=
+LwUXXE360WndzvAIs1cS5MlCGeamNDSsgpaxzNNoU8mWDkicodiuewDVCoikIegwjTz3Gj1rBoo=
+AP7KAQivNCt3jHYh0Z9k-wlEqV0XqguRDNrsNQf9SBOprzi35BORQMTbx9N8VvkgPbED1Eg1FNF=
+AobH1udvbz_g3Q.880b65c6dfbaba973e045846bc9925ed" style=3D"" target=3D"_blan=
+k">
+    <span style=3D";color: #617ec0;" title=3D"Junior Web Developer">Junior =
+Web Developer<br />
+    </span>
+          <span style=3D";line-height:1.1em;">Brainrider</span><strong styl=
+e=3D""> &bull; </strong>
+              <span style=3D";line-height:1.1em;">Toronto, ON      </a>
+
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+  <br />
+  <a href=3D"https://www.ziprecruiter.com/clk/kyozou-199fb760-web-developer=
+-24041fe0?clk=3DTt3V8nfQdbKofvoyF6NVyF7TPWPjCkGaP4ubhkvFg7NnlxOv4AdT8t_hjB4=
+peTFacwTqoopWbRyJwPrGZU3NkMpIi9puGMVHMpKlQbMqba50IJAbRwbq4EONiHzq9tX7FADNSP=
+9Zaly3ouWtnHW7hWUv9rY3EPd8PpThxSKZlqMABrArBHsz92aq1c1PlfTs93GqYLLNinXQ7X4O3=
+t7srx60M-nJKBSANGvbVjI_5m0tIbUOfGGyZPgDs3IMvYNmr19D8Rbrq9lrM1e4lZUu8KMQ4uZ-=
+8kE927UjBCtQWZTBqMfS4vBJmr1mKO-4hD6VqulQfUGlFolZX5EyEaeXQ0xSNDe85ExwO8D1VPP=
+gwnTg0qLeqk07PYRZWNX0ZouR_3O-IAqoCS9DEe22y4jbHLZBgAZz9urvRtD2kyEBlCLrkO6Otq=
+m04fVfsTwMyShlvEBduDQtCazoVYP37AkMIwy6XD2id5KF4hONtZj0esf4_u2eNNgEmBzKPrWf0=
+7j8KxuKRWWs7m3IvOW2y_TRBReXlXhy66CTsQHQ_X0IVfROxhi7Mr0aTW1lTBxoaT615TSoaWsc=
+F0eBAz0BSJ7ERBbzpmNSALmYm1XIobGCpleZsLDkMlRtpXrINF5bRBUIOE-yRgkX9rSeIlxfkmu=
+4Cw.0a5e80dc6b667ebf3d4e843bbc0b4883" style=3D"" target=3D"_blank">
+    <span style=3D";color: #617ec0;" title=3D"Web Developer">Web Developer<=
+br />
+    </span>
+          <span style=3D";line-height:1.1em;">KYOZOU</span><strong style=3D=
+""> &bull; </strong>
+              <span style=3D";line-height:1.1em;">Toronto, ON      </a>
+
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+  <br />
+  <a href=3D"https://www.ziprecruiter.com/clk/select-employment-18f61ed6-we=
+b-developer-fb804e55?clk=3DIs78PIRzxwXJDbVyvLKwW8-cGM8v9BFMrY42-uRWciu6Dd5h=
+yid5q9GEsHtS2PZC6cN5-ofRX-2_ULiljHxslkrHsZCiY5kGshHmqJaIRjZplochvQK62D1gHsz=
+jKtc-dXNkMXXcwpZtBovZsvdXmvS9Nn-kqPH6d8ONKcj7C5Kha8MZHW32h9ZEgyyTskQxYsHYAa=
+dlKFQbCDohGefr3ii7cKMKHSte2BoR7y8JudpYYKTzjCJlqg_wF5GM8opOcs34WHVFmcSd_vcEQ=
+0I0vs8nSifj1akLMIBVXA_pEQGB0xfhz2HWDT83patQAZJGzxkqe3pVUNMFjLgjbxbCb5xdNe7d=
+bQ9CEtLOi3aV32RNUipw-hJMZDTUnmD6jQFYfx3f8o-zZsYig1F5REJbKaF6LjIAku8E7B2ujID=
+y1sEZQMg_qDlZa7gXiKpZIQDw_0AedHTIku7MOvei8sgHdr4iYH95NB5weionpE2WLLOg0-onb9=
+GFPyuw-HcpiDTiG0eUBvhNMaAQSIyeJVOEzFttnkPywSZ3jDEMbXuBAK4BLaC-xeBsD9f-wsxxO=
+hHKn-TV83-LE_fEwisXTUuZ77HvUqWS7sFr3sHu7kfZD2aco0rHA_kANmR3a_qXNRTMCMakakX3=
+n9MYccHz4l7xpw.adeb2cdd1837b4402f91c4bdabe53226" style=3D"" target=3D"_blan=
+k">
+    <span style=3D";color: #617ec0;" title=3D"Web Developer">Web Developer<=
+br />
+    </span>
+          <span style=3D";line-height:1.1em;">Select Employment</span><stro=
+ng style=3D""> &bull; </strong>
+              <span style=3D";line-height:1.1em;">Scarborough, ON      </a>
+
+        <br /><br />
+                </td>
+  </tr>
+
+    <tr>
+    <td valign=3D"top" align=3D"left" style=3D"background-color: #ffffff;fo=
+nt-family:Arial,sans-serif;font-size:15px;line-height:1.4;width:100%;text-a=
+lign:center;padding-left:20px;padding-right:20px;padding-top:35px;">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cent=
+er" style=3D"width:80%;border-collapse:collapse;background-color:#ffffff;bo=
+rder-bottom:2px solid #E3E6E8;border-top:2px solid #E3E6E8;">
+        <tbody>
+          <tr>
+            <td valign=3D"middle" align=3D"left" width=3D"50%" style=3D"bac=
+kground-color:#ffffff;padding:20px;">
+              <div style=3D"margin-bottom:10px;text-align:center;">
+                <strong style=3D"font-size:19px;font-weight:500;">Hiring Ma=
+nagers prefer Candidates with References</strong>
+              </div>
+                        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" style=3D"width:200px;margin-right:auto;margin-left:=
+auto;width:180px">
+  <tr>
+    <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px;tex=
+t-align:center;padding:5px;width:200px;background:#57b228;border-radius:2em=
+;min-height:28px;border:1px solid #57b228;width:180px">
+      <a href=3D"https://www.ziprecruiter.com/clk/_lyo_PGdZUeD5NVfhf3tpakAf=
+c4JGKSWhr10ZJHte1IV59CLdu7IBvwNZ9bJCsrdaydUEEvn35attBdpQFiJh9YDwwplymGNJ6l3=
+Jo5e5doNTaCTMIElNnxOvFKck2LFffO7uTDLvZqQb06eVDa71ehBDxeYd9vUl-lz1VcyY-T-JZ5=
+BJDQKj9_2WrehdblGeLv5BK3TmQQEfXv9wogzfpobJkPPxUAvLd70X_6OqSYF3oCbMvcR32O_hG=
+ezRobEdtjul1CAoZzg7X0n2nVgBwsEPCO8-0ypX4mrO-fDhEhE_ooO7QLxskzR7IGCfCTHTv6Q6=
+WWAXxn-ApEt2Xy3BAsUA1Lk-oqaOGWpWKvMfJXMBBEXD2rY1HR__vsm0BSgjH8Rb2imZmRCLNvk=
+nj06qA.2e2a0727b0cffbd6327dff03808bb78b" style=3D"white-space:nowrap; borde=
+r:none;text-decoration:none;color:#fff;text-align:center;display:block;font=
+-weight:bold;font-family:Arial,sans-serif;padding-left:15px;padding-right:1=
+5px;padding-top:2px;padding-bottom:2px;" target=3D"_blank">Add References</=
+a>
+    </td>
+  </tr>
+</table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+=20=20
+      <tr>
+    <td valign=3D"middle" align=3D"left" style=3D"padding-left:20px;width:1=
+00%;padding-right:20px;text-align:left;font-family:Arial,sans-serif;font-si=
+ze:15px;line-height:1.4;padding-bottom:25px;">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cent=
+er" style=3D"width:100%;border-collapse:collapse;background-color:#ffffff;b=
+order-bottom:none;border-top:none;">
+        <tbody>
+          <tr>
+            <td valign=3D"middle" align=3D"left" width=3D"50%" style=3D"bac=
+kground-color:#F8F9FA;font-family:Arial,sans-serif;padding:20px;">
+                <div style=3D"margin-bottom:0px;text-align:center;">
+                  <img src=3D"https://www.ziprecruiter.com/img/app-rating.p=
+ng" alt=3D"App Rating" width=3D"131" height=3D"20" style=3D"display:block;m=
+argin-left:auto;margin-right:auto;"/>
+                  <p style=3D"color: #373C41;font-family: Arial,sans-serif;=
+font-size:14px;font-weight:600;line-height:22px;text-align:center;margin-bo=
+ttom:0px;margin-top:0px;padding-bottom:15px;padding-top:15px;">Download the=
+ <span style=3D"text-decoration:underline;">#1 rated</span> job search app =
+on iOS and Android</p>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"center" style=3D"width:200px;margin-right:auto;margin-left:auto;">
+                    <tr>
+                      <td style=3D"color:#fff;font-family:Arial,sans-serif;=
+font-size:15px;text-align:center;padding:5px;width:200px;background:#57b228=
+;border-radius:20px;-moz-border-radius:20px;-webkit-border-radius:20px;min-=
+height:28px;">
+                        <a href=3D"https://www.ziprecruiter.com/mobile-app-=
+redirect?area=3Dsaved-viewed-jobs" style=3D"white-space:nowrap; border:none=
+;text-decoration:none;color:#fff;text-align:center;display:block;font-weigh=
+t:bold;font-family:Arial,sans-serif;padding-left:15px;padding-right:15px;pa=
+dding-top:2px;padding-bottom:2px;" target=3D"_blank">
+                            <span style=3D"text-shadow: 0px 1px 0px #405f01=
+;">Get the App</span>
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+
+            </td>
+          </tr>
+        </table> <!-- /End main content -->
+      </td>
+    </tr>
+          <tr>
+  <td align=3D"center" valign=3D"top" style=3D"padding-top:10px;padding-bot=
+tom:7px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;f=
+ont-size:13px;color: #2f3639;line-height:1.4em;background:#f6f7f8">
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse;margin-right:auto;margin-left:auto;width:280px">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;pad=
+ding-right:5px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dtransactional" title=3D"Download the ZipRecruiter Mobile App for iOS" ta=
+rget=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/04e16c0f/img/D=
+ownload_on_the_App_Store_Badge_US-UK_135x40.png" alt=3D"Download in the App=
+ Store" style=3D"margin: 0 auto;display: block;max-width: 135px; height: au=
+to;" border=3D"0" width=3D"135" height=3D"auto" /></a>
+        </td>
+        <td align=3D"center" valign=3D"top" style=3D"padding-bottom:7px;">
+          <a href=3D"https://www.ziprecruiter.com/mobile-app-redirect?area=
+=3Dtransactional" title=3D"Download the ZipRecruiter Mobile App for Android=
+" target=3D"_blank"><img src=3D"https://www.ziprecruiter.com/zrs/18bdbfc6/i=
+mg/en_generic_rgb_wo_45.png" alt=3D"Download in the Play Store" style=3D"ma=
+rgin: 0 auto;display: block;max-width: 115px; height: auto;" border=3D"0" w=
+idth=3D"115" height=3D"auto" /></a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sans=
+-serif;font-size:13px;color: #2f3639;line-height:1.6;background:#f6f7f8;pad=
+ding-top:10px;">
+          Got hired? <a href=3D"https://www.ziprecruiter.com/candidate/hire=
+d-survey?source=3Djs-remarketing-Triggered-Jobseeker-Weekly-saved-viewed-jo=
+bs---&amp;auth_token=3D_v3_4fb0a609db09d372f0476315f15e18c7d55ea45a6d769f5c=
+a7a00e36789e1c1d&amp;contact_id=3D4a6df941&amp;expires=3D1561807654" style=
+=3D"color: #2f3639;" target=3D"_blank">Let us know.</a>
+        </td>
+      </tr>
+              <tr>
+          <td align=3D"center" valign=3D"top" style=3D"font-family:Arial,sa=
+ns-serif;font-size:13px;color: #2f3639;line-height:1.6;background:#f6f7f8;">
+            <a href=3D"https://www.ziprecruiter.com/candidate/notification-=
+unsubscribe-confirm/4a6df941/4fa4b4fd/_v3u_79789267a5d24d27287ceb2708e1665b=
+42eff1b956366f42cf2dd31e07405eb8/1564313254/?source=3Djs-remarketing-Trigge=
+red-Jobseeker-Weekly-saved-viewed-jobs---" style=3D"color: #2f3639;text-dec=
+oration: underline;" target=3D"_blank">Unsubscribe</a> from this email and =
+others like it.
+          </td>
+        </tr>
+=20=20=20=20=20=20
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"padding: 0 10px 35px;b=
+ackground: #f6f7f8 none;font-family:Arial,sans-serif;font-size:15px;line-he=
+ight: 1.6;color: #2f3639;font-size:13px;" id=3D"footer">
+                      ZipRecruiter, Inc. &copy; All Rights Reserved Worldwi=
+de<br />604 Arizona Ave., Santa Monica, CA 90401
+
+      	    <br />
+            <a href=3D"https://www.ziprecruiter.com/privacy?source=3Djs-rem=
+arketing-Triggered-Jobseeker-Weekly-saved-viewed-jobs---" style=3D"color: #=
+2f3639;" target=3D"_blank">Privacy Policy</a>
+                  </td>
+      </tr>
+                </table>
+=20=20=20=20
+<img src=3D"https://www.ziprecruiter.com/pxl/7pPInYr6gfpQ5cSEfIiHutrd_D_Lk0=
+ENL_C9T6Xcaae7HF-SmVA2uihZPg-D-Tl9WaOQXRhUJcTW8vm4ZjEJOQrGBMBW-9bJ_2SQ_iLKX=
+5tbMKD_OnG7DIGEofRXdCITI8EjZaYp7Ch_1jSAQAxRaeIy7B2Na2PgXyLDJauwoN7qbW22nx5b=
+ESfF-BQo_aoBl6vMzWG9eJDVTHpC3_Tblp2xt7zPp1YGuRLJq19fJs6Fg7_02mwPelJpPEnY5ku=
+d5-nsCU9jXdZSL7CT_RblFnzdpPvfYRaj_tYweo-wSsBfrQozwRxk5x9uV3L3UIZXWwKMS9CtYj=
+-3OK-TfiiLTgt9Gv-8HeJY8CVHoXPiP8_CUpjTnXUGn5OjFnuGSc98H4tntxGjgHOvttF4W1mle=
+8fAqrvYS1GYr1FVgKM350rUJJrCdErBVAcsNjLz1Shf.ea5f18d10e56f0131d2f273e76a9d07=
+3" width=3D"1" height=3D"1" alt=3D"" />
+</body>
+</html>
+

@@ -1,0 +1,401 @@
+Return-Path: <bounces+9876791-94a5-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id aEiRO6zD3Fw7RicAOhTp2Q
+	(envelope-from <bounces+9876791-94a5-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	for <hey@sarahpaz.ca>; Wed, 15 May 2019 21:58:04 -0400
+Return-path: <bounces+9876791-94a5-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Wed, 15 May 2019 21:58:05 -0400
+Received: from o9.sendgrid.ziprecruiter.com ([167.89.20.96]:12288)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+9876791-94a5-hey=sarahpaz.ca@sendgrid.ziprecruiter.com>)
+	id 1hR5el-00AoZ7-1x
+	for hey@sarahpaz.ca; Wed, 15 May 2019 21:58:04 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ziprecruiter.com;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to;
+	s=smtpapi; bh=Lh4SAE7zn6prD6fMsvwdMzMTkVgoJZrhn8C6YQ4aYfY=;
+	b=nMIv0haSh0xX1ynAnPx4shFWucOky9jedhNKZbEY5julHlPmRnPSZ0pjeWGX27I/bmXe
+	icViqPIQ159RDWRpJ9UIKMM+PEYQryaFV9bGI8eml1GMl9vWMkI0MKbobb8rgKhyTsPiyH
+	U1FdhL8okiazp/WxiHj4NxQ0SWzKOgdH8=
+Received: by filter0045p3mdw1.sendgrid.net with SMTP id filter0045p3mdw1-25450-5CDCC382-1D
+        2019-05-16 01:57:22.559353587 +0000 UTC m=+11898.923290728
+Received: from localhost (unknown [52.23.117.207])
+	by ismtpd0043p1mdw1.sendgrid.net (SG) with ESMTP id xbNakytLSn6EA6_RNaO-CA
+	for <hey@sarahpaz.ca>; Thu, 16 May 2019 01:57:22.530 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: ZipRecruiter <alerts@ziprecruiter.com>
+Subject: Welcome to the ZipRecruiter Interview Service!
+Message-ID: <acee73a2-14c2-6cef-53af-125580475c00@ziprecruiter.com>
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 16 May 2019 01:57:22 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?o88DDVKMz3okCkrZb8BXgSFTNqztBO4nuJCTNRnO4kogampcjcDr76gmgiBdND?=
+ =?us-ascii?Q?v4thNQwrKDw32jfHHaeSwjNsiVEGm7Knps6vnRT?=
+ =?us-ascii?Q?hhWudf4oUsOd9XGEkUiC6kWy1OqtDohdzlcNKps?=
+ =?us-ascii?Q?XU+hYccxLGtmv8uuec3wYWuYySnmnbVgw8+Y5Ns?=
+ =?us-ascii?Q?NTDsXzFn7v7w7HFFGyIkJRENrpZVAOoXQoAC=2FuY?=
+ =?us-ascii?Q?jaabGCcMh11br3po8=3D?=
+To: hey@sarahpaz.ca
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  ZipRecruiter Hey there, Welcome to ZipRecruiter's practice
+    interview portal. 
+ 
+ Content analysis details:   (2.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ziprecruiter.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <!-- needed for mobile view -->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=
+=3D1" />
+    <title>ZipRecruiter</title>
+    <!--general stylesheet-->
+    <style type=3D"text/css">
+        ul,
+        ol {
+            padding: 0px;
+            margin: 0px;
+        }
+
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+            display: block;
+        }
+
+        a img {
+            border: 0;
+        }
+
+        .emoji {
+            display: inline-block;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        a:link {
+            color: #057ed8;
+        }
+
+        a:visited {
+            color: #800080;
+        }
+
+        a:hover {
+            color: #800080;
+        }
+
+        /* Normalize margins for android 4.4 native mail, and centering to =
+adjust for android 5.1 auto padding */
+        body {
+            margin: 0 auto !important;
+        }
+
+        div[style*=3D"margin: 16px 0"] {
+            margin: 0 auto !important;
+            font-size: 100% !important;
+        }
+
+        /* Mobile view */
+        @media screen and (min-device-width: 320px) and (max-device-width: =
+480px),
+        screen and (-webkit-device-pixel-ratio:.75),
+        screen and (-webkit-device-pixel-ratio:1.5) {
+            body {
+                background: #fff none;
+            }
+
+            table[id=3D"featured"],
+            table[id=3D"backgroundTable"],
+            table[id=3D"containerTable"],
+            table[id=3D"promotedAboveTable"],
+            table[id=3D"promotedBelowTable"],
+            table[id=3D"resultsTable"],
+            table[id=3D"mainContainer"],
+            table[id=3D"line"],
+            table[id=3D"linePromoted"],
+            table[id=3D"editTable"],
+            table[id=3D"welcomeTable"],
+            table[id=3D"mainContent"],
+            table[id=3D"data-table"] {
+                width: 380px !important;
+            }
+
+            table[class=3D"tableFix"],
+            td[class=3D"tableFix"] {
+                width: 380px !important;
+            }
+
+            td[class=3D"tableFixSmall"],
+            table[class=3D"tableFixSmall"] {
+                width: 350px !important;
+            }
+
+            table[id=3D"header"] {
+                width: 400px !important;
+            }
+
+            table[id=3D"headerShort"] {
+                width: 480px !important;
+            }
+
+            table[id=3D"shadowTable"] {
+                display: none !important;
+            }
+
+            td[id=3D"bodyPadding"] {
+                padding: 0px !important;
+            }
+
+            td[id=3D"footer"] {
+                border-top: 1px solid #dee0e1 !important;
+                padding: 10px 0 !important;
+                background: #fff none !important;
+            }
+
+            td[class=3D"mainTDPhone"] {
+                padding-left: 10px !important;
+                padding-right: 10px !important;
+                line-height: 1.5em !important;
+            }
+
+            table[id=3D"mainContent"] {
+                -webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0) !impor=
+tant;
+                box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0) !important;
+            }
+
+            table[class=3D"dNonePhone"],
+            img[class=3D"dNonePhone"],
+            td[class=3D"dNonePhone"],
+            span[class=3D"dNonePhone"] {
+                display: none !important;
+            }
+
+            td[class=3D"w100pPhone"] {
+                width: 100% !important;
+            }
+
+            td[class=3D"pSide0Phone"] {
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"margin:0px;padding:0px;">
+<table id=3D"mainContainer" width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+    <tr>
+        <td align=3D"left" style=3D"padding: 25px 0 25px; background: #f1f3=
+f4 none;" id=3D"bodyPadding">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border-collapse:collapse;background-color: #ffffff;margin: 0 auto;borde=
+r:1px solid #d1d4d5;-webkit-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .1);b=
+ox-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .1);"
+                   id=3D"mainContent">
+                <tr>
+                    <td style=3D"background-color: #ffffff;padding-top:0px;=
+ padding:10px;padding-bottom:20px; ">
+                        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"width:100%;border-collapse:collapse;background-color: #ffff=
+ff;border-bottom:1px solid #d1d4d5"
+                               id=3D"header">
+
+
+
+                            <tr>
+                                <td valign=3D"middle" align=3D"left" width=
+=3D"50%" style=3D"background-color: #ffffff;padding:20px;padding-top:10px;p=
+adding-bottom:10px;"
+                                    id=3D"logo">
+
+
+
+                                    <a href=3D"https://u9876791.ct.sendgrid=
+.net/wf/click?upn=3DswYsOlZff3D0QzMBObc45xx7XtVCkjIyWE1gtuV2SR7Q1UGAP6PB-2B=
+oOFt3BrA9MI_jQhle9vCs52fJYPh4-2FfwtzGu4G-2FcO202JQPuSz5ens49j3crAneRxi2oxHv=
+fcqn9fTazkLsfVALzuLaJTiWfOHp9jaVqEPYBalq98yNYnpZ8Xw171KNnzpfBFS7nclGk2wm54d=
+mrovjZ1wpOlJ0DlkNlILAYHPejSlB4DIShyP8zVaq32qevnGfkK9Ip2MTZoLrEJ3QnVTuXF0soQ=
+kaOLQ-3D-3D" target=3D"_blank" title=3D"Sign In to ZipRecruiter"><img
+                                            src=3D"https://www.ziprecruiter=
+.com/zrs/086d5dd4/img/logos/logo-ziprecruiter-280x112.png"
+                                            style=3D"margin-top:5px;" width=
+=3D"140" height=3D"56" alt=3D"ZipRecruiter"
+                                            border=3D"0" /></a>
+
+
+                                </td>
+
+
+                                <td valign=3D"middle" align=3D"right" width=
+=3D"50%" style=3D"background-color: #ffffff;padding-top:25px;padding-right:=
+20px;padding-bottom:25px;text-align:right;vertical-align:middle;"
+                                    id=3D"signin">
+                                </td>
+                            </tr>
+                        </table>
+
+
+                        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"width:640px;background-color: #ffffff;border-collapse:colla=
+pse;"
+                               id=3D"line">
+                            <tr>
+                                <td width=3D"100%" valign=3D"top" align=3D"=
+left" style=3D"background-color: #ffffff;padding:30px;font-family:Arial,san=
+s-serif;font-size:15px;line-height:1.4;margin-bottom:25px;">
+                                    <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"border-collapse:collapse;font-family:Arial,sans-s=
+erif;font-size:15px;line-height:1.4;font-size:13px;color:#2f3639;">
+                                        <tr>
+                                            <td style=3D"font-family:Arial,=
+sans-serif;font-size:15px;line-height:1.4;text-align:left;">
+                                                    <span style=3D"font-wei=
+ght:300;line-height:24px;">
+                                                        Hey there,<br><br>W=
+elcome to ZipRecruiter's practice interview portal.<br/><br/><u>Important t=
+hings to remember when practicing on ZipRecruiter:</u><br/><ul><li>ZipRecru=
+iter automatically matches you with practice peers based on your background=
+, availability, and practicing needs.</li><li>Sessions are bi-directional: =
+you and your peer interview each other for 30-45 minutes each.</li><li>Prio=
+r to an interview, you'll both get the questions you'll ask each other.</li=
+><li>The questions you'll be asked won't be available to you prior to the i=
+nterview itself.</li><li>We=E2=80=99ll email you the link to join your inte=
+rview session 5 minutes before it begins. You can also join directly from y=
+our account=E2=80=99s dashboard.</li><li>You'll both provide feedback to ea=
+ch other in the end of every interview.</li><li>It=E2=80=99s 100% <u>free</=
+u> and no need to install anything.</li></ul><br/>
+                                                        <br>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"
+       style=3D"width:200px;margin-right:auto;margin-left:auto;width:250px"=
+>
+    <tr>
+        <td style=3D"color:#fff;font-family:Arial,sans-serif;font-size:15px=
+;text-align:center;padding:5px;width:200px;background:#57b228;border-radius=
+:20px;-moz-border-radius:20px;-webkit-border-radius:20px;min-height:28px;bo=
+rder:1px solid #57b228;width:250px">
+                <a href=3D"https://u9876791.ct.sendgrid.net/wf/click?upn=3D=
+swYsOlZff3D0QzMBObc45975vBryAlJpmkFZ0KwIL-2BZ7DqaH6fG0-2Bp8ilf6NHqQlwvRXvGd=
+-2BKKet7lySvX11p8xJ6LupPOrMyAsxmVDCjTd5r8j3okgBdp9Ef0Inu8fE5sB3FaUmHju5UY4v=
+hOC3bA-2FqmDmA-2F5ebZm4JVAZs1VXrB3E9K-2Be6MxmPxcjp7O-2F93C8yLKVre7TS4WHi2UK=
+mtwtzg9TCB6wpFtpKw6vrrM9PTkwsSxDDbRjUlgMn9Lbtl88WnzUOIiUiXLamMQ-2BoC8krdM6e=
+ttGATIyKaaYLw5cEF-2B4ZyO9wgrmds5byMVKTMMHwvK3b2OEV8j8mbsP1ABOntez0DROr81t3g=
+Rv9YFPIvsmh8RlgJHoi-2FjwnDxKjAumC5ITTKTMSYxc3yASArg-3D-3D_jQhle9vCs52fJYPh4=
+-2FfwtzGu4G-2FcO202JQPuSz5ens49j3crAneRxi2oxHvfcqn9SjFF0h6L98zbSJ3NbiuENV3c=
+-2F0kWni6X1eXp9lvdqbi0fuvULRHh8ZXqrgCTSaDk7CvfQ7B74nuzL5nxLofAuwhfj8zw7fM1T=
+-2BHfGPzNjSPzl-2Bva4n5aBr5NpzLo-2Bq488k4QlQIb5A4OgukdzgIx5w-3D-3D"
+               style=3D"white-space:nowrap; border:none;text-decoration:non=
+e;color:#fff;text-align:center;display:block;font-weight:bold;font-family:A=
+rial,sans-serif;padding-left:15px;padding-right:15px;padding-top:2px;paddin=
+g-bottom:2px;"
+               target=3D"_blank">Learn More</a>
+        </td>
+    </tr>
+</table>
+<br>
+                                                        Interviews take pla=
+ce in the browser, no need to install anything. <b>Please make  sure to use=
+ a modern browser on a desktop computer, and test your audio and video devi=
+ces using our <a href=3D"https://u9876791.ct.sendgrid.net/wf/click?upn=3Dsw=
+YsOlZff3D0QzMBObc45975vBryAlJpmkFZ0KwIL-2BZ7DqaH6fG0-2Bp8ilf6NHqQlwvRXvGd-2=
+BKKet7lySvX11p8xJ6LupPOrMyAsxmVDCjTd5r8j3okgBdp9Ef0Inu8fE5sB3FaUmHju5UY4vhO=
+C3bA-2FqmDmA-2F5ebZm4JVAZs1VXrB3E9K-2Be6MxmPxcjp7O-2F93C8yLKVre7TS4WHi2UKmt=
+1oTLnURCAlPBEq-2BGaaope21d24Q9NDb2buYfjx53A1a-2BfES16PNnI27LjtQlf3v2T86jaL9=
+o1XCc1lJo0FUMWTwgo9Yjx2DuzNvSqwdbQxxfu1kxPu8WccjNK-2BKoG2UFpA-2BuZ4Svc3pZhW=
+CQNRYRrTyKyNF1A59f9YxlCAQgDshHV016XhOY-2BK3sOSQmZzjpe83DRe3A80DBRLSU2bq-2BK=
+g-3D_jQhle9vCs52fJYPh4-2FfwtzGu4G-2FcO202JQPuSz5ens49j3crAneRxi2oxHvfcqn9HJ=
+EsAT0935Utx6-2BLhtjthe1XlGz5NdLDDA40zHkJOk15C2rkDkTLi4K2YekjCZnGryT1wYiece3=
+BRtQNfadSArQ7U-2FU5-2FFMdna13B8r0hNoh20yomJkLoy-2BhnfHraPUCkGBDq2zajB-2F0wD=
+5R-2FCwhIA-3D-3D">settings screen</a>.</b><br/><br/>Yours,<br/>The ZipRecru=
+iter Team<br/><br/><i style=3D"font-size: 13px; background: seashell">Did y=
+ou know? Candidates who practice interviews double their chances of landing=
+ a job!</i>
+                                                    </span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+                </tr>
+            </table> <!-- /End main content -->
+        </td>
+    </tr>
+    <tr>
+        <td valign=3D"top" align=3D"center" style=3D"padding: 5px 10px 45px=
+;background: #f1f3f4 none;font-family:Arial,sans-serif;font-size:15px;line-=
+height:1.4;color: #2f3639;font-size:13px;"
+            id=3D"footer">
+
+            <center>
+
+                604 Arizona Ave., Santa Monica, CA 90401
+                <br />
+                <a href=3D"https://u9876791.ct.sendgrid.net/wf/click?upn=3D=
+swYsOlZff3D0QzMBObc45xx7XtVCkjIyWE1gtuV2SR66aH2X2bdK41DL40WaVQ-2BeR5fsshX4f=
+lJbj0U8B0pWUAGB4weZDFMlEhNXfyIal-2BU-3D_jQhle9vCs52fJYPh4-2FfwtzGu4G-2FcO20=
+2JQPuSz5ens49j3crAneRxi2oxHvfcqn9KCv0GCengSaYBwnORvLq2ZwG4B-2BgXhf6e0Xo6cFG=
+KwCuBYOqDkEvF-2BefAEN55OumdRCvykp1eN-2B1JVe5qTm1oJcqxGjbC4EA9fbwP7gDINlkbtl=
+iSIjFpqASz5Nes-2Fg5Rzps5J2zRreICP2iEBkL9g-3D-3D" style=3D"color: #2f3639;"
+                   target=3D"_blank">Privacy Policy</a>
+            </center>
+        </td>
+    </tr>
+</table>
+<img src=3D"https://u9876791.ct.sendgrid.net/wf/open?upn=3DjQhle9vCs52fJYPh=
+4-2FfwtzGu4G-2FcO202JQPuSz5ens49j3crAneRxi2oxHvfcqn9SRyO50UNwqtAyB7ugFf7tVZ=
+azJ457BtYbMP-2BduNviCaU-2BPZx4UABer06CYDsKXqx9dxH5trzTpzidUR99SXIu1lrbaVIXN=
+-2BjcQ-2BNSf0n94tggG3AhG8RmntvHjOL7wTYZkRZMtOLjpoaEmG9GWD-2BrY-2BDmOBm-2B-2=
+Few09yYvRFoR0o-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/></body>
+
+</html>
+=

@@ -1,0 +1,876 @@
+Return-Path: <v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com>
+Delivered-To: hey@sarahpaz.ca
+Received: from hp255.hostpapa.com
+	by hp255.hostpapa.com with LMTP
+	id qJ2bIzmMSV3boi4AOhTp2Q
+	(envelope-from <v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com>)
+	for <hey@sarahpaz.ca>; Tue, 06 Aug 2019 10:18:33 -0400
+Return-path: <v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com>
+Envelope-to: hey@sarahpaz.ca
+Delivery-date: Tue, 06 Aug 2019 10:18:33 -0400
+Received: from mail8325.mooprint.mkt8924.com ([129.33.243.219]:36618)
+	by hp255.hostpapa.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com>)
+	id 1hv0IK-00D4xq-2S
+	for hey@sarahpaz.ca; Tue, 06 Aug 2019 10:18:33 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=crm.moo.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=info@crm.moo.com;
+ bh=8YU8QIr11Fh1tsp0WTFImgaxzwU=;
+ b=X4WBYbYOGoFOOynpFziHWmGWE/wq9wMcgjMx2yYiX3Y35lvrROTbTA/r6x6KpA+vGo8yC4B3d93l
+   YYiYefQ8G5HkdHnb05dE5Nwefuf8K2U9ltaCx4TmgvGiczrkb4B5KvtdqY7jfgOkjJXaoC5jo5qe
+   Nx9qsyMtolCNfIWSn9A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=crm.moo.com;
+ b=TqNqF9t30hxnLppRMyTih4Nn0lEClXgrmpZEXyd/HDrQbmXNsBOSVpGq0SjGIl0omn75Q0u5Dgyi
+   PWpAAEHnjUurXsTgwbEm3HRulE/QMN3B15bT3DB/HbOaOnool7Dn8bJAcyl1pjSg+lCSD4217z8C
+   9VpLg/3FjkS94/+W9V8=;
+Received: by mail8325.mooprint.mkt8924.com id h9663g19if4q for <hey@sarahpaz.ca>; Tue, 6 Aug 2019 14:17:50 +0000 (envelope-from <v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com>)
+Date: Tue, 6 Aug 2019 14:17:50 +0000 (GMT)
+From: MOO <info@crm.moo.com>
+Reply-To: info@crm.moo.com
+To: hey@sarahpaz.ca
+Message-ID: <200266924.368126621565101070662.JavaMail.app@tor01is-engage-pod8-rbg83.adm01.com>
+Subject: 15% off? Time to shine.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_154367_488278476.1565101051865"
+x-mid: 3843853
+X-CSA-Complaints: whitelist-complaints@eco.de
+x-rpcampaign: sp3843853
+Feedback-ID: pod8_12324_3843853_840256391:pod8_12324:ibmsilverpop
+x-job: 3843853
+x-orgId: 12324
+List-Unsubscribe: <mailto:v-dkkhan_cjchlhajlk_dcbfelih_dcbfelih_a@bounce.mooprint.mkt8924.com?subject=Unsubscribe>
+X-Spam-Status: No, score=-3.0
+X-Spam-Score: -29
+X-Spam-Bar: ---
+X-Ham-Report: Spam detection software, running on the system "hp255.hostpapa.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  MOO Save on shiny, touch-feely Business Cards like new Silver
+    Foil.   
+ Content analysis details:   (-3.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [129.33.243.219 listed in list.dnswl.org]
+ -3.0 RCVD_IN_RP_CERTIFIED   RBL: Sender in ReturnPath Certified -
+                             Contact cert-sa@returnpath.net
+                             [Return Path SenderScore Certified {formerly]
+                       [Bonded Sender} - <http://www.senderscorecertified.com>]
+ -2.0 RCVD_IN_RP_SAFE        RBL: Sender in ReturnPath Safe - Contact
+                             safe-sa@returnpath.net
+                             [Return Path SenderScore Safe List (formerly]
+                     [Habeas Safelist) - <http://www.senderscorecertified.com>]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME
+                             parts
+X-Spam-Flag: NO
+
+------=_Part_154367_488278476.1565101051865
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>
+=09<title>MOO</title>
+=09<meta charset=3D"utf-8"><meta http-equiv=3D"X-UA-Compatible" content=3D"=
+IE=3Dedge">
+=09<style type=3D"text/css">table.primary-copy table.primary-button :hover{=
+background:#F3F3F3;box-shadow:0 2px 4px 0 rgba(75,79,84,0.30);border-radius=
+:3px;transition:background 200ms}
+        table.primary-copy table.primary-button-alt :hover{background:#F3F3=
+F3;box-shadow:0 2px 4px 0 rgba(75,79,84,0.30);border-radius:3px;transition:=
+background 200ms}
+        table.two-columns table.button :hover{background: rgba(48,55,59,0.8=
+0); border-radius:3px; transition:background 200ms}
+        table.two-columns table.button td:hover a{color:#FFFFFF !important;=
+ transition:color 200ms}
+        table.two-columns table.button-alt :hover{background: rgba(48,55,59=
+,0.80); border-radius:3px; transition:background 200ms}
+        table.two-columns table.button-alt td:hover a{color:#FFFFFF !import=
+ant; transition:color 200ms}
+=09</style>
+=09<style type=3D"text/css">@font-face {
+        font-family: 'Bryant MOO Pro';
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProRegular.eot?q=3Da7b25614973421c3730b3dfe73191a77)=
+;
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProRegular.eot?q=3Da7b25614973421c3730b3dfe73191a77#=
+iefix) format('embedded-opentype'), url(http://www.moo.com/us/bower_compone=
+nts/moo-toolkit/dist/fonts/bryant/BryantMooWebProRegular.woff?q=3Da7b256149=
+73421c3730b3dfe73191a77) format('woff');
+        font-weight: 700;
+        font-style: normal;
+        font-variant: normal;
+        }
+        @font-face {
+        font-family: 'Bryant MOO Pro Medium';
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProMedium.eot?q=3Da7b25614973421c3730b3dfe73191a77);
+        src: url(http://www.moo.com/us/bower_components/moo-toolkit/dist/fo=
+nts/bryant/BryantMooWebProMedium.eot?q=3Da7b25614973421c3730b3dfe73191a77#i=
+efix) format('embedded-opentype'), url(http://www.moo.com/us/bower_componen=
+ts/moo-toolkit/dist/fonts/bryant/BryantMooWebProMedium.woff?q=3Da7b25614973=
+421c3730b3dfe73191a77) format('woff');
+        font-weight: 700;
+        font-style: normal;
+        font-variant: normal;
+        }
+a{text-decoration:none;}
+        @media all and (max-width: 650px) {
+        table.frame {
+        min-width: auto !important;
+        width: 100% !important;
+        }
+        table.secondary-frame {
+        min-width: auto !important;
+        width: 100% !important;
+        }
+        td.hide {
+        display: none !important;
+        }
+        table.nav {
+        width: 90% !important;
+        }
+        table.nav td {
+        width: 33.33333% !important;
+        padding-left:0px !important;
+        padding-right:0px !important;
+        white-space: nowrap;
+        }
+        table.alert {
+        width: 90% !important;
+        }
+        table.divider {
+        width: 90% !important;
+        }
+        table.secondary-divider {
+        width: 90% !important;
+        }
+        table.two-columns {
+        width: 90% !important;
+        }
+        table.two-columns th.top {
+        display: block;
+        width: 100% !important;
+        text-align: center;
+        }
+        table.two-columns th.middle {
+        display: none !important;
+        }
+        table.two-columns th.bottom {
+        display: block;
+        width: 100% !important;
+        padding-top: 25px !important;
+        }
+        table.two-columns img {
+        width: 100% !important;
+        max-width: 100% !important;
+        }
+        table.promise {
+        width: 100% !important;
+        }
+        table.promise table {
+        width: 90% !important;
+        }
+        table.promise img,
+        table.promise p {
+        vertical-align: middle;
+        }
+        table.footer-divider {
+        width: 90% !important;
+        }
+        table.footer-links {
+        width: 90% !important;
+        }
+        table.terms {
+        width: 90% !important;
+        }
+        table.social {
+        width: 90% !important;
+        }
+        }
+=09</style>
+</head>
+<body><span id=3D"uniqueIdForPreviewFrameScrollSpan"></span><span></span><s=
+pan id=3D"uniqueIdForPreviewFrameScrollSpan"></span><!--[if gte mso 9]>
+        <style>
+        h1,h2,h3, .button, .primary-button, h1 a, .primary-button td a, td =
+a{
+        font-family: 'Trebuchet MS', Trebuchet, 'Liberation Sans', sans-ser=
+if !important;
+        }
+        </style>
+        <![endif]-->
+<div class=3D"supersubject" style=3D"display:none;font-size:1px;line-height=
+:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;fo=
+nt-family: sans-serif;">Save on shiny, touch-feely Business Cards like new =
+Silver Foil.</div>
+<p style=3D"font-size:0px; line-height:0px;">&nbsp;</p>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"frame" role=3D"presentation" style=3D"width:650px;max-width:100%;mar=
+gin:0 auto;text-align:center;background-color:#627479;">
+=09
+=09=09<tr>
+=09=09=09<td align=3D"center">
+=09=09=09<div class=3D"spacer" style=3D"line-height:30px;height:30px;">&ems=
+p;</div>
+=09=09=09<!-- logo --><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=
+=3D15&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=
+=3D1&rt=3D0" name=3D"www_moo_com" style=3D"text-decoration:none;" ><img cla=
+ss=3D"logo"  height=3D"35"   src=3D'http://contentz.mkt8924.com/ra/2019/123=
+24/08/3843853/logox2.png' style=3D"display:block;border:none;" width=3D"112=
+"  /> </a>
+
+=09=09=09<div class=3D"spacer" style=3D"line-height:40px;height:40px;">&ems=
+p;</div>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"nav" role=3D"presentation" style=3D"width:650px;max-width:100%;margi=
+n:0 auto;text-align:center;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D337=
+&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&r=
+j=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_products_html" style=3D"font=
+-family: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;m=
+argin:0;font-weight:400;text-decoration:none;" >Products </a></td>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D280=
+&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&r=
+j=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_inspiration" style=3D"font-f=
+amily: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;mar=
+gin:0;font-weight:400;text-decoration:none;" >Inspiration </a></td>
+=09=09=09<td class=3D"hide" style=3D"padding-left:24px;padding-right:24px;f=
+ont-size:14px;line-height:20px;"><a href=3D"http://links.mooprint.mkt8924.c=
+om/ctt?kn=3D36&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2M=
+zkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_business_servi=
+ces_" style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;" >10+&nbsp=
+;Employees? </a></td>
+=09=09=09<td class=3D"hide" style=3D"padding-left:24px;padding-right:24px;f=
+ont-size:14px;line-height:20px;"><a href=3D"http://links.mooprint.mkt8924.c=
+om/ctt?kn=3D323&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2=
+MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"support_moo_com" style=3D=
+"font-family: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#fff=
+fff;margin:0;font-weight:400;text-decoration:none;" >Help&nbsp;&amp;&nbsp;F=
+AQ </a></td>
+=09=09=09<td style=3D"padding-left:24px;padding-right:24px;font-size:14px;l=
+ine-height:20px;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D361=
+&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&r=
+j=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_account" style=3D"font-famil=
+y: 'Avenir Next', Avenir, Verdana, Geneva, sans-serif;color:#ffffff;margin:=
+0;font-weight:400;text-decoration:none;" >Account </a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!-- divider with space -->
+
+<div class=3D"spacerx05" style=3D"line-height:12px;height:12px;">&emsp;</di=
+v>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"divider" r=
+ole=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 auto;text=
+-align:center;border-top:1px solid;border-color:rgb(255,255,255);border-col=
+or:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>&emsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+=20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"secondary-frame" role=3D"presentation" style=3D"margin:0 auto;text-a=
+lign:center;background-color:#62737A;width:650px;max-width:100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"primary-copy" role=3D"presentation" style=3D"margin:0 auto;=
+text-align:center;width:88%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09=09<td align=3D"center" style=3D"overflow: visible;" width=
+=3D"500">
+=09=09=09=09=09=09<h1 style=3D"margin:0;font-size:48px;line-height:50px;ove=
+rflow: visible;"><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D60&m=
+s=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"headline" style=3D"font-family:'Bryant MO=
+O Pro', 'Trebuchet MS', Trebuchet, 'Liberation Sans', sans-serif;color:#fff=
+fff;font-weight: normal;margin:0;text-decoration:none;" target=3D"_blank" >=
+Let&rsquo;s dazzle</a></h1>
+
+=09=09=09=09=09=09<div class=3D"spacer" style=3D"line-height:25px;height:25=
+px;">&emsp;</div>
+
+=09=09=09=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, =
+Geneva, sans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:n=
+one;font-size:18px;line-height:24px;">Make your Business Cards shine with a=
+ttention-grabbing special finishes like new Silver Foil. And right now they=
+&rsquo;re 15% off when you use code <b>GLITZ</b> at checkout.</p>
+=09=09=09=09=09=09<!-- primary button --></td>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"secondary-frame" role=3D"presentation" style=3D"margin:0 auto;text-a=
+lign:center;background-color:#627479;width:650px;max-width:100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"primary-copy" role=3D"presentation" style=3D"margin:0 auto;=
+text-align:center;width:88%;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09=09<td align=3D"center" style=3D"overflow: visible;" width=
+=3D"500">
+=09=09=09=09=09=09<div class=3D"spacer" style=3D"line-height:25px;height:25=
+px;">&emsp;</div>
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"primary-button" role=3D"presentation" style=3D"wid=
+th:650px;margin:0 auto;text-align:center;width:auto;max-width:90%;font-size=
+:16px;line-height:21px;background:#FFFFFF;box-shadow:0 2px 2px 0 rgb(48,55,=
+59);box-shadow:0 2px 2px 0 rgba(48,55,59,0.25);border-radius:3px;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px;"><a href=3D"http=
+://links.mooprint.mkt8924.com/ctt?kn=3D261&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OT=
+Y2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=
+=3D"cta" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet MS', Treb=
+uchet, 'Liberation Sans', sans-serif;color:#30373B;margin:0;font-weight:400=
+;text-decoration:none; box-shadow: none;" target=3D"_blank" >Shop now</a></=
+td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09<div class=3D"spacer" style=3D"line-height:25px;height:25=
+px;">&emsp;</div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td>&nbsp;&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!-- primary image --><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=
+=3D144&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=
+=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"image" style=3D"text-decoration:no=
+ne;" target=3D"_blank" ><img class=3D"primary-image"    src=3D'http://conte=
+ntz.mkt8924.com/ra/2019/12324/08/3843853/CRB-6661-Special-Finishes-Email-65=
+0px-UK-15_v2.jpg' style=3D"display: block; border: none; max-width: 100%;" =
+width=3D"650"  /> </a>=20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"secondary-frame" role=3D"presentation" style=3D"width:100%;max-width=
+:650px;margin:0 auto;text-align:center;background-color:#627479;width:650px=
+;max-width:100%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:25px;height:25px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"d=
+ivider" role=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 =
+auto;text-align:center;border-top:1px solid;border-color:rgb(255,255,255);b=
+order-color:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&emsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!-- two columns left-to-right -->
+
+=09=09=09<div data-content-region-name=3D"bc-section">
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"two-columns" role=3D"presentation" style=3D"width:100%;max-=
+width:650px;margin:0 auto;text-align:center;width:90%;max-width:590px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th class=3D"top" style=3D"width:286px;"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D207&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"news_moo_com_pub_cc__ri__X0Gzc" style=3D"text-decoration:none;" target=3D"=
+_blank" ><img    src=3D'http://contentz.mkt8924.com/ra/2019/12324/08/384385=
+3/CRB-6661-Special-Finishes-Email-Modules-1-EN.jpg_1.jpe' style=3D"display:=
+block;border:none;width: 100%; max-width: 286px;" width=3D"572"  /> </a></t=
+h>
+=09=09=09=09=09=09<th class=3D"middle" style=3D"width:18px;">&emsp;</th>
+=09=09=09=09=09=09<th align=3D"left" class=3D"bottom" style=3D"width:286px;=
+text-align: left;" valign=3D"top">
+=09=09=09=09=09=09<h3 style=3D"font-family:'Bryant MOO Pro', 'Trebuchet MS'=
+, Trebuchet, 'Liberation Sans', sans-serif;color:#ffffff;margin:0;font-weig=
+ht:400;text-decoration:none;font-size:18px;line-height:24px;color:#ffffff;"=
+>Shine with silver</h3>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<p style=3D"font-family: Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-size:1=
+5px;line-height:21px;color:#ffffff;">Wow with shiny new Silver Foil Busines=
+s Cards. They&rsquo;re the freshest way to shine.</p>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"button-alt" style=3D"margin:0 auto;text-align:center=
+;width:auto;max-width:90%;border-radius:3px;font-size:16px;line-height:21px=
+; background: rgb(0,0,0); background: rgba(0,0,0,0.15); border: 1px solid r=
+gb(255,255,255); border: 1px solid rgba(255,255,255,0.50); background-size:=
+cover;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D114&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet MS',=
+ Trebuchet, 'Liberation Sans', sans-serif;margin:0;font-weight:400;text-dec=
+oration:none;color:#FFFFFF; box-shadow: none;" >Shop Silver Foil </a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!-- divider with space -->
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:25px;height:25px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"d=
+ivider" role=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 =
+auto;text-align:center;border-top:1px solid;border-color:rgb(255,255,255);b=
+order-color:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&emsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!-- two columns left-to-right -->
+
+=09=09=09<div data-content-region-name=3D"sticker-section">
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"two-columns" dir=3D"rtl" role=3D"presentation" style=3D"wid=
+th:100%;max-width:650px;margin:0 auto;text-align:center;width:90%;max-width=
+:590px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th class=3D"top" style=3D"width:286px;"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D187&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com_products_tailored_" style=3D"text-decoration:none;" target=3D"=
+_blank" ><img    src=3D'http://contentz.mkt8924.com/ra/2019/12324/08/384385=
+3/CRB-6661-Special-Finishes-Email-Modules-2.jpg_5.jpe' style=3D"display:blo=
+ck;border:none;width: 100%; max-width: 286px;" width=3D"572"  /> </a></th>
+=09=09=09=09=09=09<th class=3D"middle" style=3D"width:18px;">&emsp;</th>
+=09=09=09=09=09=09<th align=3D"left" class=3D"bottom" dir=3D"ltr" style=3D"=
+width:286px;text-align: left;" valign=3D"top">
+=09=09=09=09=09=09<h3 style=3D"font-family:'Bryant MOO Pro', 'Trebuchet MS'=
+, Trebuchet, 'Liberation Sans', sans-serif;color:#ffffff;margin:0;font-weig=
+ht:400;text-decoration:none;font-size:18px;line-height:24px;color:#ffffff;"=
+>Gold Foil it</h3>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<p style=3D"font-family: Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-size:1=
+5px;line-height:21px;color:#ffffff;">Add some bling with this gilded specia=
+l finish. You can go subtle... or go all-out.</p>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"button-alt" style=3D"margin:0 auto;text-align:center=
+;width:auto;max-width:90%;border-radius:3px;font-size:16px;line-height:21px=
+; background: rgb(0,0,0); background: rgba(0,0,0,0.15); border: 1px solid r=
+gb(255,255,255); border: 1px solid rgba(255,255,255,0.50); background-size:=
+cover;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D410&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com_1" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet MS=
+', Trebuchet, 'Liberation Sans', sans-serif;margin:0;font-weight:400;text-d=
+ecoration:none;color:#FFFFFF; box-shadow: none;" >Shop Gold Foil </a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:25px;height:25px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"d=
+ivider" role=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 =
+auto;text-align:center;border-top:1px solid;border-color:rgb(255,255,255);b=
+order-color:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&emsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!-- two columns left-to-right -->
+
+=09=09=09<div data-content-region-name=3D"bc-section">
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"two-columns" role=3D"presentation" style=3D"width:100%;max-=
+width:650px;margin:0 auto;text-align:center;width:90%;max-width:590px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th class=3D"top" style=3D"width:286px;"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D257&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"news_moo_com_pub_cc__ri___1" style=3D"text-decoration:none;" target=3D"_bl=
+ank" ><img    src=3D'http://contentz.mkt8924.com/ra/2019/12324/08/3843853/C=
+RB-6661-Special-Finishes-Email-Modules-3.jpg_5.jpe' style=3D"display:block;=
+border:none;width: 100%; max-width: 286px;" width=3D"572"  /> </a></th>
+=09=09=09=09=09=09<th class=3D"middle" style=3D"width:18px;">&emsp;</th>
+=09=09=09=09=09=09<th align=3D"left" class=3D"bottom" style=3D"width:286px;=
+text-align: left;" valign=3D"top">
+=09=09=09=09=09=09<h3 style=3D"font-family:'Bryant MOO Pro', 'Trebuchet MS'=
+, Trebuchet, 'Liberation Sans', sans-serif;color:#ffffff;margin:0;font-weig=
+ht:400;text-decoration:none;font-size:18px;line-height:24px;color:#ffffff;"=
+>Feel that shine</h3>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<p style=3D"font-family: Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-size:1=
+5px;line-height:21px;color:#ffffff;">Want transparent shine that&rsquo;s so=
+ thick you can feel it? Give Raised Spot Gloss a go.</p>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"button-alt" style=3D"margin:0 auto;text-align:center=
+;width:auto;max-width:90%;border-radius:3px;font-size:16px;line-height:21px=
+; background: rgb(0,0,0); background: rgba(0,0,0,0.15); border: 1px solid r=
+gb(255,255,255); border: 1px solid rgba(255,255,255,0.50); background-size:=
+cover;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D412&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com_2" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet MS=
+', Trebuchet, 'Liberation Sans', sans-serif;margin:0;font-weight:400;text-d=
+ecoration:none;color:#FFFFFF; box-shadow: none;" >Shop Raised Spot Gloss</a=
+></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09<!-- divider with space -->
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:25px;height:25px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"d=
+ivider" role=3D"presentation" style=3D"width:650px;max-width:100%;margin:0 =
+auto;text-align:center;border-top:1px solid;border-color:rgb(255,255,255);b=
+order-color:rgba(255,255,255,0.3); width:590px;height: 25px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&emsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!-- two columns left-to-right -->
+
+=09=09=09<div data-content-region-name=3D"sticker-section">
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"two-columns" dir=3D"rtl" role=3D"presentation" style=3D"wid=
+th:100%;max-width:650px;margin:0 auto;text-align:center;width:90%;max-width=
+:590px;">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<th class=3D"top" style=3D"width:286px;"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D255&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com_products_tail_1" style=3D"text-decoration:none;" target=3D"_bl=
+ank" ><img    src=3D'http://contentz.mkt8924.com/ra/2019/12324/08/3843853/C=
+RB-6661-Special-Finishes-Email-Modules-4.jpg_5.jpe' style=3D"display:block;=
+border:none;width: 100%; max-width: 286px;" width=3D"572"  /> </a></th>
+=09=09=09=09=09=09<th class=3D"middle" style=3D"width:18px;">&emsp;</th>
+=09=09=09=09=09=09<th align=3D"left" class=3D"bottom" dir=3D"ltr" style=3D"=
+width:286px;text-align: left;" valign=3D"top">
+=09=09=09=09=09=09<h3 style=3D"font-family:'Bryant MOO Pro', 'Trebuchet MS'=
+, Trebuchet, 'Liberation Sans', sans-serif;color:#ffffff;margin:0;font-weig=
+ht:400;text-decoration:none;font-size:18px;line-height:24px;color:#ffffff;"=
+>Make it sparkle</h3>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<p style=3D"font-family: Avenir, Verdana, Geneva, sans-se=
+rif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-size:1=
+5px;line-height:21px;color:#ffffff;">Reflect the light and attract the eyes=
+ with Spot Gloss. For dazzling Business Cards.</p>
+
+=09=09=09=09=09=09<div class=3D"spacerx05" style=3D"line-height:12px;height=
+:12px;">&emsp;</div>
+
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"button-alt" style=3D"margin:0 auto;text-align:center=
+;width:auto;max-width:90%;border-radius:3px;font-size:16px;line-height:21px=
+; background: rgb(0,0,0); background: rgba(0,0,0,0.15); border: 1px solid r=
+gb(255,255,255); border: 1px solid rgba(255,255,255,0.50); background-size:=
+cover;">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"padding:12px 24px"><a href=3D"http:=
+//links.mooprint.mkt8924.com/ctt?kn=3D308&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY=
+2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D=
+"www_moo_com_1_1" style=3D"font-family:'Bryant MOO Pro Medium', 'Trebuchet =
+MS', Trebuchet, 'Liberation Sans', sans-serif;margin:0;font-weight:400;text=
+-decoration:none;color:#FFFFFF; box-shadow: none;" >Shop Spot Gloss</a></td=
+>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</th>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:25px;height:25px;">&=
+emsp;</div>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!-- two columns left-to-right --></td>
+=09=09</tr>
+=09
+</table>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"frame" role=3D"presentation" style=3D"margin:0 auto;text-align:cente=
+r;width:650px;max-width:100%;">
+=09
+=09=09<tr>
+=09=09=09<td align=3D"center">
+<div class=3D"spacer" style=3D"line-height:25px;height:25px;">&emsp;</div>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"social" style=3D"margin:0 auto;text-align:center;width:385px;max-wid=
+th:90%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D289&ms=
+=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_twitter_com_moo" style=3D"text-decora=
+tion:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt8924.=
+com/ra/2019/12324/08/3843853/twitter.png_3.png' style=3D"display:block;bord=
+er:none;margin:0;vertical-align:top;display:inline-block !important;" width=
+=3D"37"  /> </a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D332&ms=
+=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_instagram_com_moo" style=3D"text-deco=
+ration:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt892=
+4.com/ra/2019/12324/08/3843853/instagram.png_3.png' style=3D"display:block;=
+border:none;margin:0;vertical-align:top;display:inline-block !important;" w=
+idth=3D"37"  /></a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D294&ms=
+=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_pinterest_com_moo" style=3D"text-deco=
+ration:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt892=
+4.com/ra/2019/12324/08/3843853/pinterest.png_3.png' style=3D"display:block;=
+border:none;margin:0;vertical-align:top;display:inline-block !important;" w=
+idth=3D"37"  /></a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D281&ms=
+=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_facebook_com_moo" style=3D"text-decor=
+ation:none;" ><img alt=3D""  height=3D"37"   src=3D'http://contentz.mkt8924=
+.com/ra/2019/12324/08/3843853/facebook.png_3.png' style=3D"display:block;bo=
+rder:none;margin:0;vertical-align:top;display:inline-block !important;" wid=
+th=3D"37"  /> </a></td>
+=09=09=09<td><a href=3D"http://links.mooprint.mkt8924.com/ctt?kn=3D185&ms=
+=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2MzkxS0&mt=3D2&rj=
+=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_linkedin_com_company_moo_c" style=3D"=
+text-decoration:none;" ><img alt=3D""  height=3D"37"   src=3D'http://conten=
+tz.mkt8924.com/ra/2019/12324/08/3843853/linkedin.png_3.png' style=3D"displa=
+y:block;border:none;margin:0;vertical-align:top;display:inline-block !impor=
+tant;" width=3D"37"  /></a></td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:26px;height:26px;">&=
+emsp;</div>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"footer-links" style=3D"margin:0 auto;text-align:center; width:590px;=
+max-width:90%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:21px;color:#757578;"><a href=3D"https://www.moo.com/u=
+nsubscribe.php?q=3D796e280a-27a2-4d73-925c-b0b8b731d963" name=3D"unsubscrib=
+e" style=3D"text-decoration:none;color:#017449;" target=3D"_blank" >Unsubsc=
+ribe</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt8924.=
+com/servlet/MailView?ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&j=3DODQwMjU2M=
+zkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"view_online" style=3D"text=
+-decoration:none;color:#017449;" target=3D"_blank" xt=3D"SPCLICKTOVIEW">Vie=
+w online</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt=
+8924.com/ctt?kn=3D290&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DOD=
+QwMjU2MzkxS0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_about_p=
+rivacy_poli" style=3D"text-decoration:none;color:#017449;" >Privacy policy<=
+/a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href=3D"http://links.mooprint.mkt8924.com/c=
+tt?kn=3D390&ms=3DMzg0Mzg1MwS2&r=3DMTc2NzU5OTY2MTM4S0&b=3D0&j=3DODQwMjU2Mzkx=
+S0&mt=3D2&rj=3DODQwMjU2MzkxS0&rt=3D0" name=3D"www_moo_com_refer_html" style=
+=3D"text-decoration:none;color:#017449;" >Refer&nbsp;a&nbsp;friend</a></p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+=20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"terms" style=3D"margin:0 auto;text-align:center; width:590px;max-wid=
+th:90%;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:18px;color:#757578;"><br />
+=09=09=09Offer valid until August 13, 2019 at 11:59 PM. Discount is applied=
+ on Silver Foil, Gold Foil, Raised Spot Gloss and Spot Gloss Business Cards=
+ only. Use code GLITZ at checkout. Offer valid for one-time use and cannot =
+be combined with other discounts. Offer not valid for MOO Business Services=
+ customers.</p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+ <!-- divider with space -->
+
+=09=09=09<div class=3D"spacerx05" style=3D"line-height:26px;height:26px;">&=
+emsp;</div>
+
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"f=
+ooter-divider" role=3D"presentation" style=3D"max-width:100%;margin:0 auto;=
+text-align:center;border-top:1px solid #f1f1f1;width:590px;height: 10px;">
+=09=09=09=09
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09</table>
+=09=09=09
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"address" style=3D"margin:0 auto;text-align:center;max-width:90%;vert=
+ical-align:middle !important;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td style=3D"vertical-align: top;"><img alt=3D""  height=3D"21"   =
+src=3D'http://contentz.mkt8924.com/ra/2019/12324/08/3843853/logo_moo_mark4.=
+png' style=3D"display:block;border:none;" width=3D"14"  /></td>
+=09=09=09<td width=3D"10">&emsp;</td>
+=09=09=09<td>
+=09=09=09<p style=3D"font-family: 'Avenir Next', Avenir, Verdana, Geneva, s=
+ans-serif;color:#ffffff;margin:0;font-weight:400;text-decoration:none;font-=
+size:12px;line-height:21px;color:#757578;text-align:center;">&copy; MOO Pri=
+nt Limited. 2nd Floor, 20 Farringdon Road, London, EC1M 3AF.<br />
+=09=09=09Company Number: 5121723</p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</td>
+=09=09</tr>
+=09
+</table>
+
+
+<img alt=3D"" src=3D"https://t.myvisualiq.net/impression_pixel?r=3D20190806=
+&et=3Di&ago=3D212&ao=3D835&aca=3D-11&si=3D-11&ci=3D-11&pi=3D-11&ad=3D-11&ad=
+vt=3D-11&chnl=3D-11&vndr=3D1371&sz=3D6145&u=3Dutm_source=3Dibm&#124;utm_med=
+ium=3Demail&#124;utm_campaign=3Dpromo-20190806-specialfinishes_promo-launch=
+-engaged-15_pcnt_prd_n-us_ca-spfinbc&#124;utm_content=3D%%LINK_NAME%%&pt=3D=
+i" /><img src=3D"https://t.myvisualiq.net/impression_pixel?r=3D20190806&et=
+=3Di&ago=3D212&ao=3D835&aca=3D-19&si=3D-19&ci=3D-19&pi=3D-19&ad=3D-19&advt=
+=3D-19&chnl=3D-19&vndr=3D1446&sz=3D6055&u=3DEid_796e280a-27a2-4d73-925c-b0b=
+8b731d963&pt=3Di">
+
+
+
+<div class=3D"spacerx05" style=3D"line-height:12px;height:12px;">&emsp;</di=
+v>
+<style data-ignore-inlining=3D"" type=3D"text/css">@media print{ #_t { back=
+ground-image: url('https://iatezssp.emltrk.com/iatezssp?p&d=3Dhey@sarahpaz.=
+ca');}} div.OutlookMessageHeader {background-image:url('https://iatezssp.em=
+ltrk.com/iatezssp?f&d=3Dhey@sarahpaz.ca')} table.moz-email-headers-table {b=
+ackground-image:url('https://iatezssp.emltrk.com/iatezssp?f&d=3Dhey@sarahpa=
+z.ca')} blockquote #_t {background-image:url('https://iatezssp.emltrk.com/i=
+atezssp?f&d=3Dhey@sarahpaz.ca')} #MailContainerBody #_t {background-image:u=
+rl('https://iatezssp.emltrk.com/iatezssp?f&d=3Dhey@sarahpaz.ca')}
+</style>
+<div id=3D"_t">&nbsp;</div>
+<img border=3D"0" height=3D"1"  src=3D"https://iatezssp.emltrk.com/iatezssp=
+?d=3Dhey@sarahpaz.ca" width=3D"1" /><IMG src=3D"http://links.mooprint.mkt89=
+24.com/open/log/3843853/MTc2NzU5OTY2MTM4S0/0/ODQwMjU2MzkxS0/1/0"></body>
+</html>
+
+
+
+------=_Part_154367_488278476.1565101051865--
+
