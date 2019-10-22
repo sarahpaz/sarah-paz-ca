@@ -21,9 +21,8 @@ main {
 }
 
 .wrapper {
-  align-content: center;
   background: #d9d9d9;
-  padding: 2em;
+  padding: 1.3em 0;
   max-width: 500px;
   margin: auto;
   border-radius: 3px;
