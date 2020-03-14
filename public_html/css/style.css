@@ -7,89 +7,109 @@
 }
 
 body {
-  font-family: "Lato", sans-serif;
   background: #fafafa;
   text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+ul {
+  list-style: none;
+  padding: 0;
 }
 
-main {
+li {
+  display: inline;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 3.7rem;
+}
+
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
   height: 100vh;
 }
 
-.wrapper {
-  background: #d9d9d9;
-  padding: 1em;
-  max-width: 500px;
-  margin: 0 1.2em;
-  border-radius: 3px;
-}
-
-div.title h1 {
-  font-family: "Oswald", sans-serif;
-  color: #fff;
-  width: 100%;
-  float: left;
-  font-size: 3em;
-  margin: 10px auto;
-  text-transform: uppercase;
-}
-
-div.title h2 {
-  color: #8c52ff;
-  text-transform: uppercase;
-  font-size: 1.2em;
-  margin: 20px auto;
-}
-
-.title img {
-  height: 170px;
-  border-radius: 50%;
-  border: 1px solid #fff;
-}
-
-.about {
-  max-width: 330px;
+.square {
+  height: 20px;
+  background-color: rgb(153, 0, 255);
+  width: 325px;
   margin: auto;
+  opacity: 0.9;
+  transition: background-color 0.5s ease;
 }
 
-.about p {
-  line-height: 22px;
+.square:hover {
+  background: -webkit-linear-gradient(
+    left,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  ); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(
+    right,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  ); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(
+    right,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  ); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(
+    to right,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  ); /* Standard syntax (must be last) */
+}
+
+.contact {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  margin: 0 5px;
+  font-weight: 500;
   font-size: 0.9em;
 }
 
-.contact-info {
-  margin-top: 20px;
+a:hover {
+  color: rgb(153, 0, 255);
 }
-.fab {
-  font-family: "Font Awesome 5 Brands";
-  font-size: 35px;
-  margin: 0px 5px;
-  color: #8c52ff;
+.links li {
+  position: relative;
+	display: inline-block;
+	transition: transform .3s
 }
-
-.social-links {
-  padding: 1em;
-}
-
-a.contact {
-  color: #8c52ff;
+.links li a {
+  position: relative;
   text-decoration: none;
 }
 
-a.contact:hover {
-  background-color: #fff;
-  border-bottom: 1px solid #8c52ff;
+.links > li:hover {
+  /* -webkit-transform:rotate(5deg);
+	-moz-transform:rotate(5deg);
+	-o-transform:rotate(5deg); */
+  transform: rotate(10deg);
 }
 
-.fab:hover {
-  color: #fff;
-  text-decoration: none;
-}
-
-.copyright {
-  font-size: 0.8em;
-}
