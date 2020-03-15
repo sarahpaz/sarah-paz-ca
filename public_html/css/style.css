@@ -11,6 +11,7 @@ body {
   text-align: center;
   font-family: "Raleway", sans-serif;
 }
+
 ul {
   list-style: none;
   padding: 0;
@@ -78,7 +79,7 @@ h1 {
     cyan,
     blue,
     violet
-  ); 
+  );
 }
 
 .contact {
@@ -96,32 +97,35 @@ a {
 a:hover {
   color: rgb(153, 0, 255);
 }
+
 .links li {
   position: relative;
-	display: inline-block;
-	transition: transform .3s
+  display: inline-block;
+  transition: transform 0.3s;
 }
+
 .links li a {
   position: relative;
   text-decoration: none;
 }
 
 .links > li:hover {
-  -webkit-transform:rotate(10deg);
-	-moz-transform:rotate(10deg);
-	-o-transform:rotate(10deg);
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
   transform: rotate(10deg);
 }
 
 .hire-me:hover {
-	background: yellow;
-	color: rgb(153, 0, 255);
-	cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 15px;"><text y="15">😍</text></svg>'), auto;
+  background: yellow;
+  color: rgb(153, 0, 255);
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 15px;"><text y="15">😍</text></svg>'),
+    auto;
 }
 
 footer {
-	font-size: .8em;
-	position: absolute;
+  font-size: 0.8em;
+  position: absolute;
   bottom: 0;
-	height: 2.5rem;  
+  height: 2.5rem;
 }
